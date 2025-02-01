@@ -1,6 +1,6 @@
 ---
 title: Compound of 10 Triangular Prisms
-share-description: "One of the most frustrating models" George Hart ever made.
+share-description: One of the most frustrating models George Hart ever made
 
 image: https://joris1724.github.io/vzome-sharing/2025/02/01/15-49-27-Compound-of-10-Triangular-Prisms/Compound-of-10-Triangular-Prisms.png
 layout: design
