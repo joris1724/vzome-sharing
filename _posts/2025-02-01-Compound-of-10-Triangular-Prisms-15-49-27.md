@@ -12,8 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-	&quot;One of the most frustrating models	&quot; <A ref="https://georgehart.com/zomebook/ten-prisms.html">George Hart</A> ever made.
-
+	
 <figure style="width: 87%; margin: 5%">
   
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
