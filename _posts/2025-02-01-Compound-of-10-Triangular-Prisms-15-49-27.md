@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-A 3D design created in vZome.  Use your mouse or touch to interact.
+	&quot;One of the most frustrating models	&quot; <A ref="https://georgehart.com/zomebook/ten-prisms.html">George Hart</A> ever made.
 
 <figure style="width: 87%; margin: 5%">
   
