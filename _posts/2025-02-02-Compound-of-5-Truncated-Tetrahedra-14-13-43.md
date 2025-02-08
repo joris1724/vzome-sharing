@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-A model proposed by George Hart more than 20 years ago. Follow these steps to physically build this compound, without dexterity issues.
+A model proposed by <a href="https://georgehart.com/zomebook/compounds.html">George Hart</a> more than 20 years ago. 
 
 <figure style="width: 87%; margin: 5%">
   
