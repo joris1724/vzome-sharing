@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-A classic from the Zome Geometry book. An elaborate scaffolding ensures both hands free during the building process.
+A classic from the <a href="https://georgehart.com/zomebook/additions.html">Zome Geometry</a> book. An elaborate scaffolding ensures both hands free during the building process.
 
 <figure style="width: 87%; margin: 5%">
   
