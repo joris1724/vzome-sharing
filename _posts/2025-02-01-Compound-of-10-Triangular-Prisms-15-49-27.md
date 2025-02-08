@@ -19,7 +19,7 @@ Next build ten extended prisms, one at a time. An extended prism consist of tria
 <p>
 Next, remove the truncated dodecahedron. Probably the truncated dodecahedron will be broken at some point(s), due to increasing tension, after insertion of the penultimate and last extended prisms. No worries, by then the structure is stable enough by itself. Finally, remove the bases and y1 struts of the extended prisms
 <p>
-The model must be build at this scale. Even now, citing George, there is a slight amount of free play that allows the prisms to slide loosely in and out. George was right: it is very satisfying when you finally complete the model. It took me more than 20 years after my first attempt. Without the vZome model, I would have not succeeded.
+The model must be build at this scale. Even now, citing George, there is a slight amount of free play that allows the prisms to slide loosely in and out. George was right: it is very satisfying when you finally complete the model. It took me more than 20 years after my first attempt. Without the vZome model, I would not have retried and succeeded.
 	
 <figure style="width: 87%; margin: 5%">
   
