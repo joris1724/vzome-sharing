@@ -1,6 +1,6 @@
 ---
 title: Small Stellated Hecatonicosachoron
-description: This polytope is also called the 1th stellation of the hecatonicosachoron. It is the 4D analog of the small stellated dodecahedron, which is the 1th stellation of the dodecahedron in 3D. Both are constructed by simply extending the edges (Nan Ma).  Use your mouse or touch to interact.
+description: Also called the 1th stellation of the hecatonicosachoron. It is the 4D analog of the small stellated dodecahedron, which is the 1th stellation of the dodecahedron in 3D.
 image: https://joris1724.github.io/vzome-sharing/2025/02/04/14-26-00-Small-Stellated-Hecatonicosachoron/Small-Stellated-Hecatonicosachoron.png
 published: true
 layout: vzome
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-This polytope is also called the 1th stellation of the hecatonicosachoron. It is the 4D analog of the small stellated dodecahedron, which is the 1th stellation of the dodecahedron in 3D. Both are constructed by simply extending the edges (Nan Ma).  Use your mouse or touch to interact.
+This polytope is also called the 1th stellation of the hecatonicosachoron. It is the 4D analog of the small stellated dodecahedron, which is the 1th stellation of the dodecahedron in 3D. Both are constructed by simply extending the edges (<a href="https://www.nan.ma/star/#/polytope_52_5_3">Nan Ma</a>).
 
 <figure style="width: 87%; margin: 5%">
   
