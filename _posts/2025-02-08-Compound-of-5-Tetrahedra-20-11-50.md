@@ -22,7 +22,7 @@ A classic from the <a href="https://georgehart.com/zomebook/additions.html">Zome
         src="https://joris1724.github.io/vzome-sharing/2025/02/08/20-11-50-Compound-of-5-Tetrahedra/Compound-of-5-Tetrahedra.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Compound of 5 Tetrahedra
+    Compound of 5 Tetrahedra using bg1 struts
   </figcaption>
 </figure>
 
