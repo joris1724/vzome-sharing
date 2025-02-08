@@ -1,6 +1,6 @@
 ---
 title: Compound of 6 Pentagonal Prisms
-description: Another "even trickier" model George Hart proposed in 2001. Following these steps, no dexterity is needed. The more prisms are already present, the more attention is needed to correctly weave new edges in between existing ones.
+description: Another "even trickier" model George Hart proposed in 2001. Following these steps, no dexterity is needed.
 image: https://joris1724.github.io/vzome-sharing/2025/02/02/12-44-18-Compound-of-6-Pentagonal-Prisms/Compound-of-6-Pentagonal-Prisms.png
 published: true
 layout: vzome
