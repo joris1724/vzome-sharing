@@ -12,7 +12,9 @@ layout: vzome
  
 {% endcomment %}
 
-A nice and large chiral stellation, with the original rhombic triacontahedron as central support.
+<a href="https://www.researchgate.net/publication/265206552_Stellations_of_the_Rhombic_Triacontahedron_and_Beyond">Peter W.Messer</a> identified the names and facial patters of all 226 <i>fully supported</i> stellations of the Rhombic Triacontahedron. The chiral XZ<sup>R</sup>, also known as V<sub>s</sub>XZ<sub>r</sub>, is one of the niciest and largest ones. 
+<p>
+In this model, the original rhombic triacontahedron act as a central kernel. The stellation and kernel are interconnected by the edges of a small stellated dodecahedron, which ensures the stability of the model.
 
 <figure style="width: 87%; margin: 5%">
   
