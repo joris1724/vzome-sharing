@@ -1,6 +1,6 @@
 ---
 title: Compound of 5 Tetrahedra
-description: A classic from the Zome Geometry book. An elaborate scaffolding ensures both hands free during the building process.
+description: A classic from the Zome Geometry book. An elaborate scaffolding ensures that both hands are free during the building process.
 image: https://joris1724.github.io/vzome-sharing/2025/02/04/09-45-48-Compound-of-5-Tetrahedra/Compound-of-5-Tetrahedra.png
 published: true
 layout: vzome
