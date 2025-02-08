@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-Another "even trickier" model George Hart proposed in 2001. Following these steps, no dexterity is needed. The more prisms are already present, the more attention is needed to correctly weave new edges in between existing ones.
+Another "even trickier" model <a href="https://georgehart.com/zomebook/compounds.html">George Hart</a> proposed in 2001. The more prisms are already present, the more attention is needed to correctly weave new edges in between existing ones.
 
 <figure style="width: 87%; margin: 5%">
   
