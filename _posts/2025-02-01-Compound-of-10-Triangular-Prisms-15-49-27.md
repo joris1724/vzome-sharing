@@ -11,7 +11,7 @@ layout: vzome
  - [data assets and more info](<https://github.com/joris1724/vzome-sharing/tree/main/2025/02/01/15-49-27-Compound-of-10-Triangular-Prisms/>)
  
 {% endcomment %}
-One of the most frustrating models George Hart ever made.
+One of the most frustrating models <a href="https://georgehart.com/zomebook/ten-prisms.html">George Hart</a> ever made.
 	
 <figure style="width: 87%; margin: 5%">
   
