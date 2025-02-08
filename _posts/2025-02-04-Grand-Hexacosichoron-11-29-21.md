@@ -1,6 +1,6 @@
 ---
 title: Grand Hexacosichoron
-description: The icosahedral projection of an assembly of 600 regular tetrahedra in 4-dimensional space, arranged so that each edge is shared by 5 tetrahedra, with the great icosahedron as vertex figure (David Richter). This model alse represents the projections of three other regular star polychora that share its edge arrangement (Paulo Freire).
+description: The icosahedral projection of an assembly of 600 regular tetrahedra in 4-dimensional space, arranged so that each edge is shared by 5 tetrahedra, with the great icosahedron as vertex figure.
 image: https://joris1724.github.io/vzome-sharing/2025/02/04/11-29-21-Grand-Hexacosichoron/Grand-Hexacosichoron.png
 published: true
 layout: vzome
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-The icosahedral projection of an assembly of 600 regular tetrahedra in 4-dimensional space, arranged so that each edge is shared by 5 tetrahedra, with the great icosahedron as vertex figure (David Richter). This model alse represents the projections of three other regular star polychora that share its edge arrangement (Paulo Freire).
+The icosahedral projection of an assembly of 600 regular tetrahedra in 4-dimensional space, arranged so that each edge is shared by 5 tetrahedra, with the great icosahedron as vertex figure (<a href="https://polytopologist.github.io/zome_pages/great600cell.htm">David Richter</a>). This model alse represents the projections of three other regular star polychora that share its edge arrangement (<a href="https://www3.mpifr-bonn.mpg.de/staff/pfreire/polyhedra/star_polychora.htm#regular">Paulo Freire</a>).
 
 <figure style="width: 87%; margin: 5%">
   
