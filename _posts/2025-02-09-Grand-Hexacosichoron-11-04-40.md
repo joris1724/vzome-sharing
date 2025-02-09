@@ -12,8 +12,9 @@ layout: vzome
  
 {% endcomment %}
 
-The only stellation of the hexacosichoron. Like the hexacosichoron, it is an assembly of 600 regular tetrahedra in 4-dimensional space, arranged so that each edge is shared by 5 tetrahedra.
-
+The icosahedral projection of an assembly of 600 regular tetrahedra in 4-dimensional space, arranged so that each edge is shared by 5 tetrahedra, now with the great icosahedron as vertex figure (<a href="https://polytopologist.github.io/zome_pages/great600cell.htm">David Richter</a>). This model alse represents the projections of three other regular star polychora that share its edge arrangement (<a href="https://www3.mpifr-bonn.mpg.de/staff/pfreire/polyhedra/star_polychora.htm#regular">Paulo Freire</a>). As all star polytopes, it has full hexacosichoric symmetry. On the outside of the model, an undistorted great icosidodecahedron can be seen. Its dual is the great grand stellated hecatonicosachoron.
+<p>
+In the vZome model, each teal ball connects two hb1 and two hb2 struts. Replacing these by a b2 bending over a b1 without connector, puts too much strain on these struts and the neighbouring connectors.  If one would build the model at a &phi; larger scale, bending a b3 over a b2 is acceptable.
 <figure style="width: 87%; margin: 5%">
   
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
