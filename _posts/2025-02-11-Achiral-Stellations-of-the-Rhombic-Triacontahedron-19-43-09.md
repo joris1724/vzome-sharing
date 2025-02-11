@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-An overview of all 114 achiral fully supported stellations of the rhombic triacontahedron. All corresponding Zometool models can be build. In this post, no step-by-step instructions are provided for. 
+Of the 226 fully supported stellations of the rhombic triacontahedron, 114 are not chiral. The models can best be viewed in full screen mode. Select <i>another scene</i> to view another stellation. For instance the great rhombic triacontahedron is the 22th in the list, and the rhombic hexecontahedron is the 92th.
 
 <figure style="width: 87%; margin: 5%">
   <vzome-viewer style="width: 100%; height: 60dvh" show-scenes='named'
