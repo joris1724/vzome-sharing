@@ -42,4 +42,4 @@ The remaining two  zomeable stellations are shown in the second model. Starting 
     The remaining two fully supported Stellations of the Icosahedron
   </figcaption>
 </figure>
-</div>div>
+</div>
