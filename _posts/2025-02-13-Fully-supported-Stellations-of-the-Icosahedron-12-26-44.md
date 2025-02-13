@@ -30,6 +30,7 @@ A first model is designed so that is covers six of the stellations, each highlig
 
 The remaining two  zomeable stellations are shown in the second model. Starting from the <i><b>D</b></i> stellation (red), it shows the <i><b>De<sub>1</sub></b></i> stellation (teal) and finally the <i><b>E</b></i> stellation (green).
 
+<div>
 <figure style="width: 87%; margin: 5%">
 <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
   <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
@@ -41,3 +42,4 @@ The remaining two  zomeable stellations are shown in the second model. Starting 
     The remaining two fully supported Stellations of the Icosahedron
   </figcaption>
 </figure>
+</div>div>
