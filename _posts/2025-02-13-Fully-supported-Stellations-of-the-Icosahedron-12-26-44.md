@@ -17,8 +17,8 @@ Of the famous fifty-nine icosahedra, seventeen stellations are fully supported. 
 A first model is designed so that is covers six of the stellations, each highlighted by a different colour. Starting from an icosahedron with edge length b1+b2+b1 (or b1+b3), it shows successively the <i>triakis icosahedron</i> (orange), the <i>compound of five octahedra</i> (yellow), the <i><b>D</b></i> stellation (red), the <i><b>De<sub>2</sub></b></i> stellation (teal), the <i>compound of five tetrahedra</i> (purple) and finally the <i>excavated dodecahedron</i> (green).
 
 <figure style="width: 87%; margin: 5%">
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
-  <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step' viewer='v1'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v1'></vzome-viewer-next></div></div>
+  <vzome-viewer id='v1' style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2025/02/13/12-26-44-Fully-supported-Stellations-of-the-Icosahedron/Fully-supported-Stellations-of-the-Icosahedron.vZome" >
     <img  style="width: 100%"
         src="https://joris1724.github.io/vzome-sharing/2025/02/13/12-26-44-Fully-supported-Stellations-of-the-Icosahedron/Fully-supported-Stellations-of-the-Icosahedron.png" >
