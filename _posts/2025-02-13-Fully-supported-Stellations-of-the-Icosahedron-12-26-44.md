@@ -31,8 +31,8 @@ A first model is designed so that is covers six of the stellations, each highlig
 The remaining two  zomeable stellations are shown in the second model. Starting from the <i><b>D</b></i> stellation (red), it shows the <i><b>De<sub>1</sub></b></i> stellation (teal) and finally the <i><b>E</b></i> stellation (green).
 
   <vzome-viewer style="width: 100%; height: 60dvh" show-scenes='named'
-        src="https://joris1724.github.io/vzome-sharing/2025/02/14/13-01-04-Fully-supported-Stellations-of-the-Icosahedron-4ab/Fully-supported-Stellations-of-the-Icosahedron-4ab.vZome" >
+        src="https://joris1724.github.io/vzome-sharing/2025/02/14/13-34-12-Fully-supported-Stellations-of-the-Icosahedron-4ab/Fully-supported-Stellations-of-the-Icosahedron-4ab.vZome" >
     <img  style="width: 100%"
-        src="https://joris1724.github.io/vzome-sharing/2025/02/14/13-01-04-Fully-supported-Stellations-of-the-Icosahedron-4ab/Fully-supported-Stellations-of-the-Icosahedron-4ab.png" >
+        src="https://joris1724.github.io/vzome-sharing/2025/02/14/13-34-12-Fully-supported-Stellations-of-the-Icosahedron-4ab/Fully-supported-Stellations-of-the-Icosahedron-4ab.png" >
   </vzome-viewer>
 
