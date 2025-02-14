@@ -1,6 +1,6 @@
 ---
 title: Compound of 15 Hexadecachora
-description: A 3D design created in vZome.  Use your mouse or touch to interact.
+description: A non-regular stellation of the hecatonicosachoron. The Zometool model has only pyritohedric symmetry.
 image: https://joris1724.github.io/vzome-sharing/2025/02/14/18-02-37-Compound-of-15-Hexadecachora/Compound-of-15-Hexadecachora.png
 published: true
 layout: vzome
@@ -12,18 +12,33 @@ layout: vzome
  
 {% endcomment %}
 
-A 3D design created in vZome.  Use your mouse or touch to interact.
+This Zometool model of the projection has only pyritohedric symmetry, despite the full hexacosichoric symmetry of the compound of 15 Hexadecachora itself (<a href="https://www3.mpifr-bonn.mpg.de/staff/pfreire/polyhedra/compounds.htm">Paulo Freire</a>). It has only 4 genuine three-fold rotational symmetry axes, 6 triagonal ghost symmetry axes and 6 pentagonal ghost symmetry axes. 
+<p>
+A Zometool model has been constructed for the first time in 2005 (<a href="https://polytopologist.github.io/zome_pages/fifteen16cells.htm">David Richter</a>). 
+<p>
+In the present vZome model, teal balls connecting half-blue struts avoid bending blue struts over each other. These crossings appear in tree flavours: a b2 would have to be bent either over a b1, another b2, or a b3.
 
-<figure style="width: 87%; margin: 5%">
-  
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
-  <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
+<figure style="width: 87%; margin: 5%">  
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step' viewer='v1'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v1'></vzome-viewer-next></div></div>
+  <vzome-viewer id='v1' style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2025/02/14/18-02-37-Compound-of-15-Hexadecachora/Compound-of-15-Hexadecachora.vZome" >
     <img  style="width: 100%"
         src="https://joris1724.github.io/vzome-sharing/2025/02/14/18-02-37-Compound-of-15-Hexadecachora/Compound-of-15-Hexadecachora.png" >
   </vzome-viewer>
-
   <figcaption style="text-align: center; font-style: italic;">
-    Compound of 15 Hexadecachora
+    Compound of 15 Hexadecachora, part I
   </figcaption>
 </figure>
+
+<figure style="width: 87%; margin: 5%">
+ <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step' viewer='v2'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v2'></vzome-viewer-next></div></div>
+ <vzome-viewer id='v2' style="width: 100%; height: 60dvh" indexed='true'
+       src="https://joris1724.github.io/vzome-sharing/2025/02/14/17-49-32-Compound-of-15-Hexadecachora-II/Compound-of-15-Hexadecachora-II.vZome" >
+   <img  style="width: 100%"
+       src="https://joris1724.github.io/vzome-sharing/2025/02/14/17-49-32-Compound-of-15-Hexadecachora-II/Compound-of-15-Hexadecachora-II.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    Compound of 15 Hexadecachora, part II
+ </figcaption>
+</figure>
+
