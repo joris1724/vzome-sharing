@@ -21,7 +21,7 @@ layout: vzome
         src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron/Stellations-of-the-Rhombic-Triacontahedron.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Stellations of the Rhombic Triacontahedron
+    Achiral stellations (5 colours)
   </figcaption>
 </figure>
 
