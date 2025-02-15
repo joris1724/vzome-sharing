@@ -1,6 +1,6 @@
 ---
 title: Stellation VsXZr of the Rhombic Triacontahedron
-description: A 3D design created in vZome.  Use your mouse or touch to interact.
+description: A nice and large chiral stellation, with the original rhombic triacontahedron as central support.
 image: https://joris1724.github.io/vzome-sharing/2025/02/15/13-53-48-Stellation-VsXZr-of-the-Rhombic-Triacontahedron/Stellation-VsXZr-of-the-Rhombic-Triacontahedron.png
 published: true
 layout: vzome
@@ -12,8 +12,9 @@ layout: vzome
  
 {% endcomment %}
 
-A 3D design created in vZome.  Use your mouse or touch to interact.
-
+The XZ<sup>R</sup>, also known as V<sub>s</sub>XZ<sub>r</sub>, is one of the niciest and largest chiral stellations of the rhombic triacontahedron
+<p>
+In this model, the original rhombic triacontahedron act as a central kernel. The stellation and kernel are interconnected by the edges of a small stellated dodecahedron, which ensures the stability of the model.
 <figure style="width: 87%; margin: 5%">
   
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
