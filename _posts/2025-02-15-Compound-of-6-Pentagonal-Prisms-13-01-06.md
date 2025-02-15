@@ -24,7 +24,7 @@ Citing George, it is very amazing how no two blue struts quite touch: the only c
 
 <figure style="width: 87%; margin: 5%">
   
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step'></vzome-viewer-start><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next><vzome-viewer-end label='final step'></vzome-viewer-end></div></div>
   <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2025/02/15/13-01-06-Compound-of-6-Pentagonal-Prisms/Compound-of-6-Pentagonal-Prisms.vZome" >
     <img  style="width: 100%"
