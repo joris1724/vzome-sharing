@@ -17,7 +17,7 @@ Of the famous fifty-nine icosahedra, seventeen stellations are fully supported. 
 A first model is designed so that is covers six of the stellations, each highlighted by a different colour. Starting from an icosahedron with edge length b1+b2+b1 (or b1+b3), it shows successively the <i>triakis icosahedron</i> (orange), the <i>compound of five octahedra</i> (yellow), the <i><b>D</b></i> stellation (red), the <i><b>De<sub>2</sub></b></i> stellation (teal), the <i>compound of five tetrahedra</i> (purple) and finally the <i>excavated dodecahedron</i> (green).
 
 <figure style="width: 87%; margin: 5%">
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='v1'></vzome-viewer-start>vzome-viewer-previous label='prev step' viewer='v1'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v1'></vzome-viewer-next><vzome-viewer-last label='last step' viewer='v1'></vzome-viewer-last></div></div>
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='v1'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='v1'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v1'></vzome-viewer-next><vzome-viewer-last label='last step' viewer='v1'></vzome-viewer-last></div></div>
   <vzome-viewer id='v1' style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2025/02/15/13-22-20-Fully-supported-Stellations-of-the-Icosahedron/Fully-supported-Stellations-of-the-Icosahedron.vZome" >
     <img  style="width: 100%"
@@ -31,7 +31,7 @@ A first model is designed so that is covers six of the stellations, each highlig
 The remaining two zomeable stellations are shown in the second model. Starting from the <i><b>D</b></i> stellation (red), it shows the <i><b>De<sub>1</sub></b></i> stellation (teal) and finally the <i><b>E</b></i> stellation (green).
 
 <figure style="width: 87%; margin: 5%">
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='v2'></vzome-viewer-start>vzome-viewer-previous label='prev step' viewer='v2'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v2'></vzome-viewer-next><vzome-viewer-last label='last step' viewer='v2'></vzome-viewer-last></div></div>
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='v2'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='v2'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v2'></vzome-viewer-next><vzome-viewer-last label='last step' viewer='v2'></vzome-viewer-last></div></div>
   <vzome-viewer id='v2' style="width: 100%; height: 60dvh" indexed='true'
        src="https://joris1724.github.io/vzome-sharing/2025/02/15/13-12-07-Fully-supported-Stellations-of-the-Icosahedron-4ab/Fully-supported-Stellations-of-the-Icosahedron-4ab.vZome" >
     <img  style="width: 100%"
