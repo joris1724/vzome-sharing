@@ -2900,7 +2900,7 @@
     <Snapshot id="69"/>
   </EditHistory>
   <notes>
-    <page snapshot="37" title="">
+    <page snapshot="37" title="truncated dodecahedron (90b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2908,7 +2908,7 @@
       </ViewModel>
       <content xml:space="preserve">Build a truncated dodecahedron (edge length b1).</content>
     </page>
-    <page snapshot="38" title="">
+    <page snapshot="38" title="base red (3b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2916,7 +2916,7 @@
       </ViewModel>
       <content xml:space="preserve">Rotate the truncated dodecahedron so that a triangular face is horizontal. Lay the base of a first extended prism, a triangle with edge length b1, just ABOVE the bottom triangle of the truncated dodecahedron, rotated by about 30°.</content>
     </page>
-    <page snapshot="39" title="">
+    <page snapshot="39" title="side edges red (12y1 3y3)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2924,7 +2924,7 @@
       </ViewModel>
       <content xml:space="preserve">Insert (preferably vertically) the three side edges of the first extended prism (edge length y1+y1+y3+y1+y1). The upper ends of these side edges lie just UNDERNEAT the top triangle of the truncated dodecahedron. </content>
     </page>
-    <page snapshot="40" title="">
+    <page snapshot="40" title="prism red (9b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2932,7 +2932,7 @@
       </ViewModel>
       <content xml:space="preserve">Connect these ends by b1 struts, forming the second base of the first extended prism, rotated by about 30° with respect to the top triangle of the truncated dodecahedron. Also connect the vertices in between y1 and y3 struts by b1 struts, forming two triangles (the bases of the first prism of the final model).That way, this first extended prism (like all subsequent ones) is squeezed in between two triangular faces of the truncated dodecahedron, so that the whole structure stays together during buildup, and one has both hands free to insert new elements.</content>
     </page>
-    <page snapshot="41" title="">
+    <page snapshot="41" title="base black (3b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2940,7 +2940,7 @@
       </ViewModel>
       <content xml:space="preserve">Lay the base of extended prism 2 just ABOVE a triangle of the truncated dodecahedron, rotated by about 30°.</content>
     </page>
-    <page snapshot="42" title="">
+    <page snapshot="42" title="side edges black (12y1 3y3)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2948,7 +2948,7 @@
       </ViewModel>
       <content xml:space="preserve">Insert the three side edges of extended prism 2.</content>
     </page>
-    <page snapshot="43" title="">
+    <page snapshot="43" title="prism black (9b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2956,7 +2956,7 @@
       </ViewModel>
       <content xml:space="preserve">Connect the free ends of these side edges by b1 struts, forming the second base of extended prism 2, just underneath another triangle of the truncated dodecahedron, rotated by about 30°. Also connect the vertices in between y1 and y3 struts by b1 struts, forming the bases of prism 2 in the final model.</content>
     </page>
-    <page snapshot="44" title="">
+    <page snapshot="44" title="base yellow (3b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2964,7 +2964,7 @@
       </ViewModel>
       <content xml:space="preserve">Lay the base of extended prism 3 just ABOVE a triangle of the truncated dodecahedron, rotated by about 30°.</content>
     </page>
-    <page snapshot="45" title="">
+    <page snapshot="45" title="side edges yellow (12y1 3y3)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2972,7 +2972,7 @@
       </ViewModel>
       <content xml:space="preserve">Insert the three side edges of extended prism 3.</content>
     </page>
-    <page snapshot="46" title="">
+    <page snapshot="46" title="prism yellow (9b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2980,7 +2980,7 @@
       </ViewModel>
       <content xml:space="preserve">Connect the free ends of these side edges by b1 struts, forming the second base of extended prism 3, just underneath another triangle of the truncated dodecahedron, rotated by about 30°. Also connect the vertices in between y1 and y3 struts by b1 struts, forming the bases of prism 3 in the final model.</content>
     </page>
-    <page snapshot="47" title="">
+    <page snapshot="47" title="base teal (3b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2988,7 +2988,7 @@
       </ViewModel>
       <content xml:space="preserve">Lay the base of extended prism 4 just ABOVE a triangle of the truncated dodecahedron, rotated by about 30°.</content>
     </page>
-    <page snapshot="48" title="">
+    <page snapshot="48" title="side edges teal (12y1 3y3)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -2996,7 +2996,7 @@
       </ViewModel>
       <content xml:space="preserve">Insert the three side edges of extended prism 4.</content>
     </page>
-    <page snapshot="49" title="">
+    <page snapshot="49" title="prism teal (9b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3004,7 +3004,7 @@
       </ViewModel>
       <content xml:space="preserve">Connect the free ends of these side edges by b1 struts, forming the second base of extended prism 4, just underneath another triangle of the truncated dodecahedron, rotated by about 30°. Also connect the vertices in between y1 and y3 struts by b1 struts, forming the bases of prism 4 in the final model.</content>
     </page>
-    <page snapshot="50" title="">
+    <page snapshot="50" title="base green (3b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3012,7 +3012,7 @@
       </ViewModel>
       <content xml:space="preserve">Lay the base of extended prism 5 just ABOVE a triangle of the truncated dodecahedron, rotated by about 30°.</content>
     </page>
-    <page snapshot="51" title="">
+    <page snapshot="51" title="side edges green (12y1 3y3)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3020,7 +3020,7 @@
       </ViewModel>
       <content xml:space="preserve">Insert the three side edges of extended prism 5.</content>
     </page>
-    <page snapshot="52" title="">
+    <page snapshot="52" title="prism green (9b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3028,7 +3028,7 @@
       </ViewModel>
       <content xml:space="preserve">Connect the free ends of these side edges by b1 struts, forming the second base of extended prism 5, just underneath another triangle of the truncated dodecahedron, rotated by about 30°. Also connect the vertices in between y1 and y3 struts by b1 struts, forming the bases of prism 5 in the final model.</content>
     </page>
-    <page snapshot="53" title="">
+    <page snapshot="53" title="base purple (3b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3036,7 +3036,7 @@
       </ViewModel>
       <content xml:space="preserve">Lay the base of extended prism 6 just ABOVE a triangle of the truncated dodecahedron, rotated by about 30°.</content>
     </page>
-    <page snapshot="54" title="">
+    <page snapshot="54" title="side edges ^purple (12y1 3y3)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3044,7 +3044,7 @@
       </ViewModel>
       <content xml:space="preserve">Insert the three side edges of extended prism 6.</content>
     </page>
-    <page snapshot="55" title="">
+    <page snapshot="55" title="prism purple (9b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3052,7 +3052,7 @@
       </ViewModel>
       <content xml:space="preserve">Connect the free ends of these side edges by b1 struts, forming the second base of extended prism 6, just underneath another triangle of the truncated dodecahedron, rotated by about 30°. Also connect the vertices in between y1 and y3 struts by b1 struts, forming the bases of prism 6 in the final model.</content>
     </page>
-    <page snapshot="56" title="">
+    <page snapshot="56" title="base blue (3b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3060,7 +3060,7 @@
       </ViewModel>
       <content xml:space="preserve">Lay the base of extended prism 7 just ABOVE a triangle of the truncated dodecahedron, rotated by about 30°.</content>
     </page>
-    <page snapshot="57" title="">
+    <page snapshot="57" title="side edges blue (12y1 3y3)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3068,7 +3068,7 @@
       </ViewModel>
       <content xml:space="preserve">Insert the three side edges of extended prism 7.</content>
     </page>
-    <page snapshot="58" title="">
+    <page snapshot="58" title="prism blue (9b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3076,7 +3076,7 @@
       </ViewModel>
       <content xml:space="preserve">Connect the free ends of these side edges by b1 struts, forming the second base of extended prism 7, just underneath another triangle of the truncated dodecahedron, rotated by about 30°. Also connect the vertices in between y1 and y3 struts by b1 struts, forming the bases of prism 7 in the final model.</content>
     </page>
-    <page snapshot="59" title="">
+    <page snapshot="59" title="base orange">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3084,7 +3084,7 @@
       </ViewModel>
       <content xml:space="preserve">Lay the base of extended prism 8 just ABOVE a triangle of the truncated dodecahedron, rotated by about 30°.</content>
     </page>
-    <page snapshot="60" title="">
+    <page snapshot="60" title="side edges orange (12y1 3y3)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3092,7 +3092,7 @@
       </ViewModel>
       <content xml:space="preserve">Insert the three side edges of extended prism 8.</content>
     </page>
-    <page snapshot="61" title="">
+    <page snapshot="61" title="prism orange (9b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3100,7 +3100,7 @@
       </ViewModel>
       <content xml:space="preserve">Connect the free ends of these side edges by b1 struts, forming the second base of extended prism 8, just underneath another triangle of the truncated dodecahedron, rotated by about 30°. Also connect the vertices in between y1 and y3 struts by b1 struts, forming the bases of prism 8 in the final model.</content>
     </page>
-    <page snapshot="62" title="">
+    <page snapshot="62" title="base grey (3b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3108,7 +3108,7 @@
       </ViewModel>
       <content xml:space="preserve">Lay the base of extended prism 9 just ABOVE a triangle of the truncated dodecahedron, rotated by about 30°.</content>
     </page>
-    <page snapshot="63" title="">
+    <page snapshot="63" title="side edges grey (12y1 3y3)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3116,7 +3116,7 @@
       </ViewModel>
       <content xml:space="preserve">Insert the three side edges of extended prism 9.</content>
     </page>
-    <page snapshot="64" title="">
+    <page snapshot="64" title="prism grey (9b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3124,7 +3124,7 @@
       </ViewModel>
       <content xml:space="preserve">Connect the free ends of these side edges by b1 struts, forming the second base of extended prism 9, just underneath another triangle of the truncated dodecahedron, rotated by about 30°. Also connect the vertices in between y1 and y3 struts by b1 struts, forming the bases of prism 9 in the final model.</content>
     </page>
-    <page snapshot="65" title="">
+    <page snapshot="65" title="base white (3b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3132,7 +3132,7 @@
       </ViewModel>
       <content xml:space="preserve">Lay the base of last extended prism just ABOVE a triangle of the truncated dodecahedron, rotated by about 30°.</content>
     </page>
-    <page snapshot="66" title="">
+    <page snapshot="66" title="side edges white (12y1 3y3)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3140,7 +3140,7 @@
       </ViewModel>
       <content xml:space="preserve">Insert the three side edges of the last extended prism.</content>
     </page>
-    <page snapshot="67" title="">
+    <page snapshot="67" title="prism white (9b1)">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3148,7 +3148,7 @@
       </ViewModel>
       <content xml:space="preserve">Connect the free ends of these side edges by b1 struts, forming the second base of the last extended prism, just underneath another triangle of the truncated dodecahedron, rotated by about 30°. Also connect the vertices in between y1 and y3 struts by b1 struts, forming the bases of the last prism in the final model.</content>
     </page>
-    <page snapshot="68" title="">
+    <page snapshot="68" title="truncated dodecahedron removed">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
@@ -3156,7 +3156,7 @@
       </ViewModel>
       <content xml:space="preserve">Remove the truncated dodecahedron. Probably the truncated dodecahedron will be broken at some point(s), due to increasing tension, after insertion of the penultimate and last extended prisms. No worries, by then the structure is stable enough by itself.</content>
     </page>
-    <page snapshot="69" title="">
+    <page snapshot="69" title="prism extensions removed">
       <ViewModel distance="202.1236114501953" far="404.24713134765625" near="0.505308985710144" parallel="false" stereoAngle="0.0" width="90.95559692382812">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.39428481459617615" y="0.9185982346534729" z="0.02708793804049492"/>
