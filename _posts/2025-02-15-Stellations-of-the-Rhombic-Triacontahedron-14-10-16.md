@@ -25,7 +25,7 @@ layout: vzome
   </figcaption>
 </figure>
 
- The first list shows all <i>achiral</i> stellations. For instance <i>the compound of 15 rhombic disphenoids</i> is the 87th in the list. For V<sub>s</sub>XZ<sub>r</sub>, the 103th in the list, <a href="https://joris1724.github.io/vzome-sharing/2025/02/15/Stellation-VsXZr-of-the-Rhombic-Triacontahedron-13-53-48.html">step-by-step building instructions</a> are available on this site.
+ The second list shows all <i>chiral</i> stellations. For instance <i>the compound of 15 rhombic disphenoids</i> is the 87th in the list. For V<sub>s</sub>XZ<sub>r</sub>, the 103th in the list, <a href="https://joris1724.github.io/vzome-sharing/2025/02/15/Stellation-VsXZr-of-the-Rhombic-Triacontahedron-13-53-48.html">step-by-step building instructions</a> are available on this site.
 
 <figure style="width: 87%; margin: 5%">
  <vzome-viewer style="width: 100%; height: 60dvh" show-scenes='named'
