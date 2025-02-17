@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-The XZ<sup>R</sup>, also known as V<sub>s</sub>XZ<sub>r</sub>, is one of the niciest and largest chiral stellations of the rhombic triacontahedron
+The XZ<sup>R</sup>, also known as V<sub>s</sub>XZ<sub>r</sub>, is one of the niciest and largest chiral stellations of the rhombic triacontahedron. In appears as the 103th in the chiral list of the <a href="https://joris1724.github.io/vzome-sharing/2025/02/15/Stellations-of-the-Rhombic-Triacontahedron-14-10-16.html">Stellations of the Rhombic Triacontahedron</a> post of this site.
 <p>
 In this model, the original rhombic triacontahedron act as a central kernel. The stellation and kernel are interconnected by the edges of a small stellated dodecahedron, which ensures the stability of the model.
 <figure style="width: 87%; margin: 5%">
