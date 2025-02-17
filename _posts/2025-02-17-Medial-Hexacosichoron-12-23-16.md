@@ -21,7 +21,7 @@ Like the compound of 5 icositetrachora it is self-dual.
 In the present vZome model, each teal ball connects six half-blue struts. Replacing these by a b1 and two b2's, bending over each other, cannot be done.
 <figure style="width: 87%; margin: 5%">
   
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step'></vzome-viewer-start><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next><vzome-viewer-end label='final step'></vzome-viewer-end></div></div>
   <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2025/02/14/12-23-16-Medial-Hexacosichoron/Medial-Hexacosichoron.vZome" >
     <img  style="width: 100%"

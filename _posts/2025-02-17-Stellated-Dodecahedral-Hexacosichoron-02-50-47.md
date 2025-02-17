@@ -12,7 +12,11 @@ layout: vzome
  
 {% endcomment %}
 
-The regular compound of 75 hexadecachora, with full hexacosichoric symmetry. A 4-dimensional analogue of the compound of five octahedra.
+The stellated dodecahedral hexacosichoron (Bower style acronym <a href="https://bendwavy.org/klitzing/incmats/stidox.htm">stidox</A>) is the regular compound of 75 hexadecachora, with full hexacosichoric symmetry. A 4-dimensional analogue of the compound of five octahedra. It can be considered as the compound of five copies of the compound of hexadecachora. The model for its projection therefore can be derived from the projection of the compound of 15 hexadecachora by quintuplication. The model eventually has icosahedral symmetry.
+<p>
+A Zometool model has been constructed for the first time in 2009 (<a href="https://polytopologist.github.io/zome_pages/seventyfive16cells.htm">David Richter</a>). 
+<p>
+The present vZome model has been constructed starting from the dataset generated in Mathematica by (<a href="https://observablehq.com/@nanma80/compound-of-120-5-cells">Nan Ma</a>). vZome does not care about the many intersecting struts. Meant for assisting a physical build, all these crossings had to be replaced by fragmenting struts and introducing connectors. Each teal ball connects six half-blue struts. Replacing these by a b1 and two b2's, bending over each other, cannot be done.
 
 <figure style="width: 87%; margin: 5%">
   
