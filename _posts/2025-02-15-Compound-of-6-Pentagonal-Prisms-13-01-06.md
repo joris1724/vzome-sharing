@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-Another "even trickier" model <a href="https://georgehart.com/zomebook/compounds.html">George Hart</a> proposed in 2001. 
+Another "even trickier" model <a href="https://georgehart.com/zomebook/compounds.html">George Hart</a> proposed in 2001<a href="https://joris1724.github.io/vzome-sharing/2025/02/15/13-01-06-Compound-of-6-Pentagonal-Prisms/">.</a> 
 <p>
 Firstly, build a regular dodecahedron with edge length b3.
 <p>
