@@ -30,9 +30,9 @@ Using hg2 instead of bg1 struts produces a model which is larger (ratio 8:7). It
 
 <figure style="width: 87%; margin: 5%">
  <vzome-viewer style="width: 100%; height: 60dvh" 
-       src="https://joris1724.github.io/vzome-sharing/2025/02/15/12-15-10-Compound-of-5-Tetrahedra---hg2/Compound-of-5-Tetrahedra---hg2.vZome" >
+       src="https://joris1724.github.io/vzome-sharing/2025/02/15/12-17-22-Compound-of-5-Tetrahedra/Compound-of-5-Tetrahedra---hg2.vZome" >
    <img  style="width: 100%"
-       src="https://joris1724.github.io/vzome-sharing/2025/02/15/12-15-10-Compound-of-5-Tetrahedra---hg2/Compound-of-5-Tetrahedra---hg2.png" >
+       src="https://joris1724.github.io/vzome-sharing/2025/02/15/12-17-22-Compound-of-5-Tetrahedra/Compound-of-5-Tetrahedra---hg2.png" >
  </vzome-viewer>
  <figcaption style="text-align: center; font-style: italic;">
     Compound of 5 Tetrahedra using hg2 struts
