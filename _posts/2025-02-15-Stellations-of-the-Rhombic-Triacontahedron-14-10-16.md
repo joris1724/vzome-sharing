@@ -29,9 +29,9 @@ layout: vzome
 
 <figure style="width: 87%; margin: 5%">
  <vzome-viewer style="width: 100%; height: 60dvh" show-scenes='named'
-       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron---Chiral/Stellations-of-the-Rhombic-Triacontahedron---Chiral.vZome" >
+       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron/Stellations-of-the-Rhombic-Triacontahedron---Chiral.vZome" >
    <img  style="width: 100%"
-       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron---Chiral/Stellations-of-the-Rhombic-Triacontahedron---Chiral.png" >
+       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron/Stellations-of-the-Rhombic-Triacontahedron---Chiral.png" >
  </vzome-viewer>
  <figcaption style="text-align: center; font-style: italic;">
     Chiral stellations (5 colours)
@@ -43,9 +43,9 @@ As in the corresponding page in <a href="https://georgehart.com/virtual-polyhedr
 
 <figure style="width: 87%; margin: 5%">
  <vzome-viewer style="width: 100%; height: 60dvh" show-scenes='named'
-       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron---Achiral---Monochrome/Stellations-of-the-Rhombic-Triacontahedron---Achiral---Monochrome.vZome" >
+       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron/Stellations-of-the-Rhombic-Triacontahedron---Achiral---Monochrome.vZome" >
    <img  style="width: 100%"
-       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron---Achiral---Monochrome/Stellations-of-the-Rhombic-Triacontahedron---Achiral---Monochrome.png" >
+       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron/Stellations-of-the-Rhombic-Triacontahedron---Achiral---Monochrome.png" >
  </vzome-viewer>
  <figcaption style="text-align: center; font-style: italic;">
     Achiral stellations (monochrome)
@@ -56,9 +56,9 @@ As in the corresponding page in <a href="https://georgehart.com/virtual-polyhedr
  
  
  <vzome-viewer style="width: 100%; height: 60dvh" show-scenes='named'
-       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron---Chiral---Monochrome/Stellations-of-the-Rhombic-Triacontahedron---Chiral---Monochrome.vZome" >
+       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron/Stellations-of-the-Rhombic-Triacontahedron---Chiral---Monochrome.vZome" >
    <img  style="width: 100%"
-       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron---Chiral---Monochrome/Stellations-of-the-Rhombic-Triacontahedron---Chiral---Monochrome.png" >
+       src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron/Stellations-of-the-Rhombic-Triacontahedron---Chiral---Monochrome.png" >
  </vzome-viewer>
  <figcaption style="text-align: center; font-style: italic;">
     Chiral stellations (monochrome)
