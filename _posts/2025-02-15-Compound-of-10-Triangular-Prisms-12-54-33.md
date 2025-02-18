@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-One of the most frustrating models <a href="https://georgehart.com/zomebook/ten-prisms.html">George Hart</a> ever made.
+One of the most frustrating models <a href="https://georgehart.com/zomebook/ten-prisms.html">George Hart</a> ever made<a href="https://joris1724.github.io/vzome-sharing/2025/02/15/12-54-33-Compound-of-10-Triangular-Prisms/">.</a>
 <p>
 Firstly, build a truncated dodecahedron with edge length b1.
 <p>

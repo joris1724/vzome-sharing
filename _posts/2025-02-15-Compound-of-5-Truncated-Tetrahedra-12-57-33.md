@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-A model proposed by <a href="https://georgehart.com/zomebook/compounds.html">George Hart</a> more than 20 years ago. 
+A model proposed by <a href="https://georgehart.com/zomebook/compounds.html">George Hart</a> more than 20 years ago<a href="https://joris1724.github.io/vzome-sharing/2025/02/15/12-57-33-Compound-of-5-Truncated-Tetrahedra/">.</a> 
 <p>
 Firstly, build a regular tetrahedron with edge length 3g2. Attach parallel pentagons with edge length 3b1 at both vertices of a single edge. These pentagons will serve as a support structure. Then build the other 4 tetrahedra, one at a time. No dexterity is needed. The more tetrahedra are already present, the more attention is needed to correctly weave new edges in between existing ones. It helped me a lot to use coloured Zome balls, precisely as in the vZome model.
 <p>

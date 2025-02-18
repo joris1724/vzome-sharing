@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-The 4D analog of the great stellated dodecahedron. As all star polytopes, it has full hexacosichoric symmetry. Its dual is the grand hexacosichoron.
+The 4D analog of the great stellated dodecahedron<a href="https://joris1724.github.io/vzome-sharing/2025/02/17/02-27-27-Great-Grand-Stellated-Hecatonicosachoron/">.</a> As all star polytopes, it has full hexacosichoric symmetry. Its dual is the grand hexacosichoron.
 <p>
 A <a href="https://polytopologist.github.io/zome_pages/finalstellation120cell.htm">Zometool model</a> was constructed for the first time in 2007.
 <p>

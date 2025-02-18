@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-This polytope is also called the first stellation of the hecatonicosachoron. It is the 4D analog of the small stellated dodecahedron, which is the first stellation of the dodecahedron in 3D. Both are constructed by simply extending the edges (<a href="https://www.nan.ma/star/#/polytope_52_5_3">Nan Ma</a>). As all star polytopes, it has full hexacosichoric symmetry. The only face type present is a regular pentagram. Various undistorted polyhedra are visible in the model: icosahedra, great icosahedra, compounds of five cubes, a dodecadodecahedron, two concentric superposed great stellated dodecahedra, .... It also has a model of the hecatonicosachoron embedded in it.
+This polytope is also called the first stellation of the hecatonicosachoron<a href="https://joris1724.github.io/vzome-sharing/2025/02/09/11-12-57-Small-Stellated-Hecatonicosachoron/">.</a> It is the 4D analog of the small stellated dodecahedron, which is the first stellation of the dodecahedron in 3D. Both are constructed by simply extending the edges (<a href="https://www.nan.ma/star/#/polytope_52_5_3">Nan Ma</a>). As all star polytopes, it has full hexacosichoric symmetry. The only face type present is a regular pentagram. Various undistorted polyhedra are visible in the model: icosahedra, great icosahedra, compounds of five cubes, a dodecadodecahedron, two concentric superposed great stellated dodecahedra, .... It also has a model of the hecatonicosachoron embedded in it.
 <p>
 <a href="https://polytopologist.github.io/zome_pages/stellated120cell01.htm">David Richter</a> already described how to make a Zometool model.
 <p>

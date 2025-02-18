@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-The medial hexacosichoron (Bower style acronym <a href="https://bendwavy.org/klitzing/incmats/mix.htm">mix</A>) is the regular compound of 120 pentachora, with full hexacosichoric symmetry. It can be considered as the 4-dimensional analogue of the compound of five tetrahedra. It can also be seen as a compound of 60 stellated decachora, and as a stellation of the hexacosachoron. The model has icosahedral symmetry.
+The medial hexacosichoron (Bower style acronym <a href="https://bendwavy.org/klitzing/incmats/mix.htm">mix</A>) is the regular compound of 120 pentachora, with full hexacosichoric symmetry<a href="https://joris1724.github.io/vzome-sharing/2025/02/14/12-23-16-Medial-Hexacosichoron/">.</a> It can be considered as the 4-dimensional analogue of the compound of five tetrahedra. It can also be seen as a compound of 60 stellated decachora, and as a stellation of the hexacosachoron. The model has icosahedral symmetry.
 <p>
 A Zometool model has been constructed for the first time in 2020 (<a href="https://www3.mpifr-bonn.mpg.de/staff/pfreire/polyhedra/compounds.htm">Paulo Freire</a>)
 <p>

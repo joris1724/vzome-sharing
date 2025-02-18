@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-The compound of the 3D projections of the rectified hecatonicosachoron and its dual, the rectified hexacosichoron.
+The compound of the 3D projections of the rectified hecatonicosachoron and its dual, the rectified hexacosichoron<a href="https://joris1724.github.io/vzome-sharing/2025/02/15/13-45-16-Rectified-Hyperdual/">.</a>
 <p>
 The rectified hecatonicosachoron is built 1 strut length shorter (i.e., "1" -> "0"), around the same center as the rectified hexacosichoron. White connectors belong to the rectified hecatonicosachoron, black to the rectified hexacosichoron, grey to both of them.
 <p>

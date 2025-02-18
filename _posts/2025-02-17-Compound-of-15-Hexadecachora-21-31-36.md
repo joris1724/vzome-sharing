@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-This Zometool model of the projection has only pyritohedric symmetry, despite the full hexacosichoric symmetry of the compound of 15 Hexadecachora itself (<a href="https://www3.mpifr-bonn.mpg.de/staff/pfreire/polyhedra/compounds.htm">Paulo Freire</a>). It has only 4 genuine three-fold rotational symmetry axes, 6 triagonal ghost symmetry axes and 6 pentagonal ghost symmetry axes. 
+This Zometool model of the projection has only pyritohedric symmetry, despite the full hexacosichoric symmetry of the compound of 15 Hexadecachora itself (<a href="https://www3.mpifr-bonn.mpg.de/staff/pfreire/polyhedra/compounds.htm">Paulo Freire</a>)<a href="https://joris1724.github.io/vzome-sharing/2025/02/14/21-31-36-Compound-of-15-Hexadecachora/">.</a> It has only 4 genuine three-fold rotational symmetry axes, 6 triagonal ghost symmetry axes and 6 pentagonal ghost symmetry axes. 
 <p>
 A Zometool model has been constructed for the first time in 2005 (<a href="https://polytopologist.github.io/zome_pages/fifteen16cells.htm">David Richter</a>). 
 <p>
