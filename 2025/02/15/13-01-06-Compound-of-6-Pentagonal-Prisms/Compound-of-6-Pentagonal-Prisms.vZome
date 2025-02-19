@@ -2438,7 +2438,7 @@
     <Delete/>
   </EditHistory>
   <notes>
-    <page snapshot="29" title="">
+    <page snapshot="29" title="dodecahedron (30b3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2446,7 +2446,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="28" title="">
+    <page snapshot="28" title="red base (5r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2454,7 +2454,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="27" title="">
+    <page snapshot="27" title="red side edge (6r0 1r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2462,7 +2462,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="26" title="">
+    <page snapshot="26" title="red base (5r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2470,7 +2470,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="25" title="">
+    <page snapshot="25" title="red side edges (24r0 4r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2478,7 +2478,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="30" title="">
+    <page snapshot="30" title="red pentagons (15b3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2486,7 +2486,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="24" title="">
+    <page snapshot="24" title="black base (5r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2494,7 +2494,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="23" title="">
+    <page snapshot="23" title="black side edge (6r0 1r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2502,7 +2502,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="22" title="">
+    <page snapshot="22" title="black base (5r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2510,7 +2510,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="21" title="">
+    <page snapshot="21" title="black side edges (24r0 4r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2518,7 +2518,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="20" title="">
+    <page snapshot="20" title="black pentagons (15b3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2526,7 +2526,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="19" title="">
+    <page snapshot="19" title="green base (5r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2534,7 +2534,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="18" title="">
+    <page snapshot="18" title="green side edge (6r0 1r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2542,7 +2542,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="17" title="">
+    <page snapshot="17" title="green base (5r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2550,7 +2550,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="16" title="">
+    <page snapshot="16" title="green  side edges (24r0 4r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2558,7 +2558,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="15" title="">
+    <page snapshot="15" title="green pentagons (15b3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2566,7 +2566,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="14" title="">
+    <page snapshot="14" title="purple base (5r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2574,7 +2574,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="13" title="">
+    <page snapshot="13" title="purple side edge (6r0 1r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2582,7 +2582,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="12" title="">
+    <page snapshot="12" title="purple base (5r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2590,7 +2590,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="31" title="">
+    <page snapshot="31" title="purple side edges (24r0 4r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2598,7 +2598,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="11" title="">
+    <page snapshot="11" title="purple pentagons (15b3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2606,7 +2606,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="10" title="">
+    <page snapshot="10" title="yellow base (5b3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2614,7 +2614,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="9" title="">
+    <page snapshot="9" title="yellow side edge (6r0 1r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2622,7 +2622,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="8" title="">
+    <page snapshot="8" title="yellow base (5b3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2630,7 +2630,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="7" title="">
+    <page snapshot="7" title="yellow side edges (24r0 4r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2638,7 +2638,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="6" title="">
+    <page snapshot="6" title="yellow pentagons (15b3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2646,7 +2646,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="5" title="">
+    <page snapshot="5" title="grey base (5r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2654,7 +2654,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="4" title="">
+    <page snapshot="4" title="grey side edge (6r0 1r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2662,7 +2662,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="3" title="">
+    <page snapshot="3" title="grey base (5r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2670,7 +2670,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="2" title="">
+    <page snapshot="2" title="grey side edges (24r0 4r3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2678,7 +2678,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="0" title="">
+    <page snapshot="0" title="grey pentagons (15b3)">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
@@ -2686,7 +2686,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="1" title="">
+    <page snapshot="1" title="scaffolding removed">
       <ViewModel distance="295.562255859375" far="591.124267578125" near="0.7389058470726013" parallel="false" stereoAngle="0.0" width="133.00306701660156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.24758706986904144" y="0.16346660256385803" z="-0.9549720287322998"/>
