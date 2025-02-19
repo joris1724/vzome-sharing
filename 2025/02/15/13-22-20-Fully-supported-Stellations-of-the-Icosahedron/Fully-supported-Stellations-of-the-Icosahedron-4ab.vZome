@@ -6792,7 +6792,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="22" title="7">
+    <page snapshot="22" title="6">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6800,7 +6800,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="23" title="7 unpaneled">
+    <page snapshot="23" title="6 unpaneled">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
