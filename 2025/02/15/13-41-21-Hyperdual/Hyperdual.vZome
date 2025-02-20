@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="95" field="golden" version="7.1">
-  <EditHistory editNumber="96" lastStickyEdit="310">
+  <EditHistory editNumber="98" lastStickyEdit="97">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -5, -8, 1 ], [ 5, 8, 1 ], [ 1, 2, 1 ] ], [ [ -4, -6, 1 ], [ 2, 3, 1 ], [ 1, 2, 1 ] ], [ [ -4, -6, 1 ], [ 3, 5, 1 ], [ -2, -3, 1 ] ], [ [ -4, -6, 1 ], [ 3, 5, 1 ], [ 0, 1, 1 ] ], [ [ -4, -6, 1 ], [ 3, 5, 1 ], [ 2, 3, 1 ] ], [ [ -4, -6, 1 ], [ 3, 5, 1 ], [ 4, 7, 1 ] ], [ [ -4, -6, 1 ], [ 4, 6, 1 ], [ 0, 0, 1 ] ], [ [ -4, -6, 1 ], [ 4, 6, 1 ], [ 2, 4, 1 ] ], [ [ -4, -6, 1 ], [ 4, 7, 1 ], [ 1, 2, 1 ] ], [ [ -4, -6, 1 ], [ 5, 8, 1 ], [ -1, -1, 1 ] ], [ [ -4, -6, 1 ], [ 5, 8, 1 ], [ 1, 2, 1 ] ], [ [ -4, -6, 1 ], [ 5, 8, 1 ], [ 3, 5, 1 ] ], [ [ -4, -6, 1 ], [ 6, 9, 1 ], [ 1, 2, 1 ] ], [ [ -4, -6, 1 ], [ 6, 10, 1 ], [ 0, 0, 1 ] ], [ [ -4, -6, 1 ], [ 6, 10, 1 ], [ 2, 4, 1 ] ], [ [ -4, -6, 1 ], [ 7, 11, 1 ], [ -2, -3, 1 ] ], [ [ -4, -6, 1 ], [ 7, 11, 1 ], [ 0, 1, 1 ] ], [ [ -4, -6, 1 ], [ 7, 11, 1 ], [ 2, 3, 1 ] ], [ [ -4, -6, 1 ], [ 7, 11, 1 ], [ 4, 7, 1 ] ], [ [ -4, -6, 1 ], [ 8, 13, 1 ], [ 1, 2, 1 ] ], [ [ -3, -5, 1 ], [ 2, 3, 1 ], [ 0, 0, 1 ] ], [ [ -3, -5, 1 ], [ 2, 3, 1 ], [ 2, 4, 1 ] ], [ [ -3, -5, 1 ], [ 3, 5, 1 ], [ -1, -1, 1 ] ], [ [ -3, -5, 1 ], [ 3, 5, 1 ], [ 3, 5, 1 ] ], [ [ -3, -5, 1 ], [ 4, 6, 1 ], [ 1, 2, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ 4, 7, 1 ] ], [ [ -3, -5, 1 ], [ 6, 10, 1 ], [ 1, 2, 1 ] ], [ [ -3, -5, 1 ], [ 7, 11, 1 ], [ -1, -1, 1 ] ], [ [ -3, -5, 1 ], [ 7, 11, 1 ], [ 3, 5, 1 ] ], [ [ -3, -5, 1 ], [ 8, 13, 1 ], [ 0, 0, 1 ] ], [ [ -3, -5, 1 ], [ 8, 13, 1 ], [ 2, 4, 1 ] ], [ [ -6, -9, 2 ], [ 7, 11, 2 ], [ -3, -4, 2 ] ], [ [ -6, -9, 2 ], [ 7, 11, 2 ], [ 7, 12, 2 ] ], [ [ -6, -9, 2 ], [ 13, 21, 2 ], [ -3, -4, 2 ] ], [ [ -6, -9, 2 ], [ 13, 21, 2 ], [ 7, 12, 2 ] ], [ [ -3, -4, 1 ], [ 1, 2, 1 ], [ 1, 2, 1 ] ], [ [ -3, -4, 1 ], [ 2, 3, 1 ], [ -1, -1, 1 ] ], [ [ -3, -4, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ -3, -4, 1 ], [ 3, 5, 1 ], [ 0, 0, 1 ] ], [ [ -3, -4, 1 ], [ 3, 5, 1 ], [ 2, 4, 1 ] ], [ [ -3, -4, 1 ], [ 4, 6, 1 ], [ -2, -3, 1 ] ], [ [ -3, -4, 1 ], [ 4, 6, 1 ], [ 4, 7, 1 ] ], [ [ -3, -4, 1 ], [ 5, 8, 1 ], [ -3, -4, 1 ] ], [ [ -3, -4, 1 ], [ 5, 8, 1 ], [ 1, 2, 1 ] ], [ [ -3, -4, 1 ], [ 5, 8, 1 ], [ 5, 8, 1 ] ], [ [ -3, -4, 1 ], [ 6, 10, 1 ], [ -2, -3, 1 ] ], [ [ -3, -4, 1 ], [ 6, 10, 1 ], [ 4, 7, 1 ] ], [ [ -3, -4, 1 ], [ 7, 11, 1 ], [ 0, 0, 1 ] ], [ [ -3, -4, 1 ], [ 7, 11, 1 ], [ 2, 4, 1 ] ], [ [ -3, -4, 1 ], [ 8, 13, 1 ], [ -1, -1, 1 ] ], [ [ -3, -4, 1 ], [ 8, 13, 1 ], [ 3, 5, 1 ] ], [ [ -3, -4, 1 ], [ 9, 14, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 0, 0, 1 ], [ -1, -1, 1 ] ], [ [ -2, -3, 1 ], [ 0, 0, 1 ], [ 3, 5, 1 ] ], [ [ -2, -3, 1 ], [ 1, 1, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 1, 2, 1 ], [ 0, 0, 1 ] ], [ [ -2, -3, 1 ], [ 1, 2, 1 ], [ 2, 4, 1 ] ], [ [ -2, -3, 1 ], [ 2, 3, 1 ], [ -2, -3, 1 ] ], [ [ -2, -3, 1 ], [ 2, 3, 1 ], [ 0, 1, 1 ] ], [ [ -2, -3, 1 ], [ 2, 3, 1 ], [ 2, 3, 1 ] ], [ [ -2, -3, 1 ], [ 2, 3, 1 ], [ 4, 7, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ -3, -4, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ 5, 8, 1 ] ], [ [ -2, -3, 1 ], [ 4, 6, 1 ], [ -3, -5, 1 ] ], [ [ -2, -3, 1 ], [ 4, 6, 1 ], [ -1, -1, 1 ] ], [ [ -2, -3, 1 ], [ 4, 6, 1 ], [ 3, 5, 1 ] ], [ [ -2, -3, 1 ], [ 4, 6, 1 ], [ 5, 9, 1 ] ], [ [ -2, -3, 1 ], [ 4, 7, 1 ], [ -2, -3, 1 ] ], [ [ -2, -3, 1 ], [ 4, 7, 1 ], [ 4, 7, 1 ] ], [ [ -2, -3, 1 ], [ 5, 8, 1 ], [ -4, -6, 1 ] ], [ [ -2, -3, 1 ], [ 5, 8, 1 ], [ 0, 0, 1 ] ], [ [ -2, -3, 1 ], [ 5, 8, 1 ], [ 2, 4, 1 ] ], [ [ -2, -3, 1 ], [ 5, 8, 1 ], [ 6, 10, 1 ] ], [ [ -2, -3, 1 ], [ 6, 9, 1 ], [ -2, -3, 1 ] ], [ [ -2, -3, 1 ], [ 6, 9, 1 ], [ 4, 7, 1 ] ], [ [ -2, -3, 1 ], [ 6, 10, 1 ], [ -3, -5, 1 ] ], [ [ -2, -3, 1 ], [ 6, 10, 1 ], [ -1, -1, 1 ] ], [ [ -2, -3, 1 ], [ 6, 10, 1 ], [ 3, 5, 1 ] ], [ [ -2, -3, 1 ], [ 6, 10, 1 ], [ 5, 9, 1 ] ], [ [ -2, -3, 1 ], [ 7, 11, 1 ], [ -3, -4, 1 ] ], [ [ -2, -3, 1 ], [ 7, 11, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 7, 11, 1 ], [ 5, 8, 1 ] ], [ [ -2, -3, 1 ], [ 8, 13, 1 ], [ -2, -3, 1 ] ], [ [ -2, -3, 1 ], [ 8, 13, 1 ], [ 0, 1, 1 ] ], [ [ -2, -3, 1 ], [ 8, 13, 1 ], [ 2, 3, 1 ] ], [ [ -2, -3, 1 ], [ 8, 13, 1 ], [ 4, 7, 1 ] ], [ [ -2, -3, 1 ], [ 9, 14, 1 ], [ 0, 0, 1 ] ], [ [ -2, -3, 1 ], [ 9, 14, 1 ], [ 2, 4, 1 ] ], [ [ -2, -3, 1 ], [ 9, 15, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 10, 16, 1 ], [ -1, -1, 1 ] ], [ [ -2, -3, 1 ], [ 10, 16, 1 ], [ 3, 5, 1 ] ], [ [ -3, -4, 2 ], [ 2, 3, 2 ], [ -1, -1, 2 ] ], [ [ -3, -4, 2 ], [ 2, 3, 2 ], [ 5, 9, 2 ] ], [ [ -3, -4, 2 ], [ 18, 29, 2 ], [ -1, -1, 2 ] ], [ [ -3, -4, 2 ], [ 18, 29, 2 ], [ 5, 9, 2 ] ], [ [ -1, -1, 1 ], [ 0, 0, 1 ], [ 1, 2, 1 ] ], [ [ -1, -1, 1 ], [ 1, 1, 1 ], [ -1, -1, 1 ] ], [ [ -1, -1, 1 ], [ 1, 1, 1 ], [ 3, 5, 1 ] ], [ [ -1, -1, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ -1, -1, 1 ], [ 1, 2, 1 ], [ 4, 7, 1 ] ], [ [ -1, -1, 1 ], [ 2, 3, 1 ], [ -4, -6, 1 ] ], [ [ -1, -1, 1 ], [ 2, 3, 1 ], [ 0, 0, 1 ] ], [ [ -1, -1, 1 ], [ 2, 3, 1 ], [ 2, 4, 1 ] ], [ [ -1, -1, 1 ], [ 2, 3, 1 ], [ 6, 10, 1 ] ], [ [ -1, -1, 1 ], [ 3, 5, 1 ], [ -3, -5, 1 ] ], [ [ -1, -1, 1 ], [ 3, 5, 1 ], [ -1, -1, 1 ] ], [ [ -1, -1, 1 ], [ 3, 5, 1 ], [ 3, 5, 1 ] ], [ [ -1, -1, 1 ], [ 3, 5, 1 ], [ 5, 9, 1 ] ], [ [ -1, -1, 1 ], [ 4, 6, 1 ], [ -3, -4, 1 ] ], [ [ -1, -1, 1 ], [ 4, 6, 1 ], [ 5, 8, 1 ] ], [ [ -1, -1, 1 ], [ 4, 7, 1 ], [ -4, -6, 1 ] ], [ [ -1, -1, 1 ], [ 4, 7, 1 ], [ 6, 10, 1 ] ], [ [ -1, -1, 1 ], [ 5, 8, 1 ], [ -2, -3, 1 ] ], [ [ -1, -1, 1 ], [ 5, 8, 1 ], [ 0, 1, 1 ] ], [ [ -1, -1, 1 ], [ 5, 8, 1 ], [ 2, 3, 1 ] ], [ [ -1, -1, 1 ], [ 5, 8, 1 ], [ 4, 7, 1 ] ], [ [ -1, -1, 1 ], [ 6, 9, 1 ], [ -4, -6, 1 ] ], [ [ -1, -1, 1 ], [ 6, 9, 1 ], [ 6, 10, 1 ] ], [ [ -1, -1, 1 ], [ 6, 10, 1 ], [ -3, -4, 1 ] ], [ [ -1, -1, 1 ], [ 6, 10, 1 ], [ 5, 8, 1 ] ], [ [ -1, -1, 1 ], [ 7, 11, 1 ], [ -3, -5, 1 ] ], [ [ -1, -1, 1 ], [ 7, 11, 1 ], [ -1, -1, 1 ] ], [ [ -1, -1, 1 ], [ 7, 11, 1 ], [ 3, 5, 1 ] ], [ [ -1, -1, 1 ], [ 7, 11, 1 ], [ 5, 9, 1 ] ], [ [ -1, -1, 1 ], [ 8, 13, 1 ], [ -4, -6, 1 ] ], [ [ -1, -1, 1 ], [ 8, 13, 1 ], [ 0, 0, 1 ] ], [ [ -1, -1, 1 ], [ 8, 13, 1 ], [ 2, 4, 1 ] ], [ [ -1, -1, 1 ], [ 8, 13, 1 ], [ 6, 10, 1 ] ], [ [ -1, -1, 1 ], [ 9, 14, 1 ], [ -2, -3, 1 ] ], [ [ -1, -1, 1 ], [ 9, 14, 1 ], [ 4, 7, 1 ] ], [ [ -1, -1, 1 ], [ 9, 15, 1 ], [ -1, -1, 1 ] ], [ [ -1, -1, 1 ], [ 9, 15, 1 ], [ 3, 5, 1 ] ], [ [ -1, -1, 1 ], [ 10, 16, 1 ], [ 1, 2, 1 ] ], [ [ -1, -1, 2 ], [ 5, 8, 2 ], [ -6, -9, 2 ] ], [ [ -1, -1, 2 ], [ 5, 8, 2 ], [ 10, 17, 2 ] ], [ [ -1, -1, 2 ], [ 15, 24, 2 ], [ -6, -9, 2 ] ], [ [ -1, -1, 2 ], [ 15, 24, 2 ], [ 10, 17, 2 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 2, 4, 1 ] ], [ [ 0, 0, 1 ], [ 1, 1, 1 ], [ -2, -3, 1 ] ], [ [ 0, 0, 1 ], [ 1, 1, 1 ], [ 4, 7, 1 ] ], [ [ 0, 0, 1 ], [ 1, 2, 1 ], [ -1, -1, 1 ] ], [ [ 0, 0, 1 ], [ 1, 2, 1 ], [ 3, 5, 1 ] ], [ [ 0, 0, 1 ], [ 2, 3, 1 ], [ -3, -4, 1 ] ], [ [ 0, 0, 1 ], [ 2, 3, 1 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ 2, 3, 1 ], [ 5, 8, 1 ] ], [ [ 0, 0, 1 ], [ 3, 5, 1 ], [ -2, -3, 1 ] ], [ [ 0, 0, 1 ], [ 3, 5, 1 ], [ 4, 7, 1 ] ], [ [ 0, 0, 1 ], [ 4, 6, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ 4, 6, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 4, 6, 1 ], [ 2, 4, 1 ] ], [ [ 0, 0, 1 ], [ 4, 6, 1 ], [ 6, 10, 1 ] ], [ [ 0, 0, 1 ], [ 5, 8, 1 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 5, 8, 1 ], [ 5, 9, 1 ] ], [ [ 0, 0, 1 ], [ 6, 10, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ 6, 10, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 6, 10, 1 ], [ 2, 4, 1 ] ], [ [ 0, 0, 1 ], [ 6, 10, 1 ], [ 6, 10, 1 ] ], [ [ 0, 0, 1 ], [ 7, 11, 1 ], [ -2, -3, 1 ] ], [ [ 0, 0, 1 ], [ 7, 11, 1 ], [ 4, 7, 1 ] ], [ [ 0, 0, 1 ], [ 8, 13, 1 ], [ -3, -4, 1 ] ], [ [ 0, 0, 1 ], [ 8, 13, 1 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ 8, 13, 1 ], [ 5, 8, 1 ] ], [ [ 0, 0, 1 ], [ 9, 14, 1 ], [ -1, -1, 1 ] ], [ [ 0, 0, 1 ], [ 9, 14, 1 ], [ 3, 5, 1 ] ], [ [ 0, 0, 1 ], [ 9, 15, 1 ], [ -2, -3, 1 ] ], [ [ 0, 0, 1 ], [ 9, 15, 1 ], [ 4, 7, 1 ] ], [ [ 0, 0, 1 ], [ 10, 16, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 10, 16, 1 ], [ 2, 4, 1 ] ], [ [ 0, 1, 1 ], [ 0, 0, 1 ], [ -1, -1, 1 ] ], [ [ 0, 1, 1 ], [ 0, 0, 1 ], [ 3, 5, 1 ] ], [ [ 0, 1, 1 ], [ 2, 3, 1 ], [ -2, -3, 1 ] ], [ [ 0, 1, 1 ], [ 2, 3, 1 ], [ 4, 7, 1 ] ], [ [ 0, 1, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ 0, 1, 1 ], [ 5, 8, 1 ], [ -4, -6, 1 ] ], [ [ 0, 1, 1 ], [ 5, 8, 1 ], [ 6, 10, 1 ] ], [ [ 0, 1, 1 ], [ 7, 11, 1 ], [ 1, 2, 1 ] ], [ [ 0, 1, 1 ], [ 8, 13, 1 ], [ -2, -3, 1 ] ], [ [ 0, 1, 1 ], [ 8, 13, 1 ], [ 4, 7, 1 ] ], [ [ 0, 1, 1 ], [ 10, 16, 1 ], [ -1, -1, 1 ] ], [ [ 0, 1, 1 ], [ 10, 16, 1 ], [ 3, 5, 1 ] ], [ [ 1, 2, 1 ], [ -1, -2, 1 ], [ 1, 2, 1 ] ], [ [ 1, 2, 1 ], [ 0, 0, 1 ], [ -2, -3, 1 ] ], [ [ 1, 2, 1 ], [ 0, 0, 1 ], [ 0, 1, 1 ] ], [ [ 1, 2, 1 ], [ 0, 0, 1 ], [ 1, 2, 1 ] ], [ [ 1, 2, 1 ], [ 0, 0, 1 ], [ 2, 3, 1 ] ], [ [ 1, 2, 1 ], [ 0, 0, 1 ], [ 4, 7, 1 ] ], [ [ 1, 2, 1 ], [ 1, 1, 1 ], [ 0, 0, 1 ] ], [ [ 1, 2, 1 ], [ 1, 1, 1 ], [ 2, 4, 1 ] ], [ [ 1, 2, 1 ], [ 1, 2, 1 ], [ -3, -4, 1 ] ], [ [ 1, 2, 1 ], [ 1, 2, 1 ], [ 1, 2, 1 ] ], [ [ 1, 2, 1 ], [ 1, 2, 1 ], [ 5, 8, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ -1, -1, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ 5, 9, 1 ] ], [ [ 1, 2, 1 ], [ 3, 5, 1 ], [ -4, -6, 1 ] ], [ [ 1, 2, 1 ], [ 3, 5, 1 ], [ 6, 10, 1 ] ], [ [ 1, 2, 1 ], [ 4, 6, 1 ], [ -2, -3, 1 ] ], [ [ 1, 2, 1 ], [ 4, 6, 1 ], [ 4, 7, 1 ] ], [ [ 1, 2, 1 ], [ 4, 7, 1 ], [ -1, -1, 1 ] ], [ [ 1, 2, 1 ], [ 4, 7, 1 ], [ 3, 5, 1 ] ], [ [ 1, 2, 1 ], [ 5, 8, 1 ], [ -5, -8, 1 ] ], [ [ 1, 2, 1 ], [ 5, 8, 1 ], [ -4, -6, 1 ] ], [ [ 1, 2, 1 ], [ 5, 8, 1 ], [ -3, -4, 1 ] ], [ [ 1, 2, 1 ], [ 5, 8, 1 ], [ 1, 2, 1 ] ], [ [ 1, 2, 1 ], [ 5, 8, 1 ], [ 5, 8, 1 ] ], [ [ 1, 2, 1 ], [ 5, 8, 1 ], [ 6, 10, 1 ] ], [ [ 1, 2, 1 ], [ 5, 8, 1 ], [ 7, 12, 1 ] ], [ [ 1, 2, 1 ], [ 6, 9, 1 ], [ -1, -1, 1 ] ], [ [ 1, 2, 1 ], [ 6, 9, 1 ], [ 3, 5, 1 ] ], [ [ 1, 2, 1 ], [ 6, 10, 1 ], [ -2, -3, 1 ] ], [ [ 1, 2, 1 ], [ 6, 10, 1 ], [ 4, 7, 1 ] ], [ [ 1, 2, 1 ], [ 7, 11, 1 ], [ -4, -6, 1 ] ], [ [ 1, 2, 1 ], [ 7, 11, 1 ], [ 6, 10, 1 ] ], [ [ 1, 2, 1 ], [ 8, 13, 1 ], [ -3, -5, 1 ] ], [ [ 1, 2, 1 ], [ 8, 13, 1 ], [ -1, -1, 1 ] ], [ [ 1, 2, 1 ], [ 8, 13, 1 ], [ 3, 5, 1 ] ], [ [ 1, 2, 1 ], [ 8, 13, 1 ], [ 5, 9, 1 ] ], [ [ 1, 2, 1 ], [ 9, 14, 1 ], [ -3, -4, 1 ] ], [ [ 1, 2, 1 ], [ 9, 14, 1 ], [ 1, 2, 1 ] ], [ [ 1, 2, 1 ], [ 9, 14, 1 ], [ 5, 8, 1 ] ], [ [ 1, 2, 1 ], [ 9, 15, 1 ], [ 0, 0, 1 ] ], [ [ 1, 2, 1 ], [ 9, 15, 1 ], [ 2, 4, 1 ] ], [ [ 1, 2, 1 ], [ 10, 16, 1 ], [ -2, -3, 1 ] ], [ [ 1, 2, 1 ], [ 10, 16, 1 ], [ 0, 1, 1 ] ], [ [ 1, 2, 1 ], [ 10, 16, 1 ], [ 1, 2, 1 ] ], [ [ 1, 2, 1 ], [ 10, 16, 1 ], [ 2, 3, 1 ] ], [ [ 1, 2, 1 ], [ 10, 16, 1 ], [ 4, 7, 1 ] ], [ [ 1, 2, 1 ], [ 11, 18, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ 0, 0, 1 ], [ -1, -1, 1 ] ], [ [ 2, 3, 1 ], [ 0, 0, 1 ], [ 3, 5, 1 ] ], [ [ 2, 3, 1 ], [ 2, 3, 1 ], [ -2, -3, 1 ] ], [ [ 2, 3, 1 ], [ 2, 3, 1 ], [ 4, 7, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ 5, 8, 1 ], [ -4, -6, 1 ] ], [ [ 2, 3, 1 ], [ 5, 8, 1 ], [ 6, 10, 1 ] ], [ [ 2, 3, 1 ], [ 7, 11, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ 8, 13, 1 ], [ -2, -3, 1 ] ], [ [ 2, 3, 1 ], [ 8, 13, 1 ], [ 4, 7, 1 ] ], [ [ 2, 3, 1 ], [ 10, 16, 1 ], [ -1, -1, 1 ] ], [ [ 2, 3, 1 ], [ 10, 16, 1 ], [ 3, 5, 1 ] ], [ [ 2, 4, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ 0, 0, 1 ], [ 2, 4, 1 ] ], [ [ 2, 4, 1 ], [ 1, 1, 1 ], [ -2, -3, 1 ] ], [ [ 2, 4, 1 ], [ 1, 1, 1 ], [ 4, 7, 1 ] ], [ [ 2, 4, 1 ], [ 1, 2, 1 ], [ -1, -1, 1 ] ], [ [ 2, 4, 1 ], [ 1, 2, 1 ], [ 3, 5, 1 ] ], [ [ 2, 4, 1 ], [ 2, 3, 1 ], [ -3, -4, 1 ] ], [ [ 2, 4, 1 ], [ 2, 3, 1 ], [ 1, 2, 1 ] ], [ [ 2, 4, 1 ], [ 2, 3, 1 ], [ 5, 8, 1 ] ], [ [ 2, 4, 1 ], [ 3, 5, 1 ], [ -2, -3, 1 ] ], [ [ 2, 4, 1 ], [ 3, 5, 1 ], [ 4, 7, 1 ] ], [ [ 2, 4, 1 ], [ 4, 6, 1 ], [ -4, -6, 1 ] ], [ [ 2, 4, 1 ], [ 4, 6, 1 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ 4, 6, 1 ], [ 2, 4, 1 ] ], [ [ 2, 4, 1 ], [ 4, 6, 1 ], [ 6, 10, 1 ] ], [ [ 2, 4, 1 ], [ 5, 8, 1 ], [ -3, -5, 1 ] ], [ [ 2, 4, 1 ], [ 5, 8, 1 ], [ 5, 9, 1 ] ], [ [ 2, 4, 1 ], [ 6, 10, 1 ], [ -4, -6, 1 ] ], [ [ 2, 4, 1 ], [ 6, 10, 1 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ 6, 10, 1 ], [ 2, 4, 1 ] ], [ [ 2, 4, 1 ], [ 6, 10, 1 ], [ 6, 10, 1 ] ], [ [ 2, 4, 1 ], [ 7, 11, 1 ], [ -2, -3, 1 ] ], [ [ 2, 4, 1 ], [ 7, 11, 1 ], [ 4, 7, 1 ] ], [ [ 2, 4, 1 ], [ 8, 13, 1 ], [ -3, -4, 1 ] ], [ [ 2, 4, 1 ], [ 8, 13, 1 ], [ 1, 2, 1 ] ], [ [ 2, 4, 1 ], [ 8, 13, 1 ], [ 5, 8, 1 ] ], [ [ 2, 4, 1 ], [ 9, 14, 1 ], [ -1, -1, 1 ] ], [ [ 2, 4, 1 ], [ 9, 14, 1 ], [ 3, 5, 1 ] ], [ [ 2, 4, 1 ], [ 9, 15, 1 ], [ -2, -3, 1 ] ], [ [ 2, 4, 1 ], [ 9, 15, 1 ], [ 4, 7, 1 ] ], [ [ 2, 4, 1 ], [ 10, 16, 1 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ 10, 16, 1 ], [ 2, 4, 1 ] ], [ [ 5, 9, 2 ], [ 5, 8, 2 ], [ -6, -9, 2 ] ], [ [ 5, 9, 2 ], [ 5, 8, 2 ], [ 10, 17, 2 ] ], [ [ 5, 9, 2 ], [ 15, 24, 2 ], [ -6, -9, 2 ] ], [ [ 5, 9, 2 ], [ 15, 24, 2 ], [ 10, 17, 2 ] ], [ [ 3, 5, 1 ], [ 0, 0, 1 ], [ 1, 2, 1 ] ], [ [ 3, 5, 1 ], [ 1, 1, 1 ], [ -1, -1, 1 ] ], [ [ 3, 5, 1 ], [ 1, 1, 1 ], [ 3, 5, 1 ] ], [ [ 3, 5, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ 1, 2, 1 ], [ 4, 7, 1 ] ], [ [ 3, 5, 1 ], [ 2, 3, 1 ], [ -4, -6, 1 ] ], [ [ 3, 5, 1 ], [ 2, 3, 1 ], [ 0, 0, 1 ] ], [ [ 3, 5, 1 ], [ 2, 3, 1 ], [ 2, 4, 1 ] ], [ [ 3, 5, 1 ], [ 2, 3, 1 ], [ 6, 10, 1 ] ], [ [ 3, 5, 1 ], [ 3, 5, 1 ], [ -3, -5, 1 ] ], [ [ 3, 5, 1 ], [ 3, 5, 1 ], [ -1, -1, 1 ] ], [ [ 3, 5, 1 ], [ 3, 5, 1 ], [ 3, 5, 1 ] ], [ [ 3, 5, 1 ], [ 3, 5, 1 ], [ 5, 9, 1 ] ], [ [ 3, 5, 1 ], [ 4, 6, 1 ], [ -3, -4, 1 ] ], [ [ 3, 5, 1 ], [ 4, 6, 1 ], [ 5, 8, 1 ] ], [ [ 3, 5, 1 ], [ 4, 7, 1 ], [ -4, -6, 1 ] ], [ [ 3, 5, 1 ], [ 4, 7, 1 ], [ 6, 10, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ 0, 1, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ 2, 3, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ 4, 7, 1 ] ], [ [ 3, 5, 1 ], [ 6, 9, 1 ], [ -4, -6, 1 ] ], [ [ 3, 5, 1 ], [ 6, 9, 1 ], [ 6, 10, 1 ] ], [ [ 3, 5, 1 ], [ 6, 10, 1 ], [ -3, -4, 1 ] ], [ [ 3, 5, 1 ], [ 6, 10, 1 ], [ 5, 8, 1 ] ], [ [ 3, 5, 1 ], [ 7, 11, 1 ], [ -3, -5, 1 ] ], [ [ 3, 5, 1 ], [ 7, 11, 1 ], [ -1, -1, 1 ] ], [ [ 3, 5, 1 ], [ 7, 11, 1 ], [ 3, 5, 1 ] ], [ [ 3, 5, 1 ], [ 7, 11, 1 ], [ 5, 9, 1 ] ], [ [ 3, 5, 1 ], [ 8, 13, 1 ], [ -4, -6, 1 ] ], [ [ 3, 5, 1 ], [ 8, 13, 1 ], [ 0, 0, 1 ] ], [ [ 3, 5, 1 ], [ 8, 13, 1 ], [ 2, 4, 1 ] ], [ [ 3, 5, 1 ], [ 8, 13, 1 ], [ 6, 10, 1 ] ], [ [ 3, 5, 1 ], [ 9, 14, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ 9, 14, 1 ], [ 4, 7, 1 ] ], [ [ 3, 5, 1 ], [ 9, 15, 1 ], [ -1, -1, 1 ] ], [ [ 3, 5, 1 ], [ 9, 15, 1 ], [ 3, 5, 1 ] ], [ [ 3, 5, 1 ], [ 10, 16, 1 ], [ 1, 2, 1 ] ], [ [ 7, 12, 2 ], [ 2, 3, 2 ], [ -1, -1, 2 ] ], [ [ 7, 12, 2 ], [ 2, 3, 2 ], [ 5, 9, 2 ] ], [ [ 7, 12, 2 ], [ 18, 29, 2 ], [ -1, -1, 2 ] ], [ [ 7, 12, 2 ], [ 18, 29, 2 ], [ 5, 9, 2 ] ], [ [ 4, 7, 1 ], [ 0, 0, 1 ], [ -1, -1, 1 ] ], [ [ 4, 7, 1 ], [ 0, 0, 1 ], [ 3, 5, 1 ] ], [ [ 4, 7, 1 ], [ 1, 1, 1 ], [ 1, 2, 1 ] ], [ [ 4, 7, 1 ], [ 1, 2, 1 ], [ 0, 0, 1 ] ], [ [ 4, 7, 1 ], [ 1, 2, 1 ], [ 2, 4, 1 ] ], [ [ 4, 7, 1 ], [ 2, 3, 1 ], [ -2, -3, 1 ] ], [ [ 4, 7, 1 ], [ 2, 3, 1 ], [ 0, 1, 1 ] ], [ [ 4, 7, 1 ], [ 2, 3, 1 ], [ 2, 3, 1 ] ], [ [ 4, 7, 1 ], [ 2, 3, 1 ], [ 4, 7, 1 ] ], [ [ 4, 7, 1 ], [ 3, 5, 1 ], [ -3, -4, 1 ] ], [ [ 4, 7, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ 4, 7, 1 ], [ 3, 5, 1 ], [ 5, 8, 1 ] ], [ [ 4, 7, 1 ], [ 4, 6, 1 ], [ -3, -5, 1 ] ], [ [ 4, 7, 1 ], [ 4, 6, 1 ], [ -1, -1, 1 ] ], [ [ 4, 7, 1 ], [ 4, 6, 1 ], [ 3, 5, 1 ] ], [ [ 4, 7, 1 ], [ 4, 6, 1 ], [ 5, 9, 1 ] ], [ [ 4, 7, 1 ], [ 4, 7, 1 ], [ -2, -3, 1 ] ], [ [ 4, 7, 1 ], [ 4, 7, 1 ], [ 4, 7, 1 ] ], [ [ 4, 7, 1 ], [ 5, 8, 1 ], [ -4, -6, 1 ] ], [ [ 4, 7, 1 ], [ 5, 8, 1 ], [ 0, 0, 1 ] ], [ [ 4, 7, 1 ], [ 5, 8, 1 ], [ 2, 4, 1 ] ], [ [ 4, 7, 1 ], [ 5, 8, 1 ], [ 6, 10, 1 ] ], [ [ 4, 7, 1 ], [ 6, 9, 1 ], [ -2, -3, 1 ] ], [ [ 4, 7, 1 ], [ 6, 9, 1 ], [ 4, 7, 1 ] ], [ [ 4, 7, 1 ], [ 6, 10, 1 ], [ -3, -5, 1 ] ], [ [ 4, 7, 1 ], [ 6, 10, 1 ], [ -1, -1, 1 ] ], [ [ 4, 7, 1 ], [ 6, 10, 1 ], [ 3, 5, 1 ] ], [ [ 4, 7, 1 ], [ 6, 10, 1 ], [ 5, 9, 1 ] ], [ [ 4, 7, 1 ], [ 7, 11, 1 ], [ -3, -4, 1 ] ], [ [ 4, 7, 1 ], [ 7, 11, 1 ], [ 1, 2, 1 ] ], [ [ 4, 7, 1 ], [ 7, 11, 1 ], [ 5, 8, 1 ] ], [ [ 4, 7, 1 ], [ 8, 13, 1 ], [ -2, -3, 1 ] ], [ [ 4, 7, 1 ], [ 8, 13, 1 ], [ 0, 1, 1 ] ], [ [ 4, 7, 1 ], [ 8, 13, 1 ], [ 2, 3, 1 ] ], [ [ 4, 7, 1 ], [ 8, 13, 1 ], [ 4, 7, 1 ] ], [ [ 4, 7, 1 ], [ 9, 14, 1 ], [ 0, 0, 1 ] ], [ [ 4, 7, 1 ], [ 9, 14, 1 ], [ 2, 4, 1 ] ], [ [ 4, 7, 1 ], [ 9, 15, 1 ], [ 1, 2, 1 ] ], [ [ 4, 7, 1 ], [ 10, 16, 1 ], [ -1, -1, 1 ] ], [ [ 4, 7, 1 ], [ 10, 16, 1 ], [ 3, 5, 1 ] ], [ [ 5, 8, 1 ], [ 1, 2, 1 ], [ 1, 2, 1 ] ], [ [ 5, 8, 1 ], [ 2, 3, 1 ], [ -1, -1, 1 ] ], [ [ 5, 8, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ 5, 8, 1 ], [ 3, 5, 1 ], [ 0, 0, 1 ] ], [ [ 5, 8, 1 ], [ 3, 5, 1 ], [ 2, 4, 1 ] ], [ [ 5, 8, 1 ], [ 4, 6, 1 ], [ -2, -3, 1 ] ], [ [ 5, 8, 1 ], [ 4, 6, 1 ], [ 4, 7, 1 ] ], [ [ 5, 8, 1 ], [ 5, 8, 1 ], [ -3, -4, 1 ] ], [ [ 5, 8, 1 ], [ 5, 8, 1 ], [ 1, 2, 1 ] ], [ [ 5, 8, 1 ], [ 5, 8, 1 ], [ 5, 8, 1 ] ], [ [ 5, 8, 1 ], [ 6, 10, 1 ], [ -2, -3, 1 ] ], [ [ 5, 8, 1 ], [ 6, 10, 1 ], [ 4, 7, 1 ] ], [ [ 5, 8, 1 ], [ 7, 11, 1 ], [ 0, 0, 1 ] ], [ [ 5, 8, 1 ], [ 7, 11, 1 ], [ 2, 4, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ -1, -1, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ 3, 5, 1 ] ], [ [ 5, 8, 1 ], [ 9, 14, 1 ], [ 1, 2, 1 ] ], [ [ 10, 17, 2 ], [ 7, 11, 2 ], [ -3, -4, 2 ] ], [ [ 10, 17, 2 ], [ 7, 11, 2 ], [ 7, 12, 2 ] ], [ [ 10, 17, 2 ], [ 13, 21, 2 ], [ -3, -4, 2 ] ], [ [ 10, 17, 2 ], [ 13, 21, 2 ], [ 7, 12, 2 ] ], [ [ 5, 9, 1 ], [ 2, 3, 1 ], [ 0, 0, 1 ] ], [ [ 5, 9, 1 ], [ 2, 3, 1 ], [ 2, 4, 1 ] ], [ [ 5, 9, 1 ], [ 3, 5, 1 ], [ -1, -1, 1 ] ], [ [ 5, 9, 1 ], [ 3, 5, 1 ], [ 3, 5, 1 ] ], [ [ 5, 9, 1 ], [ 4, 6, 1 ], [ 1, 2, 1 ] ], [ [ 5, 9, 1 ], [ 5, 8, 1 ], [ -2, -3, 1 ] ], [ [ 5, 9, 1 ], [ 5, 8, 1 ], [ 4, 7, 1 ] ], [ [ 5, 9, 1 ], [ 6, 10, 1 ], [ 1, 2, 1 ] ], [ [ 5, 9, 1 ], [ 7, 11, 1 ], [ -1, -1, 1 ] ], [ [ 5, 9, 1 ], [ 7, 11, 1 ], [ 3, 5, 1 ] ], [ [ 5, 9, 1 ], [ 8, 13, 1 ], [ 0, 0, 1 ] ], [ [ 5, 9, 1 ], [ 8, 13, 1 ], [ 2, 4, 1 ] ], [ [ 6, 10, 1 ], [ 2, 3, 1 ], [ 1, 2, 1 ] ], [ [ 6, 10, 1 ], [ 3, 5, 1 ], [ -2, -3, 1 ] ], [ [ 6, 10, 1 ], [ 3, 5, 1 ], [ 0, 1, 1 ] ], [ [ 6, 10, 1 ], [ 3, 5, 1 ], [ 2, 3, 1 ] ], [ [ 6, 10, 1 ], [ 3, 5, 1 ], [ 4, 7, 1 ] ], [ [ 6, 10, 1 ], [ 4, 6, 1 ], [ 0, 0, 1 ] ], [ [ 6, 10, 1 ], [ 4, 6, 1 ], [ 2, 4, 1 ] ], [ [ 6, 10, 1 ], [ 4, 7, 1 ], [ 1, 2, 1 ] ], [ [ 6, 10, 1 ], [ 5, 8, 1 ], [ -1, -1, 1 ] ], [ [ 6, 10, 1 ], [ 5, 8, 1 ], [ 1, 2, 1 ] ], [ [ 6, 10, 1 ], [ 5, 8, 1 ], [ 3, 5, 1 ] ], [ [ 6, 10, 1 ], [ 6, 9, 1 ], [ 1, 2, 1 ] ], [ [ 6, 10, 1 ], [ 6, 10, 1 ], [ 0, 0, 1 ] ], [ [ 6, 10, 1 ], [ 6, 10, 1 ], [ 2, 4, 1 ] ], [ [ 6, 10, 1 ], [ 7, 11, 1 ], [ -2, -3, 1 ] ], [ [ 6, 10, 1 ], [ 7, 11, 1 ], [ 0, 1, 1 ] ], [ [ 6, 10, 1 ], [ 7, 11, 1 ], [ 2, 3, 1 ] ], [ [ 6, 10, 1 ], [ 7, 11, 1 ], [ 4, 7, 1 ] ], [ [ 6, 10, 1 ], [ 8, 13, 1 ], [ 1, 2, 1 ] ], [ [ 7, 12, 1 ], [ 5, 8, 1 ], [ 1, 2, 1 ] ] ],
@@ -4742,259 +4742,262 @@
     <Snapshot id="20"/>
     <Snapshot id="67"/>
     <Snapshot id="68"/>
-    <BeginBlock/>
-    <SelectManifestation point="0 0 -5 -8 3 5"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <BookmarkTool name="tool-9"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="21"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="0 0 -5 -8 3 5"/>
-    <EndBlock/>
-    <setItemColor blue="0" green="0" red="0"/>
-    <BeginBlock/>
-    <SelectManifestation point="0 0 -5 -8 3 5"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <Snapshot id="22"/>
     <Branch>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 -5 -8 3 5"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <BookmarkTool name="tool-9"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="21"/>
+      <Delete/>
+      <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 -5 -8 3 5"/>
+      <EndBlock/>
+      <setItemColor blue="0" green="0" red="0"/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 -5 -8 3 5"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <Snapshot id="22"/>
+      <Branch>
+        <InvertSelection/>
+        <Delete/>
+        <Snapshot id="23"/>
+      </Branch>
+      <Delete/>
+      <Snapshot id="24"/>
+      <SelectManifestation endSegment="-2 -3 -3 -5 5 8" startSegment="2 3 -3 -5 5 8"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="25"/>
+      <Delete/>
+      <Snapshot id="26"/>
+      <BeginBlock/>
+      <SelectManifestation point="2 3 -3 -5 5 8"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <BookmarkTool name="tool-10"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="27"/>
+      <Delete/>
+      <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+      <Snapshot id="28"/>
+      <InvertSelection/>
+      <Branch>
+        <Delete/>
+        <Snapshot id="29"/>
+      </Branch>
       <InvertSelection/>
       <Delete/>
-      <Snapshot id="23"/>
-    </Branch>
-    <Delete/>
-    <Snapshot id="24"/>
-    <SelectManifestation endSegment="-2 -3 -3 -5 5 8" startSegment="2 3 -3 -5 5 8"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="25"/>
-    <Delete/>
-    <Snapshot id="26"/>
-    <BeginBlock/>
-    <SelectManifestation point="2 3 -3 -5 5 8"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <BookmarkTool name="tool-10"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="27"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
-    <Snapshot id="28"/>
-    <InvertSelection/>
-    <Branch>
+      <Snapshot id="30"/>
+      <SelectManifestation point="1 1 -5 -8 -2 -3"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation endSegment="1 1 -5 -8 2 3" startSegment="1 2 -4 -7 3 5"/>
+      <SelectManifestation endSegment="-1 -1 -5 -8 2 3" startSegment="1 1 -5 -8 2 3"/>
+      <SelectManifestation endSegment="-1 -1 -5 -8 2 3" startSegment="-1 -2 -4 -7 3 5"/>
+      <SelectManifestation endSegment="-1 -2 -4 -6 2 3" startSegment="-1 -1 -3 -5 3 5"/>
+      <DeselectAll/>
+      <SelectManifestation point="1 2 -4 -7 3 5"/>
+      <SelectManifestation point="1 1 -5 -8 2 3"/>
+      <SelectManifestation point="-1 -1 -5 -8 2 3"/>
+      <SelectManifestation point="-1 -2 -4 -7 3 5"/>
+      <SelectManifestation point="0 0 -4 -6 4 6"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <BookmarkTool name="tool-11"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="31"/>
       <Delete/>
-      <Snapshot id="29"/>
-    </Branch>
-    <InvertSelection/>
-    <Delete/>
-    <Snapshot id="30"/>
-    <SelectManifestation point="1 1 -5 -8 -2 -3"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation endSegment="1 1 -5 -8 2 3" startSegment="1 2 -4 -7 3 5"/>
-    <SelectManifestation endSegment="-1 -1 -5 -8 2 3" startSegment="1 1 -5 -8 2 3"/>
-    <SelectManifestation endSegment="-1 -1 -5 -8 2 3" startSegment="-1 -2 -4 -7 3 5"/>
-    <SelectManifestation endSegment="-1 -2 -4 -6 2 3" startSegment="-1 -1 -3 -5 3 5"/>
-    <DeselectAll/>
-    <SelectManifestation point="1 2 -4 -7 3 5"/>
-    <SelectManifestation point="1 1 -5 -8 2 3"/>
-    <SelectManifestation point="-1 -1 -5 -8 2 3"/>
-    <SelectManifestation point="-1 -2 -4 -7 3 5"/>
-    <SelectManifestation point="0 0 -4 -6 4 6"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <BookmarkTool name="tool-11"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="31"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
-    <Snapshot id="32"/>
-    <Branch>
-      <InvertSelection/>
+      <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+      <Snapshot id="32"/>
+      <Branch>
+        <InvertSelection/>
+        <Delete/>
+        <Snapshot id="33"/>
+      </Branch>
       <Delete/>
-      <Snapshot id="33"/>
-    </Branch>
-    <Delete/>
-    <Snapshot id="34"/>
-    <BeginBlock/>
-    <SelectManifestation point="2 3 -4 -6 3 5"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <BookmarkTool name="tool-12"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="35"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
-    <Snapshot id="36"/>
-    <Branch>
-      <InvertSelection/>
+      <Snapshot id="34"/>
+      <BeginBlock/>
+      <SelectManifestation point="2 3 -4 -6 3 5"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <BookmarkTool name="tool-12"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="35"/>
       <Delete/>
-      <Snapshot id="37"/>
-    </Branch>
-    <Delete/>
-    <Snapshot id="38"/>
-    <BeginBlock/>
-    <SelectManifestation point="-2 -3 -4 -7 2 3"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <BookmarkTool name="tool-13"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="39"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
-    <Snapshot id="40"/>
-    <Branch>
-      <InvertSelection/>
+      <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+      <Snapshot id="36"/>
+      <Branch>
+        <InvertSelection/>
+        <Delete/>
+        <Snapshot id="37"/>
+      </Branch>
       <Delete/>
-      <Snapshot id="41"/>
-    </Branch>
-    <Delete/>
-    <Snapshot id="42"/>
-    <BeginBlock/>
-    <SelectManifestation point="-1 -1 -3 -5 3 5"/>
-    <SelectNeighbors/>
-    <DeselectAll/>
-    <SelectManifestation point="-1 -1 -3 -5 3 5"/>
-    <SelectNeighbors/>
-    <DeselectAll/>
-    <SelectManifestation point="1 1 -3 -5 3 5"/>
-    <SelectManifestation point="-1 -1 -3 -5 3 5"/>
-    <SelectManifestation point="-1 -2 -4 -6 2 3"/>
-    <SelectManifestation point="0 0 -4 -7 1 2"/>
-    <SelectManifestation point="1 2 -4 -6 2 3"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <BookmarkTool name="tool-14"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="43"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
-    <Snapshot id="44"/>
-    <Branch>
-      <InvertSelection/>
+      <Snapshot id="38"/>
+      <BeginBlock/>
+      <SelectManifestation point="-2 -3 -4 -7 2 3"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <BookmarkTool name="tool-13"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="39"/>
       <Delete/>
-      <Snapshot id="45"/>
-    </Branch>
-    <Delete/>
-    <Snapshot id="46"/>
-    <BeginBlock/>
-    <SelectManifestation point="0 0 -3 -5 2 3"/>
-    <SelectNeighbors/>
-    <DeselectAll/>
-    <SelectManifestation point="-3 -5 -3 -5 3 5"/>
-    <SelectNeighbors/>
-    <DeselectAll/>
-    <SelectManifestation point="-5/2 -4 -4 -13/2 3/2 5/2"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <BookmarkTool name="tool-15"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="47"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-5/2 -4 -4 -13/2 3/2 5/2"/>
-    <EndBlock/>
-    <setItemColor blue="204" green="204" red="0"/>
-    <BeginBlock/>
-    <SelectManifestation endSegment="-5/2 -4 -4 -13/2 3/2 5/2" startSegment="-2 -3 -5 -8 0 0"/>
-    <SelectManifestation point="-5/2 -4 -4 -13/2 3/2 5/2"/>
-    <SelectManifestation endSegment="-5/2 -4 -4 -13/2 3/2 5/2" startSegment="-3 -5 -3 -5 3 5"/>
-    <EndBlock/>
-    <Snapshot id="48"/>
-    <Branch>
-      <InvertSelection/>
+      <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+      <Snapshot id="40"/>
+      <Branch>
+        <InvertSelection/>
+        <Delete/>
+        <Snapshot id="41"/>
+      </Branch>
       <Delete/>
-      <Snapshot id="49"/>
-    </Branch>
-    <Delete/>
-    <Snapshot id="50"/>
-    <BeginBlock/>
-    <SelectManifestation point="0 0 -2 -3 5 8"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <BookmarkTool name="tool-16"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="51"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="0 0 -2 -3 5 8"/>
-    <EndBlock/>
-    <setItemColor blue="153" green="153" red="153"/>
-    <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
-    <Snapshot id="52"/>
-    <Branch>
-      <InvertSelection/>
+      <Snapshot id="42"/>
+      <BeginBlock/>
+      <SelectManifestation point="-1 -1 -3 -5 3 5"/>
+      <SelectNeighbors/>
+      <DeselectAll/>
+      <SelectManifestation point="-1 -1 -3 -5 3 5"/>
+      <SelectNeighbors/>
+      <DeselectAll/>
+      <SelectManifestation point="1 1 -3 -5 3 5"/>
+      <SelectManifestation point="-1 -1 -3 -5 3 5"/>
+      <SelectManifestation point="-1 -2 -4 -6 2 3"/>
+      <SelectManifestation point="0 0 -4 -7 1 2"/>
+      <SelectManifestation point="1 2 -4 -6 2 3"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <BookmarkTool name="tool-14"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="43"/>
       <Delete/>
-      <Snapshot id="53"/>
-    </Branch>
-    <Delete/>
-    <Snapshot id="54"/>
-    <BeginBlock/>
-    <SelectManifestation point="0 0 -4 -6 0 0"/>
-    <SelectNeighbors/>
-    <DeselectAll/>
-    <SelectManifestation point="1 2 -2 -3 3 5"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <BookmarkTool name="tool-17"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="55"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
-    <Snapshot id="56"/>
-    <Branch>
-      <InvertSelection/>
+      <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+      <Snapshot id="44"/>
+      <Branch>
+        <InvertSelection/>
+        <Delete/>
+        <Snapshot id="45"/>
+      </Branch>
       <Delete/>
-      <Snapshot id="57"/>
-    </Branch>
-    <Delete/>
-    <Snapshot id="58"/>
-    <SelectManifestation endSegment="0 0 -3 -5 2 3" startSegment="-2 -3 0 0 3 5"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="59"/>
-    <Delete/>
-    <Snapshot id="60"/>
-    <BeginBlock/>
-    <SelectManifestation endSegment="1 1 -2 -3 0 0" startSegment="1 2 -3 -5 0 0"/>
-    <SelectManifestation point="1 2 -3 -5 0 0"/>
-    <EndBlock/>
-    <BookmarkTool name="tool-18"/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Snapshot id="61"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="tool-18" selectInputs="true"/>
-    <Snapshot id="62"/>
-    <Branch>
-      <InvertSelection/>
+      <Snapshot id="46"/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 -3 -5 2 3"/>
+      <SelectNeighbors/>
+      <DeselectAll/>
+      <SelectManifestation point="-3 -5 -3 -5 3 5"/>
+      <SelectNeighbors/>
+      <DeselectAll/>
+      <SelectManifestation point="-5/2 -4 -4 -13/2 3/2 5/2"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <BookmarkTool name="tool-15"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="47"/>
       <Delete/>
-      <Snapshot id="63"/>
+      <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="-5/2 -4 -4 -13/2 3/2 5/2"/>
+      <EndBlock/>
+      <setItemColor blue="204" green="204" red="0"/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="-5/2 -4 -4 -13/2 3/2 5/2" startSegment="-2 -3 -5 -8 0 0"/>
+      <SelectManifestation point="-5/2 -4 -4 -13/2 3/2 5/2"/>
+      <SelectManifestation endSegment="-5/2 -4 -4 -13/2 3/2 5/2" startSegment="-3 -5 -3 -5 3 5"/>
+      <EndBlock/>
+      <Snapshot id="48"/>
+      <Branch>
+        <InvertSelection/>
+        <Delete/>
+        <Snapshot id="49"/>
+      </Branch>
+      <Delete/>
+      <Snapshot id="50"/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 -2 -3 5 8"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <BookmarkTool name="tool-16"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="51"/>
+      <Delete/>
+      <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 -2 -3 5 8"/>
+      <EndBlock/>
+      <setItemColor blue="153" green="153" red="153"/>
+      <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+      <Snapshot id="52"/>
+      <Branch>
+        <InvertSelection/>
+        <Delete/>
+        <Snapshot id="53"/>
+      </Branch>
+      <Delete/>
+      <Snapshot id="54"/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 -4 -6 0 0"/>
+      <SelectNeighbors/>
+      <DeselectAll/>
+      <SelectManifestation point="1 2 -2 -3 3 5"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <BookmarkTool name="tool-17"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="55"/>
+      <Delete/>
+      <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+      <Snapshot id="56"/>
+      <Branch>
+        <InvertSelection/>
+        <Delete/>
+        <Snapshot id="57"/>
+      </Branch>
+      <Delete/>
+      <Snapshot id="58"/>
+      <SelectManifestation endSegment="0 0 -3 -5 2 3" startSegment="-2 -3 0 0 3 5"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="59"/>
+      <Delete/>
+      <Snapshot id="60"/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="1 1 -2 -3 0 0" startSegment="1 2 -3 -5 0 0"/>
+      <SelectManifestation point="1 2 -3 -5 0 0"/>
+      <EndBlock/>
+      <BookmarkTool name="tool-18"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <Snapshot id="61"/>
+      <Delete/>
+      <ApplyTool copyColors="true" name="tool-18" selectInputs="true"/>
+      <Snapshot id="62"/>
+      <Branch>
+        <InvertSelection/>
+        <Delete/>
+        <Snapshot id="63"/>
+      </Branch>
+      <Delete/>
+      <Snapshot id="64"/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="-1 -1 -2 -3 0 0" startSegment="-1 -2 -1 -2 1 2"/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <Snapshot id="65"/>
+      <Delete/>
+      <Snapshot id="66"/>
     </Branch>
-    <Delete/>
-    <Snapshot id="64"/>
-    <BeginBlock/>
-    <SelectManifestation endSegment="-1 -1 -2 -3 0 0" startSegment="-1 -2 -1 -2 1 2"/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <Snapshot id="65"/>
-    <Delete/>
-    <Snapshot id="66"/>
+    <AdjustSelectionByOrbitLength length="1 1" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
   </EditHistory>
   <notes>
     <page snapshot="66" title="12r2">
@@ -5197,7 +5200,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="41" title="6-7 1hb1 1r00">
+    <page snapshot="41" title="6-7 1hb0 1r00">
       <ViewModel distance="172.23838806152344" far="344.47674560546875" near="0.4305960237979889" parallel="false" stereoAngle="0.0" width="77.50727844238281">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.26019906997680664" y="-0.7582871913909912" z="-0.5977442264556885"/>
