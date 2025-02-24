@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="95" field="golden" version="7.1">
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
   <EditHistory editNumber="98" lastStickyEdit="97">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
@@ -4749,6 +4749,7 @@
       <EndBlock/>
       <BookmarkTool name="tool-9"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-19"/>
       <Snapshot id="21"/>
       <Delete/>
       <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
@@ -4771,6 +4772,7 @@
       <Snapshot id="24"/>
       <SelectManifestation endSegment="-2 -3 -3 -5 5 8" startSegment="2 3 -3 -5 5 8"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-20"/>
       <Snapshot id="25"/>
       <Delete/>
       <Snapshot id="26"/>
@@ -4780,6 +4782,7 @@
       <EndBlock/>
       <BookmarkTool name="tool-10"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-21"/>
       <Snapshot id="27"/>
       <Delete/>
       <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
@@ -4810,6 +4813,7 @@
       <EndBlock/>
       <BookmarkTool name="tool-11"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-22"/>
       <Snapshot id="31"/>
       <Delete/>
       <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
@@ -4827,6 +4831,7 @@
       <EndBlock/>
       <BookmarkTool name="tool-12"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-23"/>
       <Snapshot id="35"/>
       <Delete/>
       <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
@@ -4844,6 +4849,7 @@
       <EndBlock/>
       <BookmarkTool name="tool-13"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-24"/>
       <Snapshot id="39"/>
       <Delete/>
       <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
@@ -4871,6 +4877,7 @@
       <EndBlock/>
       <BookmarkTool name="tool-14"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-25"/>
       <Snapshot id="43"/>
       <Delete/>
       <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
@@ -4894,6 +4901,7 @@
       <EndBlock/>
       <BookmarkTool name="tool-15"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-26"/>
       <Snapshot id="47"/>
       <Delete/>
       <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
@@ -4921,6 +4929,7 @@
       <EndBlock/>
       <BookmarkTool name="tool-16"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-27"/>
       <Snapshot id="51"/>
       <Delete/>
       <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
@@ -4947,6 +4956,7 @@
       <EndBlock/>
       <BookmarkTool name="tool-17"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-28"/>
       <Snapshot id="55"/>
       <Delete/>
       <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
@@ -4960,6 +4970,7 @@
       <Snapshot id="58"/>
       <SelectManifestation endSegment="0 0 -3 -5 2 3" startSegment="-2 -3 0 0 3 5"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-29"/>
       <Snapshot id="59"/>
       <Delete/>
       <Snapshot id="60"/>
@@ -4969,6 +4980,7 @@
       <EndBlock/>
       <BookmarkTool name="tool-18"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BookmarkTool name="tool-30"/>
       <Snapshot id="61"/>
       <Delete/>
       <ApplyTool copyColors="true" name="tool-18" selectInputs="true"/>
@@ -4993,6 +5005,7 @@
       <SelectNeighbors/>
       <SelectNeighbors/>
       <EndBlock/>
+      <BookmarkTool name="tool-31"/>
       <Snapshot id="65"/>
       <Delete/>
       <Snapshot id="66"/>
@@ -5008,7 +5021,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="65" title="30b0">
+    <page snapshot="65" title="b0 x 30">
       <ViewModel distance="172.23838806152344" far="344.47674560546875" near="0.4305960237979889" parallel="false" stereoAngle="0.0" width="77.50727844238281">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.26019906997680664" y="-0.7582871913909912" z="-0.5977442264556885"/>
@@ -5056,7 +5069,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="59" title="1-2 30b2">
+    <page snapshot="59" title="1-2 b2 x 30">
       <ViewModel distance="172.23838806152344" far="344.47674560546875" near="0.4305960237979889" parallel="false" stereoAngle="0.0" width="77.50727844238281">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.26019906997680664" y="-0.7582871913909912" z="-0.5977442264556885"/>
@@ -5328,7 +5341,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="25" title="10-11 60b2">
+    <page snapshot="25" title="10-11 b2 x 60">
       <ViewModel distance="172.23838806152344" far="344.47674560546875" near="0.4305960237979889" parallel="false" stereoAngle="0.0" width="77.50727844238281">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.26019906997680664" y="-0.7582871913909912" z="-0.5977442264556885"/>
@@ -5438,8 +5451,21 @@
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-16" label="bookmark 16" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-17" label="bookmark 17" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-18" label="bookmark 18" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-19" label="11-12" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-2" label="bookmark 2" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-20" label="10-11 b2" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-21" label="9-10" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-22" label="8-9" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-23" label="7-8" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-24" label="6-7" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-25" label="5-6" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-26" label="4-5" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-27" label="3-4" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-28" label="2-3" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-29" label="1-2" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-3" label="grijs" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-30" label="0-1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-31" label="0" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-4" label="bl" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-5" label="bookmark 5" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-6" label="bookmark 6" selectInputs="true"/>
