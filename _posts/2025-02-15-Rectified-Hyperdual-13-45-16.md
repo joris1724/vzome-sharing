@@ -16,7 +16,7 @@ The compound of the 3D projections of the rectified hecatonicosachoron and its d
 <p>
 The rectified hecatonicosachoron is built 1 strut length shorter (i.e., "1" -> "0"), around the same center as the rectified hexacosichoron. White connectors belong to the rectified hecatonicosachoron, black to the rectified hexacosichoron, grey to both of them.
 <p>
-In the initial stages of the build, the kernels of the rectified hecatonicosachoron (an icosadodecahdron with tetrahedral spikes) and the rectified hexacosichoron (a larger icosadodecahdron centered around an smaller icosahedron) float within each other. Only in scene 31 of the vZome model, the two kernels get connected.
+In the initial stages of the build, the kernels of the rectified hecatonicosachoron (an icosadodecahdron with tetrahedral spikes) and the rectified hexacosichoron (a larger icosadodecahdron centered around an smaller icosahedron) float within each other. Only in scene 31 of the vZome model, the two kernels get connected by red struts (in this model pink coloured).
 
 <figure style="width: 87%; margin: 5%">
   
