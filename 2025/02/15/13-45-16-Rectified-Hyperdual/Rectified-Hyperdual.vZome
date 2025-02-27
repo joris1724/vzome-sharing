@@ -15451,17 +15451,19 @@
           <SelectNeighbors/>
           <EndBlock/>
           <BookmarkTool name="tool-20"/>
+	  <Hide/>
+          <ApplyTool copyColors="true" name="tool-20" selectInputs="true"/>
+          <Branch>
+            <InvertSelection/>
+	    <Hide/>
+            <Snapshot id="75"/>
+          </Branch>
           <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-          <BookmarkTool name="tool-48"/>
           <Snapshot id="73"/>
+          <BookmarkTool name="tool-48"/>
           <Delete/>
           <ApplyTool copyColors="true" name="tool-20" selectInputs="true"/>
           <Snapshot id="74"/>
-          <Branch>
-            <InvertSelection/>
-            <Delete/>
-            <Snapshot id="75"/>
-          </Branch>
           <Delete/>
           <Snapshot id="76"/>
           <BeginBlock/>
