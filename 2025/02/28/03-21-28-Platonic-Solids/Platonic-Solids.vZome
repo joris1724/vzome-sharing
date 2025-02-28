@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="106" lastStickyEdit="109">
+  <EditHistory editNumber="109" lastStickyEdit="131">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -5, -8, 1 ], [ -2, -3, 1 ], [ 1, 1, 1 ] ], [ [ -5, -8, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ -25774, -41141, 5447 ], [ -20814, -31221, 5447 ], [ 2, 3, 1 ] ], [ [ -25774, -41141, 5447 ], [ -974, -1461, 5447 ], [ 2, 3, 1 ] ], [ [ -13385, -21338, 2911 ], [ -8343, -13775, 2911 ], [ 780, 1170, 2911 ] ], [ [ -4, -6, 1 ], [ -4, -6, 1 ], [ 0, 0, 1 ] ], [ [ -4, -6, 1 ], [ -4, -6, 1 ], [ 4, 6, 1 ] ], [ [ -4, -6, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -4, -6, 1 ], [ 0, 0, 1 ], [ 4, 6, 1 ] ], [ [ -20814, -31221, 5447 ], [ -2, -3, 1 ], [ -3986, -8459, 5447 ] ], [ [ -20814, -31221, 5447 ], [ -2, -3, 1 ], [ 25774, 41141, 5447 ] ], [ [ -10864, -16296, 2911 ], [ 1741, 3872, 2911 ], [ 8343, 13775, 2911 ] ], [ [ -3, -5, 1 ], [ -5, -8, 1 ], [ 2, 3, 1 ] ], [ [ -3, -5, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ -8343, -13775, 2911 ], [ -10864, -16296, 2911 ], [ 13385, 21338, 2911 ] ], [ [ -2, -3, 1 ], [ -25774, -41141, 5447 ], [ 974, 1461, 5447 ] ], [ [ -2, -3, 1 ], [ -25774, -41141, 5447 ], [ 20814, 31221, 5447 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ -2, -3, 1 ], [ -1, -1, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ -1, -1, 1 ], [ 5, 8, 1 ] ], [ [ -2, -3, 1 ], [ 3986, 8459, 5447 ], [ 974, 1461, 5447 ] ], [ [ -2, -3, 1 ], [ 3986, 8459, 5447 ], [ 20814, 31221, 5447 ] ], [ [ -3301, -3691, 2911 ], [ -780, -1170, 2911 ], [ -1741, -3872, 2911 ] ], [ [ -1, -1, 1 ], [ -5, -8, 1 ], [ 2, 3, 1 ] ], [ [ -1, -1, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ -780, -1170, 2911 ], [ -13385, -21338, 2911 ], [ 3301, 3691, 2911 ] ], [ [ -974, -1461, 5447 ], [ -2, -3, 1 ], [ -3986, -8459, 5447 ] ], [ [ -974, -1461, 5447 ], [ -2, -3, 1 ], [ 25774, 41141, 5447 ] ], [ [ 0, 0, 1 ], [ -4, -6, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -4, -6, 1 ], [ 4, 6, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 4, 6, 1 ] ], [ [ 1741, 3872, 2911 ], [ -3301, -3691, 2911 ], [ 10864, 16296, 2911 ] ], [ [ 3986, 8459, 5447 ], [ -20814, -31221, 5447 ], [ 2, 3, 1 ] ], [ [ 3986, 8459, 5447 ], [ -974, -1461, 5447 ], [ 2, 3, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ 1, 1, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ] ],
@@ -549,7 +549,9 @@
     <EndBlock/>
     <NewCentroid/>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="-2 -3 -2 -3 2 3"/>
     <SelectManifestation point="0 0 0 0 0 0"/>
@@ -575,7 +577,9 @@
     <EndBlock/>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
     <BookmarkTool name="tool-1"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="-3 -5 0 0 -1 -2"/>
     <SelectManifestation endSegment="-2 -3 2 3 -2 -3" startSegment="-3 -5 0 0 -1 -2"/>
@@ -590,7 +594,9 @@
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
     <BookmarkTool name="tool-2"/>
     <AdjustSelectionByClass balls="DESELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="0 0 -1 -2 -3 -5"/>
     <SelectNeighbors/>
@@ -677,7 +683,9 @@
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
     <AdjustSelectionByClass balls="DESELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation>
       <polygonVertex at="1 2 3 5 0 0"/>
@@ -744,7 +752,9 @@
     </SelectManifestation>
     <EndBlock/>
     <BookmarkTool name="tool-4"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <AdjustSelectionByOrbitLength length="10084/2911 15126/2911" orbit="green" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
     <AdjustSelectionByOrbitLength orbit="yellow" panels="SELECT" struts="IGNORE" symmetry="icosahedral"/>
@@ -755,32 +765,74 @@
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <EndBlock/>
     <BookmarkTool name="tool-5"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <Branch>
+      <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+      <setItemColor blue="0" green="0" red="255"/>
+      <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
       <DeselectAll/>
       <Snapshot id="0"/>
     </Branch>
     <Branch>
       <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+      <setItemColor blue="255" green="0" red="128"/>
+      <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
       <DeselectAll/>
       <Snapshot id="1"/>
     </Branch>
     <Branch>
+      <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+      <setItemColor blue="0" green="255" red="255"/>
+      <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
       <DeselectAll/>
       <Snapshot id="2"/>
     </Branch>
     <Branch>
       <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+      <setItemColor blue="255" green="255" red="0"/>
+      <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
       <DeselectAll/>
       <Snapshot id="3"/>
     </Branch>
+    <Branch>
+      <Branch>
+        <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+	<setItemColor blue="0" green="255" red="0"/>
+	<ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+	<Hide>
+	  <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+	</Hide>
+	<ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="4"/>
+      </Branch>
+    </Branch>
+    <ShowHidden/>
+    <Delete/>
     <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
     <DeselectAll/>
-    <Snapshot id="4"/>
   </EditHistory>
   <notes>
     <page snapshot="0" title="tetrahedron">
