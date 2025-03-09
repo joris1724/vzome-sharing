@@ -20112,7 +20112,6 @@
         <Delete/>
         <Snapshot id="11"/>
       </Branch>
-
       <SelectManifestation point="13 21 -2 -3 0 0"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
       <BeginBlock/>
@@ -20133,7 +20132,6 @@
         <Delete/>
         <Snapshot id="15"/>
       </Branch>
-
       <SelectManifestation point="11 18 3 5 0 0"/>
       <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
       <BeginBlock/>
@@ -20155,7 +20153,6 @@
         <Delete/>
         <Snapshot id="20"/>
       </Branch>
-
       <BeginBlock/>
       <SelectManifestation point="10 16 4 6 0 0"/>
       <DeselectAll/>
@@ -21756,7 +21753,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="20" title="28-29 1b2 1r2 2y2">
+    <page snapshot="20" title="28-29 1r1 2y2">
       <ViewModel distance="375.7332458496094" far="751.4659423828125" near="0.9393336772918701" parallel="false" stereoAngle="0.0" width="169.08004760742188">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.028081534430384636" y="0.9943342804908752" z="-0.10253331810235977"/>
@@ -22035,8 +22032,8 @@
     <Tool copyColors="true" deleteInputs="false" id="tool-68" label="0-1" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-69" label="0" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-7" label="bookmark 7" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-70" label="28-29" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-8" label="bookmark 8" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-9" label="bookmark 9" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-70" label="28-29" selectInputs="true"/>
   </Tools>
 </vzome:vZome>
