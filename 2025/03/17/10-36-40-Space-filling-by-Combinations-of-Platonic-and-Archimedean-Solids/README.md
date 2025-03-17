@@ -24,7 +24,7 @@
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
-     REPLACE this caption!
+     11 Pearce Systems for Space filling
   </figcaption>
 </figure>
 
