@@ -1,6 +1,6 @@
 ---
 title: Space filling by Combinations of Platonic and Archimedean Solids
-description: <p class="post-meta">Updated on March 25, 2025</p>Peter Pearce enlisted 11 space filling systems requiring multiple different types of polyhedra but no multiple prism packings. All of these systems can be build exactly with Zometool, if one is prepared to use both blue and blue-green struts.
+description: Peter Pearce enlisted 11 space filling systems requiring multiple different types of polyhedra but no multiple prism packings. All of these systems can be build exactly with Zometool, if one is prepared to use both blue and blue-green struts.
 image: https://joris1724.github.io/vzome-sharing/2025/03/17/10-36-40-Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids/Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids.png
 published: true
 layout: vzome
