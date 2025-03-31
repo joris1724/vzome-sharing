@@ -1,4 +1,8 @@
-@color=("","#FFFF80","#808080");
+%hide= (q<    "color" : "#FF0000"
+>,1,q<    "color" : "#00FF00"
+>,1,q<    "color" : "#0000FF"
+>,1);
+@color=("","#FF0000","#00FF00","#FFFF00");
 $FI=(1+sqrt(5))/2;
 @A=@ARGV;
 $nV=0;
@@ -75,17 +79,11 @@ while (<>) {
 	($v1,$v2)=($1,$2);
 	$t=$T{$1};
       }
-      else {
-	die;
-      }
     }
     if (exists $T{$2}) {
       unless (exists $T{$1}) {
 	($v1,$v2)=($2,$1);
 	$t=$T{$2};
-      }
-      else {
-	die;
       }
     }
     if ($t) {
@@ -132,6 +130,7 @@ for $t (1..$nT) {
 >;
 
     for $e (keys %E) {
+      next if $hide{$E{$e}};
       $ok=0;
       @E=($e=~/([0-9]+)/g);
       for $v (keys %{$ETD[$t]{$d}} ) {
