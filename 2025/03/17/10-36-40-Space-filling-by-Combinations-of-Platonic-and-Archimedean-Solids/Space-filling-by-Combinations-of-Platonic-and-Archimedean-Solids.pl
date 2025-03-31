@@ -2,7 +2,7 @@
 >,1,q<    "color" : "#00FF00"
 >,1,q<    "color" : "#0000FF"
 >,1);
-@color=("","#FF0000","#00FF00","#FFFF00");
+@color=("","#FFFF80","#A0FFA0","#A0A0FF");
 $FI=(1+sqrt(5))/2;
 @A=@ARGV;
 $nV=0;
