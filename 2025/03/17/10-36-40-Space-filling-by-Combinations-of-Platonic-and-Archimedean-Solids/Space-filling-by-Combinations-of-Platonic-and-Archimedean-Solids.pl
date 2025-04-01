@@ -1,8 +1,8 @@
-%hide= (q<    "color" : "#FF0000"
->,1,q<    "color" : "#00FF00"
->,1,q<    "color" : "#0000FF"
->,1);
-@color=("","#FF80FF","#00FFFF","#CCFF00");
+@color=("","#CCFFCC","#FFCCCC","#00FF00","#FF0000");
+
+%color=map {$color[$_],$_} (1..$#color);
+%hide= map {qq<    "color" : "$color[$_]"
+>,1} (1..$#color);
 $FI=(1+sqrt(5))/2;
 @A=@ARGV;
 $nV=0;
@@ -37,19 +37,16 @@ while (<>) {
 
   if ($prev=~/vertex" : ([0-9]+),/) {
     $v=$1;
-    if (/"color" : "#(.)(.)(.)(.)(.)(.)"/) {
-      $t=0;
-      $t=1 if ("$1$2" eq "FF" || "$1$2" eq "F0");
-      $t=2 if ("$3$4" eq "FF" || "$3$4" eq "F0");
-      $t=3 if ("$5$6" eq "FF" || "$5$6" eq "F0");
+    if (/"color" : "(#.{6})"/) {
+      $t=$color{$1};
       if ($t) {
 	$V[$v]{t}=$t;
 	$T{$v}=$t;
 	push @{$VT[$t]},$v;
 	$nT=$t if $t>$nT;
       }
-      $a=$v if  "$2$4$6" eq "000";
-      $b=$v if  "$1$2$3$4$5$6" eq "B1B1B1";
+      $a=$v if  $1 eq "#000000";
+      $b=$v if  $1 eq "#B1B1B1";
     }
   }
 

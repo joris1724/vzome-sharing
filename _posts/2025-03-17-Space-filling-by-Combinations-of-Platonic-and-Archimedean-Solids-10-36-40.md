@@ -27,7 +27,7 @@ The following vZome model includes four scenes for each of the eleven systems: o
   </figcaption>
 </figure>
 
-Robert Austin explored some of these systems (<a href="https://robertlovespi.net/2018/10/21/octahedra-and-truncated-cubes-can-fill-space-without-leaving-any-gaps/">system 7</a>, <a href="https://robertlovespi.net/2020/03/18/filling-space-with-cuboctahedra-and-octahedra/">system 8</a>, <a href="https://robertlovespi.net/2019/11/29/space-filling-octagonal-prisms-and-great-rhombcuboctahedra/">system 9</a>, <a href="https://robertlovespi.net/2014/03/30/a-close-packing-of-space-using-three-different-polyhedra/">system 16</a>, <a href="https://robertlovespi.net/2018/06/02/three-space-filling-archimedean-solids-the-great-rhombcuboctahedron-the-truncated-tetrahedron-and-the-truncated-cube/">system 17</a> and <a href="https://robertlovespi.net/2014/11/22/a-space-filling-arrangement-of-polyhedra-using-truncated-cubes-rhombcuboctahedra-cubes-and-octagonal-prisms/">system 23</a>) with Stella. This inspired me to construct vZome models where subsequent scenes show the polyhedra with centra within spheres with a increasing radius. These models will be shown here, in due course (current status of implementation: 6/11).
+Robert Austin explored some of these systems (<a href="https://robertlovespi.net/2018/10/21/octahedra-and-truncated-cubes-can-fill-space-without-leaving-any-gaps/">system 7</a>, <a href="https://robertlovespi.net/2020/03/18/filling-space-with-cuboctahedra-and-octahedra/">system 8</a>, <a href="https://robertlovespi.net/2019/11/29/space-filling-octagonal-prisms-and-great-rhombcuboctahedra/">system 9</a>, <a href="https://robertlovespi.net/2014/03/30/a-close-packing-of-space-using-three-different-polyhedra/">system 16</a>, <a href="https://robertlovespi.net/2018/06/02/three-space-filling-archimedean-solids-the-great-rhombcuboctahedron-the-truncated-tetrahedron-and-the-truncated-cube/">system 17</a> and <a href="https://robertlovespi.net/2014/11/22/a-space-filling-arrangement-of-polyhedra-using-truncated-cubes-rhombcuboctahedra-cubes-and-octagonal-prisms/">system 23</a>) with Stella. This inspired me to construct vZome models where subsequent scenes show the polyhedra with centra within spheres with a increasing radius. These models will be shown here, in due course (current status of implementation: 7/11).
 
 <figure style="width: 87%; margin: 5%">
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='s05'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='s05'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='s05'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='s05'></vzome-viewer-end></div></div>
@@ -38,6 +38,18 @@ Robert Austin explored some of these systems (<a href="https://robertlovespi.net
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
     System 5: Space filling by Octahedra and Tetrahedra
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='s06'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='s06'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='s06'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='s06'></vzome-viewer-end></div></div>
+  <vzome-viewer id='s06' style="width: 100%; height: 60dvh" indexed='true'
+        src="https://joris1724.github.io/vzome-sharing/2025/03/17/10-36-40-Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids/Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids-06.vZome" >
+    <img  style="width: 100%"
+        src="https://joris1724.github.io/vzome-sharing/2025/03/17/10-36-40-Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids/Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids-06.png" >
+  </vzome-viewer>
+  <figcaption style="text-align: center; font-style: italic;">
+    System 06: Space filling by Tetrahedra and Truncated Tetrahedra
   </figcaption>
 </figure>
 
