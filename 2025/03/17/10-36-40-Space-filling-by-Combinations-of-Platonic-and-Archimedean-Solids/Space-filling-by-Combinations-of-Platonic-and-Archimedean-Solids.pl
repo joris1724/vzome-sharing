@@ -1,4 +1,4 @@
-@color=("","#FFFF80","#A0A0FF","#FFA0A0","#CCFFCC");
+@color=("","#FF80FF","#CCFF00","#00FFFF","#FF0000");
 
 %color=map {$color[$_],$_} (1..$#color);
 %hide= map {qq<    "color" : "$color[$_]"
@@ -56,6 +56,7 @@ while (<>) {
     }
   }
   if (/panels" : \[/) {
+
     ($struts,$panels)=(0,1);
     $b1=sqrt( ($V[$b]{x}-$V[$a]{x})*($V[$b]{x}-$V[$a]{x}) + ($V[$b]{y}-$V[$a]{y})*($V[$b]{y}-$V[$a]{y}) + ($V[$b]{z}-$V[$a]{z})*($V[$b]{z}-$V[$a]{z}) );
     for $t (1..$nT) {
