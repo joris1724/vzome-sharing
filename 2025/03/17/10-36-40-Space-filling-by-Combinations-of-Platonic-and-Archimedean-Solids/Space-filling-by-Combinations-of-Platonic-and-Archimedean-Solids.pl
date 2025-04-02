@@ -1,4 +1,4 @@
-@color=("","#CCFFCC","#FFCCCC","#00FF00","#FF0000");
+@color=("","#FFFF80","#A0A0FF","#FFA0A0","#CCFFCC");
 
 %color=map {$color[$_],$_} (1..$#color);
 %hide= map {qq<    "color" : "$color[$_]"
