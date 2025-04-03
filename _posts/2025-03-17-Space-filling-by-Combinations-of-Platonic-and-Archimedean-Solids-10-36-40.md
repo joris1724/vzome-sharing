@@ -151,7 +151,7 @@ Robert Austin explored some of these systems (<a href="https://robertlovespi.net
 
 
 <figure style="width: 87%; margin: 5%">
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='s23)'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='s23'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='s23'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='s23'></vzome-viewer-end></div></div>
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='s23'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='s23'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='s23'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='s23'></vzome-viewer-end></div></div>
   <vzome-viewer id='s23' style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2025/03/17/10-36-40-Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids/Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids-23.vZome" >
     <img  style="width: 100%"
