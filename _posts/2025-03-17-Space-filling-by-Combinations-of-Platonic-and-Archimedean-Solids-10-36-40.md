@@ -158,7 +158,7 @@ Robert Austin explored some of these systems (<a href="https://robertlovespi.net
         src="https://joris1724.github.io/vzome-sharing/2025/03/17/10-36-40-Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids/Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids-20.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    System 20: Space filling by Rhombicuboctahedra, Truncated Cubes, Cubes and Octagonal Prisms
+    System 23: Space filling by Rhombicuboctahedra, Truncated Cubes, Cubes and Octagonal Prisms
   </figcaption>
 </figure>
 
