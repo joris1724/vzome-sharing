@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="95" field="golden" version="7.1">
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
   <EditHistory editNumber="448" lastStickyEdit="448">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
@@ -6622,9 +6622,14 @@
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <Delete/>
     <Snapshot id="23"/>
+    <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+    <InvertSelection/>
+    <Hide/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
   </EditHistory>
   <notes>
-    <page snapshot="21" title="0-1 ">
+    <page snapshot="21" title="0-1 2b1 1b1">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6632,7 +6637,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="20" title="0-1 x 30">
+    <page snapshot="20" title="Step 1/6">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6640,7 +6645,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="19" title="1-2 ">
+    <page snapshot="19" title="1-2 3g2">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6656,7 +6661,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="17" title="1-2 x ">
+    <page snapshot="17" title="1-2 x 20">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6664,7 +6669,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="16" title="2">
+    <page snapshot="16" title="Step 2/6">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6672,7 +6677,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="15" title="2-3 ">
+    <page snapshot="15" title="2-3 2hg0 2hg2 4g1">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6688,7 +6693,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="13" title="2-3 x ">
+    <page snapshot="13" title="2-3 x 30">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6696,7 +6701,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="12" title="3">
+    <page snapshot="12" title="Step 3/6">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6704,7 +6709,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="11" title="3-4 ">
+    <page snapshot="11" title="3-4 2g1 1hg2">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6720,7 +6725,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="9" title="3-4 x ">
+    <page snapshot="9" title="3-4 x 60 ">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6728,7 +6733,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="8" title="4">
+    <page snapshot="8" title="Step 4/6">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6736,7 +6741,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="7" title="4-5 ">
+    <page snapshot="7" title="4-5 3b1 3b3 3hg0 3g1 3g1 3g2">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6752,7 +6757,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="5" title="4-5 x ">
+    <page snapshot="5" title="4-5 x 20">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6760,7 +6765,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="4" title="5">
+    <page snapshot="4" title="Step 5/6">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6768,7 +6773,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="3" title="5-6 ">
+    <page snapshot="3" title="5-6 1hg2 2g1">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6784,7 +6789,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="1" title="5-6 x ">
+    <page snapshot="1" title="5-6 x 60">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
@@ -6792,7 +6797,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="22" title="6">
+    <page snapshot="22" title="Step 6/6">
       <ViewModel distance="423.63812255859375" far="847.276123046875" near="1.0590945482254028" parallel="false" stereoAngle="0.0" width="190.63734436035156">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10110846161842346" y="-0.971149206161499" z="-0.21599017083644867"/>
