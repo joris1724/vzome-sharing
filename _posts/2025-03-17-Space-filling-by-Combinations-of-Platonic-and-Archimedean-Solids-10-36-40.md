@@ -148,3 +148,4 @@ Robert Austin explored some of these systems (<a href="https://robertlovespi.net
     System 20: Space filling by Cuboctahedra, Truncated Tetrahedra and Truncated Octahedra
   </figcaption>
 </figure>
+
