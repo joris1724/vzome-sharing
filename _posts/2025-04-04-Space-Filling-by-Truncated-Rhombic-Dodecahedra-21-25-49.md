@@ -36,7 +36,7 @@ Even when one truncates only one type of vertices, the resulting space filling s
         src="https://joris1724.github.io/vzome-sharing/2025/04/04/21-25-49-Space-Filling-by-Truncated-Rhombic-Dodecahedra/Space-Filling-by-Truncated-Rhombic-Dodecahedra-A.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Space filling by Truncated Rhombic Dodecahedra and Cubes
+    Space filling by Tetratruncated Rhombic Dodecahedra and Cubes
   </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Even when one truncates only one type of vertices, the resulting space filling s
         src="https://joris1724.github.io/vzome-sharing/2025/04/04/21-25-49-Space-Filling-by-Truncated-Rhombic-Dodecahedra/Space-Filling-by-Truncated-Rhombic-Dodecahedra-B.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Space filling by Truncated Rhombic Dodecahedra and Tetrahedra
+    Space filling by Tritruncated Rhombic Dodecahedra and Tetrahedra
   </figcaption>
 </figure>
 
