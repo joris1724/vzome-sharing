@@ -1,7 +1,7 @@
 ---
 title: Compound of 6 Pentagonal Prisms
 description: Another "even trickier" model George Hart proposed in 2001. Following these steps, no dexterity is needed.
-image: https://joris1724.github.io/vzome-sharing/2025/02/15/13-01-06-Compound-of-6-Pentagonal-Prisms/Compound-of-6-Pentagonal-Prisms.png
+image: https://joris1724.github.io/vzome-sharing/2025/02/15/13-01-06-Compound-of-6-Pentagonal-Prisms/Compound-of-6-Pentagonal-Prisms.jpg
 published: true
 layout: vzome
 ---
