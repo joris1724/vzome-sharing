@@ -4,6 +4,7 @@ description: The only regular stellation of the hexacosichoron. Like the hexacos
 image: https://joris1724.github.io/vzome-sharing/2025/02/09/11-04-40-Grand-Hexacosichoron/Grand-Hexacosichoron.png
 published: true
 layout: vzome
+last-updated: April 4, 2025
 ---
 
 {% comment %}
