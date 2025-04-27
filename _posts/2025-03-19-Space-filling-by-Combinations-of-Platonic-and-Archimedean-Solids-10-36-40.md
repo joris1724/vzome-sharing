@@ -4,6 +4,7 @@ description: Peter Pearce enlisted 11 space filling systems requiring multiple d
 image: https://joris1724.github.io/vzome-sharing/2025/03/17/10-36-40-Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids/Space-filling-by-Combinations-of-Platonic-and-Archimedean-Solids.png
 published: true
 layout: vzome
+last-updated: April 4, 2025
 ---
 
 {% comment %}
