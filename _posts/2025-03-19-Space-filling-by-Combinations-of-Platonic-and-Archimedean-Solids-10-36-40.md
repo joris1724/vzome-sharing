@@ -5,6 +5,7 @@ image: https://joris1724.github.io/vzome-sharing/2025/03/17/10-36-40-Space-filli
 published: true
 layout: vzome
 last-updated: April 4, 2025
+full-width: true
 ---
 
 {% comment %}
