@@ -9,6 +9,14 @@ title: Zometool models
   {% for post in site.tags.polychora %}
   <article class="post-preview">
 
+      {% capture excerpt_vzome %}
+        {%- if post.description -%}
+          {{ post.description | strip_html | xml_escape  }}
+        {%- else -%}
+        {%- endif -%}
+      {% endcapture %}
+      {% assign excerpt_vzome=excerpt_vzome | strip %}
+
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
         {{ post.thumbnail-img }}
