@@ -27,7 +27,6 @@ rss-description: My vZome Designs
 ###############################################
 
 navbar-links:
-  All Posts: "/"
   3D Compounds: "/compounds"
   3D Stellations: "/stellations"
   Honeycombs: "/tessalations"
