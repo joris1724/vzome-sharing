@@ -27,7 +27,12 @@ rss-description: My vZome Designs
 ###############################################
 
 navbar-links:
-  Compounds: "/vzome-share/compounds"
+  All Posts: "/"
+  3D Compounds: "/compounds"
+  3D Stellations: "/stellations"
+  Honeycombs: "/tessalations"
+  4D Polychora: "/polychora"
+  5D+ Polytopes: "/polytopes"
   About: "/about"
   vZome Home: "https://www.vzome.com"
 

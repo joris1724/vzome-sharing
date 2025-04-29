@@ -5,13 +5,6 @@ title: Zometool models
 ---
 <center>Tested by actual builds. All intersecting blues replaced by connected half-blues.</center>
 
-<div class="list-filters">
-  <a href="/vzome-share/" class="list-filter">All posts</a>
-  <a href="/vzome-share/compounds" class="list-filter filter-selected">Compounds</a>
-</div>
-
-{% assign posts = paginator.posts | default: site.posts %}
-
 <div class="posts-list">
   {% for post in site.tags.compounds %}
   <article class="post-preview">
@@ -25,6 +18,8 @@ title: Zometool models
         {% else %}
           {{ post.cover-img }}
         {% endif %}
+      {% elsif post.image %}
+        {{ post.image }}
       {% else %}
       {% endif %}
     {% endcapture %}
@@ -52,7 +47,11 @@ title: Zometool models
 
     <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-      Posted on {{ post.date | date: date_format }}
+        {% if post.last-updated %}
+        Updated on {{ post.last-updated }}
+        {% else %}
+        Posted on {{ post.date | date: date_format }}
+        {% endif %}
     </p>
 
     {% if thumbnail != "" %}
