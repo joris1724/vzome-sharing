@@ -5,7 +5,7 @@ title: Zometool models
 ---
 <center>Tested by actual builds. All intersecting blues replaced by connected half-blues.</center>
 
-<div class="posts-list">
+<ul class="posts-list list-unstyled" role="list">
   {% for post in site.tags.polytopes %}
   <li class="post-preview">
     <article>
@@ -103,7 +103,7 @@ title: Zometool models
     </article>
   </li>
   {% endfor %}
-</div>
+</ul>
 
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
