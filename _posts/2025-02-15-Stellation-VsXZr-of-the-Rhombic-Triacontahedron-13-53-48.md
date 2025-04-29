@@ -4,6 +4,7 @@ description: A nice and large chiral stellation, with the original rhombic triac
 image: https://joris1724.github.io/vzome-sharing/2025/02/15/13-53-48-Stellation-VsXZr-of-the-Rhombic-Triacontahedron/Stellation-VsXZr-of-the-Rhombic-Triacontahedron.jpg
 published: true
 layout: vzome
+tags: [stellations]
 ---
 
 {% comment %}

@@ -4,6 +4,7 @@ description: Truncated rhombic dodecahedra together with cubes and/or tetrahedra
 image: https://joris1724.github.io/vzome-sharing/2025/04/04/21-25-49-Space-Filling-by-Truncated-Rhombic-Dodecahedra/Space-Filling-by-Truncated-Rhombic-Dodecahedra.png
 published: true
 layout: vzome
+tags: [tessalations]
 ---
 
 {% comment %}

@@ -4,6 +4,7 @@ description:  The regular compound of 120 pentachora, with full hexacosichoric s
 image: https://joris1724.github.io/vzome-sharing/2025/02/14/12-23-16-Medial-Hexacosichoron/Medial-Hexacosichoron.png
 published: true
 layout: vzome
+tags: [polychora]
 ---
 
 {% comment %}

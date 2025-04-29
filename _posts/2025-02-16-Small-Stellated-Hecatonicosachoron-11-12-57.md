@@ -4,6 +4,7 @@ description:  Also called the first stellation of the hecatonicosachoron. It is 
 image: https://joris1724.github.io/vzome-sharing/2025/02/09/11-12-57-Small-Stellated-Hecatonicosachoron/Small-Stellated-Hecatonicosachoron.png
 published: true
 layout: vzome
+tags: [polychora]
 ---
 
 {% comment %}

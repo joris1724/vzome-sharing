@@ -4,6 +4,7 @@ description: The compound of the 3D projections of the rectified hecatonicosacho
 image: https://joris1724.github.io/vzome-sharing/2025/02/15/13-45-16-Rectified-Hyperdual/Rectified-Hyperdual.png
 published: true
 layout: vzome
+tags: [polychora]
 ---
 
 {% comment %}

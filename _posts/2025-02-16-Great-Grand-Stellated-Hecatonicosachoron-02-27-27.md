@@ -4,6 +4,7 @@ description: The final regular stellation of the hecatonicosachoron. It is the 4
 image: https://joris1724.github.io/vzome-sharing/2025/02/17/02-27-27-Great-Grand-Stellated-Hecatonicosachoron/Great-Grand-Stellated-Hecatonicosachoron.png
 published: true
 layout: vzome
+tags: [polychora]
 ---
 
 {% comment %}

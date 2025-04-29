@@ -4,6 +4,7 @@ description: Of the famous fifty-nine icosahedra, seventeen stellations are full
 image: https://joris1724.github.io/vzome-sharing/2025/02/15/13-22-20-Fully-supported-Stellations-of-the-Icosahedron/Fully-supported-Stellations-of-the-Icosahedron.png
 published: true
 layout: vzome
+tags: [stellations]
 ---
 
 {% comment %}

@@ -4,6 +4,7 @@ description: A non-regular stellation of the hecatonicosachoron. The Zometool mo
 image: https://joris1724.github.io/vzome-sharing/2025/02/14/21-31-36-Compound-of-15-Hexadecachora/Compound-of-15-Hexadecachora.png
 published: true
 layout: vzome
+tags: [polychora]
 ---
 
 {% comment %}

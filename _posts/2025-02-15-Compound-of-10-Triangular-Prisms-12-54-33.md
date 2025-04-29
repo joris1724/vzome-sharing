@@ -4,6 +4,7 @@ description: One of the most frustrating models George Hart ever made.
 image: https://joris1724.github.io/vzome-sharing/2025/02/15/12-54-33-Compound-of-10-Triangular-Prisms/Compound-of-10-Triangular-Prisms.jpg
 published: true
 layout: vzome
+tags: [compounds]
 ---
 
 {% comment %}

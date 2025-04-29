@@ -4,6 +4,7 @@ description: Another "even trickier" model George Hart proposed in 2001. Followi
 image: https://joris1724.github.io/vzome-sharing/2025/02/15/13-01-06-Compound-of-6-Pentagonal-Prisms/Compound-of-6-Pentagonal-Prisms.jpg
 published: true
 layout: vzome
+tags: [compounds]
 ---
 
 {% comment %}

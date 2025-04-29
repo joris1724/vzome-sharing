@@ -4,6 +4,7 @@ description: An overview of all fully supported stellations of the rhombic triac
 image: https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron/Stellations-of-the-Rhombic-Triacontahedron.png
 published: true
 layout: vzome
+tags: [stellations]
 ---
 
 {% comment %}

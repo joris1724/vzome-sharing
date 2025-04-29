@@ -4,6 +4,7 @@ description: A rhombicuboctahedron can be rectified or truncated. Both resulting
 image: https://joris1724.github.io/vzome-sharing/2025/04/05/16-08-39-Space-Filling-by-Truncated-Rhombicuboctahedra/Space-Filling-by-Truncated-Rhombicuboctahedra-A.png
 published: true
 layout: vzome
+tags: [tessalations]
 ---
 
 {% comment %}

@@ -4,6 +4,7 @@ description: A model proposed by George Hart more than 20 years ago. Follow thes
 image: https://joris1724.github.io/vzome-sharing/2025/02/15/12-57-33-Compound-of-5-Truncated-Tetrahedra/Compound-of-5-Truncated-Tetrahedra.jpg
 published: true
 layout: vzome
+tags: [compounds]
 ---
 
 {% comment %}

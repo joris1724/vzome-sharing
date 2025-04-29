@@ -4,6 +4,7 @@ description: The regular compound of 75 hexadecachora, with full hexacosichoric 
 image: https://joris1724.github.io/vzome-sharing/2025/02/17/02-50-47-Stellated-Dodecahedral-Hexacosichoron/Stellated-Dodecahedral-Hexacosichoron.png
 published: true
 layout: vzome
+tags: [polychora]
 ---
 
 {% comment %}

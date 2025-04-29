@@ -4,6 +4,7 @@ description: A classic from the Zome Geometry book. An elaborate scaffolding ens
 image: https://joris1724.github.io/vzome-sharing/2025/02/15/12-17-22-Compound-of-5-Tetrahedra/Compound-of-5-Tetrahedra.jpg
 published: true
 layout: vzome
+tags: [compounds]
 ---
 
 {% comment %}

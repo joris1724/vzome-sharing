@@ -4,6 +4,7 @@ description: A set of five icositetrachora with the same vertex arrangement of t
 image: https://joris1724.github.io/vzome-sharing/2025/02/14/12-18-16-Compound-of-5-Icositetrachora/Compound-of-5-Icositetrachora.png
 published: true
 layout: vzome
+tags: [polychora]
 ---
 
 {% comment %}
