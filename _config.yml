@@ -27,6 +27,7 @@ rss-description: My vZome Designs
 ###############################################
 
 navbar-links:
+  Compounds: "/vzome-share/compounds"
   About: "/about"
   vZome Home: "https://www.vzome.com"
 
