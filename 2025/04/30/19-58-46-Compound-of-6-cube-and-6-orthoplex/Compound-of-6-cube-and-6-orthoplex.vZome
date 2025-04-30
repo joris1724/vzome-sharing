@@ -1,0 +1,2458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
+  <EditHistory editNumber="156" lastStickyEdit="128">
+    <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -5, -8, 1 ], [ -1, -1, 1 ], [ 0, 0, 1 ] ], [ [ -5, -8, 1 ], [ 2, 4, 1 ], [ -2, -3, 1 ] ], [ [ -5, -8, 1 ], [ 2, 4, 1 ], [ 2, 3, 1 ] ], [ [ -5, -8, 1 ], [ 5, 9, 1 ], [ 0, 0, 1 ] ], [ [ -4, -6, 1 ], [ 2, 4, 1 ], [ 0, 0, 1 ] ], [ [ -3, -5, 1 ], [ -1, -1, 1 ], [ -3, -5, 1 ] ], [ [ -3, -5, 1 ], [ -1, -1, 1 ], [ 3, 5, 1 ] ], [ [ -3, -5, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ -3, -5, 1 ], [ 2, 4, 1 ], [ -5, -8, 1 ] ], [ [ -3, -5, 1 ], [ 2, 4, 1 ], [ -1, -2, 1 ] ], [ [ -3, -5, 1 ], [ 2, 4, 1 ], [ 1, 2, 1 ] ], [ [ -3, -5, 1 ], [ 2, 4, 1 ], [ 5, 8, 1 ] ], [ [ -3, -5, 1 ], [ 3, 6, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ 3, 6, 1 ], [ 2, 3, 1 ] ], [ [ -3, -5, 1 ], [ 5, 9, 1 ], [ -3, -5, 1 ] ], [ [ -3, -5, 1 ], [ 5, 9, 1 ], [ 3, 5, 1 ] ], [ [ -2, -4, 1 ], [ 2, 4, 1 ], [ 0, 0, 1 ] ], [ [ -2, -3, 1 ], [ -3, -4, 1 ], [ 0, 0, 1 ] ], [ [ -2, -3, 1 ], [ -1, -1, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ -1, -1, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 0, 1, 1 ], [ -2, -3, 1 ] ], [ [ -2, -3, 1 ], [ 0, 1, 1 ], [ 2, 3, 1 ] ], [ [ -2, -3, 1 ], [ 1, 2, 1 ], [ 0, 0, 1 ] ], [ [ -2, -3, 1 ], [ 1, 3, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ 1, 3, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 2, 4, 1 ], [ -1, -1, 1 ] ], [ [ -2, -3, 1 ], [ 2, 4, 1 ], [ 1, 1, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 3, 6, 1 ], [ 0, 0, 1 ] ], [ [ -2, -3, 1 ], [ 4, 7, 1 ], [ -2, -3, 1 ] ], [ [ -2, -3, 1 ], [ 4, 7, 1 ], [ 2, 3, 1 ] ], [ [ -2, -3, 1 ], [ 5, 9, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ 5, 9, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 7, 12, 1 ], [ 0, 0, 1 ] ], [ [ -1, -2, 1 ], [ -1, -1, 1 ], [ 0, 0, 1 ] ], [ [ -1, -2, 1 ], [ 0, 1, 1 ], [ -3, -5, 1 ] ], [ [ -1, -2, 1 ], [ 0, 1, 1 ], [ -1, -1, 1 ] ], [ [ -1, -2, 1 ], [ 0, 1, 1 ], [ 1, 1, 1 ] ], [ [ -1, -2, 1 ], [ 0, 1, 1 ], [ 3, 5, 1 ] ], [ [ -1, -2, 1 ], [ 1, 2, 1 ], [ -1, -2, 1 ] ], [ [ -1, -2, 1 ], [ 1, 2, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ 2, 4, 1 ], [ -2, -3, 1 ] ], [ [ -1, -2, 1 ], [ 2, 4, 1 ], [ 2, 3, 1 ] ], [ [ -1, -2, 1 ], [ 3, 6, 1 ], [ -1, -2, 1 ] ], [ [ -1, -2, 1 ], [ 3, 6, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ 4, 7, 1 ], [ -3, -5, 1 ] ], [ [ -1, -2, 1 ], [ 4, 7, 1 ], [ -1, -1, 1 ] ], [ [ -1, -2, 1 ], [ 4, 7, 1 ], [ 1, 1, 1 ] ], [ [ -1, -2, 1 ], [ 4, 7, 1 ], [ 3, 5, 1 ] ], [ [ -1, -2, 1 ], [ 5, 9, 1 ], [ 0, 0, 1 ] ], [ [ -1, -1, 1 ], [ 0, 1, 1 ], [ 0, 0, 1 ] ], [ [ -1, -1, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ -1, -1, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ -1, -1, 1 ], [ 3, 6, 1 ], [ -2, -3, 1 ] ], [ [ -1, -1, 1 ], [ 3, 6, 1 ], [ 2, 3, 1 ] ], [ [ -1, -1, 1 ], [ 4, 7, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -3, -4, 1 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ -3, -4, 1 ], [ 3, 5, 1 ] ], [ [ 0, 0, 1 ], [ -2, -2, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 1, 1 ], [ -5, -8, 1 ] ], [ [ 0, 0, 1 ], [ 0, 1, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 5, 8, 1 ] ], [ [ 0, 0, 1 ], [ 1, 2, 1 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 1, 2, 1 ], [ 3, 5, 1 ] ], [ [ 0, 0, 1 ], [ 1, 3, 1 ], [ -2, -3, 1 ] ], [ [ 0, 0, 1 ], [ 1, 3, 1 ], [ 2, 3, 1 ] ], [ [ 0, 0, 1 ], [ 2, 4, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ 2, 4, 1 ], [ -2, -4, 1 ] ], [ [ 0, 0, 1 ], [ 2, 4, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 2, 4, 1 ], [ 2, 4, 1 ] ], [ [ 0, 0, 1 ], [ 2, 4, 1 ], [ 4, 6, 1 ] ], [ [ 0, 0, 1 ], [ 3, 5, 1 ], [ -2, -3, 1 ] ], [ [ 0, 0, 1 ], [ 3, 5, 1 ], [ 2, 3, 1 ] ], [ [ 0, 0, 1 ], [ 3, 6, 1 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 3, 6, 1 ], [ 3, 5, 1 ] ], [ [ 0, 0, 1 ], [ 4, 7, 1 ], [ -5, -8, 1 ] ], [ [ 0, 0, 1 ], [ 4, 7, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ 4, 7, 1 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ 4, 7, 1 ], [ 5, 8, 1 ] ], [ [ 0, 0, 1 ], [ 4, 8, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 6, 10, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 7, 12, 1 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 7, 12, 1 ], [ 3, 5, 1 ] ], [ [ 1, 1, 1 ], [ 0, 1, 1 ], [ 0, 0, 1 ] ], [ [ 1, 1, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ 1, 1, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ 1, 1, 1 ], [ 3, 6, 1 ], [ -2, -3, 1 ] ], [ [ 1, 1, 1 ], [ 3, 6, 1 ], [ 2, 3, 1 ] ], [ [ 1, 1, 1 ], [ 4, 7, 1 ], [ 0, 0, 1 ] ], [ [ 1, 2, 1 ], [ -1, -1, 1 ], [ 0, 0, 1 ] ], [ [ 1, 2, 1 ], [ 0, 1, 1 ], [ -3, -5, 1 ] ], [ [ 1, 2, 1 ], [ 0, 1, 1 ], [ -1, -1, 1 ] ], [ [ 1, 2, 1 ], [ 0, 1, 1 ], [ 1, 1, 1 ] ], [ [ 1, 2, 1 ], [ 0, 1, 1 ], [ 3, 5, 1 ] ], [ [ 1, 2, 1 ], [ 1, 2, 1 ], [ -1, -2, 1 ] ], [ [ 1, 2, 1 ], [ 1, 2, 1 ], [ 1, 2, 1 ] ], [ [ 1, 2, 1 ], [ 2, 4, 1 ], [ -2, -3, 1 ] ], [ [ 1, 2, 1 ], [ 2, 4, 1 ], [ 2, 3, 1 ] ], [ [ 1, 2, 1 ], [ 3, 6, 1 ], [ -1, -2, 1 ] ], [ [ 1, 2, 1 ], [ 3, 6, 1 ], [ 1, 2, 1 ] ], [ [ 1, 2, 1 ], [ 4, 7, 1 ], [ -3, -5, 1 ] ], [ [ 1, 2, 1 ], [ 4, 7, 1 ], [ -1, -1, 1 ] ], [ [ 1, 2, 1 ], [ 4, 7, 1 ], [ 1, 1, 1 ] ], [ [ 1, 2, 1 ], [ 4, 7, 1 ], [ 3, 5, 1 ] ], [ [ 1, 2, 1 ], [ 5, 9, 1 ], [ 0, 0, 1 ] ], [ [ 2, 3, 1 ], [ -3, -4, 1 ], [ 0, 0, 1 ] ], [ [ 2, 3, 1 ], [ -1, -1, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ -1, -1, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ 0, 1, 1 ], [ -2, -3, 1 ] ], [ [ 2, 3, 1 ], [ 0, 1, 1 ], [ 2, 3, 1 ] ], [ [ 2, 3, 1 ], [ 1, 2, 1 ], [ 0, 0, 1 ] ], [ [ 2, 3, 1 ], [ 1, 3, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ 1, 3, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ 2, 4, 1 ], [ -1, -1, 1 ] ], [ [ 2, 3, 1 ], [ 2, 4, 1 ], [ 1, 1, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ 3, 6, 1 ], [ 0, 0, 1 ] ], [ [ 2, 3, 1 ], [ 4, 7, 1 ], [ -2, -3, 1 ] ], [ [ 2, 3, 1 ], [ 4, 7, 1 ], [ 2, 3, 1 ] ], [ [ 2, 3, 1 ], [ 5, 9, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ 5, 9, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ 7, 12, 1 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ 2, 4, 1 ], [ 0, 0, 1 ] ], [ [ 3, 5, 1 ], [ -1, -1, 1 ], [ -3, -5, 1 ] ], [ [ 3, 5, 1 ], [ -1, -1, 1 ], [ 3, 5, 1 ] ], [ [ 3, 5, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ 3, 5, 1 ], [ 2, 4, 1 ], [ -5, -8, 1 ] ], [ [ 3, 5, 1 ], [ 2, 4, 1 ], [ -1, -2, 1 ] ], [ [ 3, 5, 1 ], [ 2, 4, 1 ], [ 1, 2, 1 ] ], [ [ 3, 5, 1 ], [ 2, 4, 1 ], [ 5, 8, 1 ] ], [ [ 3, 5, 1 ], [ 3, 6, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ 3, 6, 1 ], [ 2, 3, 1 ] ], [ [ 3, 5, 1 ], [ 5, 9, 1 ], [ -3, -5, 1 ] ], [ [ 3, 5, 1 ], [ 5, 9, 1 ], [ 3, 5, 1 ] ], [ [ 4, 6, 1 ], [ 2, 4, 1 ], [ 0, 0, 1 ] ], [ [ 5, 8, 1 ], [ -1, -1, 1 ], [ 0, 0, 1 ] ], [ [ 5, 8, 1 ], [ 2, 4, 1 ], [ -2, -3, 1 ] ], [ [ 5, 8, 1 ], [ 2, 4, 1 ], [ 2, 3, 1 ] ], [ [ 5, 8, 1 ], [ 5, 9, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 115,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 82,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 95,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 67,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 76,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 127,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 104,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 50,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 34,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 25,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 86,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 83,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 47,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 134,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 130,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 71,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 38,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 30,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 112,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 40,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 110,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 81,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 41,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 117,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 48,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 102,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 107,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 125,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 87,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 64,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 78,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 128,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 118,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 138,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 135,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 133,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 84,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 32,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 108,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 35,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 43,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 39,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 51,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 29,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 54,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 63,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 113,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 18,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 139,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 91,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 53,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 103,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 141,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 75,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 124,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 23,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 55,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 42,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 31,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 27,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 79,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 45,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 116,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 36,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 143,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 99,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 15,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 136,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 44,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 98,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 8,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 9,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 121,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 88,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 69,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 92,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 60,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 33,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 111,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 7,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 126,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 58,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 100,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 59,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 28,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 52,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 97,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 131,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 46,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 57,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 119,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 62,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 73,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 106,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 37,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 11,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 142,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 140,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 70,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 101,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 5,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 85,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 72,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 24,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 14,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 105,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 132,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 120,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 21,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 77,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 123,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 89,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 80,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 114,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 122,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 65,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 74,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 22,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 129,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 68,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 144,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 94,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 66,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 16,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 13,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 6,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 90,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 12,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 96,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 137,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 26,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 56,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 109,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 93,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 49,
+    "color" : "#FF0000"
+  }, {
+    "vertex" : 10,
+    "color" : "#0000FF"
+  }, {
+    "vertex" : 61,
+    "color" : "#FF0000"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 2, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 79 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 69, 89 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 136, 138 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 22, 39 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 64 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 130, 133 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 23, 27 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 23, 52 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 53, 66 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 129, 131 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 92, 105 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 11 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 58 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 86, 144 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 25, 27 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 130, 142 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 35, 86 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 46, 81 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 18, 60 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 65, 74 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 134, 144 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 121, 144 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 13 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 114, 118 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 58, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 23, 41 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 52, 63 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 50, 78 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 58, 59 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 78, 91 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 139, 144 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 63, 87 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 44, 76 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 75, 90 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 25 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 111, 113 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 112, 133 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 78, 86 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 29 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 123, 125 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 21 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 15, 85 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 79, 104 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 60, 93 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 98, 114 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 39, 52 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 57, 81 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 40, 65 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 135, 143 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 134, 135 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 132, 141 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 52, 61 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 93, 95 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 110, 112 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 58, 141 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 66, 71 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 129, 135 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 32, 49 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 133, 136 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 22, 59 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 109, 111 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 19, 36 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 12 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 16, 34 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 47 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 67, 113 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 93, 141 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 125, 139 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 67 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 66, 88 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 58, 63 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 75, 80 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 49, 51 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 29, 46 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 67, 74 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 108, 144 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 116, 134 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 66, 94 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 81, 92 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 99, 101 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 65, 97 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 82, 107 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 22 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 116, 118 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 122, 136 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 120, 123 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 33, 35 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 60 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 78, 135 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 36 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 96, 99 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 44, 46 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 78, 123 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 37 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 37, 66 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 22, 36 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 84 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 28, 45 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 28, 31 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 91, 103 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 106, 123 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 123, 144 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 49, 57 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 101, 135 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 118, 120 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 93, 110 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 61, 93 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 69, 101 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 10, 28 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 94, 112 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 59 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 15 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 9 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 52, 64 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 134, 137 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 122, 124 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 58 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 26, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 23, 26 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 68, 71 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 32, 51 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 59 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 90, 122 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 67, 73 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 110, 128 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 112, 132 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 24 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 86 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 82 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 51, 85 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 82, 135 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 41, 53 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 54, 69 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 140, 142 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 23, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 114, 117 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 88, 98 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 18, 59 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 119, 133 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 43, 45 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 109, 110 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 58 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 48, 57 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 30, 45 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 67, 97 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 58, 112 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 112, 115 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 117, 119 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 131, 143 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 102, 121 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 68, 88 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 123, 135 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 87, 114 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 32, 34 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 59 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 132, 144 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 105, 108 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 61, 87 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 67, 89 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 77 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 99, 116 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 67, 135 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 85 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 101, 118 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 43 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 54, 67 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 43, 68 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 45, 80 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 122, 132 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 57, 80 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 115, 133 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 99, 114 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 22, 54 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 94, 128 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 16, 86 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 80, 85 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 123, 137 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 71, 77 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 81, 86 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 35, 85 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 108, 125 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 18, 19 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 141, 142 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 39 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 102, 119 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 53, 68 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 126, 144 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 73, 78 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 135, 144 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 18 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 79, 132 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 32 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 93, 112 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 69, 73 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 98, 115 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 64, 99 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 37 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 128, 141 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 125, 126 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 103, 106 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 20, 22 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 20 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 123, 134 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 85, 108 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 140, 143 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 132, 138 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 76, 101 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 66, 77 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 117, 121 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 108, 124 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 142, 144 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 55, 77 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 108, 122 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 37, 62 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 115, 117 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 26, 43 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 16, 50 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 31 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 108 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 128, 132 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 113, 116 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 77, 132 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 75, 100 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 66, 112 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 58, 132 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 95, 112 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 46, 49 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 14, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 55 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 11 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 63, 68 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 63, 98 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 35, 84 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 17, 26 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 38 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 136, 142 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 85, 132 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 141, 143 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 71, 75 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 105, 122 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 100, 117 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 58, 128 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 35 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 98, 100 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 48 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 66, 70 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 58, 93 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 78, 107 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 134, 140 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 17, 27 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 80, 102 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 22 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 59, 65 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 112, 141 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 141, 144 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 124, 138 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 15, 47 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 10, 31 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 58 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 19 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 117, 127 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 32 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 80, 92 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 89, 99 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 76, 91 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 51 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 89, 113 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 127, 133 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 83, 108 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 62, 94 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 133, 141 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 24 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 86 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 10 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 77, 85 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 79, 85 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 56, 76 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 112, 130 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 39, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 78 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 77, 104 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 83, 92 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 86, 126 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 132 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 22, 67 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 62, 132 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 31, 85 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 77 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 9 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 86, 139 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 19, 21 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 108, 123 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 41 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 102, 105 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 132, 142 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 70, 77 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 122, 144 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 91, 123 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 85 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 41, 63 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 30, 57 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 32, 78 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 137, 143 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 24, 26 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 29, 32 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 60, 109 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 129, 141 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 122, 133 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 59, 129 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 46, 56 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 106, 108 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 74, 78 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 40 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 47, 77 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 44, 69 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 135, 141 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 23 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 119, 122 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 101, 103 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 48, 51 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 92, 106 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 54 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 25, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 93, 96 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 59 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 59, 141 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 36, 61 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 64, 69 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 118, 121 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 22 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 85, 144 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 64, 87 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 62, 70 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 10, 17 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 58, 62 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 92, 121 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 138, 144 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 143, 144 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 76, 81 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 22, 25 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 22 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 32 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 100, 132 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 118, 127 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 103, 120 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 51 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 34, 35 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 27, 29 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 90, 102 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 95, 98 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 93 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 67, 78 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 46 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 50, 82 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 85, 86 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 36, 38 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 84, 126 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 17 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 38, 52 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 36 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 55 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 58 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 86, 135 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 55, 75 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 84, 108 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 73, 76 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 96 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 10, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 12 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 78 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 134, 141 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 27, 44 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 77, 122 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 86, 108 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 86, 123 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 68, 100 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 107, 139 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 51, 83 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 47, 79 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 82, 86 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 113, 135 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 111, 129 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 85, 126 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 59, 135 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 93, 111 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 93, 113 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 22, 40 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 34, 51 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 59, 67 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 128, 130 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 44 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 97, 113 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 104, 122 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 132, 133 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 107, 123 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 58 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 86 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 113, 131 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 113, 134 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 77, 90 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 53 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 74, 82 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 33, 51 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 10 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 120, 134 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 95 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 133, 134 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 70, 79 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 26, 28 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 109, 141 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 45, 48 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 124, 126 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 24, 41 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 58, 109 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 96, 113 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 135, 139 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 104, 138 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 86 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 81, 103 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 32, 50 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 133, 140 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 31 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 85, 122 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 59, 93 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 15, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 43, 75 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 88, 112 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 20, 36 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 135 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 56 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 41, 43 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 85, 138 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 113, 141 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 66, 132 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 62 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 114, 141 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 27, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 44 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 103, 121 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 59, 64 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 59, 109 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 59, 113 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 127, 134 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 40, 67 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 97, 129 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 10, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 65, 135 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 13, 31 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 14, 32 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 131, 134 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 133, 144 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 57, 83 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 137, 139 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 65 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 100, 102 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 14 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 2 4 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <TranslationTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 2 4 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+    <DeselectAll/>
+    <Snapshot id="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -5 3 5 -3 -5"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-1"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BookmarkTool name="tool-2"/>
+    <Snapshot id="1"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <Snapshot id="2"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <Snapshot id="3"/>
+    </Branch>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Snapshot id="4"/>
+    <SelectManifestation endSegment="-5 -8 3 5 0 0" startSegment="-5 -8 -3 -5 0 0"/>
+    <BookmarkTool name="tool-3"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BookmarkTool name="tool-4"/>
+    <Snapshot id="5"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+    <Snapshot id="6"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <Snapshot id="7"/>
+    </Branch>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Snapshot id="8"/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -5 -1 -2 -2 -3"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-5"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BookmarkTool name="tool-6"/>
+    <Snapshot id="9"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+    <Snapshot id="10"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <Snapshot id="11"/>
+    </Branch>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -8 -3 -5 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-7"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BookmarkTool name="tool-8"/>
+    <Snapshot id="12"/>
+    <DeselectAll/>
+    <Snapshot id="13"/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <Snapshot id="14"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <Snapshot id="15"/>
+    </Branch>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Snapshot id="16"/>
+    <SelectManifestation endSegment="-2 -3 -2 -3 -2 -3" startSegment="-3 -5 0 0 -1 -2"/>
+    <BookmarkTool name="tool-9"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <Snapshot id="17"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BookmarkTool name="tool-10"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <Snapshot id="18"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <Snapshot id="19"/>
+    </Branch>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Snapshot id="20"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 -2 -3 -2 -3"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-11"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BookmarkTool name="tool-12"/>
+    <Snapshot id="21"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <Snapshot id="22"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <Snapshot id="23"/>
+    </Branch>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-13"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -1 -1 -2 -2 -3"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-14"/>
+    <DeselectAll/>
+    <Snapshot id="24"/>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BookmarkTool name="tool-15"/>
+    <Snapshot id="25"/>
+    <BookmarkTool name="tool-16"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <Snapshot id="26"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <Snapshot id="27"/>
+    </Branch>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-17"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+    <DeselectAll/>
+    <Snapshot id="28"/>
+    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+    <InvertSelection/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ShowHidden/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes>
+    <page snapshot="28" title="Step 0/7 60r0">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="27" title="0-1 2r00">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="26" title="0-1 x 1">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="25" title="0-1 x 30">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="24" title="Step 1/7">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="23" title="1-2 3r0">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="22" title="1-2 x 1">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="21" title="1-2 x 20">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="20" title="Step 2/7">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="19" title="2-3 1b1">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="18" title="2-3 x 1">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="17" title="2-3 x 30">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="16" title="Step 3/7">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="15" title="3-4 5b2 1r2">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="14" title="3-4 x 1">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="12" title="3-4 x 12">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="13" title="Step 4/7">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="11" title="4-5 2r0">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="10" title="4-5 x 1">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="9" title="4-5 x 30">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="8" title="Step 5/7">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="7" title="5-6 1b3">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="6" title="5-6 x 1">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="5" title="5-6 x 30">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="4" title="Step 6/7">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="3" title="6-7 3r1 3r2">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="2" title="6-7 x 1">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="1" title="6-7 x 20">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="0" title="Step 7/7">
+      <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+        <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="175.71783447265625" far="351.4356384277344" near="0.4392945468425751" parallel="false" stereoAngle="0.0" width="79.07302856445312">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.44319334626197815" y="0.6270433664321899" z="-0.6406190991401672"/>
+      <LookDirection x="0.8102024793624878" y="0.025610292330384254" z="0.5855883359909058"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="239,245,61" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-1" label="bookmark 1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-10" label="2-3" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-11" label="bookmark 11" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-12" label="1-2" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-13" label="bookmark 13" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-14" label="bookmark 14" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-15" label="bookmark 15" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-16" label="0-1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-17" label="0" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-2" label="6-7" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-3" label="bookmark 3" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-4" label="5-6" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-5" label="bookmark 5" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="4-5" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-7" label="bookmark 7" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-8" label="3-4" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-9" label="bookmark 9" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>
