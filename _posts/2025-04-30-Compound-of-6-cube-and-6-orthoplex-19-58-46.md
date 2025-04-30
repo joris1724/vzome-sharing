@@ -18,9 +18,9 @@ In his excellent page about <a href="https://www3.mpifr-bonn.mpg.de/staff/pfreir
 <figure style="width: 87%; margin: 5%">
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='v1'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='v1'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v1'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='v1'></vzome-viewer-end></div></div>
   <vzome-viewer id='v1' style="width: 100%; height: 60dvh" indexed='true'
-        src="https://joris1724.github.io/vzome-sharing/2025/04/30/Compound-of-6-cube-and-6-orthoplex/Compound-of-6-cube-and-6-orthoplex.vZome" >
+        src="https://joris1724.github.io/vzome-sharing/2025/04/30/19-58-46-Compound-of-6-cube-and-6-orthoplex/Compound-of-6-cube-and-6-orthoplex.vZome" >
     <img  style="width: 100%"
-        src="https://joris1724.github.io/vzome-sharing/2025/04/30/Compound-of-6-cube-and-6-orthoplex/Compound-of-6-cube-and-6-orthoplex.png" >
+        src="https://joris1724.github.io/vzome-sharing/2025/04/30/19-58-46-Compound-of-6-cube-and-6-orthoplex/Compound-of-6-cube-and-6-orthoplex.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
     Compound of 6-cube and 6-orthoplex
