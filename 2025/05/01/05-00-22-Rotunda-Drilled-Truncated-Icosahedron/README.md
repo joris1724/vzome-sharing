@@ -2,7 +2,7 @@
 ## Blog Post Generated
 
  - [***custom blog post***](<https://joris1724.github.io/vzome-sharing/2025/05/01/Rotunda-Drilled-Truncated-Icosahedron-05-00-22.html>) about this design; *try it before you share it!*
- - [source file for that blog post](<https://github.com/joris1724/vzome-sharing/edit/main/_posts/2025-05-01-Rotunda-Drilled-Truncated-Icosahedron-05-00-22.md>); click to customize
+ - [source file for that blog post](<https://github.com/joris1724/vzome-sharing/edit/main/_posts/2025-02-11-Rotunda-Drilled-Truncated-Icosahedron-05-00-22.md>); click to customize
  
 
 

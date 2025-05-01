@@ -2,7 +2,7 @@
 ## Blog Post Generated
 
  - [***custom blog post***](<https://joris1724.github.io/vzome-sharing/2025/05/01/Drilled-Truncated-Dodecahedron-04-42-37.html>) about this design; *try it before you share it!*
- - [source file for that blog post](<https://github.com/joris1724/vzome-sharing/edit/main/_posts/2025-05-01-Drilled-Truncated-Dodecahedron-04-42-37.md>); click to customize
+ - [source file for that blog post](<https://github.com/joris1724/vzome-sharing/edit/main/_posts/2025-02-11-Drilled-Truncated-Dodecahedron-04-42-37.md>); click to customize
  
 
 
