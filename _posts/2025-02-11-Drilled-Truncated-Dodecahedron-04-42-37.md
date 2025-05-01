@@ -2,7 +2,7 @@
 title: Drilled Truncated Dodecahedron
 description: Bonnie Stewart's "Jewel in the Crown" of toroidal discoveries, connecting a dodecahedron kernel to a truncated dodecahedron shell by J5's.
 image: https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/Drilled-Truncated-Dodecahedron.png
-published: false
+published: true
 layout: vzome
 last-updated: April 30, 2025
 tags: [compounds]

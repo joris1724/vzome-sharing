@@ -2,7 +2,7 @@
 title: Rotunda Drilled Truncated Icosahedron
 description: A Stewart toroid, connecting a rhombicosidodecahedron kernel to a rhombitruncated icosahedron shell by J6's.
 image: https://joris1724.github.io/vzome-sharing/2025/05/01/05-00-22-Rotunda-Drilled-Truncated-Icosahedron/Rotunda-Drilled-Truncated-Icosahedron.png
-published: false
+published: true
 layout: vzome
 last-updated: April 30, 2025
 tags: [compounds]

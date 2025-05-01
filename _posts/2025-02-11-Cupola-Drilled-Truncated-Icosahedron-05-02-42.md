@@ -2,7 +2,7 @@
 title: Cupola Drilled Truncated Icosahedron
 description: A Stewart toroid, again connecting a rhombicosidodecahedron kernel to a rhombitruncated icosahedron shell, now by J5's.
 image: https://joris1724.github.io/vzome-sharing/2025/05/01/05-02-42-Cupola-Drilled-Truncated-Icosahedron/Cupola-Drilled-Truncated-Icosahedron.png
-published: false
+published: true
 layout: vzome
 last-updated: April 30, 2025
 tags: [compounds]
