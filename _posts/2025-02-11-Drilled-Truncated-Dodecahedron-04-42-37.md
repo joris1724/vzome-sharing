@@ -35,3 +35,10 @@ The second vZome model presents the Zometool building instructions, starting fro
     Drilled Truncated Dodecahedron
   </figcaption>
 </figure>
+
+
+This model, originally designed by Karl Horton (https://www.flickr.com/photos/karlhorton/albums/72157603248361831/), is a famous model among geomag/supermag builders, because it requires both geomag and supermag rods:
+<ol>
+<li>Square panels are required for stability. These can only be held in place if they are clamped between at least two geomag rods.
+<li>Some edges meet at a sharp angle with a vertex, and that can only be achieved with supermag rods, not with geomag rods.
+</ol>
