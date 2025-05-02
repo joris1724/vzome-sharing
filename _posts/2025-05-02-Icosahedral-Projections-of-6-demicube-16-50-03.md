@@ -16,9 +16,8 @@ tags: [polytopes]
 In his excellent page about <a href="https://www3.mpifr-bonn.mpg.de/staff/pfreire/polyhedra/beyond.htm#semiregular">Semi-regular polytopes beyond the fourth dimension</a> Paulo Freire made a Zometool model of one of the two icosahedral projections of the 6-demicube. He also mentioned that "interestingly, both projections would look exactly the same when seen from a 5-fold symmetry axis". Trying to emphasize this remarkable fact, I made a single vZome model which shows simultaneously the step-by-step instructions for the Zometool models of both projections.
 
 <figure style="width: 87%; margin: 5%">
-  
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
-  <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='v1'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='v1'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v1'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='v1'></vzome-viewer-end></div></div>
+  <vzome-viewer id='v1' style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2025/05/02/16-50-03-Icosahedral-Projections-of-6-demicube/Icosahedral-Projections-of-6-demicube.vZome" >
     <img  style="width: 100%"
         src="https://joris1724.github.io/vzome-sharing/2025/05/02/16-50-03-Icosahedral-Projections-of-6-demicube/Icosahedral-Projections-of-6-demicube.png" >
