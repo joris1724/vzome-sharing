@@ -25,8 +25,8 @@ The second vZome model presents the Zometool building instructions, starting fro
 
 
 <figure style="width: 87%; margin: 5%">
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step'></vzome-viewer-start><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next><vzome-viewer-end label='final step'></vzome-viewer-end></div></div>
-  <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='v1'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='v1'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v1'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='v1'></vzome-viewer-end></div></div>
+  <vzome-viewer id='v1' style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2025/05/01/05-02-42-Cupola-Drilled-Truncated-Icosahedron/Cupola-Drilled-Truncated-Icosahedron.vZome" >
     <img  style="width: 100%"
         src="https://joris1724.github.io/vzome-sharing/2025/05/01/05-02-42-Cupola-Drilled-Truncated-Icosahedron/Cupola-Drilled-Truncated-Icosahedron.png" >
