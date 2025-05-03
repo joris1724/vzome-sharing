@@ -4094,112 +4094,7 @@
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
     <setItemColor blue="255" green="0" red="255"/>
   </EditHistory>
-  <notes>
-    <page snapshot="12" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="11" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="10" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="8" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="9" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="7" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="6" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="4" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="5" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="3" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="2" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="1" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-    <page snapshot="0" title="">
-      <ViewModel distance="272.8383483886719" far="545.6764526367188" near="0.6820961236953735" parallel="false" stereoAngle="0.0" width="122.7772445678711">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="0.02495456486940384" y="0.9708804488182068" z="-0.23825578391551971"/>
-        <LookDirection x="-0.4469682276248932" y="0.22401760518550873" z="0.866046130657196"/>
-      </ViewModel>
-      <content xml:space="preserve"/>
-    </page>
-  </notes>
+  <notes/>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
     <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
     <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
@@ -4208,8 +4103,8 @@
   <Viewing>
     <ViewModel distance="278.3500671386719" far="556.6997680664062" near="0.6958754658699036" parallel="false" stereoAngle="0.0" width="125.25750732421875">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.9500247240066528" y="0.31216591596603394" z="-0.0012887725606560707"/>
-      <LookDirection x="0.24204929172992706" y="0.7392238974571228" z="0.628453254699707"/>
+      <UpDirection x="-0.22573865950107574" y="-0.6346848607063293" z="-0.7390620112419128"/>
+      <LookDirection x="-0.9585987329483032" y="0.009556332603096962" z="0.2845900356769562"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="tiny connectors">
