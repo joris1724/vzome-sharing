@@ -1,581 +1,189 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="571" lastStickyEdit="556">
-    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="21" len="1 1"/>
-    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="8" len="1 1"/>
-    <StrutCreation anchor="0 0 0 0 0 0" index="8" len="2 4"/>
-    <SelectAll originLast="true"/>
-    <Delete/>
-    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
-    <StrutCreation anchor="0 0 0 0 0 0" index="37" len="2 4"/>
-    <StrutCreation anchor="0 0 0 0 0 0" index="38" len="2 4"/>
-    <StrutCreation anchor="1 1 -1 -2 2 3" index="38" len="2 4"/>
-    <StrutCreation anchor="-2 -3 1 1 1 2" index="37" len="2 4"/>
-    <StrutCreation anchor="0 0 0 0 0 0" index="36" len="2 4"/>
+  <EditHistory editNumber="149" lastStickyEdit="135">
+    <ImportSimpleMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -35, -32, 3 ], [ -23, -8, 6 ], [ 0, 0, 1 ] ], [ [ -35, -32, 3 ], [ 0, 0, 1 ], [ -23, -8, 6 ] ], [ [ -35, -32, 3 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -35, -32, 3 ], [ 0, 0, 1 ], [ 23, 8, 6 ] ], [ [ -35, -32, 3 ], [ 23, 8, 6 ], [ 0, 0, 1 ] ], [ [ -32, -26, 3 ], [ -29, -20, 6 ], [ -1, -2, 1 ] ], [ [ -32, -26, 3 ], [ -29, -20, 6 ], [ 1, 2, 1 ] ], [ [ -32, -26, 3 ], [ -1, -2, 1 ], [ -29, -20, 6 ] ], [ [ -32, -26, 3 ], [ -1, -2, 1 ], [ -1, -2, 1 ] ], [ [ -32, -26, 3 ], [ -1, -2, 1 ], [ 1, 2, 1 ] ], [ [ -32, -26, 3 ], [ -1, -2, 1 ], [ 29, 20, 6 ] ], [ [ -32, -26, 3 ], [ 1, 2, 1 ], [ -29, -20, 6 ] ], [ [ -32, -26, 3 ], [ 1, 2, 1 ], [ -1, -2, 1 ] ], [ [ -32, -26, 3 ], [ 1, 2, 1 ], [ 1, 2, 1 ] ], [ [ -32, -26, 3 ], [ 1, 2, 1 ], [ 29, 20, 6 ] ], [ [ -32, -26, 3 ], [ 29, 20, 6 ], [ -1, -2, 1 ] ], [ [ -32, -26, 3 ], [ 29, 20, 6 ], [ 1, 2, 1 ] ], [ [ -29, -20, 3 ], [ -35, -32, 6 ], [ 0, 0, 1 ] ], [ [ -29, -20, 3 ], [ 0, 0, 1 ], [ -35, -32, 6 ] ], [ [ -29, -20, 3 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -29, -20, 3 ], [ 0, 0, 1 ], [ 35, 32, 6 ] ], [ [ -29, -20, 3 ], [ 35, 32, 6 ], [ 0, 0, 1 ] ], [ [ -41, -44, 6 ], [ -29, -20, 6 ], [ -29, -20, 6 ] ], [ [ -41, -44, 6 ], [ -29, -20, 6 ], [ -1, -2, 1 ] ], [ [ -41, -44, 6 ], [ -29, -20, 6 ], [ 1, 2, 1 ] ], [ [ -41, -44, 6 ], [ -29, -20, 6 ], [ 29, 20, 6 ] ], [ [ -41, -44, 6 ], [ -1, -2, 1 ], [ -29, -20, 6 ] ], [ [ -41, -44, 6 ], [ -1, -2, 1 ], [ 29, 20, 6 ] ], [ [ -41, -44, 6 ], [ 1, 2, 1 ], [ -29, -20, 6 ] ], [ [ -41, -44, 6 ], [ 1, 2, 1 ], [ 29, 20, 6 ] ], [ [ -41, -44, 6 ], [ 29, 20, 6 ], [ -29, -20, 6 ] ], [ [ -41, -44, 6 ], [ 29, 20, 6 ], [ -1, -2, 1 ] ], [ [ -41, -44, 6 ], [ 29, 20, 6 ], [ 1, 2, 1 ] ], [ [ -41, -44, 6 ], [ 29, 20, 6 ], [ 29, 20, 6 ] ], [ [ -35, -32, 6 ], [ -35, -32, 6 ], [ -23, -8, 6 ] ], [ [ -35, -32, 6 ], [ -35, -32, 6 ], [ 0, 0, 1 ] ], [ [ -35, -32, 6 ], [ -35, -32, 6 ], [ 23, 8, 6 ] ], [ [ -35, -32, 6 ], [ -23, -8, 6 ], [ -35, -32, 6 ] ], [ [ -35, -32, 6 ], [ -23, -8, 6 ], [ 0, 0, 1 ] ], [ [ -35, -32, 6 ], [ -23, -8, 6 ], [ 35, 32, 6 ] ], [ [ -35, -32, 6 ], [ 0, 0, 1 ], [ -35, -32, 6 ] ], [ [ -35, -32, 6 ], [ 0, 0, 1 ], [ -23, -8, 6 ] ], [ [ -35, -32, 6 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -35, -32, 6 ], [ 0, 0, 1 ], [ 23, 8, 6 ] ], [ [ -35, -32, 6 ], [ 0, 0, 1 ], [ 35, 32, 6 ] ], [ [ -35, -32, 6 ], [ 23, 8, 6 ], [ -35, -32, 6 ] ], [ [ -35, -32, 6 ], [ 23, 8, 6 ], [ 0, 0, 1 ] ], [ [ -35, -32, 6 ], [ 23, 8, 6 ], [ 35, 32, 6 ] ], [ [ -35, -32, 6 ], [ 35, 32, 6 ], [ -23, -8, 6 ] ], [ [ -35, -32, 6 ], [ 35, 32, 6 ], [ 0, 0, 1 ] ], [ [ -35, -32, 6 ], [ 35, 32, 6 ], [ 23, 8, 6 ] ], [ [ -29, -20, 6 ], [ -29, -20, 6 ], [ -29, -20, 6 ] ], [ [ -29, -20, 6 ], [ -29, -20, 6 ], [ -1, -2, 1 ] ], [ [ -29, -20, 6 ], [ -29, -20, 6 ], [ 1, 2, 1 ] ], [ [ -29, -20, 6 ], [ -29, -20, 6 ], [ 29, 20, 6 ] ], [ [ -29, -20, 6 ], [ -1, -2, 1 ], [ -29, -20, 6 ] ], [ [ -29, -20, 6 ], [ -1, -2, 1 ], [ 29, 20, 6 ] ], [ [ -29, -20, 6 ], [ 1, 2, 1 ], [ -29, -20, 6 ] ], [ [ -29, -20, 6 ], [ 1, 2, 1 ], [ 29, 20, 6 ] ], [ [ -29, -20, 6 ], [ 29, 20, 6 ], [ -29, -20, 6 ] ], [ [ -29, -20, 6 ], [ 29, 20, 6 ], [ -1, -2, 1 ] ], [ [ -29, -20, 6 ], [ 29, 20, 6 ], [ 1, 2, 1 ] ], [ [ -29, -20, 6 ], [ 29, 20, 6 ], [ 29, 20, 6 ] ], [ [ -2, -4, 1 ], [ -35, -32, 6 ], [ 0, 0, 1 ] ], [ [ -2, -4, 1 ], [ 0, 0, 1 ], [ -35, -32, 6 ] ], [ [ -2, -4, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -2, -4, 1 ], [ 0, 0, 1 ], [ 35, 32, 6 ] ], [ [ -2, -4, 1 ], [ 35, 32, 6 ], [ 0, 0, 1 ] ], [ [ -1, -2, 1 ], [ -29, -20, 6 ], [ -1, -2, 1 ] ], [ [ -1, -2, 1 ], [ -29, -20, 6 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ -1, -2, 1 ], [ -29, -20, 6 ] ], [ [ -1, -2, 1 ], [ -1, -2, 1 ], [ -1, -2, 1 ] ], [ [ -1, -2, 1 ], [ -1, -2, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ -1, -2, 1 ], [ 29, 20, 6 ] ], [ [ -1, -2, 1 ], [ 1, 2, 1 ], [ -29, -20, 6 ] ], [ [ -1, -2, 1 ], [ 1, 2, 1 ], [ -1, -2, 1 ] ], [ [ -1, -2, 1 ], [ 1, 2, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ 1, 2, 1 ], [ 29, 20, 6 ] ], [ [ -1, -2, 1 ], [ 29, 20, 6 ], [ -1, -2, 1 ] ], [ [ -1, -2, 1 ], [ 29, 20, 6 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ -23, -8, 6 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -23, -8, 6 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 23, 8, 6 ] ], [ [ 0, 0, 1 ], [ 23, 8, 6 ], [ 0, 0, 1 ] ] ],
+  "edges" : [ [ 84, 81 ], [ 17, 6 ], [ 33, 29 ], [ 43, 38 ], [ 54, 56 ], [ 55, 71 ], [ 43, 27 ], [ 46, 32 ], [ 35, 17 ], [ 4, 15 ], [ 34, 17 ], [ 19, 41 ], [ 40, 37 ], [ 46, 60 ], [ 25, 10 ], [ 15, 12 ], [ 28, 40 ], [ 30, 31 ], [ 22, 26 ], [ 52, 35 ], [ 36, 63 ], [ 53, 35 ], [ 40, 64 ], [ 61, 49 ], [ 66, 77 ], [ 58, 44 ], [ 70, 68 ], [ 14, 33 ], [ 60, 57 ], [ 3, 10 ], [ 81, 70 ], [ 83, 73 ], [ 23, 22 ], [ 39, 54 ], [ 79, 62 ], [ 80, 83 ], [ 44, 20 ], [ 80, 68 ], [ 83, 77 ], [ 40, 18 ], [ 7, 22 ], [ 61, 58 ], [ 46, 31 ], [ 45, 30 ], [ 32, 29 ], [ 19, 8 ], [ 71, 82 ], [ 16, 4 ], [ 57, 74 ], [ 35, 34 ], [ 81, 80 ], [ 59, 48 ], [ 60, 59 ], [ 79, 76 ], [ 21, 48 ], [ 19, 9 ], [ 39, 25 ], [ 6, 24 ], [ 28, 12 ], [ 11, 12 ], [ 82, 84 ], [ 18, 37 ], [ 33, 16 ], [ 78, 60 ], [ 41, 38 ], [ 70, 55 ], [ 43, 56 ], [ 46, 61 ], [ 5, 7 ], [ 74, 64 ], [ 41, 55 ], [ 29, 13 ], [ 65, 71 ], [ 43, 65 ], [ 51, 55 ], [ 39, 20 ], [ 32, 33 ], [ 67, 50 ], [ 67, 78 ], [ 43, 29 ], [ 3, 0 ], [ 49, 48 ], [ 0, 1 ], [ 2, 3 ], [ 63, 34 ], [ 44, 39 ], [ 67, 79 ], [ 3, 14 ], [ 64, 70 ], [ 4, 3 ], [ 1, 11 ], [ 62, 77 ], [ 77, 79 ], [ 6, 25 ], [ 72, 82 ], [ 37, 64 ], [ 75, 78 ], [ 10, 6 ], [ 69, 80 ], [ 47, 66 ], [ 63, 68 ], [ 49, 21 ], [ 74, 75 ], [ 23, 26 ], [ 25, 27 ], [ 65, 72 ], [ 10, 27 ], [ 0, 6 ], [ 82, 83 ], [ 17, 36 ], [ 18, 11 ], [ 83, 84 ], [ 1, 7 ], [ 38, 24 ], [ 52, 55 ], [ 26, 8 ], [ 38, 23 ], [ 73, 66 ], [ 46, 19 ], [ 41, 28 ], [ 15, 30 ], [ 34, 51 ], [ 41, 57 ], [ 65, 75 ], [ 72, 69 ], [ 31, 28 ], [ 44, 66 ], [ 77, 76 ], [ 26, 40 ], [ 82, 80 ], [ 12, 31 ], [ 76, 82 ], [ 56, 72 ], [ 68, 51 ], [ 35, 36 ], [ 79, 61 ], [ 66, 39 ], [ 47, 33 ], [ 33, 50 ], [ 11, 28 ], [ 54, 36 ], [ 54, 69 ], [ 75, 82 ], [ 16, 14 ], [ 55, 40 ], [ 43, 58 ], [ 22, 34 ], [ 27, 44 ], [ 2, 1 ], [ 68, 52 ], [ 30, 11 ], [ 60, 49 ], [ 17, 5 ], [ 50, 21 ], [ 47, 62 ], [ 22, 5 ], [ 43, 19 ], [ 75, 60 ], [ 38, 65 ], [ 84, 79 ], [ 41, 65 ], [ 56, 44 ], [ 44, 47 ], [ 16, 32 ], [ 29, 14 ], [ 5, 23 ], [ 68, 71 ], [ 51, 52 ], [ 31, 49 ], [ 19, 12 ], [ 8, 5 ], [ 49, 67 ], [ 13, 32 ], [ 40, 45 ], [ 64, 45 ], [ 32, 49 ], [ 70, 71 ], [ 43, 46 ], [ 50, 62 ], [ 20, 47 ], [ 59, 78 ], [ 45, 59 ], [ 26, 7 ], [ 29, 44 ], [ 58, 76 ], [ 15, 31 ], [ 35, 63 ], [ 74, 59 ], [ 57, 75 ], [ 7, 8 ], [ 13, 2 ], [ 12, 2 ], [ 14, 20 ], [ 45, 18 ], [ 20, 10 ], [ 53, 54 ], [ 27, 9 ], [ 2, 0 ], [ 24, 27 ], [ 5, 0 ], [ 48, 67 ], [ 25, 24 ], [ 81, 74 ], [ 37, 22 ], [ 69, 73 ], [ 49, 50 ], [ 69, 53 ], [ 65, 46 ], [ 46, 41 ], [ 59, 57 ], [ 6, 9 ], [ 2, 4 ], [ 13, 16 ], [ 41, 26 ], [ 38, 52 ], [ 53, 56 ], [ 9, 2 ], [ 62, 58 ], [ 1, 4 ], [ 19, 13 ], [ 63, 69 ], [ 56, 73 ], [ 8, 23 ], [ 8, 2 ], [ 9, 24 ], [ 7, 18 ], [ 11, 15 ], [ 78, 84 ], [ 71, 52 ], [ 51, 70 ], [ 61, 76 ], [ 36, 25 ], [ 21, 16 ], [ 73, 54 ], [ 30, 28 ], [ 57, 40 ], [ 19, 38 ], [ 77, 58 ], [ 24, 35 ], [ 48, 30 ], [ 10, 9 ], [ 82, 81 ], [ 73, 72 ], [ 78, 74 ], [ 14, 13 ], [ 38, 53 ], [ 37, 51 ], [ 62, 61 ], [ 65, 76 ], [ 21, 15 ], [ 72, 53 ], [ 23, 35 ] ],
+  "faces" : [ ]
+}
+</ImportSimpleMeshJson>
     <BeginBlock/>
-    <SelectManifestation point="-1 -2 0 -1 3 5"/>
-    <SelectManifestation point="-1 -2 -2 -3 -1 -1"/>
+    <SelectManifestation point="-29/3 -20/3 0 0 35/6 16/3"/>
+    <SelectManifestation point="0 0 0 0 -23/6 -4/3"/>
+    <EndBlock/>
+    <TranslationTool name="tool-0"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+    <DeselectAll/>
+    <ImportSimpleMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ 0, 0, 1 ], [ -3868, -4780, 649 ], [ -1272, -2184, 649 ] ], [ [ 0, 0, 1 ], [ -3868, -4780, 649 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -2570, -3482, 649 ], [ -2570, -3482, 649 ] ], [ [ 0, 0, 1 ], [ -2570, -3482, 649 ], [ -1272, -2184, 649 ] ], [ [ 0, 0, 1 ], [ -2570, -3482, 649 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -2570, -3482, 649 ], [ 2, 2, 1 ] ], [ [ 0, 0, 1 ], [ -2, -2, 1 ], [ -2570, -3482, 649 ] ], [ [ 0, 0, 1 ], [ -2, -2, 1 ], [ -1272, -2184, 649 ] ], [ [ 0, 0, 1 ], [ -2, -2, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -2, -2, 1 ], [ 2, 2, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -1272, -2184, 649 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 2, 2, 1 ], [ -3868, -4780, 649 ], [ -2570, -3482, 649 ] ], [ [ 2, 2, 1 ], [ -3868, -4780, 649 ], [ -1272, -2184, 649 ] ], [ [ 2, 2, 1 ], [ -3868, -4780, 649 ], [ 0, 0, 1 ] ], [ [ 2, 2, 1 ], [ -3868, -4780, 649 ], [ 2, 2, 1 ] ], [ [ 2, 2, 1 ], [ -2570, -3482, 649 ], [ -2570, -3482, 649 ] ], [ [ 2, 2, 1 ], [ -2570, -3482, 649 ], [ 2, 2, 1 ] ], [ [ 2, 2, 1 ], [ -2, -2, 1 ], [ -2570, -3482, 649 ] ], [ [ 2, 2, 1 ], [ -2, -2, 1 ], [ 2, 2, 1 ] ], [ [ 2, 2, 1 ], [ 0, 0, 1 ], [ -2570, -3482, 649 ] ], [ [ 2, 2, 1 ], [ 0, 0, 1 ], [ -1272, -2184, 649 ] ], [ [ 2, 2, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 2, 2, 1 ], [ 0, 0, 1 ], [ 2, 2, 1 ] ], [ [ 1934, 2390, 649 ], [ -1934, -2390, 649 ], [ -636, -1092, 649 ] ], [ [ 2570, 3482, 649 ], [ -3868, -4780, 649 ], [ -2570, -3482, 649 ] ], [ [ 2570, 3482, 649 ], [ -3868, -4780, 649 ], [ -1272, -2184, 649 ] ], [ [ 2570, 3482, 649 ], [ -3868, -4780, 649 ], [ 0, 0, 1 ] ], [ [ 2570, 3482, 649 ], [ -3868, -4780, 649 ], [ 2, 2, 1 ] ], [ [ 2570, 3482, 649 ], [ -2570, -3482, 649 ], [ -2570, -3482, 649 ] ], [ [ 2570, 3482, 649 ], [ -2570, -3482, 649 ], [ 2, 2, 1 ] ], [ [ 2570, 3482, 649 ], [ -2, -2, 1 ], [ -2570, -3482, 649 ] ], [ [ 2570, 3482, 649 ], [ -2, -2, 1 ], [ 2, 2, 1 ] ], [ [ 2570, 3482, 649 ], [ 0, 0, 1 ], [ -2570, -3482, 649 ] ], [ [ 2570, 3482, 649 ], [ 0, 0, 1 ], [ -1272, -2184, 649 ] ], [ [ 2570, 3482, 649 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 2570, 3482, 649 ], [ 0, 0, 1 ], [ 2, 2, 1 ] ], [ [ 3868, 4780, 649 ], [ -3868, -4780, 649 ], [ -1272, -2184, 649 ] ], [ [ 3868, 4780, 649 ], [ -3868, -4780, 649 ], [ 0, 0, 1 ] ], [ [ 3868, 4780, 649 ], [ -2570, -3482, 649 ], [ -2570, -3482, 649 ] ], [ [ 3868, 4780, 649 ], [ -2570, -3482, 649 ], [ -1272, -2184, 649 ] ], [ [ 3868, 4780, 649 ], [ -2570, -3482, 649 ], [ 0, 0, 1 ] ], [ [ 3868, 4780, 649 ], [ -2570, -3482, 649 ], [ 2, 2, 1 ] ], [ [ 3868, 4780, 649 ], [ -2, -2, 1 ], [ -2570, -3482, 649 ] ], [ [ 3868, 4780, 649 ], [ -2, -2, 1 ], [ -1272, -2184, 649 ] ], [ [ 3868, 4780, 649 ], [ -2, -2, 1 ], [ 0, 0, 1 ] ], [ [ 3868, 4780, 649 ], [ -2, -2, 1 ], [ 2, 2, 1 ] ], [ [ 3868, 4780, 649 ], [ 0, 0, 1 ], [ -1272, -2184, 649 ] ], [ [ 3868, 4780, 649 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ] ],
+  "edges" : [ [ 8, 11 ], [ 3, 16 ], [ 21, 20 ], [ 7, 10 ], [ 2, 12 ], [ 28, 15 ], [ 40, 41 ], [ 41, 30 ], [ 34, 31 ], [ 29, 39 ], [ 39, 37 ], [ 33, 31 ], [ 34, 21 ], [ 45, 32 ], [ 40, 29 ], [ 32, 30 ], [ 35, 36 ], [ 29, 16 ], [ 38, 42 ], [ 31, 29 ], [ 16, 18 ], [ 17, 19 ], [ 28, 30 ], [ 19, 22 ], [ 10, 21 ], [ 11, 22 ], [ 15, 17 ], [ 19, 32 ], [ 37, 38 ], [ 6, 7 ], [ 21, 22 ], [ 7, 18 ], [ 30, 42 ], [ 8, 19 ], [ 19, 9 ], [ 17, 5 ], [ 42, 28 ], [ 7, 3 ], [ 46, 48 ], [ 47, 34 ], [ 8, 4 ], [ 40, 26 ], [ 10, 20 ], [ 18, 6 ], [ 48, 35 ], [ 20, 18 ], [ 43, 44 ], [ 40, 37 ], [ 30, 17 ], [ 13, 12 ], [ 6, 10 ], [ 14, 4 ], [ 22, 23 ], [ 13, 3 ], [ 21, 18 ], [ 15, 5 ], [ 13, 14 ], [ 48, 47 ], [ 38, 27 ], [ 18, 31 ], [ 11, 10 ], [ 3, 4 ], [ 45, 48 ], [ 44, 47 ], [ 16, 2 ], [ 4, 17 ], [ 35, 22 ], [ 12, 0 ], [ 48, 36 ], [ 1, 15 ], [ 23, 19 ], [ 39, 40 ], [ 9, 5 ], [ 4, 1 ], [ 37, 25 ], [ 34, 33 ], [ 21, 7 ], [ 5, 1 ], [ 0, 13 ], [ 27, 28 ], [ 7, 8 ], [ 27, 14 ], [ 34, 35 ], [ 11, 9 ], [ 12, 25 ], [ 33, 20 ], [ 43, 33 ], [ 29, 26 ], [ 26, 27 ], [ 44, 34 ], [ 3, 0 ], [ 36, 46 ], [ 23, 11 ], [ 35, 45 ], [ 36, 32 ], [ 1, 14 ], [ 8, 22 ], [ 2, 3 ], [ 5, 4 ], [ 31, 43 ], [ 26, 25 ], [ 35, 32 ], [ 0, 1 ], [ 13, 16 ], [ 41, 45 ], [ 46, 45 ], [ 41, 38 ], [ 25, 29 ], [ 44, 40 ], [ 44, 31 ], [ 47, 43 ], [ 0, 2 ], [ 27, 41 ], [ 12, 16 ], [ 43, 39 ], [ 42, 41 ], [ 37, 26 ], [ 33, 47 ], [ 9, 8 ], [ 20, 6 ], [ 23, 36 ], [ 9, 23 ], [ 25, 39 ], [ 14, 15 ], [ 28, 38 ], [ 32, 46 ], [ 2, 6 ], [ 26, 13 ], [ 42, 46 ], [ 44, 45 ], [ 27, 30 ], [ 14, 17 ] ],
+  "faces" : [ ]
+}
+</ImportSimpleMeshJson>
+    <BeginBlock/>
+    <SelectManifestation point="3868/649 4780/649 0 0 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="58/3 40/3 0 0 -31/2 -12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="1934/649 2390/649 -1934/649 -2390/649 -636/649 -1092/649"/>
+    <SelectManifestation point="27/2 8 0 0 -58/3 -40/3"/>
     <EndBlock/>
     <JoinPoints/>
     <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-1 -2 -2 -3 -1 -1"/>
-    <SelectManifestation point="-1 -2 0 -1 3 5"/>
+    <SelectManifestation point="2570/649 3482/649 -2570/649 -3482/649 -2570/649 -3482/649"/>
+    <SelectManifestation point="3868/649 4780/649 -2570/649 -3482/649 -2570/649 -3482/649"/>
+    <SelectManifestation endSegment="3868/649 4780/649 -2570/649 -3482/649 -2570/649 -3482/649" startSegment="3868/649 4780/649 -2 -2 -2570/649 -3482/649"/>
+    <SelectManifestation point="2570/649 3482/649 -2 -2 -2570/649 -3482/649"/>
     <EndBlock/>
-    <NewCentroid/>
-    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="SELECT"/>
-    <Delete/>
-    <SelectManifestation point="-1 -2 -1 -2 1 2"/>
-    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
-    <Branch>
-      <TranslationTool name="tool-0"/>
-    </Branch>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="29/3 20/3 0 0 -27/2 -8"/>
+    <SelectManifestation point="27/2 8 -23/6 -4/3 -27/2 -8"/>
+    <SelectManifestation point="25/2 6 -29/6 -10/3 -29/2 -10"/>
+    <SelectManifestation point="26/3 14/3 -1 -2 -29/2 -10"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="27/2 8 0 0 -58/3 -40/3" startSegment="1934/649 2390/649 -1934/649 -2390/649 -636/649 -1092/649"/>
+    <SelectManifestation>
+      <polygonVertex at="2570/649 3482/649 -2570/649 -3482/649 -2570/649 -3482/649"/>
+      <polygonVertex at="3868/649 4780/649 -2570/649 -3482/649 -2570/649 -3482/649"/>
+      <polygonVertex at="2570/649 3482/649 -2 -2 -2570/649 -3482/649"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <LinePlaneIntersect/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="29/3 20/3 0 0 -27/2 -8"/>
+      <polygonVertex at="27/2 8 -23/6 -4/3 -27/2 -8"/>
+      <polygonVertex at="25/2 6 -29/6 -10/3 -29/2 -10"/>
+      <polygonVertex at="26/3 14/3 -1 -2 -29/2 -10"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="27/2 8 0 0 -58/3 -40/3" startSegment="1934/649 2390/649 -1934/649 -2390/649 -636/649 -1092/649"/>
+    <EndBlock/>
+    <LinePlaneIntersect/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="751683576/72719929 451543250/72719929 -71902518/72719929 -94643406/72719929 -2979924508/218159787 -1937127820/218159787"/>
+    <SelectManifestation point="3539963641/786472478 4201202047/786472478 -925779170/393236239 -1078280972/393236239 -2570/649 -3482/649"/>
+    <EndBlock/>
+    <TauDivision/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="751683576/72719929 451543250/72719929 -71902518/72719929 -94643406/72719929 -2979924508/218159787 -1937127820/218159787"/>
+    <SelectManifestation point="437657880280981165/28596111380307031 21373798699153661/57192222760614062 -30422054698121628/28596111380307031 -76265136780719162/28596111380307031 -2809707781948/141585701763 38701465974/47195233921"/>
+    <EndBlock/>
     <TranslationTool name="tool-1"/>
-    <SelectAll originLast="true"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="2570/649 3482/649 -2570/649 -3482/649 -2570/649 -3482/649"/>
+      <polygonVertex at="3868/649 4780/649 -2570/649 -3482/649 -2570/649 -3482/649"/>
+      <polygonVertex at="2570/649 3482/649 -2 -2 -2570/649 -3482/649"/>
+    </SelectManifestation>
+    <SelectManifestation point="3539963641/786472478 4201202047/786472478 -925779170/393236239 -1078280972/393236239 -2570/649 -3482/649"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="2570/649 3482/649 -2570/649 -3482/649 -2570/649 -3482/649"/>
+      <polygonVertex at="3868/649 4780/649 -2570/649 -3482/649 -2570/649 -3482/649"/>
+      <polygonVertex at="2570/649 3482/649 -2 -2 -2570/649 -3482/649"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="29/3 20/3 0 0 -58/3 -40/3" startSegment="27/2 8 23/6 4/3 -58/3 -40/3"/>
+    <DeselectAll/>
+    <SelectManifestation point="55/3 34/3 -1 -2 -55/3 -34/3"/>
+    <DeselectAll/>
+    <SelectManifestation point="58/3 40/3 0 0 -31/2 -12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="27/2 8 0 0 -58/3 -40/3"/>
+    <SelectManifestation point="751683576/72719929 451543250/72719929 -71902518/72719929 -94643406/72719929 -2979924508/218159787 -1937127820/218159787"/>
+    <SelectManifestation>
+      <polygonVertex at="29/3 20/3 0 0 -27/2 -8"/>
+      <polygonVertex at="27/2 8 -23/6 -4/3 -27/2 -8"/>
+      <polygonVertex at="25/2 6 -29/6 -10/3 -29/2 -10"/>
+      <polygonVertex at="26/3 14/3 -1 -2 -29/2 -10"/>
+    </SelectManifestation>
+    <EndBlock/>
     <ApplyTool copyColors="true" deleteInputs="true" name="tool-1"/>
-    <DeselectAll/>
-    <StrutCreation anchor="-1 -1 2 3 0 0" index="55" len="2 4"/>
-    <BeginBlock/>
-    <SelectManifestation point="-2 -2 3 5 -2 -3"/>
-    <SelectManifestation endSegment="-2 -2 3 5 -2 -3" startSegment="-1 -1 2 3 0 0"/>
-    <DeselectAll/>
-    <EndBlock/>
-    <StrutCreation anchor="-2 -2 3 5 -2 -3" index="26" len="2 4"/>
-    <BeginBlock/>
-    <SelectManifestation point="0 1 2 4 -3 -5"/>
-    <SelectManifestation point="1 2 1 2 -1 -2"/>
-    <EndBlock/>
-    <JoinPoints/>
-    <StrutCreation anchor="0 0 0 0 0 0" index="26" len="2 4"/>
-    <StrutCreation anchor="0 0 0 0 0 0" index="37" len="2 4"/>
-    <StrutCreation anchor="0 0 0 0 0 0" index="36" len="2 4"/>
     <BeginBlock/>
     <DeselectAll/>
-    <SelectManifestation endSegment="2 3 -1 -1 -1 -2" startSegment="0 0 0 0 0 0"/>
-    <EndBlock/>
-    <RotationTool corrected="true" full="true" name="tool-2" symmetry="icosahedral"/>
-    <BeginBlock/>
+    <SelectManifestation point="2570/649 3482/649 -2 -2 -2570/649 -3482/649"/>
+    <SelectManifestation endSegment="27/2 8 0 0 -58/3 -40/3" startSegment="1934/649 2390/649 -1934/649 -2390/649 -636/649 -1092/649"/>
+    <SelectManifestation point="437657880280981165/28596111380307031 21373798699153661/57192222760614062 -30422054698121628/28596111380307031 -76265136780719162/28596111380307031 -2809707781948/141585701763 38701465974/47195233921"/>
+    <SelectManifestation point="2570/649 3482/649 -2 -2 -2570/649 -3482/649"/>
+    <SelectManifestation point="3539963641/786472478 4201202047/786472478 -925779170/393236239 -1078280972/393236239 -2570/649 -3482/649"/>
     <DeselectAll/>
-    <SelectManifestation endSegment="1 1 -1 -2 2 3" startSegment="0 0 0 0 0 0"/>
-    <EndBlock/>
-    <RotationTool corrected="true" full="true" name="tool-3" symmetry="icosahedral"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-1 -2 -2 -3 -1 -1"/>
-    <DeselectAll/>
-    <SelectManifestation endSegment="-1 -2 -2 -3 -1 -1" startSegment="0 0 0 0 0 0"/>
-    <EndBlock/>
-    <RotationTool corrected="true" full="true" name="tool-4" symmetry="icosahedral"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="0 0 0 0 0 0"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <Delete/>
-    <SelectAll originLast="true"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <DeselectAll/>
-    <StrutCreation anchor="0 0 -1 -1 -2 -3" index="26" len="2 4"/>
-    <StrutCreation anchor="1 2 1 2 -1 -2" index="26" len="2 4"/>
-    <SelectAll originLast="true"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <DeselectAll/>
-    <StrutCreation anchor="-2 -3 0 0 -1 -1" index="36" len="2 4"/>
-    <SelectAll originLast="true"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <DeselectAll/>
-    <StrutCreation anchor="-1 -2 -1 -2 1 2" index="36" len="2 4"/>
-    <SelectAll originLast="true"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-2 -3 2 2 3 5"/>
-    <SelectManifestation point="-3 -5 0 -1 2 4"/>
-    <SelectManifestation point="-4 -6 1 1 0 1"/>
-    <SelectManifestation point="-3 -4 3 4 1 2"/>
-    <EndBlock/>
-    <JoinPoints/>
-    <BeginBlock/>
-    <SelectManifestation point="-2 -4 -3 -5 0 1"/>
-    <SelectManifestation point="0 -1 -4 -6 -1 -1"/>
-    <SelectManifestation point="-1 -2 -3 -4 -3 -4"/>
-    <SelectManifestation point="-3 -5 -2 -3 -2 -2"/>
-    <EndBlock/>
-    <JoinPoints/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <SelectAll originLast="true"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="0 -1 -2 -4 3 5"/>
-    <SelectManifestation point="-3 -5 0 -1 2 4"/>
-    <SelectManifestation point="-4 -6 1 1 0 1"/>
-    <SelectManifestation point="-3 -4 1 2 -3 -4"/>
-    <EndBlock/>
-    <JoinPoints closedLoop="false"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
-    <BeginBlock/>
-    <SelectManifestation point="-3 -5 0 -1 2 4"/>
-    <SelectManifestation point="-2 -4 -3 -5 0 1"/>
-    <SelectManifestation point="0 -1 -4 -6 -1 -1"/>
-    <SelectManifestation point="3 4 -3 -4 -1 -2"/>
-    <EndBlock/>
-    <JoinPoints closedLoop="false"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <SelectManifestation point="0 -1 -4 -6 -1 -1"/>
-    <SelectManifestation point="2 2 -3 -5 2 3"/>
-    <SelectManifestation point="0 -1 -2 -4 3 5"/>
-    <SelectManifestation point="-2 -4 -3 -5 0 1"/>
-    <EndBlock/>
-    <JoinPoints closedLoop="false"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <SelectManifestation point="1 1 -1 -2 2 3"/>
-    <SelectManifestation point="-1 -2 -2 -3 -1 -1"/>
-    <SelectManifestation point="1 2 2 3 1 1"/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <Delete/>
-    <BeginBlock/>
-    <SelectManifestation point="0 -1 -4 -6 -1 -1"/>
-    <SelectManifestation point="2 2 -3 -5 2 3"/>
-    <SelectManifestation point="3 4 -1 -2 3 4"/>
-    <SelectManifestation point="3 5 2 3 2 2"/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="3 4 -1 -2 3 4"/>
-    <SelectManifestation point="1 1 0 -1 4 6"/>
-    <DeselectAll/>
-    <SelectManifestation endSegment="0 -1 -4 -6 -1 -1" startSegment="1 1 -2 -3 0 0"/>
-    <DeselectAll/>
-    <SelectManifestation point="3 4 -1 -2 3 4"/>
-    <SelectManifestation point="1 1 0 -1 4 6"/>
-    <SelectManifestation point="2 2 -3 -5 2 3"/>
-    <SelectManifestation point="0 -1 -2 -4 3 5"/>
-    <EndBlock/>
-    <JoinPoints/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
-    <BeginBlock/>
-    <SelectManifestation point="2 2 -3 -5 2 3"/>
-    <SelectManifestation point="3 4 -1 -2 3 4"/>
-    <SelectManifestation point="3 5 2 3 2 2"/>
-    <SelectManifestation point="0 1 4 6 1 1"/>
-    <SelectManifestation point="1 2 3 4 3 4"/>
-    <SelectManifestation point="2 4 3 5 0 -1"/>
-    <EndBlock/>
-    <JoinPoints closedLoop="false"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <SelectManifestation point="1 2 3 4 3 4"/>
-    <SelectManifestation point="1 1 0 -1 4 6"/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <SelectManifestation point="2 3 -2 -2 -3 -5"/>
-    <SelectManifestation point="4 6 -1 -1 0 -1"/>
-    <SelectManifestation point="3 4 -3 -4 -1 -2"/>
-    <SelectManifestation point="3 5 0 1 -2 -4"/>
-    <DeselectAll/>
-    <SelectManifestation point="3 5 0 1 -2 -4"/>
-    <SelectManifestation point="3 4 -3 -4 -1 -2"/>
-    <SelectManifestation point="2 3 -2 -2 -3 -5"/>
-    <SelectManifestation point="4 6 -1 -1 0 -1"/>
-    <EndBlock/>
-    <JoinPoints closedLoop="false"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-2 -3 1 1 1 2"/>
-    <SelectManifestation point="2 3 -1 -1 -1 -2"/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <Delete/>
-    <BeginBlock/>
-    <SelectManifestation point="-1 -2 -1 -2 1 2"/>
-    <SelectManifestation point="0 0 -1 -1 -2 -3"/>
-    <SelectManifestation point="2 3 0 0 1 1"/>
-    <EndBlock/>
-    <JoinPoints closedLoop="false"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <Delete/>
-    <BeginBlock/>
-    <SelectManifestation endSegment="0 1 4 6 1 1" startSegment="3 5 2 3 2 2"/>
-    <SelectManifestation endSegment="2 4 3 5 0 -1" startSegment="1 2 3 4 3 4"/>
-    <SelectManifestation endSegment="2 2 -3 -5 2 3" startSegment="1 1 0 -1 4 6"/>
-    <SelectManifestation endSegment="3 4 -1 -2 3 4" startSegment="0 -1 -2 -4 3 5"/>
-    <SelectManifestation endSegment="-3 -5 0 -1 2 4" startSegment="-3 -4 3 4 1 2"/>
-    <SelectManifestation endSegment="-2 -3 2 2 3 5" startSegment="-4 -6 1 1 0 1"/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
-    <Delete/>
-    <BeginBlock/>
-    <SelectManifestation point="3 5 2 3 2 2"/>
-    <SelectManifestation point="1 2 3 4 3 4"/>
-    <SelectManifestation point="0 1 4 6 1 1"/>
-    <SelectManifestation point="2 4 3 5 0 -1"/>
+    <SelectManifestation point="3539963641/786472478 4201202047/786472478 -925779170/393236239 -1078280972/393236239 -2570/649 -3482/649"/>
+    <SelectManifestation point="437657880280981165/28596111380307031 21373798699153661/57192222760614062 -30422054698121628/28596111380307031 -76265136780719162/28596111380307031 -2809707781948/141585701763 38701465974/47195233921"/>
     <EndBlock/>
     <NewCentroid/>
-    <SelectManifestation point="3/2 3 3 9/2 3/2 3/2"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <SelectManifestation point="-2 -3 2 2 3 5"/>
-    <SelectManifestation point="-3 -4 3 4 1 2"/>
-    <SelectManifestation point="-4 -6 1 1 0 1"/>
-    <SelectManifestation point="-3 -5 0 -1 2 4"/>
-    <DeselectAll/>
-    <SelectManifestation point="-2 -3 2 2 3 5"/>
-    <SelectManifestation point="-3 -5 0 -1 2 4"/>
-    <DeselectAll/>
-    <SelectManifestation point="-2 -3 2 2 3 5"/>
-    <SelectManifestation point="-4 -6 1 1 0 1"/>
-    <SelectManifestation point="-3 -5 0 -1 2 4"/>
-    <SelectManifestation point="-3 -4 3 4 1 2"/>
-    <EndBlock/>
-    <NewCentroid/>
-    <SelectManifestation point="-3 -9/2 3/2 3/2 3/2 3"/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <SelectManifestation point="2 2 -3 -5 2 3"/>
-    <SelectManifestation point="1 1 0 -1 4 6"/>
-    <DeselectAll/>
-    <SelectManifestation point="2 2 -3 -5 2 3"/>
-    <SelectManifestation point="0 -1 -2 -4 3 5"/>
-    <SelectManifestation point="1 1 0 -1 4 6"/>
-    <SelectManifestation point="3 4 -1 -2 3 4"/>
-    <EndBlock/>
-    <NewCentroid/>
-    <BeginBlock/>
-    <SelectManifestation point="0 -1 -2 -4 3 5"/>
-    <SelectManifestation point="1 1 0 -1 4 6"/>
-    <SelectManifestation point="2 2 -3 -5 2 3"/>
-    <SelectManifestation point="3 4 -1 -2 3 4"/>
-    <SelectManifestation point="3/2 3/2 -3/2 -3 3 9/2"/>
-    <EndBlock/>
-    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="1 1 0 -1 4 6"/>
-    <SelectManifestation point="0 0 1 1 2 3"/>
-    <EndBlock/>
-    <TranslationTool name="tool-5"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="3/2 3/2 -3/2 -3 3 9/2"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" name="tool-5"/>
-    <ApplyTool copyColors="true" name="tool-5"/>
-    <ApplyTool copyColors="true" name="tool-5"/>
-    <BeginBlock/>
-    <SelectManifestation point="-4 -6 1 1 0 1"/>
-    <DeselectAll/>
-    <SelectManifestation point="-4 -6 1 1 0 1"/>
-    <SelectManifestation point="-2 -3 0 0 -1 -1"/>
-    <EndBlock/>
-    <TranslationTool name="tool-6"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-2 -3 2 2 3 5"/>
-    <SelectManifestation point="-3 -5 0 -1 2 4"/>
-    <SelectManifestation point="-4 -6 1 1 0 1"/>
-    <SelectManifestation point="-3 -4 3 4 1 2"/>
-    <SelectManifestation point="-3 -9/2 3/2 3/2 3/2 3"/>
-    <EndBlock/>
-    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-3 -9/2 3/2 3/2 3/2 3"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" name="tool-6"/>
-    <ApplyTool copyColors="true" name="tool-6"/>
-    <ApplyTool copyColors="true" name="tool-6"/>
-    <BeginBlock/>
-    <SelectManifestation point="-3/2 -3 -3 -9/2 -3/2 -3/2"/>
-    <DeselectAll/>
-    <SelectManifestation point="-2 -4 -3 -5 0 1"/>
-    <SelectManifestation point="0 -1 -4 -6 -1 -1"/>
-    <SelectManifestation point="-1 -2 -3 -4 -3 -4"/>
-    <SelectManifestation point="-3 -5 -2 -3 -2 -2"/>
-    <SelectManifestation point="-3/2 -3 -3 -9/2 -3/2 -3/2"/>
-    <EndBlock/>
-    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
-    <BeginBlock/>
-    <SelectManifestation point="0 -1 -4 -6 -1 -1"/>
-    <SelectManifestation point="1 1 -2 -3 0 0"/>
-    <DeselectAll/>
-    <SelectManifestation endSegment="3 4 -3 -4 -1 -2" startSegment="0 -1 -4 -6 -1 -1"/>
-    <DeselectAll/>
-    <SelectManifestation point="0 -1 -4 -6 -1 -1"/>
-    <SelectManifestation point="1 1 -2 -3 0 0"/>
-    <EndBlock/>
-    <TranslationTool name="tool-7"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-3/2 -3 -3 -9/2 -3/2 -3/2"/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" name="tool-7"/>
-    <ApplyTool copyColors="true" name="tool-7"/>
-    <ApplyTool copyColors="true" name="tool-7"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectAll originLast="true"/>
-    <DeselectAll/>
-    <SelectManifestation point="1 2 3 4 3 4"/>
-    <SelectManifestation point="1 1 0 -1 4 6"/>
-    <EndBlock/>
-    <JoinPoints/>
-    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="2 4 3 5 0 -1"/>
-    <SelectManifestation point="-2 -4 -3 -5 0 1"/>
-    <DeselectAll/>
-    <SelectAll originLast="true"/>
-    <EndBlock/>
-    <BookmarkTool name="tool-8"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectAll originLast="true"/>
-    <EndBlock/>
-    <Delete/>
-    <Polytope4d group="B4/C4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0100" wythoff="0100"/>
-    <BeginBlock/>
-    <SelectManifestation point="-3 -5 3 5 -3 -5"/>
-    <SelectManifestation point="3 5 -3 -5 3 5"/>
-    <DeselectAll/>
-    <SelectManifestation point="-3 -5 3 5 -3 -5"/>
-    <SelectManifestation point="3 5 -3 -5 3 5"/>
-    <DeselectAll/>
-    <SelectManifestation point="-3 -5 3 5 -3 -5"/>
-    <SelectManifestation point="3 5 -3 -5 3 5"/>
-    <SelectAll originLast="true"/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-2 -3 2 3 -2 -3"/>
-    <SelectManifestation point="2 3 -2 -3 2 3"/>
-    <DeselectAll/>
-    <EndBlock/>
+    <SelectManifestation point="1132741665198063819/114384445521228124 81721228317912081/28596111380307031 -48872325105100279/28596111380307031 -77338826253305075/28596111380307031 -1685189217269/141585701763 -107254663402/47195233921"/>
     <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectAll originLast="true"/>
-    <SelectManifestation point="0 0 0 0 0 0"/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
-    <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
+    <TranslationTool name="tool-2"/>
     <BeginBlock/>
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
     <BeginBlock/>
     <DeselectAll/>
-    <SelectManifestation point="-1 -1 1 2 -2 -3"/>
-    <DeselectAll/>
-    <SelectManifestation point="-1 -1 1 2 -2 -3"/>
+    <SelectManifestation point="-617889855925860841/114384445521228124 142068657936670501/57192222760614062 -18450270406978651/28596111380307031 -1073689472585913/28596111380307031 1124518564679/141585701763 -145956129376/47195233921"/>
+    <SelectManifestation point="617889855925860841/114384445521228124 -142068657936670501/57192222760614062 18450270406978651/28596111380307031 1073689472585913/28596111380307031 -1124518564679/141585701763 145956129376/47195233921"/>
+    <SelectManifestation endSegment="411448349338515855/114384445521228124 147047662724544167/28596111380307031 48872325105100279/28596111380307031 77338826253305075/28596111380307031 -1052134350149/141585701763 -1566045366634/141585701763" startSegment="-791879542489196035/114384445521228124 23586485393850329/28596111380307031 -36343205572116667/28596111380307031 -27968887458457335/28596111380307031 1546439592737/141585701763 27844500934/47195233921"/>
     <EndBlock/>
     <Delete/>
-    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
-    <BeginBlock/>
-    <SelectManifestation endSegment="-3 -5 0 -1 2 4" startSegment="-2 -3 2 2 3 5"/>
-    <DeselectAll/>
-    <SelectManifestation point="-5 -6 5 9 -6 -9"/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
-    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-6 -7 6 11 -6 -9"/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <EndBlock/>
-    <NewCentroid/>
-    <BeginBlock/>
-    <SelectManifestation point="-4 -4 4 8 -8 -12"/>
-    <SelectManifestation point="0 0 0 0 0 0"/>
-    <AdjustSelectionByOrbitLength length="2 3" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
-    <AdjustSelectionByOrbitLength length="2 4" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
-    <DeselectAll/>
-    <AdjustSelectionByOrbitLength length="2 4" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
-    <DeselectAll/>
-    <AdjustSelectionByOrbitLength length="2 3" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
-    <AdjustSelectionByOrbitLength length="1 2" orbit="green" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
-    <DeselectAll/>
-    <AdjustSelectionByOrbitLength length="2 4" orbit="green" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
-    <DeselectAll/>
-    <AdjustSelectionByOrbitLength length="1 2" orbit="green" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
-    <DeselectAll/>
-    <SelectManifestation point="0 0 0 0 0 0"/>
-    <EndBlock/>
-    <JoinPoints/>
-    <BeginBlock/>
-    <SelectManifestation point="-4 -4 4 8 -8 -12"/>
-    <SelectManifestation point="0 0 0 0 0 0"/>
-    <EndBlock/>
-    <JoinPoints/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="-4 -4 4 8 -8 -12"/>
-    <DeselectAll/>
-    <SelectManifestation endSegment="-4 -4 2 5 -6 -9" startSegment="-2 -1 4 8 -6 -9"/>
-    <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="-4 -4 4 8 -8 -12"/>
-    <EndBlock/>
-    <ShowVertices/>
-    <BeginBlock/>
-    <SelectManifestation endSegment="-4 -4 2 5 -6 -9" startSegment="-2 -1 4 8 -6 -9"/>
-    <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="-4 -4 4 8 -8 -12"/>
-    <EndBlock/>
-    <StrutIntersection/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-3 -3 3 6 -6 -9"/>
-    <SelectManifestation point="-3/2 -3/2 3/2 3 -3 -9/2"/>
-    <EndBlock/>
-    <TauDivision>
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </TauDivision>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-3 -3 3 6 -6 -9"/>
-    <SelectManifestation point="-3 -3/2 3/2 9/2 -9/2 -6"/>
-    <EndBlock/>
-    <TranslationTool name="tool-9"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="-4 -4 4 8 -8 -12"/>
-    <SelectNeighbors/>
-    <DeselectAll/>
-    <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="-4 -4 4 8 -8 -12"/>
-    <EndBlock/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <Delete/>
-    <BeginBlock/>
-    <SelectManifestation point="-3 -3/2 3/2 9/2 -9/2 -6"/>
-    <SelectManifestation point="-3/2 -3/2 3/2 3 -3 -9/2"/>
-    <EndBlock/>
-    <TranslationTool name="tool-10"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-4 -4 6 11 -6 -9"/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectNeighbors/>
-    <SelectManifestation point="-4 -4 4 8 -8 -12"/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" deleteInputs="true" name="tool-10"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-3 -3 3 6 -6 -9"/>
-    <SelectManifestation point="-3 -3/2 3/2 9/2 -9/2 -6"/>
-    <EndBlock/>
-    <Delete/>
-    <BeginBlock/>
-    <SelectManifestation point="-5/2 -4 4 13/2 -13/2 -21/2"/>
-    <SelectManifestation point="0 0 0 0 0 0"/>
-    <EndBlock/>
-    <JoinPoints/>
-    <BeginBlock/>
-    <SelectManifestation endSegment="-5/2 -4 2 7/2 -9/2 -15/2" startSegment="-1/2 -1 4 13/2 -9/2 -15/2"/>
-    <DeselectAll/>
-    <SelectManifestation endSegment="-5/2 -4 2 7/2 -9/2 -15/2" startSegment="-1/2 -1 4 13/2 -9/2 -15/2"/>
-    <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="-5/2 -4 4 13/2 -13/2 -21/2"/>
-    <EndBlock/>
-    <StrutIntersection/>
-    <BeginBlock/>
-    <SelectManifestation point="-3/2 -3 3 9/2 -9/2 -15/2"/>
-    <SelectManifestation point="-3/2 -3/2 3/2 3 -3 -9/2"/>
-    <SelectManifestation point="-3/2 -3 3 9/2 -9/2 -15/2"/>
-    <EndBlock/>
-    <NewCentroid/>
-    <BeginBlock/>
-    <SelectManifestation point="-3/2 -3 3 9/2 -9/2 -15/2"/>
-    <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="-5/2 -4 4 13/2 -13/2 -21/2"/>
-    <EndBlock/>
-    <Delete/>
-    <SelectManifestation point="-3/2 -9/4 9/4 15/4 -15/4 -6"/>
-    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
-    <TranslationTool name="tool-11"/>
-    <SelectAll originLast="true"/>
-    <ApplyTool copyColors="true" deleteInputs="true" name="tool-11"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation point="-1 -7/4 7/4 11/4 -11/4 -9/2"/>
-    <SelectManifestation point="-1 -7/4 -1/4 -1/4 -19/4 -15/2"/>
-    <SelectManifestation point="-3 -19/4 -1/4 -1/4 -11/4 -9/2"/>
-    <SelectManifestation point="-1 -7/4 -1/4 -1/4 -3/4 -3/2"/>
-    <SelectManifestation point="1 5/4 -1/4 -1/4 -11/4 -9/2"/>
-    <DeselectAll/>
-    <SelectManifestation point="-1 -7/4 7/4 11/4 -11/4 -9/2"/>
-    <SelectManifestation point="-1 -7/4 -1/4 -1/4 -19/4 -15/2"/>
-    <SelectManifestation point="-3 -19/4 -1/4 -1/4 -11/4 -9/2"/>
-    <EndBlock/>
-    <DeselectAll/>
   </EditHistory>
   <notes/>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
@@ -584,10 +192,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="146.77186584472656" far="293.5436706542969" near="0.36692970991134644" parallel="false" stereoAngle="0.0" width="66.04734802246094">
+    <ViewModel distance="152.76174926757812" far="305.52325439453125" near="0.3819044828414917" parallel="false" stereoAngle="0.0" width="68.74278259277344">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.4253253936767578" y="0.6881909966468811" z="0.5877852439880371"/>
-      <LookDirection x="0.8506507873535156" y="0.525731086730957" z="0.0"/>
+      <UpDirection x="0.7905694246292114" y="-0.5720614194869995" z="0.21850799024105072"/>
+      <LookDirection x="0.5" y="0.80901700258255" z="0.30901700258255005"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
@@ -595,6 +203,7 @@
     <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
     <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
     <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="255,255,255" name="0" orbit="[[16368224,-3012991,35294209],[-22766017,14985583,35294209]]" prototype="-213903/1298 132683/1298 -9544/649 6022/649 455522/1947 -283070/1947"/>
     <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
     <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
     <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
@@ -630,15 +239,6 @@
   <Tools>
     <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
     <Tool copyColors="true" deleteInputs="true" id="tool-1" label="translation 1" selectInputs="false"/>
-    <Tool copyColors="true" deleteInputs="true" id="tool-10" label="translation 10" selectInputs="false"/>
-    <Tool copyColors="true" deleteInputs="true" id="tool-11" label="translation 11" selectInputs="false"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-2" label="axial symmetry 2" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-3" label="axial symmetry 3" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-4" label="axial symmetry 4" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="true" id="tool-5" label="translation 5" selectInputs="false"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="translation 6" selectInputs="false"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-7" label="translation 7" selectInputs="false"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-8" label="bookmark 8" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="true" id="tool-9" label="translation 9" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-2" label="translation 2" selectInputs="false"/>
   </Tools>
 </vzome:vZome>
