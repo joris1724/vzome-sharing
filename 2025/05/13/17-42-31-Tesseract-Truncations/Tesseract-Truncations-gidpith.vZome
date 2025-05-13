@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
+  <EditHistory editNumber="846" lastStickyEdit="809">
+    <Polytope4d group="B4/C4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0110" wythoff="0110"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 -3 -5 6 10"/>
+    <EndBlock/>
+    <SelectByRadius/>
+    <InvertSelection/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 6 10 3 5"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 6 10 3 5" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 6 10 3 5"/>
+    <EndBlock/>
+    <InversionTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="false" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 12 20 6 10"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 12 20 6 10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 6 10 3 5" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 12 20 6 10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 6 10 3 5" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 12 20 6 10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 12 20 6 10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 12 20 6 10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 12 20 6 10" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 12 20 6 10" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 6 10 -3 -5" startSegment="3 5 6 10 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 6 10 3 5" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 -12 -20 -6 -10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 6 10 3 5" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 6 10 3 5" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 -12 -20 -6 -10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 6 10 3 5" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 6 10 3 5" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 -12 -20 -6 -10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 6 10 3 5" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 -12 -20 -6 -10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 -12 -20 -6 -10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 6 10 3 5" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 5 6 10 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 6 10 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 12 20 6 10"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 6 10 -3 -5"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="3 5 6 10 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 6 10 -3 -5" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 12 20 6 10" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 6 10 -3 -5"/>
+    <SelectManifestation endSegment="0 0 6 10 -3 -5" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 6 10 -3 -5"/>
+    <SelectManifestation endSegment="0 0 6 10 -3 -5" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 0 12 20 6 10"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -5 6 10 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -5 6 10 0 0"/>
+    <EndBlock/>
+    <InversionTool name="tool-1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="false" name="tool-1" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 12 20 6 10"/>
+    <SelectManifestation point="-6 -10 12 20 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 12 20 6 10" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -10 12 20 0 0" startSegment="0 0 12 20 6 10"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <SelectNeighbors/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 12 20 6 10"/>
+    <SelectManifestation point="0 0 6 10 12 20"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-6 -10 12 20 0 0" startSegment="0 0 12 20 6 10"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 12 20 6 10"/>
+    <SelectManifestation point="0 0 6 10 12 20"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 12 20 6 10"/>
+    <SelectManifestation point="0 0 6 10 12 20"/>
+    <SelectManifestation point="-12 -20 0 0 6 10"/>
+    <SelectManifestation point="-12 -20 6 10 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 12 20 6 10"/>
+    <SelectManifestation point="0 0 6 10 12 20"/>
+    <SelectManifestation point="-6 -10 0 0 12 20"/>
+    <SelectManifestation point="-12 -20 0 0 6 10"/>
+    <SelectManifestation point="-12 -20 6 10 0 0"/>
+    <SelectManifestation point="-6 -10 12 20 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 6 10 -3 -5" startSegment="-3 -5 6 10 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 6 10 -3 -5" startSegment="-3 -5 6 10 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-4 -8 2 4 0 0" dir="yellow" index="54" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -10 3 6 -1 -2"/>
+    <SelectManifestation endSegment="-5 -10 3 6 -1 -2" startSegment="-4 -8 2 4 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <StrutCreation anchor="-4 -8 0 0 -2 -4" dir="yellow" index="54" len="1 1"/>
+    <StrutCreation anchor="-4 -8 0 0 -2 -4" dir="yellow" index="19" len="1 1"/>
+    <StrutCreation anchor="-4 -8 -2 -4 0 0" dir="yellow" index="19" len="1 1"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -10 3 6 -1 -2"/>
+    <SelectManifestation point="-5 -10 1 2 -3 -6"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-5 -10 -1 -2 3 6" index="45" len="2 4"/>
+    <StrutCreation anchor="-5 -10 -3 -6 1 2" index="45" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -14 -1 -2 3 6"/>
+    <SelectManifestation point="-7 -14 -3 -6 1 2"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="-5 -10 -3 -6 -1 -2" index="45" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -14 -1 -2 3 6"/>
+    <SelectManifestation point="-7 -14 -3 -6 1 2"/>
+    <SelectManifestation point="-7 -14 -3 -6 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <SelectNeighbors/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <StrutCreation anchor="-5 -10 -1 -2 -3 -6" index="45" len="2 4"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-7 -14 -3 -6 -1 -2"/>
+    <SelectManifestation point="-7 -14 -1 -2 -3 -6"/>
+    <SelectManifestation point="-7 -14 1 2 -3 -6"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <SelectNeighbors/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-7 -14 1 2 -3 -6"/>
+    <SelectManifestation point="-5 -10 1 2 -3 -6"/>
+    <SelectManifestation point="-5 -10 3 6 -1 -2"/>
+    <SelectManifestation point="-7 -14 3 6 -1 -2"/>
+    <SelectManifestation point="-7 -14 3 6 1 2"/>
+    <SelectManifestation point="-5 -10 3 6 1 2"/>
+    <SelectManifestation point="-5 -10 1 2 3 6"/>
+    <SelectManifestation point="-7 -14 1 2 3 6"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-7 -14 3 6 1 2" startSegment="-7 -14 3 6 -1 -2"/>
+    <SelectManifestation endSegment="-7 -14 -1 -2 3 6" startSegment="-7 -14 1 2 3 6"/>
+    <SelectManifestation endSegment="-7 -14 -3 -6 -1 -2" startSegment="-7 -14 -3 -6 1 2"/>
+    <SelectManifestation endSegment="-7 -14 1 2 -3 -6" startSegment="-7 -14 -1 -2 -3 -6"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <Delete/>
+    <StrutCreation anchor="-7 -14 1 2 -3 -6" index="47" len="2 4"/>
+    <StrutCreation anchor="-7 -14 3 6 -1 -2" index="1" len="2 4"/>
+    <StrutCreation anchor="-7 -14 5 10 -1 -2" index="47" len="2 4"/>
+    <StrutCreation anchor="-7 -14 1 2 -5 -10" index="1" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -14 5 10 -3 -6"/>
+    <SelectManifestation point="-7 -14 3 6 -5 -10"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-7 -14 5 10 -3 -6"/>
+    <SelectManifestation point="-5 -10 7 14 -3 -6"/>
+    <SelectManifestation point="-5 -10 7 14 -1 -2"/>
+    <SelectManifestation point="-7 -14 5 10 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-7 -14 -3 -6 5 10" dir="yellow" index="54" len="1 1"/>
+    <StrutCreation anchor="-7 -14 -1 -2 5 10" dir="yellow" index="54" len="1 1"/>
+    <StrutCreation anchor="-7 -14 -1 -2 3 6" dir="yellow" index="54" len="1 1"/>
+    <StrutCreation anchor="-7 -14 -3 -6 1 2" dir="yellow" index="54" len="1 1"/>
+    <StrutCreation anchor="-7 -14 -5 -10 1 2" dir="yellow" index="54" len="1 1"/>
+    <StrutCreation anchor="-7 -14 -5 -10 3 6" dir="yellow" index="54" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="-8 -16 0 0 4 8"/>
+    <SelectManifestation point="-8 -16 0 0 2 4"/>
+    <SelectManifestation point="-8 -16 -2 -4 0 0"/>
+    <SelectManifestation point="-8 -16 -4 -8 0 0"/>
+    <SelectManifestation point="-8 -16 -4 -8 2 4"/>
+    <SelectManifestation point="-8 -16 -2 -4 4 8"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <SelectNeighbors/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -16 4 8 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -16 4 8 0 0"/>
+    <SelectManifestation point="-7 -14 5 10 1 2"/>
+    <SelectManifestation point="-7 -14 5 10 3 6"/>
+    <SelectManifestation point="-8 -16 4 8 2 4"/>
+    <SelectManifestation point="-8 -16 2 4 4 8"/>
+    <SelectManifestation point="-7 -14 3 6 5 10"/>
+    <SelectManifestation point="-7 -14 1 2 5 10"/>
+    <SelectManifestation point="-8 -16 0 0 4 8"/>
+    <SelectManifestation point="-8 -16 0 0 2 4"/>
+    <SelectManifestation point="-7 -14 1 2 3 6"/>
+    <SelectManifestation point="-7 -14 3 6 1 2"/>
+    <SelectManifestation point="-8 -16 2 4 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -3 10 15 6 9"/>
+    <SelectManifestation point="-2 -3 6 9 10 15"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ImportSimpleMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -23, -8, 6 ], [ -59, -80, 6 ], [ 23, 8, 3 ] ], [ [ -23, -8, 6 ], [ -59, -80, 6 ], [ 29, 20, 3 ] ], [ [ -23, -8, 6 ], [ -59, -80, 6 ], [ 35, 32, 3 ] ], [ [ -23, -8, 6 ], [ -59, -80, 6 ], [ 41, 44, 3 ] ], [ [ -23, -8, 6 ], [ -6, -12, 1 ], [ 23, 8, 6 ] ], [ [ -23, -8, 6 ], [ -6, -12, 1 ], [ 35, 32, 2 ] ], [ [ -23, -8, 6 ], [ -47, -56, 6 ], [ 29, 20, 3 ] ], [ [ -23, -8, 6 ], [ -47, -56, 6 ], [ 35, 32, 3 ] ], [ [ -23, -8, 6 ], [ -4, -8, 1 ], [ 23, 8, 6 ] ], [ [ -23, -8, 6 ], [ -4, -8, 1 ], [ 35, 32, 6 ] ], [ [ -23, -8, 6 ], [ -4, -8, 1 ], [ 31, 24, 2 ] ], [ [ -23, -8, 6 ], [ -4, -8, 1 ], [ 35, 32, 2 ] ], [ [ -23, -8, 6 ], [ -2, -4, 1 ], [ 23, 8, 6 ] ], [ [ -23, -8, 6 ], [ -2, -4, 1 ], [ 35, 32, 6 ] ], [ [ -23, -8, 6 ], [ -2, -4, 1 ], [ 31, 24, 2 ] ], [ [ -23, -8, 6 ], [ -2, -4, 1 ], [ 35, 32, 2 ] ], [ [ -23, -8, 6 ], [ 11, -16, 6 ], [ 29, 20, 3 ] ], [ [ -23, -8, 6 ], [ 11, -16, 6 ], [ 35, 32, 3 ] ], [ [ -23, -8, 6 ], [ 0, 0, 1 ], [ 23, 8, 6 ] ], [ [ -23, -8, 6 ], [ 0, 0, 1 ], [ 35, 32, 2 ] ], [ [ -23, -8, 6 ], [ 23, 8, 6 ], [ 23, 8, 3 ] ], [ [ -23, -8, 6 ], [ 23, 8, 6 ], [ 29, 20, 3 ] ], [ [ -23, -8, 6 ], [ 23, 8, 6 ], [ 35, 32, 3 ] ], [ [ -23, -8, 6 ], [ 23, 8, 6 ], [ 41, 44, 3 ] ], [ [ 0, 0, 1 ], [ -41, -44, 3 ], [ 23, 8, 3 ] ], [ [ 0, 0, 1 ], [ -41, -44, 3 ], [ 29, 20, 3 ] ], [ [ 0, 0, 1 ], [ -41, -44, 3 ], [ 35, 32, 3 ] ], [ [ 0, 0, 1 ], [ -41, -44, 3 ], [ 41, 44, 3 ] ], [ [ 0, 0, 1 ], [ -6, -12, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -6, -12, 1 ], [ 64, 52, 3 ] ], [ [ 0, 0, 1 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -4, -8, 1 ], [ 64, 52, 3 ] ], [ [ 0, 0, 1 ], [ -2, -4, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -2, -4, 1 ], [ 64, 52, 3 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 64, 52, 3 ] ], [ [ 0, 0, 1 ], [ 23, 8, 3 ], [ 23, 8, 3 ] ], [ [ 0, 0, 1 ], [ 23, 8, 3 ], [ 29, 20, 3 ] ], [ [ 0, 0, 1 ], [ 23, 8, 3 ], [ 35, 32, 3 ] ], [ [ 0, 0, 1 ], [ 23, 8, 3 ], [ 41, 44, 3 ] ], [ [ -11, 16, 6 ], [ -47, -56, 6 ], [ 29, 20, 3 ] ], [ [ -11, 16, 6 ], [ -47, -56, 6 ], [ 35, 32, 3 ] ], [ [ -11, 16, 6 ], [ -4, -8, 1 ], [ 35, 32, 6 ] ], [ [ -11, 16, 6 ], [ -4, -8, 1 ], [ 31, 24, 2 ] ], [ [ -11, 16, 6 ], [ -2, -4, 1 ], [ 35, 32, 6 ] ], [ [ -11, 16, 6 ], [ -2, -4, 1 ], [ 31, 24, 2 ] ], [ [ -11, 16, 6 ], [ 11, -16, 6 ], [ 29, 20, 3 ] ], [ [ -11, 16, 6 ], [ 11, -16, 6 ], [ 35, 32, 3 ] ], [ [ 23, 8, 6 ], [ -41, -44, 3 ], [ 23, 8, 6 ] ], [ [ 23, 8, 6 ], [ -41, -44, 3 ], [ 35, 32, 2 ] ], [ [ 23, 8, 6 ], [ -59, -80, 6 ], [ 0, 0, 1 ] ], [ [ 23, 8, 6 ], [ -59, -80, 6 ], [ 64, 52, 3 ] ], [ [ 23, 8, 6 ], [ 23, 8, 6 ], [ 0, 0, 1 ] ], [ [ 23, 8, 6 ], [ 23, 8, 6 ], [ 64, 52, 3 ] ], [ [ 23, 8, 6 ], [ 23, 8, 3 ], [ 23, 8, 6 ] ], [ [ 23, 8, 6 ], [ 23, 8, 3 ], [ 35, 32, 2 ] ], [ [ 2, 4, 1 ], [ -41, -44, 3 ], [ 29, 20, 3 ] ], [ [ 2, 4, 1 ], [ -41, -44, 3 ], [ 35, 32, 3 ] ], [ [ 2, 4, 1 ], [ -35, -32, 3 ], [ 29, 20, 3 ] ], [ [ 2, 4, 1 ], [ -35, -32, 3 ], [ 35, 32, 3 ] ], [ [ 2, 4, 1 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ -4, -8, 1 ], [ 2, 4, 1 ] ], [ [ 2, 4, 1 ], [ -4, -8, 1 ], [ 58, 40, 3 ] ], [ [ 2, 4, 1 ], [ -4, -8, 1 ], [ 64, 52, 3 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ 2, 4, 1 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ 58, 40, 3 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ 64, 52, 3 ] ], [ [ 2, 4, 1 ], [ 17, -4, 3 ], [ 29, 20, 3 ] ], [ [ 2, 4, 1 ], [ 17, -4, 3 ], [ 35, 32, 3 ] ], [ [ 2, 4, 1 ], [ 23, 8, 3 ], [ 29, 20, 3 ] ], [ [ 2, 4, 1 ], [ 23, 8, 3 ], [ 35, 32, 3 ] ], [ [ 35, 32, 6 ], [ -41, -44, 3 ], [ 23, 8, 6 ] ], [ [ 35, 32, 6 ], [ -41, -44, 3 ], [ 35, 32, 6 ] ], [ [ 35, 32, 6 ], [ -41, -44, 3 ], [ 31, 24, 2 ] ], [ [ 35, 32, 6 ], [ -41, -44, 3 ], [ 35, 32, 2 ] ], [ [ 35, 32, 6 ], [ -59, -80, 6 ], [ 0, 0, 1 ] ], [ [ 35, 32, 6 ], [ -59, -80, 6 ], [ 64, 52, 3 ] ], [ [ 35, 32, 6 ], [ -35, -32, 3 ], [ 35, 32, 6 ] ], [ [ 35, 32, 6 ], [ -35, -32, 3 ], [ 31, 24, 2 ] ], [ [ 35, 32, 6 ], [ -47, -56, 6 ], [ 0, 0, 1 ] ], [ [ 35, 32, 6 ], [ -47, -56, 6 ], [ 2, 4, 1 ] ], [ [ 35, 32, 6 ], [ -47, -56, 6 ], [ 58, 40, 3 ] ], [ [ 35, 32, 6 ], [ -47, -56, 6 ], [ 64, 52, 3 ] ], [ [ 35, 32, 6 ], [ 11, -16, 6 ], [ 0, 0, 1 ] ], [ [ 35, 32, 6 ], [ 11, -16, 6 ], [ 2, 4, 1 ] ], [ [ 35, 32, 6 ], [ 11, -16, 6 ], [ 58, 40, 3 ] ], [ [ 35, 32, 6 ], [ 11, -16, 6 ], [ 64, 52, 3 ] ], [ [ 35, 32, 6 ], [ 17, -4, 3 ], [ 35, 32, 6 ] ], [ [ 35, 32, 6 ], [ 17, -4, 3 ], [ 31, 24, 2 ] ], [ [ 35, 32, 6 ], [ 23, 8, 6 ], [ 0, 0, 1 ] ], [ [ 35, 32, 6 ], [ 23, 8, 6 ], [ 64, 52, 3 ] ], [ [ 35, 32, 6 ], [ 23, 8, 3 ], [ 23, 8, 6 ] ], [ [ 35, 32, 6 ], [ 23, 8, 3 ], [ 35, 32, 6 ] ], [ [ 35, 32, 6 ], [ 23, 8, 3 ], [ 31, 24, 2 ] ], [ [ 35, 32, 6 ], [ 23, 8, 3 ], [ 35, 32, 2 ] ], [ [ 47, 56, 6 ], [ -41, -44, 3 ], [ 23, 8, 6 ] ], [ [ 47, 56, 6 ], [ -41, -44, 3 ], [ 35, 32, 6 ] ], [ [ 47, 56, 6 ], [ -41, -44, 3 ], [ 31, 24, 2 ] ], [ [ 47, 56, 6 ], [ -41, -44, 3 ], [ 35, 32, 2 ] ], [ [ 47, 56, 6 ], [ -59, -80, 6 ], [ 0, 0, 1 ] ], [ [ 47, 56, 6 ], [ -59, -80, 6 ], [ 64, 52, 3 ] ], [ [ 47, 56, 6 ], [ -35, -32, 3 ], [ 35, 32, 6 ] ], [ [ 47, 56, 6 ], [ -35, -32, 3 ], [ 31, 24, 2 ] ], [ [ 47, 56, 6 ], [ -47, -56, 6 ], [ 0, 0, 1 ] ], [ [ 47, 56, 6 ], [ -47, -56, 6 ], [ 2, 4, 1 ] ], [ [ 47, 56, 6 ], [ -47, -56, 6 ], [ 58, 40, 3 ] ], [ [ 47, 56, 6 ], [ -47, -56, 6 ], [ 64, 52, 3 ] ], [ [ 47, 56, 6 ], [ 11, -16, 6 ], [ 0, 0, 1 ] ], [ [ 47, 56, 6 ], [ 11, -16, 6 ], [ 2, 4, 1 ] ], [ [ 47, 56, 6 ], [ 11, -16, 6 ], [ 58, 40, 3 ] ], [ [ 47, 56, 6 ], [ 11, -16, 6 ], [ 64, 52, 3 ] ], [ [ 47, 56, 6 ], [ 17, -4, 3 ], [ 35, 32, 6 ] ], [ [ 47, 56, 6 ], [ 17, -4, 3 ], [ 31, 24, 2 ] ], [ [ 47, 56, 6 ], [ 23, 8, 6 ], [ 0, 0, 1 ] ], [ [ 47, 56, 6 ], [ 23, 8, 6 ], [ 64, 52, 3 ] ], [ [ 47, 56, 6 ], [ 23, 8, 3 ], [ 23, 8, 6 ] ], [ [ 47, 56, 6 ], [ 23, 8, 3 ], [ 35, 32, 6 ] ], [ [ 47, 56, 6 ], [ 23, 8, 3 ], [ 31, 24, 2 ] ], [ [ 47, 56, 6 ], [ 23, 8, 3 ], [ 35, 32, 2 ] ], [ [ 35, 32, 3 ], [ -41, -44, 3 ], [ 29, 20, 3 ] ], [ [ 35, 32, 3 ], [ -41, -44, 3 ], [ 35, 32, 3 ] ], [ [ 35, 32, 3 ], [ -35, -32, 3 ], [ 29, 20, 3 ] ], [ [ 35, 32, 3 ], [ -35, -32, 3 ], [ 35, 32, 3 ] ], [ [ 35, 32, 3 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ 35, 32, 3 ], [ -4, -8, 1 ], [ 2, 4, 1 ] ], [ [ 35, 32, 3 ], [ -4, -8, 1 ], [ 58, 40, 3 ] ], [ [ 35, 32, 3 ], [ -4, -8, 1 ], [ 64, 52, 3 ] ], [ [ 35, 32, 3 ], [ -2, -4, 1 ], [ 0, 0, 1 ] ], [ [ 35, 32, 3 ], [ -2, -4, 1 ], [ 2, 4, 1 ] ], [ [ 35, 32, 3 ], [ -2, -4, 1 ], [ 58, 40, 3 ] ], [ [ 35, 32, 3 ], [ -2, -4, 1 ], [ 64, 52, 3 ] ], [ [ 35, 32, 3 ], [ 17, -4, 3 ], [ 29, 20, 3 ] ], [ [ 35, 32, 3 ], [ 17, -4, 3 ], [ 35, 32, 3 ] ], [ [ 35, 32, 3 ], [ 23, 8, 3 ], [ 29, 20, 3 ] ], [ [ 35, 32, 3 ], [ 23, 8, 3 ], [ 35, 32, 3 ] ], [ [ 59, 80, 6 ], [ -41, -44, 3 ], [ 23, 8, 6 ] ], [ [ 59, 80, 6 ], [ -41, -44, 3 ], [ 35, 32, 2 ] ], [ [ 59, 80, 6 ], [ -59, -80, 6 ], [ 0, 0, 1 ] ], [ [ 59, 80, 6 ], [ -59, -80, 6 ], [ 64, 52, 3 ] ], [ [ 59, 80, 6 ], [ 23, 8, 6 ], [ 0, 0, 1 ] ], [ [ 59, 80, 6 ], [ 23, 8, 6 ], [ 64, 52, 3 ] ], [ [ 59, 80, 6 ], [ 23, 8, 3 ], [ 23, 8, 6 ] ], [ [ 59, 80, 6 ], [ 23, 8, 3 ], [ 35, 32, 2 ] ], [ [ 31, 24, 2 ], [ -47, -56, 6 ], [ 29, 20, 3 ] ], [ [ 31, 24, 2 ], [ -47, -56, 6 ], [ 35, 32, 3 ] ], [ [ 31, 24, 2 ], [ -4, -8, 1 ], [ 35, 32, 6 ] ], [ [ 31, 24, 2 ], [ -4, -8, 1 ], [ 31, 24, 2 ] ], [ [ 31, 24, 2 ], [ -2, -4, 1 ], [ 35, 32, 6 ] ], [ [ 31, 24, 2 ], [ -2, -4, 1 ], [ 31, 24, 2 ] ], [ [ 31, 24, 2 ], [ 11, -16, 6 ], [ 29, 20, 3 ] ], [ [ 31, 24, 2 ], [ 11, -16, 6 ], [ 35, 32, 3 ] ], [ [ 41, 44, 3 ], [ -41, -44, 3 ], [ 23, 8, 3 ] ], [ [ 41, 44, 3 ], [ -41, -44, 3 ], [ 29, 20, 3 ] ], [ [ 41, 44, 3 ], [ -41, -44, 3 ], [ 35, 32, 3 ] ], [ [ 41, 44, 3 ], [ -41, -44, 3 ], [ 41, 44, 3 ] ], [ [ 41, 44, 3 ], [ -6, -12, 1 ], [ 0, 0, 1 ] ], [ [ 41, 44, 3 ], [ -6, -12, 1 ], [ 64, 52, 3 ] ], [ [ 41, 44, 3 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ 41, 44, 3 ], [ -4, -8, 1 ], [ 64, 52, 3 ] ], [ [ 41, 44, 3 ], [ -2, -4, 1 ], [ 0, 0, 1 ] ], [ [ 41, 44, 3 ], [ -2, -4, 1 ], [ 64, 52, 3 ] ], [ [ 41, 44, 3 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 41, 44, 3 ], [ 0, 0, 1 ], [ 64, 52, 3 ] ], [ [ 41, 44, 3 ], [ 23, 8, 3 ], [ 23, 8, 3 ] ], [ [ 41, 44, 3 ], [ 23, 8, 3 ], [ 29, 20, 3 ] ], [ [ 41, 44, 3 ], [ 23, 8, 3 ], [ 35, 32, 3 ] ], [ [ 41, 44, 3 ], [ 23, 8, 3 ], [ 41, 44, 3 ] ], [ [ 35, 32, 2 ], [ -59, -80, 6 ], [ 23, 8, 3 ] ], [ [ 35, 32, 2 ], [ -59, -80, 6 ], [ 29, 20, 3 ] ], [ [ 35, 32, 2 ], [ -59, -80, 6 ], [ 35, 32, 3 ] ], [ [ 35, 32, 2 ], [ -59, -80, 6 ], [ 41, 44, 3 ] ], [ [ 35, 32, 2 ], [ -6, -12, 1 ], [ 23, 8, 6 ] ], [ [ 35, 32, 2 ], [ -6, -12, 1 ], [ 35, 32, 2 ] ], [ [ 35, 32, 2 ], [ -47, -56, 6 ], [ 29, 20, 3 ] ], [ [ 35, 32, 2 ], [ -47, -56, 6 ], [ 35, 32, 3 ] ], [ [ 35, 32, 2 ], [ -4, -8, 1 ], [ 23, 8, 6 ] ], [ [ 35, 32, 2 ], [ -4, -8, 1 ], [ 35, 32, 6 ] ], [ [ 35, 32, 2 ], [ -4, -8, 1 ], [ 31, 24, 2 ] ], [ [ 35, 32, 2 ], [ -4, -8, 1 ], [ 35, 32, 2 ] ], [ [ 35, 32, 2 ], [ -2, -4, 1 ], [ 23, 8, 6 ] ], [ [ 35, 32, 2 ], [ -2, -4, 1 ], [ 35, 32, 6 ] ], [ [ 35, 32, 2 ], [ -2, -4, 1 ], [ 31, 24, 2 ] ], [ [ 35, 32, 2 ], [ -2, -4, 1 ], [ 35, 32, 2 ] ], [ [ 35, 32, 2 ], [ 11, -16, 6 ], [ 29, 20, 3 ] ], [ [ 35, 32, 2 ], [ 11, -16, 6 ], [ 35, 32, 3 ] ], [ [ 35, 32, 2 ], [ 0, 0, 1 ], [ 23, 8, 6 ] ], [ [ 35, 32, 2 ], [ 0, 0, 1 ], [ 35, 32, 2 ] ], [ [ 35, 32, 2 ], [ 23, 8, 6 ], [ 23, 8, 3 ] ], [ [ 35, 32, 2 ], [ 23, 8, 6 ], [ 29, 20, 3 ] ], [ [ 35, 32, 2 ], [ 23, 8, 6 ], [ 35, 32, 3 ] ], [ [ 35, 32, 2 ], [ 23, 8, 6 ], [ 41, 44, 3 ] ] ],
+  "edges" : [ [ 187, 183 ], [ 182, 149 ], [ 11, 31 ], [ 0, 1 ], [ 27, 3 ], [ 149, 147 ], [ 148, 150 ], [ 58, 40 ], [ 117, 116 ], [ 190, 166 ], [ 162, 160 ], [ 45, 66 ], [ 88, 93 ], [ 14, 10 ], [ 151, 133 ], [ 26, 57 ], [ 29, 5 ], [ 122, 120 ], [ 98, 74 ], [ 28, 30 ], [ 185, 151 ], [ 121, 120 ], [ 44, 46 ], [ 104, 80 ], [ 109, 108 ], [ 49, 75 ], [ 65, 85 ], [ 27, 26 ], [ 25, 1 ], [ 3, 2 ], [ 35, 33 ], [ 118, 94 ], [ 133, 113 ], [ 26, 25 ], [ 86, 87 ], [ 152, 153 ], [ 164, 188 ], [ 101, 107 ], [ 138, 100 ], [ 160, 128 ], [ 3, 5 ], [ 50, 76 ], [ 88, 85 ], [ 7, 10 ], [ 65, 61 ], [ 33, 67 ], [ 184, 150 ], [ 12, 8 ], [ 106, 107 ], [ 128, 108 ], [ 149, 151 ], [ 178, 147 ], [ 191, 190 ], [ 7, 6 ], [ 129, 125 ], [ 43, 62 ], [ 18, 20 ], [ 24, 0 ], [ 4, 8 ], [ 32, 64 ], [ 55, 53 ], [ 99, 101 ], [ 188, 189 ], [ 98, 99 ], [ 24, 25 ], [ 143, 167 ], [ 108, 84 ], [ 167, 166 ], [ 14, 15 ], [ 67, 87 ], [ 168, 169 ], [ 117, 93 ], [ 154, 153 ], [ 183, 179 ], [ 131, 127 ], [ 182, 183 ], [ 8, 30 ], [ 38, 37 ], [ 127, 126 ], [ 86, 66 ], [ 124, 125 ], [ 6, 9 ], [ 93, 92 ], [ 100, 76 ], [ 88, 68 ], [ 98, 121 ], [ 112, 88 ], [ 133, 135 ], [ 160, 180 ], [ 21, 16 ], [ 170, 169 ], [ 115, 111 ], [ 144, 122 ], [ 145, 147 ], [ 160, 158 ], [ 137, 139 ], [ 105, 104 ], [ 66, 62 ], [ 174, 144 ], [ 116, 114 ], [ 171, 170 ], [ 73, 56 ], [ 124, 104 ], [ 17, 16 ], [ 61, 42 ], [ 48, 24 ], [ 89, 69 ], [ 187, 163 ], [ 74, 57 ], [ 154, 121 ], [ 47, 46 ], [ 80, 60 ], [ 9, 8 ], [ 161, 131 ], [ 123, 121 ], [ 190, 185 ], [ 21, 37 ], [ 175, 174 ], [ 113, 110 ], [ 81, 80 ], [ 59, 79 ], [ 130, 126 ], [ 116, 92 ], [ 143, 119 ], [ 48, 72 ], [ 178, 179 ], [ 35, 53 ], [ 170, 154 ], [ 96, 100 ], [ 170, 175 ], [ 27, 49 ], [ 10, 11 ], [ 115, 91 ], [ 32, 30 ], [ 71, 94 ], [ 103, 79 ], [ 185, 184 ], [ 22, 21 ], [ 113, 89 ], [ 13, 9 ], [ 13, 44 ], [ 94, 95 ], [ 57, 56 ], [ 41, 59 ], [ 189, 184 ], [ 34, 18 ], [ 107, 127 ], [ 86, 89 ], [ 69, 71 ], [ 132, 150 ], [ 141, 163 ], [ 176, 158 ], [ 102, 97 ], [ 76, 80 ], [ 54, 52 ], [ 117, 134 ], [ 155, 154 ], [ 153, 169 ], [ 14, 45 ], [ 136, 96 ], [ 173, 179 ], [ 147, 126 ], [ 157, 159 ], [ 132, 134 ], [ 157, 173 ], [ 172, 176 ], [ 109, 85 ], [ 177, 174 ], [ 181, 180 ], [ 22, 17 ], [ 61, 81 ], [ 38, 71 ], [ 123, 145 ], [ 2, 26 ], [ 140, 142 ], [ 2, 7 ], [ 17, 47 ], [ 39, 55 ], [ 83, 63 ], [ 165, 189 ], [ 0, 4 ], [ 7, 41 ], [ 142, 164 ], [ 23, 22 ], [ 110, 111 ], [ 54, 92 ], [ 28, 50 ], [ 5, 11 ], [ 58, 78 ], [ 47, 45 ], [ 145, 144 ], [ 123, 103 ], [ 6, 40 ], [ 168, 152 ], [ 148, 146 ], [ 51, 77 ], [ 114, 90 ], [ 82, 62 ], [ 123, 122 ], [ 19, 35 ], [ 77, 83 ], [ 105, 102 ], [ 85, 84 ], [ 37, 70 ], [ 186, 180 ], [ 112, 117 ], [ 182, 178 ], [ 151, 150 ], [ 32, 12 ], [ 156, 172 ], [ 97, 120 ], [ 115, 119 ], [ 78, 73 ], [ 34, 52 ], [ 15, 11 ], [ 9, 42 ], [ 82, 83 ], [ 53, 91 ], [ 36, 37 ], [ 136, 138 ], [ 107, 83 ], [ 36, 20 ], [ 148, 129 ], [ 90, 84 ], [ 105, 81 ], [ 190, 189 ], [ 49, 51 ], [ 89, 94 ], [ 52, 90 ], [ 136, 152 ], [ 91, 87 ], [ 118, 119 ], [ 113, 118 ], [ 135, 134 ], [ 20, 21 ], [ 2, 1 ], [ 144, 146 ], [ 128, 124 ], [ 137, 99 ], [ 31, 63 ], [ 162, 140 ], [ 132, 112 ], [ 155, 137 ], [ 13, 16 ], [ 100, 104 ], [ 51, 29 ], [ 131, 130 ], [ 84, 64 ], [ 161, 159 ], [ 96, 72 ], [ 106, 82 ], [ 44, 42 ], [ 33, 31 ], [ 67, 63 ], [ 181, 148 ], [ 74, 75 ], [ 129, 109 ], [ 14, 17 ], [ 157, 139 ], [ 166, 135 ], [ 69, 68 ], [ 58, 56 ], [ 158, 124 ], [ 30, 60 ], [ 59, 57 ], [ 126, 106 ], [ 10, 43 ], [ 16, 46 ], [ 97, 73 ], [ 79, 74 ], [ 105, 125 ], [ 181, 177 ], [ 164, 165 ], [ 38, 22 ], [ 1, 6 ], [ 138, 156 ], [ 186, 188 ], [ 25, 56 ], [ 41, 43 ], [ 48, 50 ], [ 44, 65 ], [ 47, 69 ], [ 106, 103 ], [ 180, 176 ], [ 130, 149 ], [ 19, 23 ], [ 130, 110 ], [ 159, 127 ], [ 76, 72 ], [ 191, 167 ], [ 114, 108 ], [ 63, 62 ], [ 119, 95 ], [ 68, 46 ], [ 133, 132 ], [ 110, 86 ], [ 67, 66 ], [ 185, 182 ], [ 177, 176 ], [ 101, 77 ], [ 141, 115 ], [ 140, 114 ], [ 73, 72 ], [ 103, 98 ], [ 177, 146 ], [ 142, 116 ], [ 13, 12 ], [ 169, 174 ], [ 111, 87 ], [ 59, 58 ], [ 172, 168 ], [ 102, 78 ], [ 186, 162 ], [ 156, 158 ], [ 122, 102 ], [ 109, 112 ], [ 165, 134 ], [ 41, 40 ], [ 90, 92 ], [ 79, 82 ], [ 55, 95 ], [ 77, 75 ], [ 68, 70 ], [ 95, 91 ], [ 33, 15 ], [ 45, 43 ], [ 60, 61 ], [ 34, 32 ], [ 70, 93 ], [ 19, 15 ], [ 163, 161 ], [ 71, 70 ], [ 183, 161 ], [ 155, 171 ], [ 128, 129 ], [ 64, 65 ], [ 141, 143 ], [ 29, 31 ], [ 64, 60 ], [ 159, 179 ], [ 39, 23 ], [ 153, 120 ], [ 131, 111 ], [ 28, 4 ], [ 118, 135 ], [ 36, 54 ], [ 42, 40 ], [ 99, 75 ], [ 125, 146 ], [ 39, 38 ], [ 175, 145 ], [ 18, 12 ], [ 139, 101 ], [ 187, 191 ], [ 166, 165 ], [ 178, 175 ], [ 78, 81 ], [ 173, 171 ], [ 184, 181 ], [ 97, 96 ] ],
+  "faces" : [ ]
+}
+</ImportSimpleMeshJson>
+    <BeginBlock/>
+    <SelectManifestation point="23/6 4/3 -59/6 -40/3 64/3 52/3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="41/6 22/3 -3 -6 32/3 26/3"/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <TranslationTool name="tool-2"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -8 0 0 8 16"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectAll originLast="true"/>
+    <Hide/>
+    <ImportSimpleMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -6078, -11244, 649 ], [ 2, 4, 1 ], [ -2, -4, 1 ] ], [ [ -6078, -11244, 649 ], [ 2, 4, 1 ], [ 0, 0, 1 ] ], [ [ -6078, -11244, 649 ], [ 2, 4, 1 ], [ 2184, 3456, 649 ] ], [ [ -6078, -11244, 649 ], [ 2, 4, 1 ], [ 3482, 6052, 649 ] ], [ [ -6078, -11244, 649 ], [ 3482, 6052, 649 ], [ -2, -4, 1 ] ], [ [ -6078, -11244, 649 ], [ 3482, 6052, 649 ], [ 0, 0, 1 ] ], [ [ -6078, -11244, 649 ], [ 3482, 6052, 649 ], [ 2184, 3456, 649 ] ], [ [ -6078, -11244, 649 ], [ 3482, 6052, 649 ], [ 3482, 6052, 649 ] ], [ [ -5429, -9946, 649 ], [ 1, 2, 1 ], [ -3, -6, 1 ] ], [ [ -5429, -9946, 649 ], [ 1, 2, 1 ], [ -1, -2, 1 ] ], [ [ -5429, -9946, 649 ], [ 1, 2, 1 ], [ 2833, 4754, 649 ] ], [ [ -5429, -9946, 649 ], [ 1, 2, 1 ], [ 4131, 7350, 649 ] ], [ [ -5429, -9946, 649 ], [ 4131, 7350, 649 ], [ -3, -6, 1 ] ], [ [ -5429, -9946, 649 ], [ 4131, 7350, 649 ], [ -1, -2, 1 ] ], [ [ -5429, -9946, 649 ], [ 4131, 7350, 649 ], [ 2833, 4754, 649 ] ], [ [ -5429, -9946, 649 ], [ 4131, 7350, 649 ], [ 4131, 7350, 649 ] ], [ [ -4780, -8648, 649 ], [ 0, 0, 1 ], [ -4, -8, 1 ] ], [ [ -4780, -8648, 649 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -4780, -8648, 649 ], [ 0, 0, 1 ], [ 2184, 3456, 649 ] ], [ [ -4780, -8648, 649 ], [ 0, 0, 1 ], [ 4780, 8648, 649 ] ], [ [ -4780, -8648, 649 ], [ 2, 4, 1 ], [ -4, -8, 1 ] ], [ [ -4780, -8648, 649 ], [ 2, 4, 1 ], [ -2, -4, 1 ] ], [ [ -4780, -8648, 649 ], [ 2, 4, 1 ], [ 3482, 6052, 649 ] ], [ [ -4780, -8648, 649 ], [ 2, 4, 1 ], [ 4780, 8648, 649 ] ], [ [ -4780, -8648, 649 ], [ 3482, 6052, 649 ], [ -4, -8, 1 ] ], [ [ -4780, -8648, 649 ], [ 3482, 6052, 649 ], [ -2, -4, 1 ] ], [ [ -4780, -8648, 649 ], [ 3482, 6052, 649 ], [ 3482, 6052, 649 ] ], [ [ -4780, -8648, 649 ], [ 3482, 6052, 649 ], [ 4780, 8648, 649 ] ], [ [ -4780, -8648, 649 ], [ 4780, 8648, 649 ], [ -4, -8, 1 ] ], [ [ -4780, -8648, 649 ], [ 4780, 8648, 649 ], [ 0, 0, 1 ] ], [ [ -4780, -8648, 649 ], [ 4780, 8648, 649 ], [ 2184, 3456, 649 ] ], [ [ -4780, -8648, 649 ], [ 4780, 8648, 649 ], [ 4780, 8648, 649 ] ], [ [ -4131, -7350, 649 ], [ 1, 2, 1 ], [ -5, -10, 1 ] ], [ [ -4131, -7350, 649 ], [ 1, 2, 1 ], [ -1, -2, 1 ] ], [ [ -4131, -7350, 649 ], [ 1, 2, 1 ], [ 2833, 4754, 649 ] ], [ [ -4131, -7350, 649 ], [ 1, 2, 1 ], [ 5429, 9946, 649 ] ], [ [ -4131, -7350, 649 ], [ 4131, 7350, 649 ], [ -5, -10, 1 ] ], [ [ -4131, -7350, 649 ], [ 4131, 7350, 649 ], [ -1, -2, 1 ] ], [ [ -4131, -7350, 649 ], [ 4131, 7350, 649 ], [ 2833, 4754, 649 ] ], [ [ -4131, -7350, 649 ], [ 4131, 7350, 649 ], [ 5429, 9946, 649 ] ], [ [ -3482, -6052, 649 ], [ -2, -4, 1 ], [ -4, -8, 1 ] ], [ [ -3482, -6052, 649 ], [ -2, -4, 1 ], [ 0, 0, 1 ] ], [ [ -3482, -6052, 649 ], [ -2, -4, 1 ], [ 2184, 3456, 649 ] ], [ [ -3482, -6052, 649 ], [ -2, -4, 1 ], [ 4780, 8648, 649 ] ], [ [ -3482, -6052, 649 ], [ 2, 4, 1 ], [ -6, -12, 1 ] ], [ [ -3482, -6052, 649 ], [ 2, 4, 1 ], [ 0, 0, 1 ] ], [ [ -3482, -6052, 649 ], [ 2, 4, 1 ], [ 2184, 3456, 649 ] ], [ [ -3482, -6052, 649 ], [ 2, 4, 1 ], [ 6078, 11244, 649 ] ], [ [ -3482, -6052, 649 ], [ 3482, 6052, 649 ], [ -6, -12, 1 ] ], [ [ -3482, -6052, 649 ], [ 3482, 6052, 649 ], [ 0, 0, 1 ] ], [ [ -3482, -6052, 649 ], [ 3482, 6052, 649 ], [ 2184, 3456, 649 ] ], [ [ -3482, -6052, 649 ], [ 3482, 6052, 649 ], [ 6078, 11244, 649 ] ], [ [ -3482, -6052, 649 ], [ 6078, 11244, 649 ], [ -4, -8, 1 ] ], [ [ -3482, -6052, 649 ], [ 6078, 11244, 649 ], [ 0, 0, 1 ] ], [ [ -3482, -6052, 649 ], [ 6078, 11244, 649 ], [ 2184, 3456, 649 ] ], [ [ -3482, -6052, 649 ], [ 6078, 11244, 649 ], [ 4780, 8648, 649 ] ], [ [ -2833, -4754, 649 ], [ -3, -6, 1 ], [ -3, -6, 1 ] ], [ [ -2833, -4754, 649 ], [ -3, -6, 1 ], [ -1, -2, 1 ] ], [ [ -2833, -4754, 649 ], [ -3, -6, 1 ], [ 2833, 4754, 649 ] ], [ [ -2833, -4754, 649 ], [ -3, -6, 1 ], [ 4131, 7350, 649 ] ], [ [ -2833, -4754, 649 ], [ -1, -2, 1 ], [ -5, -10, 1 ] ], [ [ -2833, -4754, 649 ], [ -1, -2, 1 ], [ -1, -2, 1 ] ], [ [ -2833, -4754, 649 ], [ -1, -2, 1 ], [ 2833, 4754, 649 ] ], [ [ -2833, -4754, 649 ], [ -1, -2, 1 ], [ 5429, 9946, 649 ] ], [ [ -2833, -4754, 649 ], [ 5429, 9946, 649 ], [ -5, -10, 1 ] ], [ [ -2833, -4754, 649 ], [ 5429, 9946, 649 ], [ -1, -2, 1 ] ], [ [ -2833, -4754, 649 ], [ 5429, 9946, 649 ], [ 2833, 4754, 649 ] ], [ [ -2833, -4754, 649 ], [ 5429, 9946, 649 ], [ 5429, 9946, 649 ] ], [ [ -2833, -4754, 649 ], [ 6727, 12542, 649 ], [ -3, -6, 1 ] ], [ [ -2833, -4754, 649 ], [ 6727, 12542, 649 ], [ -1, -2, 1 ] ], [ [ -2833, -4754, 649 ], [ 6727, 12542, 649 ], [ 2833, 4754, 649 ] ], [ [ -2833, -4754, 649 ], [ 6727, 12542, 649 ], [ 4131, 7350, 649 ] ], [ [ -2184, -3456, 649 ], [ -4, -8, 1 ], [ -2, -4, 1 ] ], [ [ -2184, -3456, 649 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ -2184, -3456, 649 ], [ -4, -8, 1 ], [ 2184, 3456, 649 ] ], [ [ -2184, -3456, 649 ], [ -4, -8, 1 ], [ 3482, 6052, 649 ] ], [ [ -2184, -3456, 649 ], [ -2, -4, 1 ], [ -4, -8, 1 ] ], [ [ -2184, -3456, 649 ], [ -2, -4, 1 ], [ -2, -4, 1 ] ], [ [ -2184, -3456, 649 ], [ -2, -4, 1 ], [ 3482, 6052, 649 ] ], [ [ -2184, -3456, 649 ], [ -2, -4, 1 ], [ 4780, 8648, 649 ] ], [ [ -2184, -3456, 649 ], [ 0, 0, 1 ], [ -6, -12, 1 ] ], [ [ -2184, -3456, 649 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -2184, -3456, 649 ], [ 0, 0, 1 ], [ 2184, 3456, 649 ] ], [ [ -2184, -3456, 649 ], [ 0, 0, 1 ], [ 6078, 11244, 649 ] ], [ [ -2184, -3456, 649 ], [ 4780, 8648, 649 ], [ -6, -12, 1 ] ], [ [ -2184, -3456, 649 ], [ 4780, 8648, 649 ], [ 0, 0, 1 ] ], [ [ -2184, -3456, 649 ], [ 4780, 8648, 649 ], [ 2184, 3456, 649 ] ], [ [ -2184, -3456, 649 ], [ 4780, 8648, 649 ], [ 6078, 11244, 649 ] ], [ [ -2184, -3456, 649 ], [ 6078, 11244, 649 ], [ -4, -8, 1 ] ], [ [ -2184, -3456, 649 ], [ 6078, 11244, 649 ], [ -2, -4, 1 ] ], [ [ -2184, -3456, 649 ], [ 6078, 11244, 649 ], [ 3482, 6052, 649 ] ], [ [ -2184, -3456, 649 ], [ 6078, 11244, 649 ], [ 4780, 8648, 649 ] ], [ [ -2184, -3456, 649 ], [ 7376, 13840, 649 ], [ -2, -4, 1 ] ], [ [ -2184, -3456, 649 ], [ 7376, 13840, 649 ], [ 0, 0, 1 ] ], [ [ -2184, -3456, 649 ], [ 7376, 13840, 649 ], [ 2184, 3456, 649 ] ], [ [ -2184, -3456, 649 ], [ 7376, 13840, 649 ], [ 3482, 6052, 649 ] ], [ [ -1092, -1728, 649 ], [ 2390, 4324, 649 ], [ 1092, 1728, 649 ] ], [ [ 0, 0, 1 ], [ -4, -8, 1 ], [ -2, -4, 1 ] ], [ [ 0, 0, 1 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -4, -8, 1 ], [ 2184, 3456, 649 ] ], [ [ 0, 0, 1 ], [ -4, -8, 1 ], [ 3482, 6052, 649 ] ], [ [ 0, 0, 1 ], [ -2, -4, 1 ], [ -4, -8, 1 ] ], [ [ 0, 0, 1 ], [ -2, -4, 1 ], [ -2, -4, 1 ] ], [ [ 0, 0, 1 ], [ -2, -4, 1 ], [ 3482, 6052, 649 ] ], [ [ 0, 0, 1 ], [ -2, -4, 1 ], [ 4780, 8648, 649 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -6, -12, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 2184, 3456, 649 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 6078, 11244, 649 ] ], [ [ 0, 0, 1 ], [ 4780, 8648, 649 ], [ -6, -12, 1 ] ], [ [ 0, 0, 1 ], [ 4780, 8648, 649 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 4780, 8648, 649 ], [ 2184, 3456, 649 ] ], [ [ 0, 0, 1 ], [ 4780, 8648, 649 ], [ 6078, 11244, 649 ] ], [ [ 0, 0, 1 ], [ 6078, 11244, 649 ], [ -4, -8, 1 ] ], [ [ 0, 0, 1 ], [ 6078, 11244, 649 ], [ -2, -4, 1 ] ], [ [ 0, 0, 1 ], [ 6078, 11244, 649 ], [ 3482, 6052, 649 ] ], [ [ 0, 0, 1 ], [ 6078, 11244, 649 ], [ 4780, 8648, 649 ] ], [ [ 0, 0, 1 ], [ 7376, 13840, 649 ], [ -2, -4, 1 ] ], [ [ 0, 0, 1 ], [ 7376, 13840, 649 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 7376, 13840, 649 ], [ 2184, 3456, 649 ] ], [ [ 0, 0, 1 ], [ 7376, 13840, 649 ], [ 3482, 6052, 649 ] ], [ [ 1, 2, 1 ], [ -3, -6, 1 ], [ -3, -6, 1 ] ], [ [ 1, 2, 1 ], [ -3, -6, 1 ], [ -1, -2, 1 ] ], [ [ 1, 2, 1 ], [ -3, -6, 1 ], [ 2833, 4754, 649 ] ], [ [ 1, 2, 1 ], [ -3, -6, 1 ], [ 4131, 7350, 649 ] ], [ [ 1, 2, 1 ], [ -1, -2, 1 ], [ -5, -10, 1 ] ], [ [ 1, 2, 1 ], [ -1, -2, 1 ], [ -1, -2, 1 ] ], [ [ 1, 2, 1 ], [ -1, -2, 1 ], [ 2833, 4754, 649 ] ], [ [ 1, 2, 1 ], [ -1, -2, 1 ], [ 5429, 9946, 649 ] ], [ [ 1, 2, 1 ], [ 5429, 9946, 649 ], [ -5, -10, 1 ] ], [ [ 1, 2, 1 ], [ 5429, 9946, 649 ], [ -1, -2, 1 ] ], [ [ 1, 2, 1 ], [ 5429, 9946, 649 ], [ 2833, 4754, 649 ] ], [ [ 1, 2, 1 ], [ 5429, 9946, 649 ], [ 5429, 9946, 649 ] ], [ [ 1, 2, 1 ], [ 6727, 12542, 649 ], [ -3, -6, 1 ] ], [ [ 1, 2, 1 ], [ 6727, 12542, 649 ], [ -1, -2, 1 ] ], [ [ 1, 2, 1 ], [ 6727, 12542, 649 ], [ 2833, 4754, 649 ] ], [ [ 1, 2, 1 ], [ 6727, 12542, 649 ], [ 4131, 7350, 649 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ -4, -8, 1 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ 2184, 3456, 649 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ 4780, 8648, 649 ] ], [ [ 2, 4, 1 ], [ 2, 4, 1 ], [ -6, -12, 1 ] ], [ [ 2, 4, 1 ], [ 2, 4, 1 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ 2, 4, 1 ], [ 2184, 3456, 649 ] ], [ [ 2, 4, 1 ], [ 2, 4, 1 ], [ 6078, 11244, 649 ] ], [ [ 2, 4, 1 ], [ 3482, 6052, 649 ], [ -6, -12, 1 ] ], [ [ 2, 4, 1 ], [ 3482, 6052, 649 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ 3482, 6052, 649 ], [ 2184, 3456, 649 ] ], [ [ 2, 4, 1 ], [ 3482, 6052, 649 ], [ 6078, 11244, 649 ] ], [ [ 2, 4, 1 ], [ 6078, 11244, 649 ], [ -4, -8, 1 ] ], [ [ 2, 4, 1 ], [ 6078, 11244, 649 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ 6078, 11244, 649 ], [ 2184, 3456, 649 ] ], [ [ 2, 4, 1 ], [ 6078, 11244, 649 ], [ 4780, 8648, 649 ] ], [ [ 3, 6, 1 ], [ 1, 2, 1 ], [ -5, -10, 1 ] ], [ [ 3, 6, 1 ], [ 1, 2, 1 ], [ -1, -2, 1 ] ], [ [ 3, 6, 1 ], [ 1, 2, 1 ], [ 2833, 4754, 649 ] ], [ [ 3, 6, 1 ], [ 1, 2, 1 ], [ 5429, 9946, 649 ] ], [ [ 3, 6, 1 ], [ 4131, 7350, 649 ], [ -5, -10, 1 ] ], [ [ 3, 6, 1 ], [ 4131, 7350, 649 ], [ -1, -2, 1 ] ], [ [ 3, 6, 1 ], [ 4131, 7350, 649 ], [ 2833, 4754, 649 ] ], [ [ 3, 6, 1 ], [ 4131, 7350, 649 ], [ 5429, 9946, 649 ] ], [ [ 4, 8, 1 ], [ 0, 0, 1 ], [ -4, -8, 1 ] ], [ [ 4, 8, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 4, 8, 1 ], [ 0, 0, 1 ], [ 2184, 3456, 649 ] ], [ [ 4, 8, 1 ], [ 0, 0, 1 ], [ 4780, 8648, 649 ] ], [ [ 4, 8, 1 ], [ 2, 4, 1 ], [ -4, -8, 1 ] ], [ [ 4, 8, 1 ], [ 2, 4, 1 ], [ -2, -4, 1 ] ], [ [ 4, 8, 1 ], [ 2, 4, 1 ], [ 3482, 6052, 649 ] ], [ [ 4, 8, 1 ], [ 2, 4, 1 ], [ 4780, 8648, 649 ] ], [ [ 4, 8, 1 ], [ 3482, 6052, 649 ], [ -4, -8, 1 ] ], [ [ 4, 8, 1 ], [ 3482, 6052, 649 ], [ -2, -4, 1 ] ], [ [ 4, 8, 1 ], [ 3482, 6052, 649 ], [ 3482, 6052, 649 ] ], [ [ 4, 8, 1 ], [ 3482, 6052, 649 ], [ 4780, 8648, 649 ] ], [ [ 4, 8, 1 ], [ 4780, 8648, 649 ], [ -4, -8, 1 ] ], [ [ 4, 8, 1 ], [ 4780, 8648, 649 ], [ 0, 0, 1 ] ], [ [ 4, 8, 1 ], [ 4780, 8648, 649 ], [ 2184, 3456, 649 ] ], [ [ 4, 8, 1 ], [ 4780, 8648, 649 ], [ 4780, 8648, 649 ] ], [ [ 5, 10, 1 ], [ 1, 2, 1 ], [ -3, -6, 1 ] ], [ [ 5, 10, 1 ], [ 1, 2, 1 ], [ -1, -2, 1 ] ], [ [ 5, 10, 1 ], [ 1, 2, 1 ], [ 2833, 4754, 649 ] ], [ [ 5, 10, 1 ], [ 1, 2, 1 ], [ 4131, 7350, 649 ] ], [ [ 5, 10, 1 ], [ 4131, 7350, 649 ], [ -3, -6, 1 ] ], [ [ 5, 10, 1 ], [ 4131, 7350, 649 ], [ -1, -2, 1 ] ], [ [ 5, 10, 1 ], [ 4131, 7350, 649 ], [ 2833, 4754, 649 ] ], [ [ 5, 10, 1 ], [ 4131, 7350, 649 ], [ 4131, 7350, 649 ] ], [ [ 6, 12, 1 ], [ 2, 4, 1 ], [ -2, -4, 1 ] ], [ [ 6, 12, 1 ], [ 2, 4, 1 ], [ 0, 0, 1 ] ], [ [ 6, 12, 1 ], [ 2, 4, 1 ], [ 2184, 3456, 649 ] ], [ [ 6, 12, 1 ], [ 2, 4, 1 ], [ 3482, 6052, 649 ] ], [ [ 6, 12, 1 ], [ 3482, 6052, 649 ], [ -2, -4, 1 ] ], [ [ 6, 12, 1 ], [ 3482, 6052, 649 ], [ 0, 0, 1 ] ], [ [ 6, 12, 1 ], [ 3482, 6052, 649 ], [ 2184, 3456, 649 ] ], [ [ 6, 12, 1 ], [ 3482, 6052, 649 ], [ 3482, 6052, 649 ] ] ],
+  "edges" : [ [ 101, 125 ], [ 92, 117 ], [ 44, 80 ], [ 65, 89 ], [ 35, 47 ], [ 43, 19 ], [ 183, 191 ], [ 187, 188 ], [ 39, 51 ], [ 142, 154 ], [ 131, 115 ], [ 60, 40 ], [ 19, 35 ], [ 2, 1 ], [ 183, 184 ], [ 15, 14 ], [ 157, 129 ], [ 187, 191 ], [ 121, 101 ], [ 89, 69 ], [ 114, 134 ], [ 133, 149 ], [ 126, 154 ], [ 124, 104 ], [ 132, 112 ], [ 5, 6 ], [ 25, 13 ], [ 10, 2 ], [ 118, 117 ], [ 148, 112 ], [ 29, 13 ], [ 158, 170 ], [ 161, 137 ], [ 155, 167 ], [ 64, 52 ], [ 123, 99 ], [ 115, 90 ], [ 26, 14 ], [ 111, 86 ], [ 64, 36 ], [ 81, 45 ], [ 53, 54 ], [ 94, 95 ], [ 131, 151 ], [ 110, 146 ], [ 127, 155 ], [ 136, 152 ], [ 75, 59 ], [ 77, 102 ], [ 181, 169 ], [ 168, 167 ], [ 56, 40 ], [ 129, 109 ], [ 182, 190 ], [ 110, 85 ], [ 70, 94 ], [ 77, 76 ], [ 184, 176 ], [ 42, 41 ], [ 139, 123 ], [ 58, 74 ], [ 147, 159 ], [ 82, 107 ], [ 66, 90 ], [ 169, 157 ], [ 94, 93 ], [ 82, 62 ], [ 133, 134 ], [ 13, 5 ], [ 26, 22 ], [ 104, 103 ], [ 90, 70 ], [ 126, 138 ], [ 179, 187 ], [ 50, 46 ], [ 192, 184 ], [ 86, 66 ], [ 40, 16 ], [ 81, 61 ], [ 175, 183 ], [ 146, 147 ], [ 165, 153 ], [ 25, 21 ], [ 84, 48 ], [ 50, 38 ], [ 154, 166 ], [ 126, 102 ], [ 12, 28 ], [ 91, 90 ], [ 103, 123 ], [ 161, 153 ], [ 0, 4 ], [ 128, 108 ], [ 5, 4 ], [ 45, 33 ], [ 177, 165 ], [ 166, 170 ], [ 8, 16 ], [ 176, 160 ], [ 77, 57 ], [ 78, 58 ], [ 59, 43 ], [ 192, 188 ], [ 112, 87 ], [ 186, 187 ], [ 74, 99 ], [ 21, 20 ], [ 71, 91 ], [ 110, 130 ], [ 101, 76 ], [ 146, 158 ], [ 74, 75 ], [ 68, 52 ], [ 68, 88 ], [ 59, 79 ], [ 66, 54 ], [ 34, 22 ], [ 186, 185 ], [ 95, 71 ], [ 160, 132 ], [ 28, 36 ], [ 95, 120 ], [ 125, 153 ], [ 129, 149 ], [ 162, 163 ], [ 24, 36 ], [ 27, 26 ], [ 22, 10 ], [ 164, 156 ], [ 3, 7 ], [ 67, 39 ], [ 34, 18 ], [ 101, 102 ], [ 104, 79 ], [ 142, 143 ], [ 122, 98 ], [ 85, 86 ], [ 30, 14 ], [ 35, 63 ], [ 113, 129 ], [ 127, 139 ], [ 30, 54 ], [ 51, 47 ], [ 138, 139 ], [ 160, 148 ], [ 154, 162 ], [ 4, 12 ], [ 97, 121 ], [ 171, 183 ], [ 174, 182 ], [ 125, 137 ], [ 58, 42 ], [ 119, 94 ], [ 182, 181 ], [ 65, 37 ], [ 156, 144 ], [ 2, 3 ], [ 167, 171 ], [ 62, 78 ], [ 162, 178 ], [ 7, 15 ], [ 119, 120 ], [ 59, 58 ], [ 130, 158 ], [ 180, 164 ], [ 149, 173 ], [ 53, 29 ], [ 8, 20 ], [ 49, 85 ], [ 56, 76 ], [ 110, 111 ], [ 189, 181 ], [ 105, 141 ], [ 48, 44 ], [ 99, 100 ], [ 78, 103 ], [ 88, 89 ], [ 86, 50 ], [ 122, 121 ], [ 190, 186 ], [ 114, 89 ], [ 170, 182 ], [ 106, 107 ], [ 66, 38 ], [ 169, 165 ], [ 60, 80 ], [ 152, 176 ], [ 47, 83 ], [ 143, 147 ], [ 108, 144 ], [ 138, 122 ], [ 125, 105 ], [ 134, 118 ], [ 132, 152 ], [ 20, 24 ], [ 130, 150 ], [ 46, 34 ], [ 11, 19 ], [ 53, 69 ], [ 37, 29 ], [ 97, 72 ], [ 190, 189 ], [ 185, 177 ], [ 15, 31 ], [ 57, 41 ], [ 191, 190 ], [ 61, 41 ], [ 63, 43 ], [ 1, 0 ], [ 120, 136 ], [ 167, 179 ], [ 72, 56 ], [ 11, 23 ], [ 41, 17 ], [ 127, 103 ], [ 171, 172 ], [ 181, 173 ], [ 172, 168 ], [ 144, 148 ], [ 70, 71 ], [ 168, 156 ], [ 61, 77 ], [ 17, 9 ], [ 20, 32 ], [ 158, 174 ], [ 54, 70 ], [ 111, 131 ], [ 163, 139 ], [ 21, 9 ], [ 78, 79 ], [ 104, 128 ], [ 45, 46 ], [ 79, 63 ], [ 64, 84 ], [ 177, 178 ], [ 71, 55 ], [ 106, 126 ], [ 123, 124 ], [ 157, 145 ], [ 102, 122 ], [ 191, 192 ], [ 165, 166 ], [ 65, 53 ], [ 100, 75 ], [ 115, 116 ], [ 107, 127 ], [ 62, 34 ], [ 93, 92 ], [ 46, 82 ], [ 49, 37 ], [ 135, 151 ], [ 141, 145 ], [ 63, 83 ], [ 136, 116 ], [ 31, 39 ], [ 32, 60 ], [ 24, 25 ], [ 28, 52 ], [ 180, 179 ], [ 38, 26 ], [ 117, 133 ], [ 87, 51 ], [ 69, 68 ], [ 49, 50 ], [ 88, 113 ], [ 16, 32 ], [ 107, 143 ], [ 164, 140 ], [ 73, 72 ], [ 150, 174 ], [ 172, 160 ], [ 61, 33 ], [ 155, 163 ], [ 131, 159 ], [ 49, 45 ], [ 9, 1 ], [ 85, 65 ], [ 130, 114 ], [ 147, 111 ], [ 99, 98 ], [ 0, 8 ], [ 80, 105 ], [ 62, 42 ], [ 91, 116 ], [ 6, 7 ], [ 14, 6 ], [ 93, 118 ], [ 177, 161 ], [ 33, 17 ], [ 98, 73 ], [ 153, 141 ], [ 151, 150 ], [ 1, 5 ], [ 27, 39 ], [ 121, 137 ], [ 106, 142 ], [ 67, 87 ], [ 136, 135 ], [ 106, 81 ], [ 18, 42 ], [ 118, 119 ], [ 159, 175 ], [ 170, 169 ], [ 12, 13 ], [ 128, 156 ], [ 134, 150 ], [ 23, 35 ], [ 116, 132 ], [ 12, 24 ], [ 145, 109 ], [ 3, 11 ], [ 67, 55 ], [ 69, 93 ], [ 92, 68 ], [ 56, 57 ], [ 15, 27 ], [ 83, 108 ], [ 178, 186 ], [ 31, 55 ], [ 91, 67 ], [ 189, 185 ], [ 38, 30 ], [ 32, 44 ], [ 6, 2 ], [ 138, 162 ], [ 115, 135 ], [ 184, 172 ], [ 166, 178 ], [ 135, 119 ], [ 124, 140 ], [ 133, 113 ], [ 33, 21 ], [ 9, 8 ], [ 109, 84 ], [ 29, 30 ], [ 128, 140 ], [ 23, 27 ], [ 22, 23 ], [ 159, 171 ], [ 173, 157 ], [ 17, 18 ], [ 76, 60 ], [ 98, 97 ], [ 18, 10 ], [ 142, 146 ], [ 180, 168 ], [ 10, 11 ], [ 163, 179 ], [ 114, 113 ], [ 81, 82 ], [ 143, 155 ], [ 174, 175 ], [ 188, 180 ], [ 37, 25 ], [ 175, 151 ], [ 57, 73 ], [ 100, 124 ], [ 73, 74 ], [ 36, 48 ], [ 88, 64 ] ],
+  "faces" : [ ]
+}
+</ImportSimpleMeshJson>
+    <SelectAll originLast="true"/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-3482/649 -6052/649 6078/649 11244/649 -4 -8" startSegment="-4780/649 -8648/649 4780/649 8648/649 -4 -8"/>
+    <SelectManifestation point="-2833/649 -4754/649 -3 -6 4131/649 7350/649"/>
+    <DeselectAll/>
+    <SelectManifestation point="-3482/649 -6052/649 6078/649 11244/649 -4 -8"/>
+    <SelectManifestation point="-2833/649 -4754/649 -3 -6 4131/649 7350/649"/>
+    <EndBlock/>
+    <TranslationTool name="tool-3"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <DeselectAll/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-7 -14 3 6 5 10"/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectManifestation point="-886/649 -860/649 -8674/649 -16436/649 13454/649 25084/649"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-146149/3894 -81758/1947 -17585/649 -32434/649 -30904/1947 50558/1947"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -6 5 10 7 14"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation point="-47/2 -28 95/6 76/3 -64/3 -52/3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-41/2 -22 9 18 -32 -26"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="206/649 868/649 -13660/649 -25952/649 14546/649 26812/649"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-37 -36 -20418/649 -37188/649 -18522/649 8632/649"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-35/3 -32/3 -51395/1947 -72656/1947 -6665/649 9508/649"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="7 14 -5 -10 -1 -2"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-25105/649 -25092/649 -18028/649 -32864/649 -13536/649 18148/649"/>
+    <SelectManifestation point="-4/153 -8/153 2/153 4/153 7/153 14/153"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-3843661/198594 -1922134/99297 -1378493/99297 -2512798/99297 -2066465/198594 1392865/99297"/>
+    <DeselectAll/>
+    <SelectManifestation point="-37/2 -18 -10209/649 -18594/649 -7314/649 8210/649"/>
+    <SelectManifestation point="-3843661/198594 -1922134/99297 -1378493/99297 -2512798/99297 -2066465/198594 1392865/99297"/>
+    <EndBlock/>
+    <TranslationTool name="tool-4"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3843661/198594 -1922134/99297 -1378493/99297 -2512798/99297 -2066465/198594 1392865/99297"/>
+    <SelectManifestation point="-43/2 -24 -9859/1947 -38908/1947 -17275/3894 38908/1947"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-37/2 -18 -10209/649 -18594/649 -7314/649 8210/649"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-4"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3843661/198594 -1922134/99297 -1378493/99297 -2512798/99297 -2066465/198594 1392865/99297"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <TranslationTool name="tool-5"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3838469/198594 -1916942/99297 -1379791/99297 -2515394/99297 -2075551/198594 1383779/99297"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TauDivision/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <TauDivision/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-7690693/198594 3847639/198594 647227/99297 -891415/99297 -18680429/198594 11761769/198594"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TauDivision/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="-6409675/66198 5769166/99297 728623/33099 -1538642/99297 -16374209/66198 15221099/99297"/>
+    <EndBlock/>
+    <TranslationTool name="tool-6"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="29/6 10/3 -26/3 -14/3 -1 -2"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-6"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-7690693/198594 3847639/198594 647227/99297 -891415/99297 -18680429/198594 11761769/198594"/>
+    <SelectManifestation point="-6409675/66198 5769166/99297 728623/33099 -1538642/99297 -16374209/66198 15221099/99297"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="-12559/649 4585/198594 -1596/649 -1135603/99297 -22610/649 4843109/198594"/>
+    <EndBlock/>
+    <Delete/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="538.5494995117188" far="1077.0977783203125" near="1.3463754653930664" parallel="false" stereoAngle="0.0" width="242.34756469726562">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.5246147513389587" y="0.6243492960929871" z="0.5787545442581177"/>
+      <LookDirection x="-0.6248683333396912" y="0.1792992800474167" z="-0.7598525285720825"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction color="255,255,255" name="5" orbit="[[1,0,3],[0,0,1]]" prototype="0 0 18 -12 -6 4"/>
+    <Direction color="255,255,255" name="6" orbit="[[-26,17,11],[-69,43,11]]" prototype="40 -24 10 -6 -30 18"/>
+    <Direction color="255,255,255" name="3" orbit="[[14,-3,29],[31,-17,29]]" prototype="-18 12 -12 8 6 -4"/>
+    <Direction color="255,255,255" name="4" orbit="[[-5,4,11],[41,-24,11]]" prototype="15 -10 -15 10 -9 6"/>
+    <Direction color="176,224,230" name="1" orbit="[[-8,5,1],[-11,7,1]]" prototype="1 -1 2 -2 0 0"/>
+    <Direction color="255,255,255" name="2" orbit="[[-14,9,11],[-37,23,11]]" prototype="-12 8 -18 12 -6 4"/>
+    <Direction color="184,134,11" name="0" orbit="[[1,0,2],[0,0,1]]" prototype="0 0 -2 2 -1 1"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="255,255,255" name="39" orbit="[[-64,41,19],[-135,85,19]]" prototype="64 -40 -96 60 16 -10"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="255,255,255" name="38" orbit="[[1,0,4],[0,0,1]]" prototype="0 0 -128 80 -32 20"/>
+    <Direction color="255,255,255" name="35" orbit="[[18,-11,1],[31,-19,1]]" prototype="0 0 -12 8 18 -12"/>
+    <Direction color="255,255,255" name="34" orbit="[[39,-23,19],[-46,32,19]]" prototype="-15 9 -45 27 5 -3"/>
+    <Direction color="255,255,255" name="37" orbit="[[0,0,1],[1,0,4]]" prototype="0 0 32 -20 -128 80"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="36" orbit="[[28,-17,19],[-51,33,19]]" prototype="-20 12 40 -24 -10 6"/>
+    <Direction color="255,255,255" name="31" orbit="[[-62,39,5],[-163,101,5]]" prototype="-96 60 -16 10 80 -50"/>
+    <Direction color="255,255,255" name="30" orbit="[[-24,15,1],[89,-55,1]]" prototype="-40 24 10 -6 40 -24"/>
+    <Direction color="255,255,255" name="33" orbit="[[2,-1,1],[-163,101,19]]" prototype="-80 50 16 -10 96 -60"/>
+    <Direction color="255,255,255" name="32" orbit="[[-30,21,19],[149,-91,19]]" prototype="80 -50 -32 20 -80 50"/>
+    <Direction color="255,255,255" name="9" orbit="[[2,-1,1],[-69,43,5]]" prototype="30 -18 -10 6 -40 24"/>
+    <Direction color="255,255,255" name="7" orbit="[[0,0,1],[1,0,5]]" prototype="0 0 10 -6 50 -30"/>
+    <Direction color="255,255,255" name="8" orbit="[[3,0,5],[0,0,1]]" prototype="0 0 50 -30 -30 18"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="239,245,61" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="255,255,255" name="41" orbit="[[-3,2,1],[13,-8,1]]" prototype="-96 60 -96 60 32 -20"/>
+    <Direction color="255,255,255" name="40" orbit="[[48,-29,71],[163,-97,71]]" prototype="64 -40 -96 60 48 -30"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="17" orbit="[[0,0,1],[1,0,7]]" prototype="0 0 16 -10 -112 70"/>
+    <Direction color="255,255,255" name="16" orbit="[[46,-27,29],[-67,45,29]]" prototype="-20 12 50 -30 -10 6"/>
+    <Direction color="255,255,255" name="19" orbit="[[3,0,7],[0,0,1]]" prototype="0 0 -112 70 -48 30"/>
+    <Direction color="255,255,255" name="18" orbit="[[38,-23,41],[99,-61,41]]" prototype="20 -12 -30 18 -50 30"/>
+    <Direction color="255,255,255" name="13" orbit="[[4,-1,11],[71,-37,55]]" prototype="-40 24 30 -18 20 -12"/>
+    <Direction color="255,255,255" name="12" orbit="[[0,0,1],[1,0,3]]" prototype="0 0 -6 4 -18 12"/>
+    <Direction color="255,255,255" name="15" orbit="[[1,0,7],[0,0,1]]" prototype="0 0 -112 70 -16 10"/>
+    <Direction color="255,255,255" name="14" orbit="[[-98,61,19],[-121,79,19]]" prototype="0 0 48 -30 -112 70"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="255,255,255" name="11" orbit="[[1,0,5],[0,0,1]]" prototype="0 0 50 -30 -10 6"/>
+    <Direction color="255,255,255" name="10" orbit="[[-50,31,1],[-79,49,1]]" prototype="0 0 30 -18 50 -30"/>
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,255,255" name="28" orbit="[[1,0,6],[1,0,6]]" prototype="-60 36 10 -6 10 -6"/>
+    <Direction color="255,255,255" name="27" orbit="[[98,-59,11],[179,-109,11]]" prototype="0 0 -80 50 -112 70"/>
+    <Direction color="255,255,255" name="29" orbit="[[50,-11,59],[179,-109,59]]" prototype="0 0 -112 70 80 -50"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="255,255,255" name="24" orbit="[[2,-1,1],[-111,69,11]]" prototype="-10 6 -50 30 -40 24"/>
+    <Direction color="255,255,255" name="23" orbit="[[38,-13,71],[89,-51,71]]" prototype="30 -18 -20 12 -50 30"/>
+    <Direction color="255,255,255" name="26" orbit="[[-50,31,11],[-59,39,11]]" prototype="0 0 -20 12 50 -30"/>
+    <Direction color="255,255,255" name="25" orbit="[[26,-7,89],[127,-65,89]]" prototype="80 -50 -64 40 48 -30"/>
+    <Direction color="255,255,255" name="20" orbit="[[-11,7,5],[-22,14,5]]" prototype="-30 18 50 -30 -10 6"/>
+    <Direction color="255,255,255" name="22" orbit="[[2,-1,7],[13,-7,7]]" prototype="-40 24 30 -18 -30 18"/>
+    <Direction color="255,255,255" name="21" orbit="[[-14,9,3],[-37,23,3]]" prototype="10 -6 -40 24 -50 30"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="false" deleteInputs="false" id="tool-0" label="point reflection 0" selectInputs="true"/>
+    <Tool copyColors="false" deleteInputs="false" id="tool-1" label="point reflection 1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-2" label="translation 2" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-3" label="translation 3" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-4" label="translation 4" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-5" label="translation 5" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-6" label="translation 6" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>
