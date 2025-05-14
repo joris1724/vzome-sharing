@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="14" lastStickyEdit="7">
+  <EditHistory editNumber="351" lastStickyEdit="346">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -111, -178, 12 ], [ 2, -51, 12 ], [ 97, 65, 12 ] ], [ [ -111, -178, 12 ], [ 14, -39, 12 ], [ 73, 29, 12 ] ], [ [ -99, -166, 12 ], [ 14, -27, 12 ], [ 121, 101, 12 ] ], [ [ -99, -166, 12 ], [ 38, -3, 12 ], [ 73, 29, 12 ] ], [ [ -44, -85, 6 ], [ -3, -41, 6 ], [ 41, 44, 6 ] ], [ [ -44, -85, 6 ], [ 3, -35, 6 ], [ 29, 26, 6 ] ], [ [ -44, -85, 6 ], [ -2, -2, 1 ], [ 21, -5, 6 ] ], [ [ -87, -154, 12 ], [ 38, 9, 12 ], [ 121, 101, 12 ] ], [ [ -87, -154, 12 ], [ 50, 21, 12 ], [ 97, 65, 12 ] ], [ [ -87, -154, 12 ], [ 62, 33, 12 ], [ 73, 29, 12 ] ], [ [ -38, -79, 6 ], [ 3, -29, 6 ], [ 53, 62, 6 ] ], [ [ -38, -79, 6 ], [ 15, -17, 6 ], [ 29, 26, 6 ] ], [ [ -38, -79, 6 ], [ 0, 1, 1 ], [ 21, -5, 6 ] ], [ [ -65, -162, 12 ], [ -14, -113, 12 ], [ 67, 111, 12 ] ], [ [ -65, -162, 12 ], [ -32, -55, 12 ], [ 27, 13, 12 ] ], [ [ -38, -73, 6 ], [ -9, -53, 6 ], [ 35, 32, 6 ] ], [ [ -38, -73, 6 ], [ -3, -4, 1 ], [ 15, -17, 6 ] ], [ [ -32, -73, 6 ], [ 15, -11, 6 ], [ 53, 62, 6 ] ], [ [ -32, -73, 6 ], [ 21, -5, 6 ], [ 41, 44, 6 ] ], [ [ -32, -73, 6 ], [ 2, 4, 1 ], [ 21, -5, 6 ] ], [ [ -53, -150, 12 ], [ -2, -89, 12 ], [ 91, 147, 12 ] ], [ [ -53, -150, 12 ], [ -8, -19, 12 ], [ 27, 13, 12 ] ], [ [ -53, -138, 12 ], [ -26, -137, 12 ], [ 55, 87, 12 ] ], [ [ -53, -138, 12 ], [ -56, -91, 12 ], [ 39, 25, 12 ] ], [ [ -53, -138, 12 ], [ -44, -79, 12 ], [ 15, -11, 12 ] ], [ [ -47, -50, 6 ], [ 23, 20, 6 ], [ 53, 62, 6 ] ], [ [ -47, -50, 6 ], [ 29, 26, 6 ], [ 41, 44, 6 ] ], [ [ -47, -50, 6 ], [ 35, 32, 6 ], [ 29, 26, 6 ] ], [ [ -48291, -3700, 2596 ], [ 170496, -206563, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 170496, -206563, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 186072, -190987, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 186072, -190987, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 186072, -190987, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 186072, -190987, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 201336, -164779, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 201336, -164779, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 201336, -164779, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 201336, -164779, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 216912, -149203, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -48291, -3700, 2596 ], [ 216912, -149203, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -26, -61, 6 ], [ 3, -29, 6 ], [ 59, 68, 6 ] ], [ [ -26, -61, 6 ], [ 15, -17, 6 ], [ 35, 32, 6 ] ], [ [ -26, -61, 6 ], [ 1, 2, 1 ], [ 15, -17, 6 ] ], [ [ -15, -65, 6 ], [ -32, -61, 6 ], [ 2, 4, 1 ] ], [ [ -15, -65, 6 ], [ -26, -55, 6 ], [ 0, 1, 1 ] ], [ [ -26, -55, 6 ], [ -9, -53, 6 ], [ 41, 38, 6 ] ], [ [ -26, -55, 6 ], [ -2, -3, 1 ], [ 9, -29, 6 ] ], [ [ -71, -92, 12 ], [ 38, 9, 12 ], [ 91, 147, 12 ] ], [ [ -71, -92, 12 ], [ 50, 21, 12 ], [ 67, 111, 12 ] ], [ [ -71, -92, 12 ], [ 32, 79, 12 ], [ 27, 13, 12 ] ], [ [ -29, -114, 12 ], [ -2, -89, 12 ], [ 103, 159, 12 ] ], [ [ -29, -114, 12 ], [ -8, -19, 12 ], [ 39, 25, 12 ] ], [ [ -29, -114, 12 ], [ 4, -7, 12 ], [ 15, -11, 12 ] ], [ [ -20, -49, 6 ], [ -3, -41, 6 ], [ 53, 56, 6 ] ], [ [ -20, -49, 6 ], [ 3, -35, 6 ], [ 41, 38, 6 ] ], [ [ -20, -49, 6 ], [ 0, 0, 1 ], [ 9, -29, 6 ] ], [ [ -29, -102, 12 ], [ -26, -137, 12 ], [ 67, 99, 12 ] ], [ [ -29, -102, 12 ], [ -56, -91, 12 ], [ 51, 37, 12 ] ], [ [ -29, -102, 12 ], [ -32, -67, 12 ], [ 3, -35, 12 ] ], [ [ -43099, 1492, 2596 ], [ 154920, -222139, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 154920, -222139, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 186072, -190987, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 186072, -190987, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 186072, -190987, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 186072, -190987, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 201336, -164779, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 201336, -164779, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 201336, -164779, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 201336, -164779, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 232488, -133627, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -43099, 1492, 2596 ], [ 232488, -133627, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -35, -32, 6 ], [ 23, 20, 6 ], [ 59, 68, 6 ] ], [ [ -35, -32, 6 ], [ 35, 32, 6 ], [ 35, 32, 6 ] ], [ [ -59, -68, 12 ], [ 14, -27, 12 ], [ 103, 159, 12 ] ], [ [ -59, -68, 12 ], [ 38, -3, 12 ], [ 55, 87, 12 ] ], [ [ -59, -68, 12 ], [ 20, 55, 12 ], [ 15, -11, 12 ] ], [ [ -38, -79, 12 ], [ 3, -29, 12 ], [ 53, 62, 12 ] ], [ [ -17, -90, 12 ], [ -14, -113, 12 ], [ 91, 135, 12 ] ], [ [ -17, -90, 12 ], [ -32, -55, 12 ], [ 51, 37, 12 ] ], [ [ -17, -90, 12 ], [ -8, -31, 12 ], [ 3, -35, 12 ] ], [ [ -3, -47, 6 ], [ -32, -61, 6 ], [ 3, 5, 1 ] ], [ [ -3, -47, 6 ], [ -20, -49, 6 ], [ -1, -1, 1 ] ], [ [ -47, -56, 12 ], [ 38, 9, 12 ], [ 103, 159, 12 ] ], [ [ -47, -56, 12 ], [ 62, 33, 12 ], [ 55, 87, 12 ] ], [ [ -47, -56, 12 ], [ 32, 79, 12 ], [ 39, 25, 12 ] ], [ [ -3, -5, 1 ], [ 3, -29, 6 ], [ 44, 91, 6 ] ], [ [ -3, -5, 1 ], [ 0, 1, 1 ], [ 2, 4, 1 ] ], [ [ -3, -5, 1 ], [ 1, 2, 1 ], [ 0, 1, 1 ] ], [ [ -45695, -6296, 5192 ], [ 205230, -202421, 15576 ], [ -307123, 526921, 15576 ] ], [ [ -37907, 6684, 2596 ], [ 154920, -222139, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 154920, -222139, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 154920, -222139, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 154920, -222139, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 170496, -206563, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 170496, -206563, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 170496, -206563, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 170496, -206563, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 186072, -190987, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 186072, -190987, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 186072, -190987, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 186072, -190987, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 201336, -164779, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 201336, -164779, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 201336, -164779, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 201336, -164779, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 216912, -149203, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 216912, -149203, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 216912, -149203, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 216912, -149203, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 232488, -133627, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 232488, -133627, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 232488, -133627, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -37907, 6684, 2596 ], [ 232488, -133627, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -47, -44, 12 ], [ 2, -51, 12 ], [ 91, 135, 12 ] ], [ [ -47, -44, 12 ], [ 14, -39, 12 ], [ 67, 99, 12 ] ], [ [ -47, -44, 12 ], [ 8, 31, 12 ], [ 3, -35, 12 ] ], [ [ -5, -66, 12 ], [ -26, -137, 12 ], [ 79, 111, 12 ] ], [ [ -5, -66, 12 ], [ -44, -79, 12 ], [ 39, 13, 12 ] ], [ [ -5, -66, 12 ], [ -32, -67, 12 ], [ 15, -23, 12 ] ], [ [ -2, -4, 1 ], [ 15, -11, 6 ], [ 44, 91, 6 ] ], [ [ -2, -4, 1 ], [ 2, 4, 1 ], [ 2, 4, 1 ] ], [ [ -23, -14, 6 ], [ 29, 26, 6 ], [ 53, 56, 6 ] ], [ [ -23, -14, 6 ], [ 35, 32, 6 ], [ 41, 38, 6 ] ], [ [ -2, -3, 1 ], [ -3, -41, 6 ], [ 38, 79, 6 ] ], [ [ -2, -3, 1 ], [ -2, -2, 1 ], [ 3, 5, 1 ] ], [ [ -2, -3, 1 ], [ 0, 0, 1 ], [ -1, -1, 1 ] ], [ [ -35363, 11052, 2596 ], [ 193704, -177883, 7788 ], [ -325451, 453059, 7788 ] ], [ [ 9, -29, 6 ], [ -32, -61, 6 ], [ 4, 6, 1 ] ], [ [ 9, -29, 6 ], [ -26, -55, 6 ], [ 2, 3, 1 ] ], [ [ 9, -29, 6 ], [ -20, -49, 6 ], [ 0, 0, 1 ] ], [ [ -23, -20, 12 ], [ 50, 21, 12 ], [ 91, 135, 12 ] ], [ [ -23, -20, 12 ], [ 62, 33, 12 ], [ 67, 99, 12 ] ], [ [ -23, -20, 12 ], [ 32, 79, 12 ], [ 51, 37, 12 ] ], [ [ -32819, 15420, 2596 ], [ 154920, -222139, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 154920, -222139, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 154920, -222139, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 154920, -222139, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 170496, -206563, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 170496, -206563, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 170496, -206563, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 170496, -206563, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 186072, -190987, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 186072, -190987, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 186072, -190987, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 186072, -190987, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 201336, -164779, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 201336, -164779, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 201336, -164779, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 201336, -164779, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 216912, -149203, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 216912, -149203, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 216912, -149203, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 216912, -149203, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 232488, -133627, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 232488, -133627, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 232488, -133627, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -32819, 15420, 2596 ], [ 232488, -133627, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -23, -8, 12 ], [ 14, -39, 12 ], [ 79, 111, 12 ] ], [ [ -23, -8, 12 ], [ 8, 31, 12 ], [ 15, -23, 12 ] ], [ [ -1, -1, 1 ], [ -9, -53, 6 ], [ 32, 67, 6 ] ], [ [ -1, -1, 1 ], [ -3, -4, 1 ], [ 2, 3, 1 ] ], [ [ -1, -1, 1 ], [ -2, -3, 1 ], [ 0, 0, 1 ] ], [ [ 0, -1, 1 ], [ 21, -5, 6 ], [ 38, 79, 6 ] ], [ [ 0, -1, 1 ], [ 2, 4, 1 ], [ 3, 5, 1 ] ], [ [ -11, 4, 12 ], [ 38, -3, 12 ], [ 79, 111, 12 ] ], [ [ -11, 4, 12 ], [ 20, 55, 12 ], [ 39, 13, 12 ] ], [ [ 0, 0, 1 ], [ 3, -35, 6 ], [ 32, 67, 6 ] ], [ [ 0, 0, 1 ], [ -2, -2, 1 ], [ 4, 6, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 11, -4, 12 ], [ -56, -91, 12 ], [ 33, 95, 12 ] ], [ [ 11, -4, 12 ], [ -44, -79, 12 ], [ 9, 59, 12 ] ], [ [ 11, -4, 12 ], [ -32, -67, 12 ], [ -15, 23, 12 ] ], [ [ -27627, 20612, 2596 ], [ 154920, -222139, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 154920, -222139, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 186072, -190987, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 186072, -190987, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 186072, -190987, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 186072, -190987, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 201336, -164779, 7788 ], [ -364235, 408803, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 201336, -164779, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 201336, -164779, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 201336, -164779, 7788 ], [ -286667, 497315, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 232488, -133627, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -27627, 20612, 2596 ], [ 232488, -133627, 7788 ], [ -317819, 466163, 7788 ] ], [ [ 1, 1, 1 ], [ 15, -17, 6 ], [ 32, 67, 6 ] ], [ [ 1, 1, 1 ], [ 0, 1, 1 ], [ 4, 6, 1 ] ], [ [ 1, 1, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ 23, 8, 12 ], [ -32, -55, 12 ], [ 33, 95, 12 ] ], [ [ 23, 8, 12 ], [ -8, -31, 12 ], [ -15, 23, 12 ] ], [ [ 35, 20, 12 ], [ -8, -19, 12 ], [ 33, 95, 12 ] ], [ [ 35, 20, 12 ], [ 4, -7, 12 ], [ 9, 59, 12 ] ], [ [ -22435, 25804, 2596 ], [ 170496, -206563, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 170496, -206563, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 186072, -190987, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 186072, -190987, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 186072, -190987, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 186072, -190987, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 201336, -164779, 7788 ], [ -348659, 424379, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 201336, -164779, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 201336, -164779, 7788 ], [ -317819, 466163, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 201336, -164779, 7788 ], [ -302243, 481739, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 216912, -149203, 7788 ], [ -333083, 439955, 7788 ] ], [ [ -22435, 25804, 2596 ], [ 216912, -149203, 7788 ], [ -317819, 466163, 7788 ] ] ],
@@ -1978,6 +1978,343 @@
     <SelectManifestation endSegment="-40503/5192 1160/649 2529/236 -5441/472 -140449/5192 96895/5192" startSegment="0 0 0 0 0 0"/>
     <EndBlock/>
     <Delete/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <setItemColor blue="51" green="51" red="51"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="21 34"/>
+    <SelectManifestation endSegment="21 34 0 0 34 55" startSegment="0 0 0 0 0 0"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="21 34 0 0 34 55" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <LineReflectionTool name="tool-1"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="87761/15576 -41827/7788 -8389/649 164779/15576 375917/15576 -148815/5192"/>
+    <ApplyTool copyColors="false" name="tool-1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-456509/15576 17297/2596 8389/649 -164779/15576 -355789/15576 97825/15576"/>
+    <SelectManifestation point="87761/15576 -41827/7788 -8389/649 164779/15576 375917/15576 -148815/5192"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="87761/15576 -41827/7788 -8389/649 164779/15576 375917/15576 -148815/5192"/>
+    <SelectManifestation point="-30729/2596 1258/1947 0 0 1258/1947 -87155/7788"/>
+    <EndBlock/>
+    <TranslationTool name="tool-2"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-30729/2596 1258/1947 0 0 1258/1947 -87155/7788"/>
+    <SelectManifestation point="-456509/15576 17297/2596 8389/649 -164779/15576 -355789/15576 97825/15576"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <AdjustSelectionByOrbitLength length="1 1" orbit="yellow" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="87761/15576 -41827/7788 -8389/649 164779/15576 375917/15576 -148815/5192"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-25031/5192 3550/649 30363/2596 -51115/5192 -114593/5192 126399/5192"/>
+    <EndBlock/>
+    <ApplyTool copyColors="false" name="tool-1"/>
+    <SelectManifestation point="-25031/5192 3550/649 30363/2596 -51115/5192 -114593/5192 126399/5192"/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-25031/5192 3550/649 30363/2596 -51115/5192 -114593/5192 126399/5192"/>
+    <SelectManifestation point="131949/12980 -5239/6490 0 0 -5239/6490 121471/12980"/>
+    <EndBlock/>
+    <TranslationTool name="tool-3"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="131949/12980 -5239/6490 0 0 -5239/6490 121471/12980"/>
+    <SelectManifestation point="652951/25960 -22989/3245 -30363/2596 51115/5192 531053/25960 -146111/25960"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <AdjustSelectionByOrbitLength length="1 1" orbit="yellow" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <InvertSelection/>
+    <SelectManifestation point="-30729/2596 1258/1947 0 0 1258/1947 -87155/7788"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <BookmarkTool name="tool-4"/>
+    <Hide/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 0 0 1 2"/>
+    <SelectManifestation endSegment="1 1 0 0 1 2" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 1 0 0 1 2" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="1 1 0 0 1 2"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 1 0 0 1 1"/>
+    <EndBlock/>
+    <TranslationTool name="tool-5"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 1 0 0 1 1"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-30729/2596 1258/1947 0 0 1258/1947 -87155/7788"/>
+    <SelectManifestation point="131949/12980 1251/6490 0 0 1251/6490 134451/12980"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <RotationTool corrected="true" name="tool-6" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByOrbitLength length="1 1" orbit="yellow" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-6"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-6"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-6"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-6"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-6"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-6"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="131949/12980 1251/6490 0 0 1251/6490 134451/12980" startSegment="-30729/2596 1258/1947 0 0 1258/1947 -87155/7788"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <SelectManifestation endSegment="131949/12980 1251/6490 0 0 -1251/6490 -134451/12980" startSegment="-30729/2596 1258/1947 0 0 -1258/1947 87155/7788"/>
+    <ShowVertices/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="2" len="42 68"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1251/6490 134451/12980 -131949/12980 -1251/6490 0 0" startSegment="1258/1947 -87155/7788 30729/2596 -1258/1947 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <Delete/>
+    <SelectManifestation point="30729/2596 -1258/1947 0 0 -1258/1947 87155/7788"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 1258/1947 -87155/7788 30729/2596 -1258/1947"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -1251/6490 -134451/12980 131949/12980 1251/6490"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -1251/6490 -134451/12980 131949/12980 1251/6490"/>
+    <SelectManifestation point="0 0 1258/1947 -87155/7788 30729/2596 -1258/1947"/>
+    <SelectManifestation point="-131949/12980 -1251/6490 0 0 1251/6490 134451/12980"/>
+    <SelectManifestation point="-1258/1947 87155/7788 -30729/2596 1258/1947 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -1258/1947 87155/7788 30729/2596 -1258/1947"/>
+    <DeselectAll/>
+    <SelectManifestation point="-1258/1947 87155/7788 30729/2596 -1258/1947 0 0"/>
+    <SelectManifestation point="-1258/1947 87155/7788 30729/2596 -1258/1947 0 0"/>
+    <SelectManifestation point="-1258/1947 87155/7788 30729/2596 -1258/1947 0 0"/>
+    <SelectManifestation point="1251/6490 134451/12980 131949/12980 1251/6490 0 0"/>
+    <SelectManifestation point="1258/1947 -87155/7788 -30729/2596 1258/1947 0 0"/>
+    <SelectManifestation point="-1258/1947 87155/7788 -30729/2596 1258/1947 0 0"/>
+    <SelectManifestation point="0 0 1258/1947 -87155/7788 30729/2596 -1258/1947"/>
+    <SelectManifestation point="0 0 -1251/6490 -134451/12980 131949/12980 1251/6490"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-1251/6490 -134451/12980 131949/12980 1251/6490 0 0"/>
+    <SelectManifestation point="1251/6490 134451/12980 -131949/12980 -1251/6490 0 0"/>
+    <SelectManifestation point="-1251/6490 -134451/12980 -131949/12980 -1251/6490 0 0"/>
+    <SelectManifestation point="0 0 1251/6490 134451/12980 131949/12980 1251/6490"/>
+    <SelectManifestation point="0 0 -1258/1947 87155/7788 30729/2596 -1258/1947"/>
+    <SelectManifestation point="1258/1947 -87155/7788 30729/2596 -1258/1947 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-131949/12980 -1251/6490 0 0 1251/6490 134451/12980"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="30729/2596 -1258/1947 0 0 1258/1947 -87155/7788"/>
+    <SelectManifestation point="131949/12980 1251/6490 0 0 -1251/6490 -134451/12980"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="47" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 -2 -2"/>
+    <EndBlock/>
+    <TranslationTool name="tool-7"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -1258/1947 87155/7788 -30729/2596 1258/1947"/>
+    <SelectManifestation point="0 0 1251/6490 134451/12980 -131949/12980 -1251/6490"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 -2 -2"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 -2 -2" startSegment="0 0 0 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <AdjustSelectionByOrbitLength length="23/6 4/3" orbit="green" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-30729/2596 1258/1947 0 0 1258/1947 -87155/7788"/>
+    <SelectManifestation point="-131949/12980 -1251/6490 0 0 -1251/6490 -134451/12980"/>
+    <SelectManifestation point="0 0 1258/1947 -87155/7788 -30729/2596 1258/1947"/>
+    <SelectManifestation point="0 0 -1251/6490 -134451/12980 -131949/12980 -1251/6490"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <AdjustSelectionByOrbitLength length="1 1" orbit="yellow" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="-30729/2596 1258/1947 0 0 1258/1947 -87155/7788"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <SelectManifestation endSegment="0 0 0 0 42 68" startSegment="0 0 0 0 0 0"/>
+    <LineReflectionTool name="tool-8"/>
+    <SelectManifestation point="131949/12980 1251/6490 0 0 1251/6490 134451/12980"/>
+    <setItemColor blue="0" green="255" red="0"/>
+    <SelectManifestation point="131949/12980 1251/6490 0 0 1251/6490 134451/12980"/>
+    <ApplyTool copyColors="false" name="tool-8" selectInputs="true"/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-131949/12980 -1251/6490 0 0 1251/6490 134451/12980"/>
+    <SelectManifestation point="0 0 0 0 1251/6490 134451/12980"/>
+    <DeselectAll/>
+    <SelectManifestation point="131949/12980 1251/6490 0 0 1251/6490 134451/12980"/>
+    <SelectManifestation point="0 0 0 0 1251/6490 134451/12980"/>
+    <EndBlock/>
+    <TranslationTool name="tool-9"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-131949/12980 -1251/6490 0 0 1251/6490 134451/12980"/>
+    <SelectManifestation point="0 0 0 0 1251/6490 134451/12980"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="144669/12980 12171/6490 -3232/649 -3688/649 129/110 2649/220"/>
+    <SelectManifestation point="131949/12980 1251/6490 0 0 1251/6490 134451/12980"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-9"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByOrbitLength length="1 1" orbit="yellow" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-30729/2596 1258/1947 0 0 1258/1947 -87155/7788"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-7"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-30729/2596 1258/1947 0 0 -2636/1947 -102731/7788"/>
+    <EndBlock/>
+    <ApplyTool copyColors="false" name="tool-8" selectInputs="true"/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-30729/2596 1258/1947 0 0 -2636/1947 -102731/7788"/>
+    <SelectManifestation point="0 0 0 0 -2636/1947 -102731/7788"/>
+    <EndBlock/>
+    <TranslationTool name="tool-10"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="30729/2596 -1258/1947 0 0 -2636/1947 -102731/7788"/>
+    <SelectManifestation point="0 0 0 0 -2636/1947 -102731/7788"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <AdjustSelectionByOrbitLength length="1 1" orbit="yellow" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-30729/2596 1258/1947 0 0 -2636/1947 -102731/7788"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-10"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 42 68" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 -2636/1947 -102731/7788"/>
+    <SelectManifestation point="0 0 0 0 1251/6490 134451/12980"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 1 2 21337/3894 -45619/7788" startSegment="0 0 -1 -2 21337/3894 -45619/7788"/>
+    <SelectManifestation endSegment="0 0 0 0 1251/6490 134451/12980" startSegment="0 0 0 0 -2636/1947 -102731/7788"/>
+    <EndBlock/>
+    <StrutIntersection/>
+    <BeginBlock/>
+    <SelectManifestation point="636/649 1092/649 636/649 1092/649 -31069/6490 60691/12980"/>
+    <SelectManifestation point="-636/649 -1092/649 -636/649 -1092/649 -31069/6490 60691/12980"/>
+    <SelectManifestation point="0 0 0 0 21337/3894 -45619/7788"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 21337/3894 -45619/7788"/>
+    <SelectManifestation point="0 0 0 0 -31069/6490 60691/12980"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 21337/3894 -45619/7788"/>
+    <SelectManifestation point="0 0 0 0 -31069/6490 60691/12980"/>
+    <SelectManifestation endSegment="0 0 0 0 1251/6490 134451/12980" startSegment="0 0 0 0 -2636/1947 -102731/7788"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 6739/19470 -23011/38940"/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <TranslationTool name="tool-11"/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-11"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
   </EditHistory>
   <notes/>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
@@ -1986,10 +2323,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="237.19424438476562" far="474.3885192871094" near="0.5929855704307556" parallel="false" stereoAngle="0.0" width="106.73736572265625">
+    <ViewModel distance="198.12130737304688" far="396.24359130859375" near="0.49530351161956787" parallel="false" stereoAngle="0.0" width="89.1545639038086">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="0.749228298664093" y="0.6601027846336365" z="-0.054039739072322845"/>
-      <LookDirection x="0.6489680409431458" y="-0.7479820847511292" z="-0.13915222883224487"/>
+      <UpDirection x="-0.012671759352087975" y="-0.9970966577529907" z="0.07513056695461273"/>
+      <LookDirection x="-0.9998255968093872" y="0.01368611492216587" z="0.012928001582622528"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
@@ -2032,5 +2369,16 @@
   </OtherSymmetries>
   <Tools>
     <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
+    <Tool copyColors="false" deleteInputs="false" id="tool-1" label="line reflection 1" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-10" label="translation 10" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-11" label="translation 11" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-2" label="translation 2" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-3" label="translation 3" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-4" label="bookmark 4" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-5" label="translation 5" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-6" label="rotation 6" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-7" label="translation 7" selectInputs="false"/>
+    <Tool copyColors="false" deleteInputs="false" id="tool-8" label="line reflection 8" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-9" label="translation 9" selectInputs="false"/>
   </Tools>
 </vzome:vZome>
