@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="1173" lastStickyEdit="1162">
+  <EditHistory editNumber="1236" lastStickyEdit="1239">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -35, -32, 3 ], [ -35, -32, 6 ], [ -35, -32, 6 ] ], [ [ -35, -32, 3 ], [ -2, -4, 1 ], [ -29, -20, 3 ] ], [ [ -35, -32, 3 ], [ -2, -4, 1 ], [ -2, -4, 1 ] ], [ [ -35, -32, 3 ], [ 11, -16, 6 ], [ -35, -32, 6 ] ], [ [ -32, -26, 3 ], [ -41, -44, 6 ], [ -41, -44, 6 ] ], [ [ -32, -26, 3 ], [ -41, -44, 6 ], [ -29, -20, 6 ] ], [ [ -32, -26, 3 ], [ -3, -6, 1 ], [ -32, -26, 3 ] ], [ [ -32, -26, 3 ], [ -3, -6, 1 ], [ -1, -2, 1 ] ], [ [ -32, -26, 3 ], [ -1, -2, 1 ], [ -32, -26, 3 ] ], [ [ -32, -26, 3 ], [ -1, -2, 1 ], [ -1, -2, 1 ] ], [ [ -32, -26, 3 ], [ 17, -4, 6 ], [ -41, -44, 6 ] ], [ [ -32, -26, 3 ], [ 17, -4, 6 ], [ -29, -20, 6 ] ], [ [ -38213, -35108, 3894 ], [ -3232, -4986, 649 ], [ -79, 248, 15 ] ], [ [ -38213, -35108, 3894 ], [ -3232, -4986, 649 ], [ -32191, 193712, 9735 ] ], [ [ -38213, -35108, 3894 ], [ -1934, -3688, 649 ], [ -109, 218, 15 ] ], [ [ -38213, -35108, 3894 ], [ -1934, -3688, 649 ], [ -79, 248, 15 ] ], [ [ -38213, -35108, 3894 ], [ -1934, -3688, 649 ], [ -32191, 193712, 9735 ] ], [ [ -38213, -35108, 3894 ], [ -1934, -3688, 649 ], [ -12721, 213182, 9735 ] ], [ [ -38213, -35108, 3894 ], [ -662, -1504, 649 ], [ -109, 218, 15 ] ], [ [ -38213, -35108, 3894 ], [ -662, -1504, 649 ], [ -79, 248, 15 ] ], [ [ -38213, -35108, 3894 ], [ -662, -1504, 649 ], [ -32191, 193712, 9735 ] ], [ [ -38213, -35108, 3894 ], [ -662, -1504, 649 ], [ -12721, 213182, 9735 ] ], [ [ -38213, -35108, 3894 ], [ 636, -206, 649 ], [ -79, 248, 15 ] ], [ [ -38213, -35108, 3894 ], [ 636, -206, 649 ], [ -32191, 193712, 9735 ] ], [ [ -29, -20, 3 ], [ -47, -56, 6 ], [ -47, -56, 6 ] ], [ [ -29, -20, 3 ], [ -47, -56, 6 ], [ -23, -8, 6 ] ], [ [ -29, -20, 3 ], [ -4, -8, 1 ], [ -35, -32, 3 ] ], [ [ -29, -20, 3 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ -29, -20, 3 ], [ 0, 0, 1 ], [ -35, -32, 3 ] ], [ [ -29, -20, 3 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -29, -20, 3 ], [ 23, 8, 6 ], [ -47, -56, 6 ] ], [ [ -29, -20, 3 ], [ 23, 8, 6 ], [ -23, -8, 6 ] ], [ [ -30425, -27320, 3894 ], [ -4530, -6284, 649 ], [ -79, 248, 15 ] ], [ [ -30425, -27320, 3894 ], [ -4530, -6284, 649 ], [ -32191, 193712, 9735 ] ], [ [ -30425, -27320, 3894 ], [ -1934, -3688, 649 ], [ -139, 188, 15 ] ], [ [ -30425, -27320, 3894 ], [ -1934, -3688, 649 ], [ -79, 248, 15 ] ], [ [ -30425, -27320, 3894 ], [ -1934, -3688, 649 ], [ -32191, 193712, 9735 ] ], [ [ -30425, -27320, 3894 ], [ -1934, -3688, 649 ], [ 6749, 232652, 9735 ] ], [ [ -30425, -27320, 3894 ], [ -662, -1504, 649 ], [ -139, 188, 15 ] ], [ [ -30425, -27320, 3894 ], [ -662, -1504, 649 ], [ -79, 248, 15 ] ], [ [ -30425, -27320, 3894 ], [ -662, -1504, 649 ], [ -32191, 193712, 9735 ] ], [ [ -30425, -27320, 3894 ], [ -662, -1504, 649 ], [ 6749, 232652, 9735 ] ], [ [ -30425, -27320, 3894 ], [ 1934, 1092, 649 ], [ -79, 248, 15 ] ], [ [ -30425, -27320, 3894 ], [ 1934, 1092, 649 ], [ -32191, 193712, 9735 ] ], [ [ -41, -44, 6 ], [ -41, -44, 6 ], [ -41, -44, 6 ] ], [ [ -41, -44, 6 ], [ -41, -44, 6 ], [ -29, -20, 6 ] ], [ [ -41, -44, 6 ], [ -3, -6, 1 ], [ -32, -26, 3 ] ], [ [ -41, -44, 6 ], [ -3, -6, 1 ], [ -1, -2, 1 ] ], [ [ -41, -44, 6 ], [ -1, -2, 1 ], [ -32, -26, 3 ] ], [ [ -41, -44, 6 ], [ -1, -2, 1 ], [ -1, -2, 1 ] ], [ [ -41, -44, 6 ], [ 17, -4, 6 ], [ -41, -44, 6 ] ], [ [ -41, -44, 6 ], [ 17, -4, 6 ], [ -29, -20, 6 ] ], [ [ -26, -14, 3 ], [ -53, -68, 6 ], [ -41, -44, 6 ] ], [ [ -26, -14, 3 ], [ -53, -68, 6 ], [ -29, -20, 6 ] ], [ [ -26, -14, 3 ], [ -3, -6, 1 ], [ -38, -38, 3 ] ], [ [ -26, -14, 3 ], [ -3, -6, 1 ], [ 1, 2, 1 ] ], [ [ -26, -14, 3 ], [ -1, -2, 1 ], [ -38, -38, 3 ] ], [ [ -26, -14, 3 ], [ -1, -2, 1 ], [ 1, 2, 1 ] ], [ [ -26, -14, 3 ], [ 29, 20, 6 ], [ -41, -44, 6 ] ], [ [ -26, -14, 3 ], [ 29, 20, 6 ], [ -29, -20, 6 ] ], [ [ -35, -32, 6 ], [ -47, -56, 6 ], [ -47, -56, 6 ] ], [ [ -35, -32, 6 ], [ -47, -56, 6 ], [ -23, -8, 6 ] ], [ [ -35, -32, 6 ], [ -4, -8, 1 ], [ -35, -32, 3 ] ], [ [ -35, -32, 6 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ -35, -32, 6 ], [ -35, -32, 6 ], [ -35, -32, 6 ] ], [ [ -35, -32, 6 ], [ -2, -4, 1 ], [ -29, -20, 3 ] ], [ [ -35, -32, 6 ], [ -2, -4, 1 ], [ -2, -4, 1 ] ], [ [ -35, -32, 6 ], [ 11, -16, 6 ], [ -35, -32, 6 ] ], [ [ -35, -32, 6 ], [ 0, 0, 1 ], [ -35, -32, 3 ] ], [ [ -35, -32, 6 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -35, -32, 6 ], [ 23, 8, 6 ], [ -47, -56, 6 ] ], [ [ -35, -32, 6 ], [ 23, 8, 6 ], [ -23, -8, 6 ] ], [ [ -22637, -19532, 3894 ], [ -4530, -6284, 649 ], [ -109, 218, 15 ] ], [ [ -22637, -19532, 3894 ], [ -4530, -6284, 649 ], [ -79, 248, 15 ] ], [ [ -22637, -19532, 3894 ], [ -4530, -6284, 649 ], [ -32191, 193712, 9735 ] ], [ [ -22637, -19532, 3894 ], [ -4530, -6284, 649 ], [ -12721, 213182, 9735 ] ], [ [ -22637, -19532, 3894 ], [ -3232, -4986, 649 ], [ -139, 188, 15 ] ], [ [ -22637, -19532, 3894 ], [ -3232, -4986, 649 ], [ -79, 248, 15 ] ], [ [ -22637, -19532, 3894 ], [ -3232, -4986, 649 ], [ -32191, 193712, 9735 ] ], [ [ -22637, -19532, 3894 ], [ -3232, -4986, 649 ], [ 6749, 232652, 9735 ] ], [ [ -22637, -19532, 3894 ], [ -1934, -3688, 649 ], [ -139, 188, 15 ] ], [ [ -22637, -19532, 3894 ], [ -1934, -3688, 649 ], [ -109, 218, 15 ] ], [ [ -22637, -19532, 3894 ], [ -1934, -3688, 649 ], [ -12721, 213182, 9735 ] ], [ [ -22637, -19532, 3894 ], [ -1934, -3688, 649 ], [ 6749, 232652, 9735 ] ], [ [ -22637, -19532, 3894 ], [ -662, -1504, 649 ], [ -139, 188, 15 ] ], [ [ -22637, -19532, 3894 ], [ -662, -1504, 649 ], [ -109, 218, 15 ] ], [ [ -22637, -19532, 3894 ], [ -662, -1504, 649 ], [ -12721, 213182, 9735 ] ], [ [ -22637, -19532, 3894 ], [ -662, -1504, 649 ], [ 6749, 232652, 9735 ] ], [ [ -22637, -19532, 3894 ], [ 636, -206, 649 ], [ -139, 188, 15 ] ], [ [ -22637, -19532, 3894 ], [ 636, -206, 649 ], [ -79, 248, 15 ] ], [ [ -22637, -19532, 3894 ], [ 636, -206, 649 ], [ -32191, 193712, 9735 ] ], [ [ -22637, -19532, 3894 ], [ 636, -206, 649 ], [ 6749, 232652, 9735 ] ], [ [ -22637, -19532, 3894 ], [ 1934, 1092, 649 ], [ -109, 218, 15 ] ], [ [ -22637, -19532, 3894 ], [ 1934, 1092, 649 ], [ -79, 248, 15 ] ], [ [ -22637, -19532, 3894 ], [ 1934, 1092, 649 ], [ -32191, 193712, 9735 ] ], [ [ -22637, -19532, 3894 ], [ 1934, 1092, 649 ], [ -12721, 213182, 9735 ] ], [ [ -29, -20, 6 ], [ -53, -68, 6 ], [ -41, -44, 6 ] ], [ [ -29, -20, 6 ], [ -53, -68, 6 ], [ -29, -20, 6 ] ], [ [ -29, -20, 6 ], [ -3, -6, 1 ], [ -38, -38, 3 ] ], [ [ -29, -20, 6 ], [ -3, -6, 1 ], [ 1, 2, 1 ] ], [ [ -29, -20, 6 ], [ -2, -4, 1 ], [ -35, -32, 6 ] ], [ [ -29, -20, 6 ], [ -2, -4, 1 ], [ -62, 109, 15 ] ], [ [ -29, -20, 6 ], [ -2, -4, 1 ], [ -41731, 177332, 9735 ] ], [ [ -29, -20, 6 ], [ -2, -4, 1 ], [ 292210, 590779, 7788 ] ], [ [ -29, -20, 6 ], [ -1, -2, 1 ], [ -38, -38, 3 ] ], [ [ -29, -20, 6 ], [ -1, -2, 1 ], [ 1, 2, 1 ] ], [ [ -29, -20, 6 ], [ 29, 20, 6 ], [ -41, -44, 6 ] ], [ [ -29, -20, 6 ], [ 29, 20, 6 ], [ -29, -20, 6 ] ], [ [ -15005, -6428, 3894 ], [ -4530, -6284, 649 ], [ -109, 218, 15 ] ], [ [ -15005, -6428, 3894 ], [ -4530, -6284, 649 ], [ -79, 248, 15 ] ], [ [ -15005, -6428, 3894 ], [ -4530, -6284, 649 ], [ -32191, 193712, 9735 ] ], [ [ -15005, -6428, 3894 ], [ -4530, -6284, 649 ], [ -12721, 213182, 9735 ] ], [ [ -15005, -6428, 3894 ], [ -3232, -4986, 649 ], [ -139, 188, 15 ] ], [ [ -15005, -6428, 3894 ], [ -3232, -4986, 649 ], [ -79, 248, 15 ] ], [ [ -15005, -6428, 3894 ], [ -3232, -4986, 649 ], [ -32191, 193712, 9735 ] ], [ [ -15005, -6428, 3894 ], [ -3232, -4986, 649 ], [ 6749, 232652, 9735 ] ], [ [ -15005, -6428, 3894 ], [ -1934, -3688, 649 ], [ -139, 188, 15 ] ], [ [ -15005, -6428, 3894 ], [ -1934, -3688, 649 ], [ -109, 218, 15 ] ], [ [ -15005, -6428, 3894 ], [ -1934, -3688, 649 ], [ -12721, 213182, 9735 ] ], [ [ -15005, -6428, 3894 ], [ -1934, -3688, 649 ], [ 6749, 232652, 9735 ] ], [ [ -15005, -6428, 3894 ], [ -662, -1504, 649 ], [ -139, 188, 15 ] ], [ [ -15005, -6428, 3894 ], [ -662, -1504, 649 ], [ -109, 218, 15 ] ], [ [ -15005, -6428, 3894 ], [ -662, -1504, 649 ], [ -12721, 213182, 9735 ] ], [ [ -15005, -6428, 3894 ], [ -662, -1504, 649 ], [ 6749, 232652, 9735 ] ], [ [ -15005, -6428, 3894 ], [ 636, -206, 649 ], [ -139, 188, 15 ] ], [ [ -15005, -6428, 3894 ], [ 636, -206, 649 ], [ -79, 248, 15 ] ], [ [ -15005, -6428, 3894 ], [ 636, -206, 649 ], [ -32191, 193712, 9735 ] ], [ [ -15005, -6428, 3894 ], [ 636, -206, 649 ], [ 6749, 232652, 9735 ] ], [ [ -15005, -6428, 3894 ], [ 1934, 1092, 649 ], [ -109, 218, 15 ] ], [ [ -15005, -6428, 3894 ], [ 1934, 1092, 649 ], [ -79, 248, 15 ] ], [ [ -15005, -6428, 3894 ], [ 1934, 1092, 649 ], [ -32191, 193712, 9735 ] ], [ [ -15005, -6428, 3894 ], [ 1934, 1092, 649 ], [ -12721, 213182, 9735 ] ], [ [ -23, -8, 6 ], [ -47, -56, 6 ], [ -47, -56, 6 ] ], [ [ -23, -8, 6 ], [ -47, -56, 6 ], [ -23, -8, 6 ] ], [ [ -23, -8, 6 ], [ -4, -8, 1 ], [ -35, -32, 3 ] ], [ [ -23, -8, 6 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ -23, -8, 6 ], [ -35, -32, 6 ], [ -35, -32, 6 ] ], [ [ -23, -8, 6 ], [ -2, -4, 1 ], [ -29, -20, 3 ] ], [ [ -23, -8, 6 ], [ -2, -4, 1 ], [ -2, -4, 1 ] ], [ [ -23, -8, 6 ], [ 11, -16, 6 ], [ -35, -32, 6 ] ], [ [ -23, -8, 6 ], [ 0, 0, 1 ], [ -35, -32, 3 ] ], [ [ -23, -8, 6 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -23, -8, 6 ], [ 23, 8, 6 ], [ -47, -56, 6 ] ], [ [ -23, -8, 6 ], [ 23, 8, 6 ], [ -23, -8, 6 ] ], [ [ -1, -2, 1 ], [ -53, -68, 6 ], [ -41, -44, 6 ] ], [ [ -1, -2, 1 ], [ -53, -68, 6 ], [ -29, -20, 6 ] ], [ [ -1, -2, 1 ], [ -3, -6, 1 ], [ -38, -38, 3 ] ], [ [ -1, -2, 1 ], [ -3, -6, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ -1, -2, 1 ], [ -38, -38, 3 ] ], [ [ -1, -2, 1 ], [ -1, -2, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ 29, 20, 6 ], [ -41, -44, 6 ] ], [ [ -1, -2, 1 ], [ 29, 20, 6 ], [ -29, -20, 6 ] ], [ [ -17, 4, 6 ], [ -41, -44, 6 ], [ -41, -44, 6 ] ], [ [ -17, 4, 6 ], [ -41, -44, 6 ], [ -29, -20, 6 ] ], [ [ -17, 4, 6 ], [ -3, -6, 1 ], [ -32, -26, 3 ] ], [ [ -17, 4, 6 ], [ -3, -6, 1 ], [ -1, -2, 1 ] ], [ [ -17, 4, 6 ], [ -2, -4, 1 ], [ -35, -32, 6 ] ], [ [ -17, 4, 6 ], [ -2, -4, 1 ], [ -41731, 177332, 9735 ] ], [ [ -17, 4, 6 ], [ -1, -2, 1 ], [ -32, -26, 3 ] ], [ [ -17, 4, 6 ], [ -1, -2, 1 ], [ -1, -2, 1 ] ], [ [ -17, 4, 6 ], [ 17, -4, 6 ], [ -41, -44, 6 ] ], [ [ -17, 4, 6 ], [ 17, -4, 6 ], [ -29, -20, 6 ] ], [ [ -7217, 1360, 3894 ], [ -4530, -6284, 649 ], [ -79, 248, 15 ] ], [ [ -7217, 1360, 3894 ], [ -4530, -6284, 649 ], [ -32191, 193712, 9735 ] ], [ [ -7217, 1360, 3894 ], [ -1934, -3688, 649 ], [ -139, 188, 15 ] ], [ [ -7217, 1360, 3894 ], [ -1934, -3688, 649 ], [ -79, 248, 15 ] ], [ [ -7217, 1360, 3894 ], [ -1934, -3688, 649 ], [ -32191, 193712, 9735 ] ], [ [ -7217, 1360, 3894 ], [ -1934, -3688, 649 ], [ 6749, 232652, 9735 ] ], [ [ -7217, 1360, 3894 ], [ -662, -1504, 649 ], [ -139, 188, 15 ] ], [ [ -7217, 1360, 3894 ], [ -662, -1504, 649 ], [ -79, 248, 15 ] ], [ [ -7217, 1360, 3894 ], [ -662, -1504, 649 ], [ -32191, 193712, 9735 ] ], [ [ -7217, 1360, 3894 ], [ -662, -1504, 649 ], [ 6749, 232652, 9735 ] ], [ [ -7217, 1360, 3894 ], [ 1934, 1092, 649 ], [ -79, 248, 15 ] ], [ [ -7217, 1360, 3894 ], [ 1934, 1092, 649 ], [ -32191, 193712, 9735 ] ], [ [ 0, 0, 1 ], [ -47, -56, 6 ], [ -47, -56, 6 ] ], [ [ 0, 0, 1 ], [ -47, -56, 6 ], [ -23, -8, 6 ] ], [ [ 0, 0, 1 ], [ -4, -8, 1 ], [ -35, -32, 3 ] ], [ [ 0, 0, 1 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -35, -32, 3 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 23, 8, 6 ], [ -47, -56, 6 ] ], [ [ 0, 0, 1 ], [ 23, 8, 6 ], [ -23, -8, 6 ] ], [ [ 571, 9148, 3894 ], [ -3232, -4986, 649 ], [ -79, 248, 15 ] ], [ [ 571, 9148, 3894 ], [ -3232, -4986, 649 ], [ -32191, 193712, 9735 ] ], [ [ 571, 9148, 3894 ], [ -1934, -3688, 649 ], [ -109, 218, 15 ] ], [ [ 571, 9148, 3894 ], [ -1934, -3688, 649 ], [ -79, 248, 15 ] ], [ [ 571, 9148, 3894 ], [ -1934, -3688, 649 ], [ -32191, 193712, 9735 ] ], [ [ 571, 9148, 3894 ], [ -1934, -3688, 649 ], [ -12721, 213182, 9735 ] ], [ [ 571, 9148, 3894 ], [ -662, -1504, 649 ], [ -109, 218, 15 ] ], [ [ 571, 9148, 3894 ], [ -662, -1504, 649 ], [ -79, 248, 15 ] ], [ [ 571, 9148, 3894 ], [ -662, -1504, 649 ], [ -32191, 193712, 9735 ] ], [ [ 571, 9148, 3894 ], [ -662, -1504, 649 ], [ -12721, 213182, 9735 ] ], [ [ 571, 9148, 3894 ], [ 636, -206, 649 ], [ -79, 248, 15 ] ], [ [ 571, 9148, 3894 ], [ 636, -206, 649 ], [ -32191, 193712, 9735 ] ], [ [ 1, 2, 1 ], [ -41, -44, 6 ], [ -41, -44, 6 ] ], [ [ 1, 2, 1 ], [ -41, -44, 6 ], [ -29, -20, 6 ] ], [ [ 1, 2, 1 ], [ -3, -6, 1 ], [ -32, -26, 3 ] ], [ [ 1, 2, 1 ], [ -3, -6, 1 ], [ -1, -2, 1 ] ], [ [ 1, 2, 1 ], [ -1, -2, 1 ], [ -32, -26, 3 ] ], [ [ 1, 2, 1 ], [ -1, -2, 1 ], [ -1, -2, 1 ] ], [ [ 1, 2, 1 ], [ 17, -4, 6 ], [ -41, -44, 6 ] ], [ [ 1, 2, 1 ], [ 17, -4, 6 ], [ -29, -20, 6 ] ], [ [ 2, 4, 1 ], [ -35, -32, 6 ], [ -35, -32, 6 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ -29, -20, 3 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ -2, -4, 1 ] ], [ [ 2, 4, 1 ], [ 11, -16, 6 ], [ -35, -32, 6 ] ] ],
@@ -9580,13 +9580,17 @@
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
     </Hide>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-22" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-20" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-21" selectInputs="true"/>
@@ -9594,7 +9598,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-18" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-19" selectInputs="true"/>
@@ -9602,7 +9608,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-34" selectInputs="true"/>
@@ -9610,13 +9618,17 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-33" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-31" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-32" selectInputs="true"/>
@@ -9624,17 +9636,23 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-29" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-22" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-21" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-19" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-33" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-32" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-30" selectInputs="true"/>
@@ -9643,7 +9661,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-29" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-30" selectInputs="true"/>
@@ -9651,7 +9671,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-27" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-28" selectInputs="true"/>
@@ -9659,7 +9681,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-25" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-26" selectInputs="true"/>
@@ -9667,7 +9691,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-23" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-24" selectInputs="true"/>
@@ -9680,25 +9706,37 @@
     <DeselectAll/>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-34" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-28" selectInputs="true"/>
     <BookmarkTool name="tool-35"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-27" selectInputs="true"/>
     <BookmarkTool name="tool-36"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-19" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-30" selectInputs="true"/>
     <BookmarkTool name="tool-37"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-18" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-29" selectInputs="true"/>
     <BookmarkTool name="tool-38"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-21" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-32" selectInputs="true"/>
     <BookmarkTool name="tool-39"/>
@@ -9706,11 +9744,15 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-20" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-31" selectInputs="true"/>
     <BookmarkTool name="tool-40"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-22" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-33" selectInputs="true"/>
     <BookmarkTool name="tool-41"/>
@@ -9724,19 +9766,326 @@
     <ApplyTool copyColors="true" name="tool-26" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-23" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-24" selectInputs="true"/>
+    <BeginBlock/>
     <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-41" selectInputs="true"/>
+    <DeselectAll/>
+    <Snapshot id="0"/>
+    <ApplyTool copyColors="true" name="tool-40" selectInputs="true"/>
+    <Snapshot id="2"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="1"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-39" selectInputs="true"/>
+    <Snapshot id="3"/>
+    <DeselectAll/>
+    <Snapshot id="4"/>
+    <ApplyTool copyColors="true" name="tool-38" selectInputs="true"/>
+    <Snapshot id="6"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="5"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-37" selectInputs="true"/>
+    <Snapshot id="7"/>
+    <DeselectAll/>
+    <Snapshot id="8"/>
+    <ApplyTool copyColors="true" name="tool-36" selectInputs="true"/>
+    <Snapshot id="10"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="9"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-35" selectInputs="true"/>
+    <Snapshot id="11"/>
+    <DeselectAll/>
+    <Snapshot id="12"/>
+    <ApplyTool copyColors="true" name="tool-23" selectInputs="true"/>
+    <Snapshot id="14"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="13"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-24" selectInputs="true"/>
+    <Snapshot id="15"/>
+    <DeselectAll/>
+    <Snapshot id="16"/>
+    <ApplyTool copyColors="true" name="tool-23" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-24" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-25" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-35" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-37" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-39" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-41" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-25" selectInputs="true"/>
+    <Snapshot id="18"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="17"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-26" selectInputs="true"/>
+    <Snapshot id="19"/>
+    <DeselectAll/>
+    <Snapshot id="20"/>
+    <ApplyTool copyColors="true" name="tool-23" selectInputs="true"/>
+    <Snapshot id="22"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="21"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-24" selectInputs="true"/>
+    <Snapshot id="23"/>
+    <DeselectAll/>
+    <Snapshot id="24"/>
+    <Branch>
+      <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+      <DeselectAll/>
+      <Snapshot id="25"/>
+    </Branch>
+    <Branch>
+      <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+      <setItemColor blue="0" green="0" red="255"/>
+      <Snapshot id="26"/>
+    </Branch>
+    <Branch>
+      <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+      <setItemColor blue="0" green="255" red="0"/>
+      <Snapshot id="27"/>
+    </Branch>
+    <Branch>
+      <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+      <setItemColor blue="255" green="0" red="0"/>
+      <Snapshot id="28"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <Snapshot id="29"/>
   </EditHistory>
-  <notes/>
+  <notes>
+    <page snapshot="0" title="Step 0 24gb+24g 4b+8bg">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="1" title="0-1 12b+8gb+4g 4b+4bg+8y">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="2" title="0-1 x1">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="3" title="0-1 x2 x2">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="4" title="Step 1/5">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="5" title="1-2 8b+6gb+4g 8gb+4b+4bg">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="6" title="1-2 x1">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="7" title="1-2 x4 x2">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="8" title="Step 2/5">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="9" title="2-3 4b+2gb+6g 4gb+2b+4bg+8y">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="10" title="2-3 x1">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="11" title="2-3 x4 x4">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="12" title="Step 3/5">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="17" title="3-4 4gb+3b+8y">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="18" title="3-4 x1">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="19" title="3-4 x4">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="20" title="Step 4/5">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="21" title="4-5 4bg+8y">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="22" title="4-5 x1">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="23" title="4-5 x2">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="24" title="Step 5/5">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="26" title="Cubes">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="27" title="Rhombicuboctahedra">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="28" title="Truncated Octahedra">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="29" title="Hagonal Prisms">
+      <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+        <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
     <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
     <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="218.95790100097656" far="437.9166259765625" near="0.5473942756652832" parallel="false" stereoAngle="0.0" width="98.53108978271484">
+    <ViewModel distance="190.35284423828125" far="380.7063903808594" near="0.4758816063404083" parallel="false" stereoAngle="0.0" width="85.65879821777344">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="0.8991653323173523" y="0.30453988909721375" z="-0.31421658396720886"/>
-      <LookDirection x="-0.2801957428455353" y="0.9522548317909241" z="0.12111379951238632"/>
+      <UpDirection x="0.8660253882408142" y="0.46708619594573975" z="-0.17841103672981262"/>
+      <LookDirection x="-0.5" y="0.80901700258255" z="-0.30901700258255005"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
