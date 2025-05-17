@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="742" lastStickyEdit="742">
+  <EditHistory editNumber="745" lastStickyEdit="745">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -12748, -22733, 649 ], [ 6034, 15589, 649 ], [ -3026, -4767, 649 ] ], [ [ -12748, -22733, 649 ], [ 6034, 15589, 649 ], [ 430, 873, 649 ] ], [ [ -12748, -22733, 649 ], [ 8630, 19483, 649 ], [ -5622, -8661, 649 ] ], [ [ -12748, -22733, 649 ], [ 8630, 19483, 649 ], [ -3026, -4767, 649 ] ], [ [ -12748, -22733, 649 ], [ 8630, 19483, 649 ], [ 430, 873, 649 ] ], [ [ -12748, -22733, 649 ], [ 8630, 19483, 649 ], [ 3026, 4767, 649 ] ], [ [ -12748, -22733, 649 ], [ 12086, 25123, 649 ], [ -5622, -8661, 649 ] ], [ [ -12748, -22733, 649 ], [ 12086, 25123, 649 ], [ -3026, -4767, 649 ] ], [ [ -12748, -22733, 649 ], [ 12086, 25123, 649 ], [ 430, 873, 649 ] ], [ [ -12748, -22733, 649 ], [ 12086, 25123, 649 ], [ 3026, 4767, 649 ] ], [ [ -12748, -22733, 649 ], [ 14682, 29017, 649 ], [ -3026, -4767, 649 ] ], [ [ -12748, -22733, 649 ], [ 14682, 29017, 649 ], [ 430, 873, 649 ] ], [ [ -10152, -18839, 649 ], [ 6034, 15589, 649 ], [ -5622, -8661, 649 ] ], [ [ -10152, -18839, 649 ], [ 6034, 15589, 649 ], [ -3026, -4767, 649 ] ], [ [ -10152, -18839, 649 ], [ 6034, 15589, 649 ], [ 430, 873, 649 ] ], [ [ -10152, -18839, 649 ], [ 6034, 15589, 649 ], [ 3026, 4767, 649 ] ], [ [ -10152, -18839, 649 ], [ 8630, 19483, 649 ], [ -5622, -8661, 649 ] ], [ [ -10152, -18839, 649 ], [ 8630, 19483, 649 ], [ 3026, 4767, 649 ] ], [ [ -10152, -18839, 649 ], [ 12086, 25123, 649 ], [ -5622, -8661, 649 ] ], [ [ -10152, -18839, 649 ], [ 12086, 25123, 649 ], [ 3026, 4767, 649 ] ], [ [ -10152, -18839, 649 ], [ 14682, 29017, 649 ], [ -5622, -8661, 649 ] ], [ [ -10152, -18839, 649 ], [ 14682, 29017, 649 ], [ -3026, -4767, 649 ] ], [ [ -10152, -18839, 649 ], [ 14682, 29017, 649 ], [ 430, 873, 649 ] ], [ [ -10152, -18839, 649 ], [ 14682, 29017, 649 ], [ 3026, 4767, 649 ] ], [ [ -8424, -16019, 649 ], [ 10358, 22303, 649 ], [ -2, -3, 1 ] ], [ [ -14, -21, 1 ], [ -2, -3, 1 ], [ -2, -3, 1 ] ], [ [ -14, -21, 1 ], [ 2, 3, 1 ], [ -6, -9, 1 ] ], [ [ -14, -21, 1 ], [ 2, 3, 1 ], [ -2, -3, 1 ] ], [ [ -14, -21, 1 ], [ 2, 3, 1 ], [ 2, 3, 1 ] ], [ [ -14, -21, 1 ], [ 6, 9, 1 ], [ -2, -3, 1 ] ], [ [ -6696, -13199, 649 ], [ 6034, 15589, 649 ], [ -5622, -8661, 649 ] ], [ [ -6696, -13199, 649 ], [ 6034, 15589, 649 ], [ -3026, -4767, 649 ] ], [ [ -6696, -13199, 649 ], [ 6034, 15589, 649 ], [ 430, 873, 649 ] ], [ [ -6696, -13199, 649 ], [ 6034, 15589, 649 ], [ 3026, 4767, 649 ] ], [ [ -6696, -13199, 649 ], [ 8630, 19483, 649 ], [ -5622, -8661, 649 ] ], [ [ -6696, -13199, 649 ], [ 8630, 19483, 649 ], [ 3026, 4767, 649 ] ], [ [ -6696, -13199, 649 ], [ 12086, 25123, 649 ], [ -5622, -8661, 649 ] ], [ [ -6696, -13199, 649 ], [ 12086, 25123, 649 ], [ 3026, 4767, 649 ] ], [ [ -6696, -13199, 649 ], [ 14682, 29017, 649 ], [ -5622, -8661, 649 ] ], [ [ -6696, -13199, 649 ], [ 14682, 29017, 649 ], [ -3026, -4767, 649 ] ], [ [ -6696, -13199, 649 ], [ 14682, 29017, 649 ], [ 430, 873, 649 ] ], [ [ -6696, -13199, 649 ], [ 14682, 29017, 649 ], [ 3026, 4767, 649 ] ], [ [ -12, -18, 1 ], [ -4, -6, 1 ], [ -4, -6, 1 ] ], [ [ -12, -18, 1 ], [ -4, -6, 1 ], [ 0, 0, 1 ] ], [ [ -12, -18, 1 ], [ 0, 0, 1 ], [ -8, -12, 1 ] ], [ [ -12, -18, 1 ], [ 0, 0, 1 ], [ -4, -6, 1 ] ], [ [ -12, -18, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -12, -18, 1 ], [ 0, 0, 1 ], [ 4, 6, 1 ] ], [ [ -12, -18, 1 ], [ 4, 6, 1 ], [ -8, -12, 1 ] ], [ [ -12, -18, 1 ], [ 4, 6, 1 ], [ -4, -6, 1 ] ], [ [ -12, -18, 1 ], [ 4, 6, 1 ], [ 0, 0, 1 ] ], [ [ -12, -18, 1 ], [ 4, 6, 1 ], [ 4, 6, 1 ] ], [ [ -12, -18, 1 ], [ 8, 12, 1 ], [ -4, -6, 1 ] ], [ [ -12, -18, 1 ], [ 8, 12, 1 ], [ 0, 0, 1 ] ], [ [ -12752, -22397, 1298 ], [ 6262, 12662, 649 ], [ -2, -3, 1 ] ], [ [ -10, -15, 1 ], [ -6, -9, 1 ], [ -2, -3, 1 ] ], [ [ -10, -15, 1 ], [ 2, 3, 1 ], [ -10, -15, 1 ] ], [ [ -10, -15, 1 ], [ 2, 3, 1 ], [ -2, -3, 1 ] ], [ [ -10, -15, 1 ], [ 2, 3, 1 ], [ 6, 9, 1 ] ], [ [ -10, -15, 1 ], [ 10, 15, 1 ], [ -2, -3, 1 ] ], [ [ -3335, -9963, 649 ], [ 180, 10191, 649 ], [ -2, -3, 1 ] ], [ [ -4100, -9305, 649 ], [ 6034, 15589, 649 ], [ -3026, -4767, 649 ] ], [ [ -4100, -9305, 649 ], [ 6034, 15589, 649 ], [ 430, 873, 649 ] ], [ [ -4100, -9305, 649 ], [ 8630, 19483, 649 ], [ -5622, -8661, 649 ] ], [ [ -4100, -9305, 649 ], [ 8630, 19483, 649 ], [ -3026, -4767, 649 ] ], [ [ -4100, -9305, 649 ], [ 8630, 19483, 649 ], [ 430, 873, 649 ] ], [ [ -4100, -9305, 649 ], [ 8630, 19483, 649 ], [ 3026, 4767, 649 ] ], [ [ -4100, -9305, 649 ], [ 12086, 25123, 649 ], [ -5622, -8661, 649 ] ], [ [ -4100, -9305, 649 ], [ 12086, 25123, 649 ], [ -3026, -4767, 649 ] ], [ [ -4100, -9305, 649 ], [ 12086, 25123, 649 ], [ 430, 873, 649 ] ], [ [ -4100, -9305, 649 ], [ 12086, 25123, 649 ], [ 3026, 4767, 649 ] ], [ [ -4100, -9305, 649 ], [ 14682, 29017, 649 ], [ -3026, -4767, 649 ] ], [ [ -4100, -9305, 649 ], [ 14682, 29017, 649 ], [ 430, 873, 649 ] ], [ [ -8, -12, 1 ], [ -4, -6, 1 ], [ -8, -12, 1 ] ], [ [ -8, -12, 1 ], [ -4, -6, 1 ], [ -4, -6, 1 ] ], [ [ -8, -12, 1 ], [ -4, -6, 1 ], [ 0, 0, 1 ] ], [ [ -8, -12, 1 ], [ -4, -6, 1 ], [ 4, 6, 1 ] ], [ [ -8, -12, 1 ], [ 0, 0, 1 ], [ -8, -12, 1 ] ], [ [ -8, -12, 1 ], [ 0, 0, 1 ], [ 4, 6, 1 ] ], [ [ -8, -12, 1 ], [ 4, 6, 1 ], [ -8, -12, 1 ] ], [ [ -8, -12, 1 ], [ 4, 6, 1 ], [ 4, 6, 1 ] ], [ [ -8, -12, 1 ], [ 8, 12, 1 ], [ -8, -12, 1 ] ], [ [ -8, -12, 1 ], [ 8, 12, 1 ], [ -4, -6, 1 ] ], [ [ -8, -12, 1 ], [ 8, 12, 1 ], [ 0, 0, 1 ] ], [ [ -8, -12, 1 ], [ 8, 12, 1 ], [ 4, 6, 1 ] ], [ [ -6, -9, 1 ], [ -6, -9, 1 ], [ -6, -9, 1 ] ], [ [ -6, -9, 1 ], [ -6, -9, 1 ], [ -2, -3, 1 ] ], [ [ -6, -9, 1 ], [ -6, -9, 1 ], [ 2, 3, 1 ] ], [ [ -6, -9, 1 ], [ -2, -3, 1 ], [ -10, -15, 1 ] ], [ [ -6, -9, 1 ], [ -2, -3, 1 ], [ -2, -3, 1 ] ], [ [ -6, -9, 1 ], [ -2, -3, 1 ], [ 6, 9, 1 ] ], [ [ -6, -9, 1 ], [ 2, 3, 1 ], [ -10, -15, 1 ] ], [ [ -6, -9, 1 ], [ 2, 3, 1 ], [ -6, -9, 1 ] ], [ [ -6, -9, 1 ], [ 2, 3, 1 ], [ -2, -3, 1 ] ], [ [ -6, -9, 1 ], [ 2, 3, 1 ], [ 2, 3, 1 ] ], [ [ -6, -9, 1 ], [ 2, 3, 1 ], [ 6, 9, 1 ] ], [ [ -6, -9, 1 ], [ 6, 9, 1 ], [ -10, -15, 1 ] ], [ [ -6, -9, 1 ], [ 6, 9, 1 ], [ -2, -3, 1 ] ], [ [ -6, -9, 1 ], [ 6, 9, 1 ], [ 6, 9, 1 ] ], [ [ -6, -9, 1 ], [ 10, 15, 1 ], [ -6, -9, 1 ] ], [ [ -6, -9, 1 ], [ 10, 15, 1 ], [ -2, -3, 1 ] ], [ [ -6, -9, 1 ], [ 10, 15, 1 ], [ 2, 3, 1 ] ], [ [ -4, -6, 1 ], [ -4, -6, 1 ], [ -8, -12, 1 ] ], [ [ -4, -6, 1 ], [ -4, -6, 1 ], [ -4, -6, 1 ] ], [ [ -4, -6, 1 ], [ -4, -6, 1 ], [ 0, 0, 1 ] ], [ [ -4, -6, 1 ], [ -4, -6, 1 ], [ 4, 6, 1 ] ], [ [ -4, -6, 1 ], [ 0, 0, 1 ], [ -8, -12, 1 ] ], [ [ -4, -6, 1 ], [ 0, 0, 1 ], [ 4, 6, 1 ] ], [ [ -4, -6, 1 ], [ 4, 6, 1 ], [ -8, -12, 1 ] ], [ [ -4, -6, 1 ], [ 4, 6, 1 ], [ 4, 6, 1 ] ], [ [ -4, -6, 1 ], [ 8, 12, 1 ], [ -8, -12, 1 ] ], [ [ -4, -6, 1 ], [ 8, 12, 1 ], [ -4, -6, 1 ] ], [ [ -4, -6, 1 ], [ 8, 12, 1 ], [ 0, 0, 1 ] ], [ [ -4, -6, 1 ], [ 8, 12, 1 ], [ 4, 6, 1 ] ], [ [ -2, -3, 1 ], [ -6, -9, 1 ], [ -2, -3, 1 ] ], [ [ -2, -3, 1 ], [ 2, 3, 1 ], [ -10, -15, 1 ] ], [ [ -2, -3, 1 ], [ 2, 3, 1 ], [ -2, -3, 1 ] ], [ [ -2, -3, 1 ], [ 2, 3, 1 ], [ 6, 9, 1 ] ], [ [ -2, -3, 1 ], [ 10, 15, 1 ], [ -2, -3, 1 ] ], [ [ 0, 0, 1 ], [ -4, -6, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ -4, -6, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -8, -12, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 4, 6, 1 ] ], [ [ 0, 0, 1 ], [ 4, 6, 1 ], [ -8, -12, 1 ] ], [ [ 0, 0, 1 ], [ 4, 6, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ 4, 6, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 4, 6, 1 ], [ 4, 6, 1 ] ], [ [ 0, 0, 1 ], [ 8, 12, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ 8, 12, 1 ], [ 0, 0, 1 ] ], [ [ 2, 3, 1 ], [ -2, -3, 1 ], [ -2, -3, 1 ] ], [ [ 2, 3, 1 ], [ 2, 3, 1 ], [ -6, -9, 1 ] ], [ [ 2, 3, 1 ], [ 2, 3, 1 ], [ -2, -3, 1 ] ], [ [ 2, 3, 1 ], [ 2, 3, 1 ], [ 2, 3, 1 ] ], [ [ 2, 3, 1 ], [ 6, 9, 1 ], [ -2, -3, 1 ] ] ],
@@ -5998,14 +5998,18 @@
     <SelectAll originLast="true"/>
     <EndBlock/>
     <Branch>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="0"/>
     </Branch>
     <BeginBlock/>
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-38" selectInputs="true"/>
     <DeselectAll/>
     <Snapshot id="1"/>
@@ -6013,7 +6017,9 @@
     <Snapshot id="3"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="2"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-36" selectInputs="true"/>
@@ -6023,7 +6029,9 @@
     <ApplyTool copyColors="true" name="tool-35" selectInputs="true"/>
     <InvertSelection/>
     <Branch>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="6"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-34" selectInputs="true"/>
@@ -6033,16 +6041,22 @@
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-36" selectInputs="true"/>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-38" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-37" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-37" selectInputs="true"/>
     <InvertSelection/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-37" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -6052,17 +6066,25 @@
     <SelectNeighbors/>
     <InvertSelection/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-35" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation endSegment="1184/649 6821/1298 -1070/649 -4874/649 2 3" startSegment="-1412/649 -967/1298 -3666/649 -8768/649 2 3"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-33" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -6073,16 +6095,24 @@
     <SelectNeighbors/>
     <InvertSelection/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-23" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-24" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-21" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-22" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-38" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-36" selectInputs="true"/>
     <DeselectAll/>
@@ -6090,7 +6120,9 @@
     <Snapshot id="8"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="7"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-34" selectInputs="true"/>
@@ -6101,7 +6133,9 @@
     <Snapshot id="12"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="11"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-32" selectInputs="true"/>
@@ -6112,7 +6146,9 @@
     <Snapshot id="16"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="15"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-24" selectInputs="true"/>
@@ -6123,12 +6159,16 @@
     <Snapshot id="20"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="19"/>
     </Branch>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="21"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-22" selectInputs="true"/>
@@ -6162,6 +6202,9 @@
     <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
     <setItemColor blue="0" green="0" red="255"/>
     <Snapshot id="26"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <Hide/>
+    <Snapshot id="27"/>
   </EditHistory>
   <notes>
     <page snapshot="1" title="Step 0 24gb+24g2 12g">
@@ -6349,6 +6392,14 @@
       <content xml:space="preserve"/>
     </page>
     <page snapshot="26" title="Triangular Prisms">
+      <ViewModel distance="320.1787414550781" far="640.3571166992188" near="0.800446629524231" parallel="false" stereoAngle="0.0" width="144.0803985595703">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.5676295161247253" y="-0.41510719060897827" z="0.7109754085540771"/>
+        <LookDirection x="0.49505722522735596" y="0.5179098844528198" z="0.6976380348205566"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="27" title="">
       <ViewModel distance="320.1787414550781" far="640.3571166992188" near="0.800446629524231" parallel="false" stereoAngle="0.0" width="144.0803985595703">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.5676295161247253" y="-0.41510719060897827" z="0.7109754085540771"/>
