@@ -25,14 +25,10 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
 <li>cantitruncated tesseract centered on a truncated tetrahedron
 <li>runcitruncated tesseract centered on a cuboctahedron
 <li>omnitruncated tesseract centered on a truncated octahedron
-</ul>
-</div>
 
 <div>An additional projection can be build exactly with Zometool, using blue, green, yellow and <b>blue</b>(-length)<b>-green</b>(-orbit) struts:
 <ul>
 <li>omnitruncated tesseract centered on a rhombitrucated cuboctahedron
-</ul>
-</div>
 
 <div>Some projections can also be build with Zometool, if <b>green</b>(-length)<b>-blue</b>(-orbit) struts are available:
 <ul>
@@ -42,16 +38,12 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
 <li>runcitruncated tesseract centered on a truncated cube
 <li>omnitruncated tesseract centered on a octagonal prism
 <li>prismarombated tesseract centered on a rhombicuboctahedron
-</ul>
-</div>
 
 <div>The remaining projections require both blue-green and green-blue struts for an exact Zometool build:
 <ul>
 <li>truncated tesseract centered on a tetrahedron
 <li>runcitruncated tesseract centered on a octagonal prism
 <li>prismarombated tesseract centered on a cube
-</ul>
-</div>
 
 <p>The following vZome models show the building instructions for each of these projections. Additional scenes emphasize the cells of a specific type. Here, the number of cells is sometimes limited if it enhances the visual interpretation of the model.
 
