@@ -25,11 +25,13 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
 <li>cantitruncated tesseract centered on a truncated tetrahedron
 <li>runcitruncated tesseract centered on a cuboctahedron
 <li>omnitruncated tesseract centered on a truncated octahedron
+</ul>
 </div>
 
-<div>An additional projection can be build exactly with Zometool, using blue, green, yellow and <b>blue</b>(-length)<b>-green/<b>(-orbit) struts:
+<div>An additional projection can be build exactly with Zometool, using blue, green, yellow and <b>blue</b>(-length)<b>-green</b>(-orbit) struts:
 <ul>
 <li>omnitruncated tesseract centered on a rhombitrucated cuboctahedron
+</ul>
 </div>
 
 <div>Some projections can also be build with Zometool, if <b>green</b>(-length)<b>-blue</b>(-orbit) struts are available:
@@ -40,6 +42,7 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
 <li>runcitruncated tesseract centered on a truncated cube
 <li>omnitruncated tesseract centered on a octagonal prism
 <li>prismarombated tesseract centered on a rhombicuboctahedron
+</ul>
 </div>
 
 <div>The remaining projections require both blue-green and green-blue struts for an exact Zometool build:
@@ -47,6 +50,7 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
 <li>truncated tesseract centered on a tetrahedron
 <li>runcitruncated tesseract centered on a octagonal prism
 <li>prismarombated tesseract centered on a cube
+</ul>
 </div>
 
 <p>The following vZome models show the building instructions for each of these projections. Additional scenes emphasize the cells of a specific type. Here, the number of cells is sometimes limited if it enhances the visual interpretation of the model.
@@ -59,7 +63,7 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
         src="https://joris1724.github.io/vzome-sharing/2025/05/13/17-42-31-Tesseract-Truncations/Tesseract-Truncations-rit.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Projections of Rectified Tesseract
+    Rectified Tesseract
   </figcaption>
 </figure>
  
@@ -71,7 +75,7 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
         src="https://joris1724.github.io/vzome-sharing/2025/05/13/17-42-31-Tesseract-Truncations/Tesseract-Truncations-tat.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Projections of Truncated Tesseract
+    Truncated Tesseract
   </figcaption>
 </figure>
  
@@ -83,7 +87,7 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
         src="https://joris1724.github.io/vzome-sharing/2025/05/13/17-42-31-Tesseract-Truncations/Tesseract-Truncations-srit.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Projections of Cantellated Tesseract
+    Cantellated Tesseract
   </figcaption>
 </figure>
  
@@ -95,7 +99,7 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
         src="https://joris1724.github.io/vzome-sharing/2025/05/13/17-42-31-Tesseract-Truncations/Tesseract-Truncations-sidpith.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Projections of Runcinated Tesseract
+    Runcinated Tesseract (Runcinated Hexadecachoron)
   </figcaption>
 </figure>
  
@@ -107,7 +111,7 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
         src="https://joris1724.github.io/vzome-sharing/2025/05/13/17-42-31-Tesseract-Truncations/Tesseract-Truncations-tah.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Projections of Bitrunctated Tesseract
+    Bitrunctated Tesseract  (Bitrunctated Hexadecachoron)
   </figcaption>
 </figure>
  
@@ -119,7 +123,7 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
         src="https://joris1724.github.io/vzome-sharing/2025/05/13/17-42-31-Tesseract-Truncations/Tesseract-Truncations-grit.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Projections of Cantitruncated Tesseract
+    Cantitruncated Tesseract
   </figcaption>
 </figure>
  
@@ -131,7 +135,7 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
         src="https://joris1724.github.io/vzome-sharing/2025/05/13/17-42-31-Tesseract-Truncations/Tesseract-Truncations-proh.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Projections of Runcitruncated Tesseract
+    Runcitruncated Tesseract (Prismatorhombated Hexadecachoron)
   </figcaption>
 </figure>
  
@@ -143,7 +147,7 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
         src="https://joris1724.github.io/vzome-sharing/2025/05/13/17-42-31-Tesseract-Truncations/Tesseract-Truncations-gidpith.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Projections of Omnitruncated Tesseract
+    Omnitruncated Tesseract (Omnitruncated Hexadecachoron)
   </figcaption>
 </figure>
  
@@ -155,6 +159,6 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
         src="https://joris1724.github.io/vzome-sharing/2025/05/13/17-42-31-Tesseract-Truncations/Tesseract-Truncations-prit.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Projections of Prismarombated Tesseract
+    Prismatorhombated Tesseract (Runcitruncated Hexadecachoron)
   </figcaption>
 </figure>
