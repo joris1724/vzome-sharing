@@ -1,7 +1,7 @@
 ---
 title: Icositetrachoron Truncations
 description: Several projections of truncations of an icositetrachoron can be build with Zometool, depending on which cell type the projection is centered on. Often blue-green and/or green-blue scaled struts are needed.
-image: https://joris1724.github.io/vzome-sharing/2025/05/17/10-26-45-Icositetrachoron-Truncations/Icositetrachoron-Truncations-gippic.png
+image: https://joris1724.github.io/vzome-sharing/2025/05/17/10-26-45-Icositetrachoron-Truncations/Icositetrachoron-Truncations-dindi.png
 published: false
 layout: vzome
 tags: [polychora]
@@ -13,15 +13,30 @@ tags: [polychora]
  
 {% endcomment %}
 
-vZome's <i>Generate Polytope</i> tool quickly generates the projections of several truncations of a Icositetrachoron. Each of these is centered on a predefined cell type. This post shows that centering on other cell types produces additional projections, some of which can nicely be build with Zometool. As soon as &radic;2 scaling factors are needed, the corresponding vZome models are approximations.
+vZome's <i>Generate Polytope</i> tool quickly generates the projections of several truncations of an Icositetrachoron. Each of these is centered on a predefined cell type. This post shows that for six of them, centering on another cell type produces one additional projection which can be build with Zometool. As soon as &radic;2 scaling factors are needed, the corresponding vZome models are approximations. 
 
 <p>Some projections can be modelled exactly in vZome's golden field, and can be build with Zometool blue, (half-)green and yellow struts only:
+<br>-&nbsp;rectified icositetrachoron centered on a cube
+<br>-&nbsp;rectified icositetrachoron centered on a cuboctahedron
+<br>-&nbsp;truncated icositetrachoron centered on a cube
+<br>-&nbsp;cantellated icositetrachoron centered on a cuboctahedron
+<br>-&nbsp;runcinated icositetrachoron centered on a truncated octahedron
 
-<p>An additional projection can be build exactly with Zometool, using blue, green, yellow and <b>blue</b>(-length)<b>-green</b>(-orbit) struts:
+<p>Two projections can also be build with Zometool, using blue, green, yellow and <b>blue</b>(-length)<b>-green</b>(-orbit) struts:
+<br>-&nbsp;truncated icositetrachoron centered on a cube
+<br>-&nbsp;cantitruncated icositetrachoron centered on a octahedron
 
-<p>Some projections can also be build with Zometool, if <b>green</b>(-length)<b>-blue</b>(-orbit) struts are available:
+<p>An additional projection can be build exactly with Zometool, if <b>green</b>(-length)<b>-blue</b>(-orbit) struts are available:
+<br>-&nbsp;rectified icositetrachoron centered on a truncated cube
 
 <p>The remaining projections require both blue-green and green-blue struts for an exact Zometool build:
+<br>-&nbsp;cantellated icositetrachoron centered on a octagonal prism
+<br>-&nbsp;cantitruncated icositetrachoron centered on a rhombitruncated cuboctahedron
+<br>-&nbsp;runcitruncated icositetrachoron centered on a rhombicuboctahedron
+<br>-&nbsp;runcitruncated icositetrachoron centered on a truncated octahedron
+<br>-&nbsp;omnitruncated icositetrachoron centered on a rhombitruncated cuboctahedron
+<br>-&nbsp;disicositetrintercepted disicositetrachoron centered on a cuboctahedron
+<br>-&nbsp;disicositetrintercepted disicositetrachoron centered on a rhombicuboctahedron
 
 <p>The following vZome models show the building instructions for each of these projections. Additional scenes emphasize the cells of a specific type. Here, the number of cells is sometimes limited if it enhances the visual interpretation of the model.
 
@@ -118,5 +133,17 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
     Omnitruncated Icositetrachoron
+  </figcaption>
+</figure>
+ 
+<figure style="width: 87%; margin: 5%">
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='dindi'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='dindi'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='dindi'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='dindi'></vzome-viewer-end></div></div>
+  <vzome-viewer id='dindi' style="width: 100%; height: 60dvh" indexed='true'
+        src="https://joris1724.github.io/vzome-sharing/2025/05/17/10-26-45-Icositetrachoron-Truncations/Icositetrachoron-Truncations-dindi.vZome" >
+    <img  style="width: 100%"
+        src="https://joris1724.github.io/vzome-sharing/2025/05/17/10-26-45-Icositetrachoron-Truncations/Icositetrachoron-Truncations-dindi.png" >
+  </vzome-viewer>
+  <figcaption style="text-align: center; font-style: italic;">
+    Disicositetrintercepted Disicositetrachoron
   </figcaption>
 </figure>
