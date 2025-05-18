@@ -9,28 +9,28 @@
     "color" : "#F2F2F2"
   }, {
     "vertex" : 50,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 81,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 47,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 40,
     "color" : "#FF0000"
   }, {
     "vertex" : 14,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 55,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 32,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 89,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 20,
     "color" : "#FF0000"
@@ -39,31 +39,31 @@
     "color" : "#F2F2F2"
   }, {
     "vertex" : 16,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 92,
     "color" : "#00FF00"
   }, {
     "vertex" : 54,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 39,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 79,
     "color" : "#00FF00"
   }, {
     "vertex" : 2,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 48,
     "color" : "#F2F2F2"
   }, {
     "vertex" : 35,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 64,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 37,
     "color" : "#FF0000"
@@ -78,19 +78,19 @@
     "color" : "#F2F2F2"
   }, {
     "vertex" : 38,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 86,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 84,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 99,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 18,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 15,
     "color" : "#FF0000"
@@ -102,43 +102,43 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 72,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 43,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 82,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 58,
     "color" : "#00FF00"
   }, {
     "vertex" : 51,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 23,
     "color" : "#FF0000"
   }, {
     "vertex" : 3,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 90,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 63,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 1,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 76,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 70,
     "color" : "#FF0000"
   }, {
     "vertex" : 97,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 66,
     "color" : "#FF0000"
@@ -147,10 +147,10 @@
     "color" : "#00FF00"
   }, {
     "vertex" : 17,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 46,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 67,
     "color" : "#FF0000"
@@ -165,13 +165,13 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 56,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 85,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 59,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 7,
     "color" : "#FF0000"
@@ -192,34 +192,34 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 68,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 74,
     "color" : "#F2F2F2"
   }, {
     "vertex" : 11,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 83,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 29,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 61,
     "color" : "#00FF00"
   }, {
     "vertex" : 96,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 0,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 27,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 71,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 12,
     "color" : "#FF0000"
@@ -228,49 +228,49 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 5,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 91,
     "color" : "#00FF00"
   }, {
     "vertex" : 8,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 93,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 65,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 36,
     "color" : "#FF0000"
   }, {
     "vertex" : 28,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 94,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 31,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 26,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 41,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 88,
     "color" : "#00FF00"
   }, {
     "vertex" : 22,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 30,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 25,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 77,
     "color" : "#FF0000"
@@ -282,28 +282,28 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 60,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 42,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 80,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 9,
     "color" : "#FF0000"
   }, {
     "vertex" : 52,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 98,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 95,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 21,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   } ],
   "struts" : [ {
     "vertices" : [ 33, 6 ],
@@ -1319,28 +1319,28 @@
     "color" : "#F2F2F2"
   }, {
     "vertex" : 50,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 81,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 47,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 40,
     "color" : "#FF0000"
   }, {
     "vertex" : 14,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 55,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 32,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 89,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 20,
     "color" : "#FF0000"
@@ -1349,31 +1349,31 @@
     "color" : "#F2F2F2"
   }, {
     "vertex" : 16,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 92,
     "color" : "#00FF00"
   }, {
     "vertex" : 54,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 39,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 79,
     "color" : "#00FF00"
   }, {
     "vertex" : 2,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 48,
     "color" : "#F2F2F2"
   }, {
     "vertex" : 35,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 64,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 37,
     "color" : "#FF0000"
@@ -1388,19 +1388,19 @@
     "color" : "#F2F2F2"
   }, {
     "vertex" : 38,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 86,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 84,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 99,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 18,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 15,
     "color" : "#FF0000"
@@ -1412,43 +1412,43 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 72,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 43,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 82,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 58,
     "color" : "#00FF00"
   }, {
     "vertex" : 51,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 23,
     "color" : "#FF0000"
   }, {
     "vertex" : 3,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 90,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 63,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 1,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 76,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 70,
     "color" : "#FF0000"
   }, {
     "vertex" : 97,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 66,
     "color" : "#FF0000"
@@ -1457,10 +1457,10 @@
     "color" : "#00FF00"
   }, {
     "vertex" : 17,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 46,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 67,
     "color" : "#FF0000"
@@ -1475,13 +1475,13 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 56,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 85,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 59,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 7,
     "color" : "#FF0000"
@@ -1502,34 +1502,34 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 68,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 74,
     "color" : "#F2F2F2"
   }, {
     "vertex" : 11,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 83,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 29,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 61,
     "color" : "#00FF00"
   }, {
     "vertex" : 96,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 0,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 27,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 71,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 12,
     "color" : "#FF0000"
@@ -1538,49 +1538,49 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 5,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 91,
     "color" : "#00FF00"
   }, {
     "vertex" : 8,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 93,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 65,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 36,
     "color" : "#FF0000"
   }, {
     "vertex" : 28,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 94,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 31,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 26,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 41,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 88,
     "color" : "#00FF00"
   }, {
     "vertex" : 22,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 30,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 25,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 77,
     "color" : "#FF0000"
@@ -1592,28 +1592,28 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 60,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 42,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 80,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 9,
     "color" : "#FF0000"
   }, {
     "vertex" : 52,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 98,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 95,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 21,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   } ],
   "struts" : [ {
     "vertices" : [ 33, 6 ],
@@ -2448,103 +2448,103 @@
     "color" : "#FFB31A"
   } ],
   "panels" : [
-  { "color" : "#FFFF00", "vertices" : [ 1, 0, 2 ] }
-, { "color" : "#FFFF00", "vertices" : [ 1, 0, 4, 5 ] }
-, { "color" : "#FFFF00", "vertices" : [ 11, 14, 15 ] }
-, { "color" : "#FFFF00", "vertices" : [ 11, 20, 23, 14 ] }
-, { "color" : "#FFFF00", "vertices" : [ 11, 21, 25, 15 ] }
-, { "color" : "#FFFF00", "vertices" : [ 14, 2, 3, 15 ] }
-, { "color" : "#FFFF00", "vertices" : [ 14, 23, 49, 35 ] }
-, { "color" : "#FFFF00", "vertices" : [ 14, 35, 11 ] }
-, { "color" : "#FFFF00", "vertices" : [ 14, 35, 15 ] }
-, { "color" : "#FFFF00", "vertices" : [ 15, 11, 1, 3 ] }
-, { "color" : "#FFFF00", "vertices" : [ 15, 14, 26, 27 ] }
-, { "color" : "#FFFF00", "vertices" : [ 15, 35, 50, 25 ] }
-, { "color" : "#FFFF00", "vertices" : [ 17, 16, 4, 5 ] }
-, { "color" : "#FFFF00", "vertices" : [ 17, 42, 41 ] }
-, { "color" : "#FFFF00", "vertices" : [ 2, 0, 4, 8 ] }
-, { "color" : "#FFFF00", "vertices" : [ 2, 3, 1 ] }
-, { "color" : "#FFFF00", "vertices" : [ 21, 25, 50 ] }
-, { "color" : "#FFFF00", "vertices" : [ 22, 18, 4, 8 ] }
-, { "color" : "#FFFF00", "vertices" : [ 22, 18, 43 ] }
-, { "color" : "#FFFF00", "vertices" : [ 26, 51, 52 ] }
-, { "color" : "#FFFF00", "vertices" : [ 28, 56, 60, 30 ] }
-, { "color" : "#FFFF00", "vertices" : [ 28, 57, 54 ] }
-, { "color" : "#FFFF00", "vertices" : [ 29, 58, 55 ] }
-, { "color" : "#FFFF00", "vertices" : [ 30, 61, 64 ] }
-, { "color" : "#FFFF00", "vertices" : [ 31, 62, 65 ] }
-, { "color" : "#FFFF00", "vertices" : [ 31, 63, 59, 29 ] }
-, { "color" : "#FFFF00", "vertices" : [ 32, 44, 23, 8 ] }
-, { "color" : "#FFFF00", "vertices" : [ 32, 8, 5 ] }
-, { "color" : "#FFFF00", "vertices" : [ 35, 11, 15 ] }
-, { "color" : "#FFFF00", "vertices" : [ 35, 49, 20, 11 ] }
-, { "color" : "#FFFF00", "vertices" : [ 35, 52, 27, 15 ] }
-, { "color" : "#FFFF00", "vertices" : [ 38, 17, 42, 69 ] }
-, { "color" : "#FFFF00", "vertices" : [ 38, 20, 49, 71 ] }
-, { "color" : "#FFFF00", "vertices" : [ 38, 71, 68 ] }
-, { "color" : "#FFFF00", "vertices" : [ 39, 23, 44, 72 ] }
-, { "color" : "#FFFF00", "vertices" : [ 39, 26, 51, 75 ] }
-, { "color" : "#FFFF00", "vertices" : [ 39, 72, 75 ] }
-, { "color" : "#FFFF00", "vertices" : [ 41, 16, 17 ] }
-, { "color" : "#FFFF00", "vertices" : [ 41, 16, 4, 32 ] }
-, { "color" : "#FFFF00", "vertices" : [ 43, 18, 4, 32 ] }
-, { "color" : "#FFFF00", "vertices" : [ 43, 47, 22 ] }
-, { "color" : "#FFFF00", "vertices" : [ 5, 20, 44, 32 ] }
-, { "color" : "#FFFF00", "vertices" : [ 50, 46, 21 ] }
-, { "color" : "#FFFF00", "vertices" : [ 52, 27, 26 ] }
-, { "color" : "#FFFF00", "vertices" : [ 54, 28, 29, 55 ] }
-, { "color" : "#FFFF00", "vertices" : [ 54, 57, 56 ] }
-, { "color" : "#FFFF00", "vertices" : [ 55, 58, 59 ] }
-, { "color" : "#FFFF00", "vertices" : [ 56, 54, 84, 86 ] }
-, { "color" : "#FFFF00", "vertices" : [ 56, 57, 28 ] }
-, { "color" : "#FFFF00", "vertices" : [ 59, 58, 29 ] }
-, { "color" : "#FFFF00", "vertices" : [ 60, 61, 30 ] }
-, { "color" : "#FFFF00", "vertices" : [ 63, 62, 31 ] }
-, { "color" : "#FFFF00", "vertices" : [ 63, 65, 95, 93 ] }
-, { "color" : "#FFFF00", "vertices" : [ 64, 61, 60 ] }
-, { "color" : "#FFFF00", "vertices" : [ 65, 31, 30, 64 ] }
-, { "color" : "#FFFF00", "vertices" : [ 65, 62, 63 ] }
-, { "color" : "#FFFF00", "vertices" : [ 68, 44, 20, 38 ] }
-, { "color" : "#FFFF00", "vertices" : [ 68, 80, 81, 69 ] }
-, { "color" : "#FFFF00", "vertices" : [ 69, 38, 21, 46 ] }
-, { "color" : "#FFFF00", "vertices" : [ 69, 38, 68 ] }
-, { "color" : "#FFFF00", "vertices" : [ 69, 68, 41, 42 ] }
-, { "color" : "#FFFF00", "vertices" : [ 69, 68, 71 ] }
-, { "color" : "#FFFF00", "vertices" : [ 69, 71, 38 ] }
-, { "color" : "#FFFF00", "vertices" : [ 69, 71, 83, 81 ] }
-, { "color" : "#FFFF00", "vertices" : [ 71, 49, 44, 68 ] }
-, { "color" : "#FFFF00", "vertices" : [ 71, 50, 46, 69 ] }
-, { "color" : "#FFFF00", "vertices" : [ 72, 43, 47, 75 ] }
-, { "color" : "#FFFF00", "vertices" : [ 72, 44, 49, 76 ] }
-, { "color" : "#FFFF00", "vertices" : [ 72, 76, 75 ] }
-, { "color" : "#FFFF00", "vertices" : [ 75, 39, 22, 47 ] }
-, { "color" : "#FFFF00", "vertices" : [ 75, 72, 80, 82 ] }
-, { "color" : "#FFFF00", "vertices" : [ 75, 76, 52, 51 ] }
-, { "color" : "#FFFF00", "vertices" : [ 76, 39, 72 ] }
-, { "color" : "#FFFF00", "vertices" : [ 76, 39, 75 ] }
-, { "color" : "#FFFF00", "vertices" : [ 76, 49, 23, 39 ] }
-, { "color" : "#FFFF00", "vertices" : [ 76, 83, 82, 75 ] }
-, { "color" : "#FFFF00", "vertices" : [ 8, 23, 20, 5 ] }
-, { "color" : "#FFFF00", "vertices" : [ 80, 81, 83 ] }
-, { "color" : "#FFFF00", "vertices" : [ 83, 82, 80 ] }
-, { "color" : "#FFFF00", "vertices" : [ 84, 87, 86 ] }
-, { "color" : "#FFFF00", "vertices" : [ 85, 88, 89 ] }
-, { "color" : "#FFFF00", "vertices" : [ 85, 97, 96, 84 ] }
-, { "color" : "#FFFF00", "vertices" : [ 86, 87, 96 ] }
-, { "color" : "#FFFF00", "vertices" : [ 89, 85, 55, 59 ] }
-, { "color" : "#FFFF00", "vertices" : [ 89, 88, 97 ] }
-, { "color" : "#FFFF00", "vertices" : [ 90, 91, 98 ] }
-, { "color" : "#FFFF00", "vertices" : [ 90, 94, 64, 60 ] }
-, { "color" : "#FFFF00", "vertices" : [ 93, 92, 99 ] }
-, { "color" : "#FFFF00", "vertices" : [ 94, 91, 90 ] }
-, { "color" : "#FFFF00", "vertices" : [ 94, 98, 99, 95 ] }
-, { "color" : "#FFFF00", "vertices" : [ 95, 92, 93 ] }
-, { "color" : "#FFFF00", "vertices" : [ 96, 87, 84 ] }
-, { "color" : "#FFFF00", "vertices" : [ 97, 88, 85 ] }
-, { "color" : "#FFFF00", "vertices" : [ 97, 89, 93, 99 ] }
-, { "color" : "#FFFF00", "vertices" : [ 98, 90, 86, 96 ] }
-, { "color" : "#FFFF00", "vertices" : [ 98, 91, 94 ] }
-, { "color" : "#FFFF00", "vertices" : [ 99, 92, 95 ] }  ]
+  { "color" : "#CCFF00", "vertices" : [ 1, 0, 2 ] }
+, { "color" : "#CCFF00", "vertices" : [ 1, 0, 4, 5 ] }
+, { "color" : "#CCFF00", "vertices" : [ 11, 14, 15 ] }
+, { "color" : "#CCFF00", "vertices" : [ 11, 20, 23, 14 ] }
+, { "color" : "#CCFF00", "vertices" : [ 11, 21, 25, 15 ] }
+, { "color" : "#CCFF00", "vertices" : [ 14, 2, 3, 15 ] }
+, { "color" : "#CCFF00", "vertices" : [ 14, 23, 49, 35 ] }
+, { "color" : "#CCFF00", "vertices" : [ 14, 35, 11 ] }
+, { "color" : "#CCFF00", "vertices" : [ 14, 35, 15 ] }
+, { "color" : "#CCFF00", "vertices" : [ 15, 11, 1, 3 ] }
+, { "color" : "#CCFF00", "vertices" : [ 15, 14, 26, 27 ] }
+, { "color" : "#CCFF00", "vertices" : [ 15, 35, 50, 25 ] }
+, { "color" : "#CCFF00", "vertices" : [ 17, 16, 4, 5 ] }
+, { "color" : "#CCFF00", "vertices" : [ 17, 42, 41 ] }
+, { "color" : "#CCFF00", "vertices" : [ 2, 0, 4, 8 ] }
+, { "color" : "#CCFF00", "vertices" : [ 2, 3, 1 ] }
+, { "color" : "#CCFF00", "vertices" : [ 21, 25, 50 ] }
+, { "color" : "#CCFF00", "vertices" : [ 22, 18, 4, 8 ] }
+, { "color" : "#CCFF00", "vertices" : [ 22, 18, 43 ] }
+, { "color" : "#CCFF00", "vertices" : [ 26, 51, 52 ] }
+, { "color" : "#CCFF00", "vertices" : [ 28, 56, 60, 30 ] }
+, { "color" : "#CCFF00", "vertices" : [ 28, 57, 54 ] }
+, { "color" : "#CCFF00", "vertices" : [ 29, 58, 55 ] }
+, { "color" : "#CCFF00", "vertices" : [ 30, 61, 64 ] }
+, { "color" : "#CCFF00", "vertices" : [ 31, 62, 65 ] }
+, { "color" : "#CCFF00", "vertices" : [ 31, 63, 59, 29 ] }
+, { "color" : "#CCFF00", "vertices" : [ 32, 44, 23, 8 ] }
+, { "color" : "#CCFF00", "vertices" : [ 32, 8, 5 ] }
+, { "color" : "#CCFF00", "vertices" : [ 35, 11, 15 ] }
+, { "color" : "#CCFF00", "vertices" : [ 35, 49, 20, 11 ] }
+, { "color" : "#CCFF00", "vertices" : [ 35, 52, 27, 15 ] }
+, { "color" : "#CCFF00", "vertices" : [ 38, 17, 42, 69 ] }
+, { "color" : "#CCFF00", "vertices" : [ 38, 20, 49, 71 ] }
+, { "color" : "#CCFF00", "vertices" : [ 38, 71, 68 ] }
+, { "color" : "#CCFF00", "vertices" : [ 39, 23, 44, 72 ] }
+, { "color" : "#CCFF00", "vertices" : [ 39, 26, 51, 75 ] }
+, { "color" : "#CCFF00", "vertices" : [ 39, 72, 75 ] }
+, { "color" : "#CCFF00", "vertices" : [ 41, 16, 17 ] }
+, { "color" : "#CCFF00", "vertices" : [ 41, 16, 4, 32 ] }
+, { "color" : "#CCFF00", "vertices" : [ 43, 18, 4, 32 ] }
+, { "color" : "#CCFF00", "vertices" : [ 43, 47, 22 ] }
+, { "color" : "#CCFF00", "vertices" : [ 5, 20, 44, 32 ] }
+, { "color" : "#CCFF00", "vertices" : [ 50, 46, 21 ] }
+, { "color" : "#CCFF00", "vertices" : [ 52, 27, 26 ] }
+, { "color" : "#CCFF00", "vertices" : [ 54, 28, 29, 55 ] }
+, { "color" : "#CCFF00", "vertices" : [ 54, 57, 56 ] }
+, { "color" : "#CCFF00", "vertices" : [ 55, 58, 59 ] }
+, { "color" : "#CCFF00", "vertices" : [ 56, 54, 84, 86 ] }
+, { "color" : "#CCFF00", "vertices" : [ 56, 57, 28 ] }
+, { "color" : "#CCFF00", "vertices" : [ 59, 58, 29 ] }
+, { "color" : "#CCFF00", "vertices" : [ 60, 61, 30 ] }
+, { "color" : "#CCFF00", "vertices" : [ 63, 62, 31 ] }
+, { "color" : "#CCFF00", "vertices" : [ 63, 65, 95, 93 ] }
+, { "color" : "#CCFF00", "vertices" : [ 64, 61, 60 ] }
+, { "color" : "#CCFF00", "vertices" : [ 65, 31, 30, 64 ] }
+, { "color" : "#CCFF00", "vertices" : [ 65, 62, 63 ] }
+, { "color" : "#CCFF00", "vertices" : [ 68, 44, 20, 38 ] }
+, { "color" : "#CCFF00", "vertices" : [ 68, 80, 81, 69 ] }
+, { "color" : "#CCFF00", "vertices" : [ 69, 38, 21, 46 ] }
+, { "color" : "#CCFF00", "vertices" : [ 69, 38, 68 ] }
+, { "color" : "#CCFF00", "vertices" : [ 69, 68, 41, 42 ] }
+, { "color" : "#CCFF00", "vertices" : [ 69, 68, 71 ] }
+, { "color" : "#CCFF00", "vertices" : [ 69, 71, 38 ] }
+, { "color" : "#CCFF00", "vertices" : [ 69, 71, 83, 81 ] }
+, { "color" : "#CCFF00", "vertices" : [ 71, 49, 44, 68 ] }
+, { "color" : "#CCFF00", "vertices" : [ 71, 50, 46, 69 ] }
+, { "color" : "#CCFF00", "vertices" : [ 72, 43, 47, 75 ] }
+, { "color" : "#CCFF00", "vertices" : [ 72, 44, 49, 76 ] }
+, { "color" : "#CCFF00", "vertices" : [ 72, 76, 75 ] }
+, { "color" : "#CCFF00", "vertices" : [ 75, 39, 22, 47 ] }
+, { "color" : "#CCFF00", "vertices" : [ 75, 72, 80, 82 ] }
+, { "color" : "#CCFF00", "vertices" : [ 75, 76, 52, 51 ] }
+, { "color" : "#CCFF00", "vertices" : [ 76, 39, 72 ] }
+, { "color" : "#CCFF00", "vertices" : [ 76, 39, 75 ] }
+, { "color" : "#CCFF00", "vertices" : [ 76, 49, 23, 39 ] }
+, { "color" : "#CCFF00", "vertices" : [ 76, 83, 82, 75 ] }
+, { "color" : "#CCFF00", "vertices" : [ 8, 23, 20, 5 ] }
+, { "color" : "#CCFF00", "vertices" : [ 80, 81, 83 ] }
+, { "color" : "#CCFF00", "vertices" : [ 83, 82, 80 ] }
+, { "color" : "#CCFF00", "vertices" : [ 84, 87, 86 ] }
+, { "color" : "#CCFF00", "vertices" : [ 85, 88, 89 ] }
+, { "color" : "#CCFF00", "vertices" : [ 85, 97, 96, 84 ] }
+, { "color" : "#CCFF00", "vertices" : [ 86, 87, 96 ] }
+, { "color" : "#CCFF00", "vertices" : [ 89, 85, 55, 59 ] }
+, { "color" : "#CCFF00", "vertices" : [ 89, 88, 97 ] }
+, { "color" : "#CCFF00", "vertices" : [ 90, 91, 98 ] }
+, { "color" : "#CCFF00", "vertices" : [ 90, 94, 64, 60 ] }
+, { "color" : "#CCFF00", "vertices" : [ 93, 92, 99 ] }
+, { "color" : "#CCFF00", "vertices" : [ 94, 91, 90 ] }
+, { "color" : "#CCFF00", "vertices" : [ 94, 98, 99, 95 ] }
+, { "color" : "#CCFF00", "vertices" : [ 95, 92, 93 ] }
+, { "color" : "#CCFF00", "vertices" : [ 96, 87, 84 ] }
+, { "color" : "#CCFF00", "vertices" : [ 97, 88, 85 ] }
+, { "color" : "#CCFF00", "vertices" : [ 97, 89, 93, 99 ] }
+, { "color" : "#CCFF00", "vertices" : [ 98, 90, 86, 96 ] }
+, { "color" : "#CCFF00", "vertices" : [ 98, 91, 94 ] }
+, { "color" : "#CCFF00", "vertices" : [ 99, 92, 95 ] }  ]
 }
 </ImportColoredMeshJson>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="DESELECT" struts="IGNORE"/>
@@ -2625,28 +2625,28 @@
     "color" : "#F2F2F2"
   }, {
     "vertex" : 50,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 81,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 47,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 40,
     "color" : "#FF0000"
   }, {
     "vertex" : 14,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 55,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 32,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 89,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 20,
     "color" : "#FF0000"
@@ -2655,31 +2655,31 @@
     "color" : "#F2F2F2"
   }, {
     "vertex" : 16,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 92,
     "color" : "#00FF00"
   }, {
     "vertex" : 54,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 39,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 79,
     "color" : "#00FF00"
   }, {
     "vertex" : 2,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 48,
     "color" : "#F2F2F2"
   }, {
     "vertex" : 35,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 64,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 37,
     "color" : "#FF0000"
@@ -2694,19 +2694,19 @@
     "color" : "#F2F2F2"
   }, {
     "vertex" : 38,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 86,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 84,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 99,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 18,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 15,
     "color" : "#FF0000"
@@ -2718,43 +2718,43 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 72,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 43,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 82,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 58,
     "color" : "#00FF00"
   }, {
     "vertex" : 51,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 23,
     "color" : "#FF0000"
   }, {
     "vertex" : 3,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 90,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 63,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 1,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 76,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 70,
     "color" : "#FF0000"
   }, {
     "vertex" : 97,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 66,
     "color" : "#FF0000"
@@ -2763,10 +2763,10 @@
     "color" : "#00FF00"
   }, {
     "vertex" : 17,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 46,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 67,
     "color" : "#FF0000"
@@ -2781,13 +2781,13 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 56,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 85,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 59,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 7,
     "color" : "#FF0000"
@@ -2808,34 +2808,34 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 68,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 74,
     "color" : "#F2F2F2"
   }, {
     "vertex" : 11,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 83,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 29,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 61,
     "color" : "#00FF00"
   }, {
     "vertex" : 96,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 0,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 27,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 71,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 12,
     "color" : "#FF0000"
@@ -2844,49 +2844,49 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 5,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 91,
     "color" : "#00FF00"
   }, {
     "vertex" : 8,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 93,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 65,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 36,
     "color" : "#FF0000"
   }, {
     "vertex" : 28,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 94,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 31,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 26,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 41,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 88,
     "color" : "#00FF00"
   }, {
     "vertex" : 22,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 30,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 25,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 77,
     "color" : "#FF0000"
@@ -2898,28 +2898,28 @@
     "color" : "#FF0000"
   }, {
     "vertex" : 60,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 42,
-    "color" : "#FFFF00"
+    "color" : "#CCFF00"
   }, {
     "vertex" : 80,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 9,
     "color" : "#FF0000"
   }, {
     "vertex" : 52,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 98,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 95,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   }, {
     "vertex" : 21,
-    "color" : "#0000FF"
+    "color" : "#0044FF"
   } ],
   "struts" : [ {
     "vertices" : [ 33, 6 ],
@@ -4123,7 +4123,7 @@
     <DeselectAll/>
     <Branch>
       <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
-      <setItemColor blue="255" green="0" red="0"/>
+      <setItemColor blue="255" green="68" red="0"/>
       <Snapshot id="9"/>
     </Branch>
     <Branch>
@@ -4134,7 +4134,7 @@
     <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
-    <setItemColor blue="0" green="255" red="255"/>
+    <setItemColor blue="0" green="255" red="204"/>
     <Snapshot id="11"/>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <Hide/>

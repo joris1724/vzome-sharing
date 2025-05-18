@@ -13,7 +13,7 @@ tags: [polychora]
  
 {% endcomment %}
 
-vZome's <i>Generate Polytope</i> tool quickly generates the projections of several truncations of a Tesseract. Each of these is centered on a predefined cell type. This post shows that centering on other cell types produces additional projections, some of which can nicely be build with Zometool. As soon as &radic;2 scaling factors are needed, the corrresponding vZome models are approximations.
+vZome's <i>Generate Polytope</i> tool quickly generates the projections of several truncations of a Tesseract. Each of these is centered on a predefined cell type. This post shows that centering on other cell types produces additional projections, some of which (at least one for each truncation) can nicely be build with Zometool. As soon as &radic;2 scaling factors are needed, the corrresponding vZome models are approximations.
 
 <p>Some projections can be modelled exactly in vZome's golden field, and can be build with Zometool blue, (half-)green and yellow struts only:
 <br>-&nbsp;rectified tesseract centered on a cuboctahedron
@@ -39,10 +39,12 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
 
 <p>The remaining projections require both blue-green and green-blue struts for an exact Zometool build:
 <br>-&nbsp;truncated tesseract centered on a tetrahedron
+<br>-&nbsp;runcinated tesseract centered on a tetrahedron
 <br>-&nbsp;runcitruncated tesseract centered on a octagonal prism
 <br>-&nbsp;prismarombated tesseract centered on a cube
 
-<p>The following vZome models show the building instructions for each of these projections. Additional scenes emphasize the cells of a specific type. Here, the number of cells is sometimes limited if it enhances the visual interpretation of the model.
+<p>The following vZome models show the building instructions for each of the projections of a specific truncation. Additional scenes emphasize the cells of a specific type. Here, the number of cells is sometimes limited if it enhances the visual interpretation of the model. For the Runcinated Tesseract no building instructions are shown for the projection centered on a tetrahedron, as many struts intersect at nasty ratios.
+
 
 <figure style="width: 87%; margin: 5%">
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='rit'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='rit'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='rit'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='rit'></vzome-viewer-end></div></div>
