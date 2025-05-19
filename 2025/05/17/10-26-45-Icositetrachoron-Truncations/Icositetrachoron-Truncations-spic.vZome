@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="287" lastStickyEdit="272">
+  <EditHistory editNumber="394" lastStickyEdit="359">
     <Polytope4d group="F4" quaternion="3 5 0 0 0 0 0 0" renderEdges="1001" wythoff="1001"/>
     <BeginBlock/>
     <AdjustSelectionByOrbitLength length="6 10" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
@@ -481,7 +481,9 @@
     <DeselectAll/>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
     <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
     <BeginBlock/>
@@ -497,13 +499,124 @@
     <DeselectAll/>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <GroupSelection/>
     <Hide/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 6 9 6 9" startSegment="6 9 6 9 2 3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-2 -3 6 9 6 9" startSegment="-6 -9 6 9 2 3"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-5"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BookmarkTool name="tool-6"/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-6 -9 2 3 6 9" startSegment="-6 -9 -2 -3 6 9"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-7"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BookmarkTool name="tool-8"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="4 6 8 12 0 0"/>
+    <SelectManifestation point="0 0 8 12 4 6"/>
+    <SelectManifestation point="-4 -6 8 12 0 0"/>
+    <SelectManifestation point="0 0 8 12 -4 -6"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-9"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BookmarkTool name="tool-10"/>
+    <Hide/>
+    <SelectManifestation endSegment="-2 -3 2 3 -6 -9" startSegment="-2 -3 6 9 -2 -3"/>
+    <BookmarkTool name="tool-11"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BookmarkTool name="tool-12"/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 6 9 -2 -3"/>
+    <SelectManifestation point="2 3 6 9 -2 -3"/>
+    <SelectManifestation point="2 3 6 9 2 3"/>
+    <SelectManifestation point="-2 -3 6 9 2 3"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-13"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BookmarkTool name="tool-14"/>
+    <Hide/>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-15"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+    <DeselectAll/>
   </EditHistory>
   <notes/>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
@@ -512,10 +625,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="262.14019775390625" far="524.27978515625" near="0.655350923538208" parallel="false" stereoAngle="0.0" width="117.96320343017578">
+    <ViewModel distance="218.95790100097656" far="437.9153137207031" near="0.5473951101303101" parallel="false" stereoAngle="0.0" width="98.5311508178711">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="0.5250673890113831" y="0.7266972661018372" z="0.4429527223110199"/>
-      <LookDirection x="-0.37088191509246826" y="0.6638336181640625" z="-0.6494330167770386"/>
+      <UpDirection x="0.22664886713027954" y="0.9732515811920166" z="0.0375119224190712"/>
+      <LookDirection x="0.9131839871406555" y="-0.22574162483215332" z="0.33931809663772583"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
@@ -558,8 +671,19 @@
   <Tools>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-0" label="bookmark 0" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-1" label="bookmark 1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-10" label="3" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-11" label="1-2" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-12" label="2" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-13" label="0-1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-14" label="1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-15" label="0" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-2" label="groen" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-3" label="rood" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-4" label="rood" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-5" label="4-5" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="5" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-7" label="3-4" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-8" label="4" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-9" label="2-3" selectInputs="true"/>
   </Tools>
 </vzome:vZome>
