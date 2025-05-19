@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="258" lastStickyEdit="245">
+  <EditHistory editNumber="287" lastStickyEdit="272">
     <Polytope4d group="F4" quaternion="3 5 0 0 0 0 0 0" renderEdges="1001" wythoff="1001"/>
     <BeginBlock/>
     <AdjustSelectionByOrbitLength length="6 10" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
@@ -312,7 +312,9 @@
     <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
     <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
     <BookmarkTool name="tool-0"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation>
       <polygonVertex at="0 0 0 0 4 6"/>
@@ -335,7 +337,9 @@
     <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
     <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
     <BookmarkTool name="tool-1"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectManifestation>
       <polygonVertex at="0 0 4 6 0 0"/>
       <polygonVertex at="4 6 0 0 0 0"/>
@@ -388,13 +392,17 @@
       <polygonVertex at="2 3 -2 -3 6 9"/>
     </SelectManifestation>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="6 9 -2 -3 2 3"/>
     <SelectManifestation point="2 3 -6 -9 2 3"/>
     <SelectManifestation point="2 3 -2 -3 6 9"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
@@ -404,7 +412,9 @@
     <setItemColor blue="0" green="255" red="204"/>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <BookmarkTool name="tool-2"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -443,16 +453,51 @@
     </SelectManifestation>
     <EndBlock/>
     <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <BookmarkTool name="tool-3"/>
     <BeginBlock/>
     <DeselectAll/>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
     <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-4"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <Hide/>
     <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -469,8 +514,8 @@
   <Viewing>
     <ViewModel distance="262.14019775390625" far="524.27978515625" near="0.655350923538208" parallel="false" stereoAngle="0.0" width="117.96320343017578">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.4325777292251587" y="0.04402891546487808" z="-0.900518000125885"/>
-      <LookDirection x="-0.7840319275856018" y="0.47478023171424866" z="0.39983615279197693"/>
+      <UpDirection x="0.5250673890113831" y="0.7266972661018372" z="0.4429527223110199"/>
+      <LookDirection x="-0.37088191509246826" y="0.6638336181640625" z="-0.6494330167770386"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
@@ -514,6 +559,7 @@
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-0" label="bookmark 0" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-1" label="bookmark 1" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-2" label="groen" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-3" label="rood" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-3" label="rood" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-4" label="rood" selectInputs="true"/>
   </Tools>
 </vzome:vZome>

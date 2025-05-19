@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="417" lastStickyEdit="265">
+  <EditHistory editNumber="653" lastStickyEdit="651">
     <StrutCreation anchor="0 0 0 0 0 0" index="2" len="2 4"/>
     <StrutCreation anchor="0 0 0 0 0 0" index="0" len="2 4"/>
     <StrutCreation anchor="0 0 0 0 2 4" index="0" len="2 4"/>
@@ -1846,6 +1846,293 @@
     <ApplyTool copyColors="true" name="tetrahedral.tool-7" selectInputs="true"/>
     <ApplyTool copyColors="false" name="tool-8" selectInputs="true"/>
     <setItemColor blue="0" green="0" red="255"/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByOrbitLength orbit="yellow" panels="SELECT" struts="IGNORE" symmetry="icosahedral"/>
+    <InvertSelection/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="DESELECT"/>
+    <AdjustSelectionByClass balls="DESELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -19/2 -4 -11/2 -1 -2"/>
+    <SelectManifestation point="-7 -25/2 -4 -11/2 -3 -5"/>
+    <SelectManifestation point="-9 -31/2 -4 -11/2 -1 -2"/>
+    <SelectManifestation point="-7 -25/2 -4 -11/2 1 1"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -19/2 0 1/2 -5 -8"/>
+    <SelectManifestation point="-7 -25/2 -2 -5/2 -5 -8"/>
+    <SelectManifestation point="-9 -31/2 0 1/2 -5 -8"/>
+    <SelectManifestation point="-7 -25/2 2 7/2 -5 -8"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-9 -31/2 6 19/2 -1 -2"/>
+    <SelectManifestation point="-7 -25/2 6 19/2 1 1"/>
+    <SelectManifestation point="-7 -25/2 4 13/2 1 1"/>
+    <SelectManifestation point="-9 -31/2 4 13/2 -1 -2"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-9 -31/2 6 19/2 -1 -2"/>
+    <SelectManifestation point="-7 -25/2 6 19/2 1 1"/>
+    <SelectManifestation point="-7 -25/2 6 19/2 3 4"/>
+    <SelectManifestation point="-9 -31/2 6 19/2 3 4"/>
+    <SelectManifestation point="-11 -37/2 6 19/2 1 1"/>
+    <SelectManifestation endSegment="-11 -37/2 6 19/2 -1 -2" startSegment="-11 -37/2 6 19/2 1 1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-9 -31/2 6 19/2 3 4"/>
+    <SelectManifestation point="-9 -31/2 4 13/2 5 7"/>
+    <SelectManifestation point="-7 -25/2 4 13/2 5 7"/>
+    <SelectManifestation point="-7 -25/2 6 19/2 3 4"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-9 -31/2 6 19/2 -1 -2"/>
+      <polygonVertex at="-9 -31/2 4 13/2 -1 -2"/>
+      <polygonVertex at="-7 -25/2 4 13/2 1 1"/>
+      <polygonVertex at="-7 -25/2 6 19/2 1 1"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="-7 -25/2 4 13/2 1 1"/>
+    <SelectManifestation point="-7 -25/2 6 19/2 1 1"/>
+    <SelectManifestation point="-7 -25/2 6 19/2 3 4"/>
+    <SelectManifestation point="-7 -25/2 4 13/2 5 7"/>
+    <SelectManifestation point="-7 -25/2 2 7/2 5 7"/>
+    <SelectManifestation point="-7 -25/2 2 7/2 3 4"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-9 -31/2 6 19/2 -1 -2"/>
+      <polygonVertex at="-9 -31/2 4 13/2 -1 -2"/>
+      <polygonVertex at="-7 -25/2 4 13/2 1 1"/>
+      <polygonVertex at="-7 -25/2 6 19/2 1 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-9 -31/2 6 19/2 -1 -2"/>
+      <polygonVertex at="-7 -25/2 6 19/2 1 1"/>
+      <polygonVertex at="-7 -25/2 6 19/2 3 4"/>
+      <polygonVertex at="-9 -31/2 6 19/2 3 4"/>
+      <polygonVertex at="-11 -37/2 6 19/2 1 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-9 -31/2 6 19/2 3 4"/>
+      <polygonVertex at="-9 -31/2 4 13/2 5 7"/>
+      <polygonVertex at="-7 -25/2 4 13/2 5 7"/>
+      <polygonVertex at="-7 -25/2 6 19/2 3 4"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-6" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-5 -19/2 0 1/2 3 4"/>
+      <polygonVertex at="-7 -25/2 2 7/2 3 4"/>
+      <polygonVertex at="-9 -31/2 0 1/2 3 4"/>
+      <polygonVertex at="-7 -25/2 -2 -5/2 3 4"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <Hide/>
+    <SelectManifestation>
+      <polygonVertex at="-7 -25/2 -2 -5/2 5 7"/>
+      <polygonVertex at="-5 -19/2 0 1/2 5 7"/>
+      <polygonVertex at="-3 -13/2 0 1/2 5 7"/>
+      <polygonVertex at="-3 -13/2 -2 -5/2 5 7"/>
+      <polygonVertex at="-5 -19/2 -4 -11/2 5 7"/>
+    </SelectManifestation>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-6" selectInputs="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -25/2 -4 -11/2 5 7"/>
+    <SelectManifestation point="-7 -25/2 -2 -5/2 5 7"/>
+    <SelectManifestation point="-5 -19/2 0 1/2 5 7"/>
+    <SelectManifestation point="-3 -13/2 0 1/2 5 7"/>
+    <SelectManifestation point="-3 -13/2 -2 -5/2 5 7"/>
+    <SelectManifestation point="-5 -19/2 -4 -11/2 5 7"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-6" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -13/2 -6 -17/2 1 1"/>
+    <SelectManifestation>
+      <polygonVertex at="-7 -25/2 -4 -11/2 1 1"/>
+      <polygonVertex at="-5 -19/2 -4 -11/2 -1 -2"/>
+      <polygonVertex at="-3 -13/2 -2 -5/2 -1 -2"/>
+      <polygonVertex at="-3 -13/2 0 1/2 1 1"/>
+      <polygonVertex at="-5 -19/2 0 1/2 3 4"/>
+      <polygonVertex at="-7 -25/2 -2 -5/2 3 4"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -13/2 -6 -17/2 1 1"/>
+    <SelectManifestation point="-5 -19/2 -6 -17/2 3 4"/>
+    <SelectManifestation point="-5 -19/2 -4 -11/2 5 7"/>
+    <SelectManifestation point="-3 -13/2 -2 -5/2 5 7"/>
+    <SelectManifestation point="-1 -7/2 -2 -5/2 3 4"/>
+    <SelectManifestation point="-1 -7/2 -4 -11/2 1 1"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-6" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-7 -25/2 -6 -17/2 3 4"/>
+    <SelectManifestation point="-5 -19/2 -6 -17/2 3 4"/>
+    <SelectManifestation point="-5 -19/2 -4 -11/2 5 7"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-6" selectInputs="true"/>
+    <SelectManifestation point="-3 -13/2 -6 -17/2 -1 -2"/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <setItemColor blue="0" green="255" red="204"/>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -25/2 0 1/2 -3 -6"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="7 25/2 2 7/2 1 2" startSegment="7 25/2 0 -1/2 1 2"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="5 17/2 -2 -9/2 -1 -2" startSegment="6 21/2 -1 -5/2 0 0"/>
+    <SelectManifestation point="5 17/2 -2 -9/2 -1 -2"/>
+    <SelectManifestation point="6 21/2 -3 -13/2 -2 -4"/>
+    <SelectManifestation point="8 29/2 -3 -13/2 -2 -4"/>
+    <SelectManifestation point="9 33/2 -2 -9/2 -1 -2"/>
+    <SelectManifestation point="8 29/2 -1 -5/2 0 0"/>
+    <SelectManifestation point="6 21/2 -1 -5/2 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-7" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="5 17/2 2 7/2 -1 -2"/>
+    <SelectManifestation point="6 21/2 3 11/2 -2 -4"/>
+    <SelectManifestation endSegment="5 17/2 2 7/2 -3 -6" startSegment="6 21/2 3 11/2 -2 -4"/>
+    <SelectManifestation endSegment="5 17/2 2 7/2 -3 -6" startSegment="6 21/2 3 11/2 -2 -4"/>
+    <SelectManifestation point="5 17/2 2 7/2 -3 -6"/>
+    <SelectManifestation point="4 13/2 1 3/2 -2 -4"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-7" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-8" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="6 21/2 3 11/2 -2 -4"/>
+    <SelectManifestation point="5 17/2 2 7/2 -3 -6"/>
+    <SelectManifestation point="6 21/2 1 3/2 -4 -8"/>
+    <SelectManifestation point="8 29/2 1 3/2 -4 -8"/>
+    <SelectManifestation point="9 33/2 2 7/2 -3 -6"/>
+    <SelectManifestation point="8 29/2 3 11/2 -2 -4"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-7" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="10 37/2 1 3/2 -2 -4"/>
+    <SelectManifestation point="9 33/2 2 7/2 -3 -6"/>
+    <SelectManifestation point="8 29/2 1 3/2 -4 -8"/>
+    <SelectManifestation point="8 29/2 -1 -5/2 -4 -8"/>
+    <SelectManifestation point="9 33/2 -2 -9/2 -3 -6"/>
+    <SelectManifestation point="10 37/2 -1 -5/2 -2 -4"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-7" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="5 17/2 -2 -9/2 -1 -2"/>
+      <polygonVertex at="4 13/2 -1 -5/2 -2 -4"/>
+      <polygonVertex at="4 13/2 1 3/2 -2 -4"/>
+      <polygonVertex at="5 17/2 2 7/2 -1 -2"/>
+      <polygonVertex at="6 21/2 1 3/2 0 0"/>
+      <polygonVertex at="6 21/2 -1 -5/2 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="6 21/2 1 3/2 -4 -8"/>
+    <SelectManifestation point="6 21/2 -1 -5/2 -4 -8"/>
+    <SelectManifestation point="8 29/2 -1 -5/2 -4 -8"/>
+    <SelectManifestation point="8 29/2 1 3/2 -4 -8"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-7" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="255" red="204"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <BookmarkTool name="tool-9"/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="7 25/2 0 -1/2 1 2"/>
+    <SelectManifestation point="8 29/2 -1 -5/2 2 4"/>
+    <EndBlock/>
+    <SelectByRadius/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="11 41/2 2 7/2 3 6"/>
+    <SelectManifestation point="10 37/2 1 3/2 4 8"/>
+    <SelectManifestation point="9 33/2 2 7/2 5 10"/>
+    <SelectManifestation point="10 37/2 3 11/2 4 8"/>
+    <SelectManifestation point="9 33/2 2 7/2 3 6"/>
+    <SelectManifestation point="8 29/2 3 11/2 4 8"/>
+    <SelectManifestation point="9 33/2 4 15/2 3 6"/>
+    <SelectManifestation point="10 37/2 3 11/2 2 4"/>
+    <EndBlock/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <AdjustSelectionByClass balls="DESELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-7" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-8" selectInputs="true"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -25/2 -4 -11/2 -3 -5"/>
+    <SelectManifestation point="-5 -19/2 -4 -11/2 -1 -2"/>
+    <SelectManifestation point="-5 -19/2 -6 -17/2 -1 -2"/>
+    <SelectManifestation point="-7 -25/2 -6 -17/2 -3 -5"/>
+    <SelectManifestation endSegment="-7 -25/2 -4 -11/2 -3 -5" startSegment="-9 -31/2 -4 -11/2 -1 -2"/>
+    <SelectManifestation endSegment="-7 -25/2 -4 -11/2 -3 -5" startSegment="-9 -31/2 -4 -11/2 -1 -2"/>
+    <SelectManifestation point="-9 -31/2 -4 -11/2 -1 -2"/>
+    <SelectManifestation point="-9 -31/2 -6 -17/2 -1 -2"/>
+    <SelectManifestation point="-7 -25/2 -6 -17/2 1 1"/>
+    <SelectManifestation point="-7 -25/2 -4 -11/2 1 1"/>
+    <EndBlock/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <AdjustSelectionByClass balls="DESELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="-13 -43/2 4 13/2 -3 -5"/>
+    <SelectManifestation point="-11 -37/2 6 19/2 -3 -5"/>
+    <SelectManifestation point="-11 -37/2 6 19/2 1 1"/>
+    <SelectManifestation point="-13 -43/2 4 13/2 1 1"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <SelectManifestation>
+      <polygonVertex at="-13 -43/2 4 13/2 -3 -5"/>
+      <polygonVertex at="-11 -37/2 6 19/2 -3 -5"/>
+      <polygonVertex at="-11 -37/2 6 19/2 1 1"/>
+      <polygonVertex at="-13 -43/2 4 13/2 1 1"/>
+    </SelectManifestation>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <BookmarkTool name="tool-10"/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <DeselectAll/>
   </EditHistory>
   <notes/>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
@@ -1854,10 +2141,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="353.8522033691406" far="707.704345703125" near="0.8846307992935181" parallel="false" stereoAngle="0.0" width="159.2335662841797">
+    <ViewModel distance="272.8383483886719" far="545.6765747070312" near="0.6820959448814392" parallel="false" stereoAngle="0.0" width="122.77729034423828">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="0.12003407627344131" y="-0.9043770432472229" z="-0.4094904661178589"/>
-      <LookDirection x="0.11419878154993057" y="0.4223223924636841" z="-0.899219274520874"/>
+      <UpDirection x="-0.05477859824895859" y="0.9939410090446472" z="-0.09519823640584946"/>
+      <LookDirection x="0.05582604557275772" y="-0.09215526282787323" z="-0.9941682815551758"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
@@ -1902,11 +2189,13 @@
     <Tool copyColors="true" deleteInputs="false" id="tetrahedral.tool-5" label="tetrahedral 5" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tetrahedral.tool-7" label="tetrahedral 7" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-1" label="bookmark 1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-1" label="bookmark 1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-10" label="rood" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="true" id="tool-2" label="translation 2" selectInputs="false"/>
     <Tool copyColors="true" deleteInputs="true" id="tool-3" label="translation 3" selectInputs="false"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-4" label="bookmark 4" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-4" label="bookmark 4" selectInputs="true"/>
     <Tool copyColors="false" deleteInputs="false" id="tool-6" label="point reflection 6" selectInputs="true"/>
     <Tool copyColors="false" deleteInputs="false" id="tool-8" label="point reflection 8" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-9" label="geel" selectInputs="true"/>
   </Tools>
 </vzome:vZome>
