@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="2010" lastStickyEdit="2010">
+  <EditHistory editNumber="2012" lastStickyEdit="2010">
     <ImportSimpleMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ 24, -52, 3 ], [ 3, -35, 6 ], [ 3, -35, 6 ] ], [ [ 24, -52, 3 ], [ 3, -35, 6 ], [ 15, -23, 6 ] ], [ [ 24, -52, 3 ], [ -2, -2, 1 ], [ 9, -29, 3 ] ], [ [ 24, -52, 3 ], [ -2, -2, 1 ], [ 0, 0, 1 ] ], [ [ 24, -52, 3 ], [ 0, 0, 1 ], [ 9, -29, 3 ] ], [ [ 24, -52, 3 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 24, -52, 3 ], [ -15, 23, 6 ], [ 3, -35, 6 ] ], [ [ 24, -52, 3 ], [ -15, 23, 6 ], [ 15, -23, 6 ] ], [ [ 11, -27, 2 ], [ 9, -29, 3 ], [ 3, -35, 6 ] ], [ [ 11, -27, 2 ], [ 9, -29, 3 ], [ 15, -23, 6 ] ], [ [ 11, -27, 2 ], [ -2, -2, 1 ], [ 11, -27, 2 ] ], [ [ 11, -27, 2 ], [ -2, -2, 1 ], [ -15, 23, 6 ] ], [ [ 11, -27, 2 ], [ 0, 0, 1 ], [ 11, -27, 2 ] ], [ [ 11, -27, 2 ], [ 0, 0, 1 ], [ -15, 23, 6 ] ], [ [ 11, -27, 2 ], [ -15, 23, 3 ], [ 3, -35, 6 ] ], [ [ 11, -27, 2 ], [ -15, 23, 3 ], [ 15, -23, 6 ] ], [ [ 9, -29, 3 ], [ 9, -29, 3 ], [ 9, -29, 3 ] ], [ [ 9, -29, 3 ], [ 9, -29, 3 ], [ 0, 0, 1 ] ], [ [ 9, -29, 3 ], [ 3, -35, 6 ], [ 11, -27, 2 ] ], [ [ 9, -29, 3 ], [ 3, -35, 6 ], [ -15, 23, 6 ] ], [ [ 9, -29, 3 ], [ -15, 23, 6 ], [ 11, -27, 2 ] ], [ [ 9, -29, 3 ], [ -15, 23, 6 ], [ -15, 23, 6 ] ], [ [ 9, -29, 3 ], [ -15, 23, 3 ], [ 9, -29, 3 ] ], [ [ 9, -29, 3 ], [ -15, 23, 3 ], [ 0, 0, 1 ] ], [ [ 12, -26, 3 ], [ -1, -1, 1 ], [ 9, -29, 6 ] ], [ [ 15, -23, 3 ], [ 9, -29, 3 ], [ 9, -29, 3 ] ], [ [ 15, -23, 3 ], [ 9, -29, 3 ], [ 0, 0, 1 ] ], [ [ 15, -23, 3 ], [ 3, -35, 6 ], [ 11, -27, 2 ] ], [ [ 15, -23, 3 ], [ 3, -35, 6 ], [ -15, 23, 6 ] ], [ [ 15, -23, 3 ], [ -15, 23, 6 ], [ 11, -27, 2 ] ], [ [ 15, -23, 3 ], [ -15, 23, 6 ], [ -15, 23, 6 ] ], [ [ 15, -23, 3 ], [ -15, 23, 3 ], [ 9, -29, 3 ] ], [ [ 15, -23, 3 ], [ -15, 23, 3 ], [ 0, 0, 1 ] ], [ [ 15, -23, 6 ], [ 9, -29, 3 ], [ 3, -35, 6 ] ], [ [ 15, -23, 6 ], [ 9, -29, 3 ], [ 15, -23, 6 ] ], [ [ 15, -23, 6 ], [ -2, -2, 1 ], [ 11, -27, 2 ] ], [ [ 15, -23, 6 ], [ -2, -2, 1 ], [ -15, 23, 6 ] ], [ [ 15, -23, 6 ], [ 0, 0, 1 ], [ 11, -27, 2 ] ], [ [ 15, -23, 6 ], [ 0, 0, 1 ], [ -15, 23, 6 ] ], [ [ 15, -23, 6 ], [ -15, 23, 3 ], [ 3, -35, 6 ] ], [ [ 15, -23, 6 ], [ -15, 23, 3 ], [ 15, -23, 6 ] ], [ [ 0, 0, 1 ], [ 3, -35, 6 ], [ 3, -35, 6 ] ], [ [ 0, 0, 1 ], [ 3, -35, 6 ], [ 15, -23, 6 ] ], [ [ 0, 0, 1 ], [ -2, -2, 1 ], [ 9, -29, 3 ] ], [ [ 0, 0, 1 ], [ -2, -2, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 9, -29, 3 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -15, 23, 6 ], [ 3, -35, 6 ] ], [ [ 0, 0, 1 ], [ -15, 23, 6 ], [ 15, -23, 6 ] ] ],
@@ -6138,7 +6138,9 @@
     <SelectManifestation point="0 0 0 0 0 0"/>
     <Delete/>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-39" selectInputs="true"/>
     <DeselectAll/>
     <Snapshot id="0"/>
@@ -6147,7 +6149,9 @@
     <Snapshot id="3"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="1"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-38" selectInputs="true"/>
@@ -6158,7 +6162,9 @@
     <Snapshot id="7"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="6"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-36" selectInputs="true"/>
@@ -6169,7 +6175,9 @@
     <Snapshot id="11"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="10"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-34" selectInputs="true"/>
@@ -6180,7 +6188,9 @@
     <Snapshot id="15"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="14"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
@@ -6191,7 +6201,9 @@
     <Snapshot id="19"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="18"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
@@ -6216,6 +6228,8 @@
     <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
     <setItemColor blue="0" green="255" red="204"/>
     <Snapshot id="25"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <Hide/>
   </EditHistory>
   <notes>
     <page snapshot="0" title="Step 0 12gb+24g 24b+48bg">

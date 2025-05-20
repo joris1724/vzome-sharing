@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="394" lastStickyEdit="359">
+  <EditHistory editNumber="436" lastStickyEdit="436">
     <Polytope4d group="F4" quaternion="3 5 0 0 0 0 0 0" renderEdges="1001" wythoff="1001"/>
     <BeginBlock/>
     <AdjustSelectionByOrbitLength length="6 10" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
@@ -519,7 +519,9 @@
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <EndBlock/>
     <GroupSelection/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectManifestation point="0 0 0 0 0 0"/>
     <Delete/>
     <BeginBlock/>
@@ -531,7 +533,9 @@
     <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
     <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
     <BookmarkTool name="tool-6"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation endSegment="-6 -9 2 3 6 9" startSegment="-6 -9 -2 -3 6 9"/>
     <SelectNeighbors/>
@@ -540,14 +544,18 @@
     <BookmarkTool name="tool-7"/>
     <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
     <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
     <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
     <BookmarkTool name="tool-8"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="4 6 8 12 0 0"/>
     <SelectManifestation point="0 0 8 12 4 6"/>
@@ -561,13 +569,17 @@
     <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
     <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
     <BookmarkTool name="tool-10"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectManifestation endSegment="-2 -3 2 3 -6 -9" startSegment="-2 -3 6 9 -2 -3"/>
     <BookmarkTool name="tool-11"/>
     <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
     <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
     <BookmarkTool name="tool-12"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="-2 -3 6 9 -2 -3"/>
     <SelectManifestation point="2 3 6 9 -2 -3"/>
@@ -579,25 +591,35 @@
     <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
     <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
     <BookmarkTool name="tool-14"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
     <BookmarkTool name="tool-15"/>
     <BeginBlock/>
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
@@ -605,7 +627,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
@@ -614,21 +638,254 @@
     <DeselectAll/>
     <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
     <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
     <Hide/>
     <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
     <DeselectAll/>
+    <Snapshot id="0"/>
+    <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+    <Snapshot id="2"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="1"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <Snapshot id="3"/>
+    <DeselectAll/>
+    <Snapshot id="4"/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <Snapshot id="6"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="5"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <Snapshot id="7"/>
+    <DeselectAll/>
+    <Snapshot id="8"/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <Snapshot id="10"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="9"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+    <Snapshot id="11"/>
+    <DeselectAll/>
+    <Snapshot id="12"/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <Snapshot id="14"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="13"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <Snapshot id="15"/>
+    <DeselectAll/>
+    <Snapshot id="16"/>
+    <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+    <Snapshot id="18"/>
+    <Branch>
+      <InvertSelection/>
+      <Hide/>
+      <Snapshot id="17"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <Snapshot id="19"/>
+    <DeselectAll/>
+    <Snapshot id="20"/>
   </EditHistory>
-  <notes/>
+  <notes>
+    <page snapshot="0" title="Step 0/5 12g">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="1" title="0-1 4b+4y">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="2" title="0-1 x1">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="3" title="0-1 x6">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="4" title="Step 1/5">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="5" title="1-2 1g">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="6" title="1-2 x1">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="7" title="1-2 x24">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="8" title="Step 2/5">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="9" title="2-3 4b+4g+4y">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="10" title="2-3 x1">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="11" title="2-3 x6">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="12" title="Step 3/5">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="13" title="3-4 5b+4y">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="14" title="3-4 x1">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="15" title="3-4 x12">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="16" title="Step 4/5">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="17" title="4-5 1g">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="18" title="4-5 x1">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="19" title="4-5 x24">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="20" title="Step 5/5">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
     <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
     <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="218.95790100097656" far="437.9153137207031" near="0.5473951101303101" parallel="false" stereoAngle="0.0" width="98.5311508178711">
+    <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="0.22664886713027954" y="0.9732515811920166" z="0.0375119224190712"/>
-      <LookDirection x="0.9131839871406555" y="-0.22574162483215332" z="0.33931809663772583"/>
+      <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+      <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
