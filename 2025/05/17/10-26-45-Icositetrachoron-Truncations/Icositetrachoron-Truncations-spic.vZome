@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="436" lastStickyEdit="436">
+  <EditHistory editNumber="437" lastStickyEdit="440">
     <Polytope4d group="F4" quaternion="3 5 0 0 0 0 0 0" renderEdges="1001" wythoff="1001"/>
     <BeginBlock/>
     <AdjustSelectionByOrbitLength length="6 10" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
@@ -646,7 +646,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
     <DeselectAll/>
     <Snapshot id="0"/>
@@ -654,7 +656,9 @@
     <Snapshot id="2"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="1"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
@@ -665,7 +669,9 @@
     <Snapshot id="6"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="5"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
@@ -676,7 +682,9 @@
     <Snapshot id="10"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="9"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
@@ -687,7 +695,9 @@
     <Snapshot id="14"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="13"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
@@ -698,13 +708,23 @@
     <Snapshot id="18"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="17"/>
     </Branch>
     <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
     <Snapshot id="19"/>
     <DeselectAll/>
     <Snapshot id="20"/>
+    <Branch>
+      <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+      <setItemColor blue="0" green="0" red="255"/>
+      <Snapshot id="21"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <setItemColor blue="0" green="255" red="204"/>
+    <Snapshot id="22"/>
   </EditHistory>
   <notes>
     <page snapshot="0" title="Step 0/5 12g">
@@ -868,6 +888,22 @@
       <content xml:space="preserve"/>
     </page>
     <page snapshot="20" title="Step 5/5">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="21" title="Triangular Prisms">
+      <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
+        <LookDirection x="0.7364676594734192" y="-0.27097126841545105" z="0.6198300719261169"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="22" title="Octahedra">
       <ViewModel distance="246.87432861328125" far="493.748046875" near="0.6171861886978149" parallel="false" stereoAngle="0.0" width="111.09355926513672">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.4509041905403137" y="0.8796696662902832" z="-0.15119360387325287"/>
