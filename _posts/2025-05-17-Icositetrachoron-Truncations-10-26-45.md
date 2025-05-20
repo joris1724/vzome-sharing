@@ -18,16 +18,15 @@ vZome's <i>Generate Polytope</i> tool quickly generates the projections of sever
 <p>Some projections can be modelled exactly in vZome's golden field, and can be build with Zometool blue, (half-)green and yellow struts only:
 <br>-&nbsp;rectified icositetrachoron centered on a cube
 <br>-&nbsp;rectified icositetrachoron centered on a cuboctahedron
+<br>-&nbsp;truncated icositetrachoron centered on a truncated octahedron
+<br>-&nbsp;truncated icositetrachoron centered on a cube
 <br>-&nbsp;cantellated icositetrachoron centered on a cuboctahedron
 <br>-&nbsp;runcinated icositetrachoron centered on a octahedron
-<br>-&nbsp;bitruncated icositetrachoron centered on a cube
 
 <p>An additional projection can be build exactly with Zometool, using blue, green, yellow and <b>blue</b>(-length)<b>-green</b>(-orbit) struts:
 <br>-&nbsp;cantitruncated icositetrachoron centered on a octahedron
 
-<p>The remaining projections require both blue-green and green-blue struts for an exact Zometool build:
-<br>-&nbsp;truncated icositetrachoron centered on a cube
-<br>-&nbsp;truncated icositetrachoron centered on a cube
+<p>The remaining projections require both blue-green and <b>green</b>(-length)<b>-blue</b>(-orbit) struts for an exact Zometool build:
 <br>-&nbsp;cantellated icositetrachoron centered on a octagonal prism
 <br>-&nbsp;bitruncated icositetrachoron centered on a truncated cube
 <br>-&nbsp;cantitruncated icositetrachoron centered on a rhombitruncated cuboctahedron
