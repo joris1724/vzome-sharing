@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
-  <EditHistory editNumber="2366" lastStickyEdit="2344">
+  <EditHistory editNumber="2524" lastStickyEdit="2509">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -10, -16, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -9, -15, 1 ], [ -1, -2, 1 ], [ -2, -3, 1 ] ], [ [ -9, -15, 1 ], [ -1, -2, 1 ], [ 2, 3, 1 ] ], [ [ -9, -15, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ -9, -15, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ -9, -14, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ -9, -14, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ -9, -14, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ -9, -14, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ -8, -13, 1 ], [ -1, -1, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ 1, 1, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ 5, 8, 1 ] ], [ [ -7, -11, 1 ], [ -5, -8, 1 ], [ -4, -7, 1 ] ], [ [ -7, -11, 1 ], [ -5, -8, 1 ], [ 4, 7, 1 ] ], [ [ -7, -11, 1 ], [ 5, 8, 1 ], [ -4, -7, 1 ] ], [ [ -7, -11, 1 ], [ 5, 8, 1 ], [ 4, 7, 1 ] ], [ [ -6, -10, 1 ], [ -6, -10, 1 ], [ -4, -6, 1 ] ], [ [ -6, -10, 1 ], [ -6, -10, 1 ], [ 4, 6, 1 ] ], [ [ -6, -10, 1 ], [ -4, -6, 1 ], [ -6, -10, 1 ] ], [ [ -6, -10, 1 ], [ 4, 6, 1 ], [ -6, -10, 1 ] ], [ [ -6, -10, 1 ], [ 6, 10, 1 ], [ -4, -6, 1 ] ], [ [ -6, -10, 1 ], [ 6, 10, 1 ], [ 4, 6, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ -3, -5, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ -1, -1, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ 1, 1, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ 3, 5, 1 ] ], [ [ -5, -8, 1 ], [ -4, -7, 1 ], [ -7, -11, 1 ] ], [ [ -5, -8, 1 ], [ 4, 7, 1 ], [ -7, -11, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ -3, -5, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ -1, -1, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ 1, 1, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ 3, 5, 1 ] ], [ [ -4, -7, 1 ], [ -7, -11, 1 ], [ -5, -8, 1 ] ], [ [ -4, -7, 1 ], [ -7, -11, 1 ], [ 5, 8, 1 ] ], [ [ -4, -7, 1 ], [ 7, 11, 1 ], [ -5, -8, 1 ] ], [ [ -4, -7, 1 ], [ 7, 11, 1 ], [ 5, 8, 1 ] ], [ [ -4, -6, 1 ], [ -6, -10, 1 ], [ -6, -10, 1 ] ], [ [ -4, -6, 1 ], [ -6, -10, 1 ], [ 6, 10, 1 ] ], [ [ -4, -6, 1 ], [ 6, 10, 1 ], [ -6, -10, 1 ] ], [ [ -4, -6, 1 ], [ 6, 10, 1 ], [ 6, 10, 1 ] ], [ [ -3, -5, 1 ], [ -9, -14, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ -9, -14, 1 ], [ 2, 3, 1 ] ], [ [ -3, -5, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ -3, -5, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ -3, -5, 1 ], [ 9, 14, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ 9, 14, 1 ], [ 2, 3, 1 ] ], [ [ -2, -3, 1 ], [ -9, -15, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ -9, -15, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ -9, -14, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ -9, -14, 1 ] ], [ [ -2, -3, 1 ], [ 9, 15, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ 9, 15, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ -2, -3, 1 ], [ -9, -15, 1 ] ], [ [ -1, -2, 1 ], [ 2, 3, 1 ], [ -9, -15, 1 ] ], [ [ -1, -1, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ -1, -1, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ -1, -1, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ -1, -1, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ 0, 0, 1 ], [ -10, -16, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -10, -16, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 10, 16, 1 ] ], [ [ 0, 0, 1 ], [ 10, 16, 1 ], [ 0, 0, 1 ] ], [ [ 1, 1, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ 1, 1, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ 1, 1, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ 1, 1, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ -9, -15, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ 9, 15, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ -9, -15, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ 9, 15, 1 ] ], [ [ 2, 3, 1 ], [ -9, -15, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ -9, -15, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ -3, -5, 1 ], [ -9, -14, 1 ] ], [ [ 2, 3, 1 ], [ -3, -5, 1 ], [ 9, 14, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ -9, -14, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ 9, 14, 1 ] ], [ [ 2, 3, 1 ], [ 9, 15, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ 9, 15, 1 ], [ 1, 2, 1 ] ], [ [ 3, 5, 1 ], [ -9, -14, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ -9, -14, 1 ], [ 2, 3, 1 ] ], [ [ 3, 5, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ 3, 5, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ 3, 5, 1 ], [ 9, 14, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ 9, 14, 1 ], [ 2, 3, 1 ] ], [ [ 4, 6, 1 ], [ -6, -10, 1 ], [ -6, -10, 1 ] ], [ [ 4, 6, 1 ], [ -6, -10, 1 ], [ 6, 10, 1 ] ], [ [ 4, 6, 1 ], [ 6, 10, 1 ], [ -6, -10, 1 ] ], [ [ 4, 6, 1 ], [ 6, 10, 1 ], [ 6, 10, 1 ] ], [ [ 4, 7, 1 ], [ -7, -11, 1 ], [ -5, -8, 1 ] ], [ [ 4, 7, 1 ], [ -7, -11, 1 ], [ 5, 8, 1 ] ], [ [ 4, 7, 1 ], [ 7, 11, 1 ], [ -5, -8, 1 ] ], [ [ 4, 7, 1 ], [ 7, 11, 1 ], [ 5, 8, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ -3, -5, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ -1, -1, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ 1, 1, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ 3, 5, 1 ] ], [ [ 5, 8, 1 ], [ -4, -7, 1 ], [ -7, -11, 1 ] ], [ [ 5, 8, 1 ], [ -4, -7, 1 ], [ 7, 11, 1 ] ], [ [ 5, 8, 1 ], [ 4, 7, 1 ], [ -7, -11, 1 ] ], [ [ 5, 8, 1 ], [ 4, 7, 1 ], [ 7, 11, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ -3, -5, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ -1, -1, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ 1, 1, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ 3, 5, 1 ] ], [ [ 6, 10, 1 ], [ -6, -10, 1 ], [ -4, -6, 1 ] ], [ [ 6, 10, 1 ], [ -6, -10, 1 ], [ 4, 6, 1 ] ], [ [ 6, 10, 1 ], [ -4, -6, 1 ], [ -6, -10, 1 ] ], [ [ 6, 10, 1 ], [ -4, -6, 1 ], [ 6, 10, 1 ] ], [ [ 6, 10, 1 ], [ 4, 6, 1 ], [ -6, -10, 1 ] ], [ [ 6, 10, 1 ], [ 4, 6, 1 ], [ 6, 10, 1 ] ], [ [ 6, 10, 1 ], [ 6, 10, 1 ], [ -4, -6, 1 ] ], [ [ 6, 10, 1 ], [ 6, 10, 1 ], [ 4, 6, 1 ] ], [ [ 7, 11, 1 ], [ -5, -8, 1 ], [ -4, -7, 1 ] ], [ [ 7, 11, 1 ], [ -5, -8, 1 ], [ 4, 7, 1 ] ], [ [ 7, 11, 1 ], [ 5, 8, 1 ], [ -4, -7, 1 ] ], [ [ 7, 11, 1 ], [ 5, 8, 1 ], [ 4, 7, 1 ] ], [ [ 8, 13, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ 8, 13, 1 ], [ -1, -1, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ -1, -1, 1 ], [ 5, 8, 1 ] ], [ [ 8, 13, 1 ], [ 1, 1, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ 1, 1, 1 ], [ 5, 8, 1 ] ], [ [ 8, 13, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ 3, 5, 1 ], [ 5, 8, 1 ] ], [ [ 9, 14, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ 9, 14, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ 9, 14, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ 9, 14, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ 9, 15, 1 ], [ -1, -2, 1 ], [ -2, -3, 1 ] ], [ [ 9, 15, 1 ], [ -1, -2, 1 ], [ 2, 3, 1 ] ], [ [ 9, 15, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ 9, 15, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ 10, 16, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ] ],
@@ -61675,17 +61675,191 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-56" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-61" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-83" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 6 10 3 5"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 7 12 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <InvertSelection/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Snapshot id="233"/>
+    <Snapshot id="234"/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByOrbitLength length="2 4" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <AdjustSelectionByClass balls="SELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-133"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -5 8 13 -6 -10"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <InvertSelection/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Snapshot id="235"/>
+    <Snapshot id="236"/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="237"/>
+    <ApplyTool copyColors="true" name="tool-133" selectInputs="true"/>
+    <Snapshot id="238"/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
     <Hide/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -8 8 13 -3 -5"/>
+    <SelectManifestation point="-3 -5 9 14 -2 -3"/>
+    <SelectManifestation point="5 8 8 13 -3 -5"/>
+    <SelectManifestation point="0 0 11 18 -3 -5"/>
+    <EndBlock/>
+    <SelectByPlane/>
+    <InvertSelection/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -5 8 13 -4 -6"/>
+    <SelectManifestation point="0 0 9 15 -2 -3"/>
+    <SelectManifestation point="3 5 8 13 -4 -6"/>
+    <SelectManifestation point="0 0 10 16 0 0"/>
+    <EndBlock/>
+    <SelectByPlane/>
+    <InvertSelection/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 6 10 -7 -11"/>
+    <SelectManifestation point="0 0 6 10 -6 -10"/>
+    <SelectManifestation point="2 3 6 10 -7 -11"/>
+    <SelectManifestation point="2 3 7 11 -5 -8"/>
+    <SelectManifestation point="3 5 8 13 -4 -6"/>
+    <SelectManifestation point="1 2 8 13 -3 -5"/>
+    <SelectManifestation point="0 0 9 15 -2 -3"/>
+    <SelectManifestation point="-1 -2 8 13 -3 -5"/>
+    <SelectManifestation point="-3 -5 8 13 -4 -6"/>
+    <SelectManifestation point="-2 -3 7 11 -5 -8"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByOrbitLength length="1 1" orbit="yellow" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <InvertSelection/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 1 5 8 -8 -13" startSegment="-1 -1 5 8 -8 -13"/>
+    <SelectManifestation endSegment="4 7 7 11 -5 -8" startSegment="4 6 6 10 -6 -10"/>
+    <SelectManifestation endSegment="3 5 9 14 -2 -3" startSegment="2 3 9 15 -1 -2"/>
+    <SelectManifestation endSegment="-2 -3 9 15 -1 -2" startSegment="-3 -5 9 14 -2 -3"/>
+    <SelectManifestation endSegment="-4 -6 6 10 -6 -10" startSegment="-4 -7 7 11 -5 -8"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide/>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-134"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 10 16 0 0" startSegment="0 0 9 15 -2 -3"/>
+    <SelectManifestation endSegment="5 8 8 13 -3 -5" startSegment="3 5 8 13 -4 -6"/>
+    <SelectManifestation endSegment="3 5 5 8 -8 -13" startSegment="2 3 6 10 -7 -11"/>
+    <SelectManifestation endSegment="-2 -3 6 10 -7 -11" startSegment="-3 -5 5 8 -8 -13"/>
+    <SelectManifestation endSegment="-3 -5 8 13 -4 -6" startSegment="-5 -8 8 13 -3 -5"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
     <ShowHidden/>
     <DeselectAll/>
   </EditHistory>
@@ -61762,27 +61936,27 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="15" title="2-3 10y0 20y1 5y2">
+    <page snapshot="236" title="2-3 10y0 20y1 5y2">
       <ViewModel distance="477.65057373046875" far="955.3008422851562" near="1.194126844406128" parallel="false" stereoAngle="0.0" width="214.94281005859375">
         <LookAtPoint x="6.85410213470459" y="1.6180340051651" z="-6.85410213470459"/>
-        <UpDirection x="0.706620454788208" y="-0.14199820160865784" z="-0.693198025226593"/>
-        <LookDirection x="0.46491503715515137" y="-0.6453492641448975" z="0.606115460395813"/>
+        <UpDirection x="0.5827305912971497" y="-0.17719636857509613" z="-0.793110728263855"/>
+        <LookDirection x="0.08793538063764572" y="-0.956457257270813" z="0.2783033549785614"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="16" title="2-3 x 1">
+    <page snapshot="237" title="2-3 x 1">
       <ViewModel distance="477.65057373046875" far="955.3008422851562" near="1.194126844406128" parallel="false" stereoAngle="0.0" width="214.94281005859375">
         <LookAtPoint x="6.85410213470459" y="1.6180340051651" z="-6.85410213470459"/>
-        <UpDirection x="0.706620454788208" y="-0.14199820160865784" z="-0.693198025226593"/>
-        <LookDirection x="0.46491503715515137" y="-0.6453492641448975" z="0.606115460395813"/>
+        <UpDirection x="0.5827305912971497" y="-0.17719636857509613" z="-0.793110728263855"/>
+        <LookDirection x="0.08793538063764572" y="-0.956457257270813" z="0.2783033549785614"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="17" title="2-3 x 12">
+    <page snapshot="238" title="2-3 x 11">
       <ViewModel distance="477.65057373046875" far="955.3008422851562" near="1.194126844406128" parallel="false" stereoAngle="0.0" width="214.94281005859375">
         <LookAtPoint x="6.85410213470459" y="1.6180340051651" z="-6.85410213470459"/>
-        <UpDirection x="0.706620454788208" y="-0.14199820160865784" z="-0.693198025226593"/>
-        <LookDirection x="0.46491503715515137" y="-0.6453492641448975" z="0.606115460395813"/>
+        <UpDirection x="0.5827305912971497" y="-0.17719636857509613" z="-0.793110728263855"/>
+        <LookDirection x="0.08793538063764572" y="-0.956457257270813" z="0.2783033549785614"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
@@ -62985,10 +63159,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="477.65057373046875" far="955.3008422851562" near="1.194126844406128" parallel="false" stereoAngle="0.0" width="214.94281005859375">
+    <ViewModel distance="398.96728515625" far="797.934326171875" near="0.9974185228347778" parallel="false" stereoAngle="0.0" width="179.53533935546875">
       <LookAtPoint x="6.85410213470459" y="1.6180340051651" z="-6.85410213470459"/>
-      <UpDirection x="0.5827305912971497" y="-0.17719636857509613" z="-0.793110728263855"/>
-      <LookDirection x="0.08793538063764572" y="-0.956457257270813" z="0.2783033549785614"/>
+      <UpDirection x="0.6242330074310303" y="-0.32761791348457336" z="-0.7092236876487732"/>
+      <LookDirection x="-0.005315640941262245" y="-0.9095790982246399" z="0.41549384593963623"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
@@ -63042,7 +63216,7 @@
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-107" label="bookmark 107" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-108" label="bookmark 108" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-109" label="37" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-11" label="03" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-11" label="03" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-110" label="bookmark 110" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-111" label="38" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-112" label="39" selectInputs="true"/>
@@ -63068,6 +63242,8 @@
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-130" label="bookmark 130" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-131" label="39" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-132" label="bookmark 132" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-133" label="03" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-134" label="bookmark 134" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-14" label="04" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-15" label="bookmark 15" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-16" label="bookmark 16" selectInputs="true"/>

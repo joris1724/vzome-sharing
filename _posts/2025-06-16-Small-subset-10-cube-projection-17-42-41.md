@@ -1,5 +1,5 @@
 ---
-title: Small subset 10 cube projection
+title: Small subset 10-cube projection
 description: A selection of the Icosahedral projection of the 10-cube, revealing several non-intersecting polyhedra with icosahedral symmetry.
 image: https://joris1724.github.io/vzome-sharing/2025/06/16/17-42-41-Small-subset-10-cube-projection/Small-subset-10-cube-projection.png
 published: true
