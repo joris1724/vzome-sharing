@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
-  <EditHistory editNumber="5906" lastStickyEdit="5902">
+  <EditHistory editNumber="6730" lastStickyEdit="6726">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -10, -16, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -9, -15, 1 ], [ -1, -2, 1 ], [ -2, -3, 1 ] ], [ [ -9, -15, 1 ], [ -1, -2, 1 ], [ 2, 3, 1 ] ], [ [ -9, -15, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ -9, -15, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ -9, -14, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ -9, -14, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ -9, -14, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ -9, -14, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ -8, -13, 1 ], [ -1, -1, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ 1, 1, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ 5, 8, 1 ] ], [ [ -7, -11, 1 ], [ -5, -8, 1 ], [ -4, -7, 1 ] ], [ [ -7, -11, 1 ], [ -5, -8, 1 ], [ 4, 7, 1 ] ], [ [ -7, -11, 1 ], [ 5, 8, 1 ], [ -4, -7, 1 ] ], [ [ -7, -11, 1 ], [ 5, 8, 1 ], [ 4, 7, 1 ] ], [ [ -6, -10, 1 ], [ -6, -10, 1 ], [ -4, -6, 1 ] ], [ [ -6, -10, 1 ], [ -6, -10, 1 ], [ 4, 6, 1 ] ], [ [ -6, -10, 1 ], [ -4, -6, 1 ], [ -6, -10, 1 ] ], [ [ -6, -10, 1 ], [ 4, 6, 1 ], [ -6, -10, 1 ] ], [ [ -6, -10, 1 ], [ 6, 10, 1 ], [ -4, -6, 1 ] ], [ [ -6, -10, 1 ], [ 6, 10, 1 ], [ 4, 6, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ -3, -5, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ -1, -1, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ 1, 1, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ 3, 5, 1 ] ], [ [ -5, -8, 1 ], [ -4, -7, 1 ], [ -7, -11, 1 ] ], [ [ -5, -8, 1 ], [ 4, 7, 1 ], [ -7, -11, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ -3, -5, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ -1, -1, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ 1, 1, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ 3, 5, 1 ] ], [ [ -4, -7, 1 ], [ -7, -11, 1 ], [ -5, -8, 1 ] ], [ [ -4, -7, 1 ], [ -7, -11, 1 ], [ 5, 8, 1 ] ], [ [ -4, -7, 1 ], [ 7, 11, 1 ], [ -5, -8, 1 ] ], [ [ -4, -7, 1 ], [ 7, 11, 1 ], [ 5, 8, 1 ] ], [ [ -4, -6, 1 ], [ -6, -10, 1 ], [ -6, -10, 1 ] ], [ [ -4, -6, 1 ], [ -6, -10, 1 ], [ 6, 10, 1 ] ], [ [ -4, -6, 1 ], [ 6, 10, 1 ], [ -6, -10, 1 ] ], [ [ -4, -6, 1 ], [ 6, 10, 1 ], [ 6, 10, 1 ] ], [ [ -3, -5, 1 ], [ -9, -14, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ -9, -14, 1 ], [ 2, 3, 1 ] ], [ [ -3, -5, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ -3, -5, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ -3, -5, 1 ], [ 9, 14, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ 9, 14, 1 ], [ 2, 3, 1 ] ], [ [ -2, -3, 1 ], [ -9, -15, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ -9, -15, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ -9, -14, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ -9, -14, 1 ] ], [ [ -2, -3, 1 ], [ 9, 15, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ 9, 15, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ -2, -3, 1 ], [ -9, -15, 1 ] ], [ [ -1, -2, 1 ], [ 2, 3, 1 ], [ -9, -15, 1 ] ], [ [ -1, -1, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ -1, -1, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ -1, -1, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ -1, -1, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ 0, 0, 1 ], [ -10, -16, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -10, -16, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 10, 16, 1 ] ], [ [ 0, 0, 1 ], [ 10, 16, 1 ], [ 0, 0, 1 ] ], [ [ 1, 1, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ 1, 1, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ 1, 1, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ 1, 1, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ -9, -15, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ 9, 15, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ -9, -15, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ 9, 15, 1 ] ], [ [ 2, 3, 1 ], [ -9, -15, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ -9, -15, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ -3, -5, 1 ], [ -9, -14, 1 ] ], [ [ 2, 3, 1 ], [ -3, -5, 1 ], [ 9, 14, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ -9, -14, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ 9, 14, 1 ] ], [ [ 2, 3, 1 ], [ 9, 15, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ 9, 15, 1 ], [ 1, 2, 1 ] ], [ [ 3, 5, 1 ], [ -9, -14, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ -9, -14, 1 ], [ 2, 3, 1 ] ], [ [ 3, 5, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ 3, 5, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ 3, 5, 1 ], [ 9, 14, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ 9, 14, 1 ], [ 2, 3, 1 ] ], [ [ 4, 6, 1 ], [ -6, -10, 1 ], [ -6, -10, 1 ] ], [ [ 4, 6, 1 ], [ -6, -10, 1 ], [ 6, 10, 1 ] ], [ [ 4, 6, 1 ], [ 6, 10, 1 ], [ -6, -10, 1 ] ], [ [ 4, 6, 1 ], [ 6, 10, 1 ], [ 6, 10, 1 ] ], [ [ 4, 7, 1 ], [ -7, -11, 1 ], [ -5, -8, 1 ] ], [ [ 4, 7, 1 ], [ -7, -11, 1 ], [ 5, 8, 1 ] ], [ [ 4, 7, 1 ], [ 7, 11, 1 ], [ -5, -8, 1 ] ], [ [ 4, 7, 1 ], [ 7, 11, 1 ], [ 5, 8, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ -3, -5, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ -1, -1, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ 1, 1, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ 3, 5, 1 ] ], [ [ 5, 8, 1 ], [ -4, -7, 1 ], [ -7, -11, 1 ] ], [ [ 5, 8, 1 ], [ -4, -7, 1 ], [ 7, 11, 1 ] ], [ [ 5, 8, 1 ], [ 4, 7, 1 ], [ -7, -11, 1 ] ], [ [ 5, 8, 1 ], [ 4, 7, 1 ], [ 7, 11, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ -3, -5, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ -1, -1, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ 1, 1, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ 3, 5, 1 ] ], [ [ 6, 10, 1 ], [ -6, -10, 1 ], [ -4, -6, 1 ] ], [ [ 6, 10, 1 ], [ -6, -10, 1 ], [ 4, 6, 1 ] ], [ [ 6, 10, 1 ], [ -4, -6, 1 ], [ -6, -10, 1 ] ], [ [ 6, 10, 1 ], [ -4, -6, 1 ], [ 6, 10, 1 ] ], [ [ 6, 10, 1 ], [ 4, 6, 1 ], [ -6, -10, 1 ] ], [ [ 6, 10, 1 ], [ 4, 6, 1 ], [ 6, 10, 1 ] ], [ [ 6, 10, 1 ], [ 6, 10, 1 ], [ -4, -6, 1 ] ], [ [ 6, 10, 1 ], [ 6, 10, 1 ], [ 4, 6, 1 ] ], [ [ 7, 11, 1 ], [ -5, -8, 1 ], [ -4, -7, 1 ] ], [ [ 7, 11, 1 ], [ -5, -8, 1 ], [ 4, 7, 1 ] ], [ [ 7, 11, 1 ], [ 5, 8, 1 ], [ -4, -7, 1 ] ], [ [ 7, 11, 1 ], [ 5, 8, 1 ], [ 4, 7, 1 ] ], [ [ 8, 13, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ 8, 13, 1 ], [ -1, -1, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ -1, -1, 1 ], [ 5, 8, 1 ] ], [ [ 8, 13, 1 ], [ 1, 1, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ 1, 1, 1 ], [ 5, 8, 1 ] ], [ [ 8, 13, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ 3, 5, 1 ], [ 5, 8, 1 ] ], [ [ 9, 14, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ 9, 14, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ 9, 14, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ 9, 14, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ 9, 15, 1 ], [ -1, -2, 1 ], [ -2, -3, 1 ] ], [ [ 9, 15, 1 ], [ -1, -2, 1 ], [ 2, 3, 1 ] ], [ [ 9, 15, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ 9, 15, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ 10, 16, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ] ],
@@ -66241,7 +66241,9 @@
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
     </Hide>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-245" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-168" selectInputs="true"/>
@@ -66270,7 +66272,9 @@
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-252" selectInputs="true"/>
     <InvertSelection/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="-1 -2 -6 -9 9 15"/>
     <SelectNeighbors/>
@@ -66309,10 +66313,14 @@
     <EndBlock/>
     <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
     <BookmarkTool name="tool-254"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
     <BookmarkTool name="tool-255"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
@@ -66340,7 +66348,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
@@ -66370,7 +66380,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
@@ -66396,7 +66408,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-250" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -66405,11 +66419,15 @@
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
     <InvertSelection/>
     <BookmarkTool name="tool-256"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectManifestation point="-6 -10 0 0 10 16"/>
     <Delete/>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-238" selectInputs="true"/>
@@ -66434,7 +66452,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-252" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-252" selectInputs="true"/>
@@ -66448,7 +66468,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-252" selectInputs="true"/>
     <BookmarkTool name="tool-258"/>
     <DeselectAll/>
@@ -66457,7 +66479,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-255" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -66465,10 +66489,14 @@
     <EndBlock/>
     <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
     <InvertSelection/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
     <BookmarkTool name="tool-259"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
@@ -66563,7 +66591,9 @@
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-179" selectInputs="true"/>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-261" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-260" selectInputs="true"/>
@@ -66671,7 +66701,9 @@
     <EndBlock/>
     <Delete/>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
@@ -66702,7 +66734,9 @@
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-258" selectInputs="true"/>
     <InvertSelection/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="-6 -9 7 11 5 8"/>
     <SelectNeighbors/>
@@ -66748,7 +66782,9 @@
     <SelectManifestation endSegment="-6 -9 -7 -11 5 8" startSegment="-4 -7 -7 -11 5 8"/>
     <EndBlock/>
     <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
     <BookmarkTool name="tool-264"/>
     <DeselectAll/>
@@ -66758,7 +66794,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-260" selectInputs="true"/>
     <BookmarkTool name="tool-266"/>
     <DeselectAll/>
@@ -66768,7 +66806,9 @@
     <ApplyTool copyColors="true" name="tool-263" selectInputs="true"/>
     <BookmarkTool name="tool-268"/>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-238" selectInputs="true"/>
@@ -66787,9 +66827,13 @@
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-266" selectInputs="true"/>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-258" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-238" selectInputs="true"/>
@@ -66855,7 +66899,9 @@
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-200" selectInputs="true"/>
     <BookmarkTool name="tool-278"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-67" selectInputs="true"/>
     <BookmarkTool name="tool-279"/>
     <DeselectAll/>
@@ -66877,11 +66923,15 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-284" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-204" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
@@ -66957,7 +67007,9 @@
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-278" selectInputs="true"/>
     <SelectAll originLast="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-285" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-277" selectInputs="true"/>
@@ -66970,7 +67022,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-286" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-278" selectInputs="true"/>
@@ -66995,7 +67049,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-286" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-282" selectInputs="true"/>
@@ -67003,16 +67059,22 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-286" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-282" selectInputs="true"/>
     <ApplyTool copyColors="true" name="tool-278" selectInputs="true"/>
     <InvertSelection/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectManifestation point="-11 -18 -6 -9 3 5"/>
     <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="-10 -16 -9 -15 2 3"/>
     <DeselectAll/>
@@ -67023,14 +67085,942 @@
     <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
     <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
     <BookmarkTool name="tool-287"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll originLast="true"/>
     <BookmarkTool name="tool-288"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-286" selectInputs="true"/>
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-279" selectInputs="true"/>
     <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-287" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-288" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-288" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-286" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-284" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-288" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-286" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-286" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-288" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-284" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-287" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-288" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-287" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-276" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-271" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-271" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-272" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-273" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-271" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-8 -13 -7 -11 5 8" startSegment="-11 -18 -6 -9 3 5"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-8 -13 -7 -11 5 8" startSegment="-11 -18 -6 -9 3 5"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-8 -13 -7 -11 5 8"/>
+    <SelectManifestation point="-11 -18 -6 -9 3 5"/>
+    <EndBlock/>
+    <TauDivision>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </TauDivision>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 -7 -11 5 8"/>
+    <SelectManifestation point="-10 -16 -6 -10 4 6"/>
+    <SelectManifestation point="-11 -18 -6 -9 3 5"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-10 -16 -6 -10 4 6"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 -7 -11 5 8"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-289"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-286" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-289" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-10 -16 -8 -12 4 6"/>
+    <SelectManifestation point="-10 -16 -6 -10 4 6"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 -7 -11 5 8"/>
+    <SelectManifestation point="-10 -16 -8 -12 4 6"/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 -7 -11 5 8"/>
+    <SelectManifestation point="-10 -16 -8 -12 4 6"/>
+    <DeselectAll/>
+    <SelectManifestation point="-9 -14 -8 -13 5 7"/>
+    <SelectManifestation point="-9 -15 -7 -12 4 7"/>
+    <DeselectAll/>
+    <SelectManifestation point="-9 -15 -7 -12 4 7"/>
+    <SelectManifestation point="-10 -16 -6 -10 4 6"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-276" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-286" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-8 -13 -7 -11 5 8" startSegment="-11 -18 -6 -9 3 5"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-289" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-276" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-9 -15 -7 -12 4 7"/>
+    <SelectManifestation point="-10 -16 -6 -10 4 6"/>
+    <SelectManifestation point="-10 -16 -8 -12 4 6"/>
+    <SelectManifestation point="-11 -18 -6 -9 3 5"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool copyColors="true" name="tool-276" selectInputs="true"/>
+    <BookmarkTool name="tool-290"/>
+    <ApplyTool copyColors="true" name="tool-277" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-291"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-8 -13 -6 -10 3 5" startSegment="-9 -15 -5 -8 2 3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-10 -16 -6 -10 4 6" startSegment="-8 -13 -7 -11 5 8"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-288" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-272" selectInputs="true"/>
+    <BookmarkTool name="tool-292"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-273" selectInputs="true"/>
+    <BookmarkTool name="tool-293"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-274" selectInputs="true"/>
+    <BookmarkTool name="tool-294"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-290" selectInputs="true"/>
+    <BookmarkTool name="tool-295"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-277" selectInputs="true"/>
+    <BookmarkTool name="tool-296"/>
+    <ApplyTool copyColors="true" name="tool-291" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-297"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-296" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-297" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 8 13 -3 -5"/>
+    <SelectManifestation point="0 0 10 16 0 0"/>
+    <SelectManifestation point="5 8 8 13 3 5"/>
+    <SelectManifestation point="5 8 8 13 7 11"/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 8 13 -3 -5"/>
+    <SelectManifestation endSegment="8 13 10 16 3 5" startSegment="5 8 10 16 2 3"/>
+    <SelectManifestation endSegment="7 11 11 18 2 3" startSegment="5 8 11 18 1 2"/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 8 13 -3 -5"/>
+    <SelectManifestation point="0 0 10 16 0 0"/>
+    <SelectManifestation point="5 8 8 13 3 5"/>
+    <SelectManifestation point="7 11 11 18 2 3"/>
+    <EndBlock/>
+    <SelectByPlane/>
+    <InvertSelection/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation endSegment="9 15 8 13 0 0" startSegment="8 13 11 18 0 0"/>
+    <SelectManifestation endSegment="2 3 13 21 -1 -2" startSegment="0 0 13 21 -2 -3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="9 15 8 13 0 0" startSegment="8 13 11 18 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 3 13 21 -1 -2" startSegment="0 0 13 21 -2 -3"/>
+    <SelectManifestation endSegment="9 15 8 13 0 0" startSegment="8 13 11 18 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="7 11 8 13 0 0" startSegment="6 10 10 16 0 0"/>
+    <SelectManifestation endSegment="3 5 11 18 -2 -3" startSegment="2 3 10 16 -3 -5"/>
+    <EndBlock/>
+    <StrutIntersection/>
+    <BeginBlock/>
+    <SelectManifestation point="6 10 10 16 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="6 10 10 16 0 0"/>
+    <SelectManifestation point="5 8 13 21 0 0"/>
+    <SelectManifestation point="3 5 11 18 2 3"/>
+    <SelectManifestation point="2 3 9 15 -1 -2"/>
+    <DeselectAll/>
+    <SelectManifestation point="6 10 10 16 0 0"/>
+    <SelectManifestation point="2 3 9 15 -1 -2"/>
+    <SelectManifestation point="3 5 11 18 2 3"/>
+    <SelectManifestation point="5 8 13 21 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="5 8 13 21 0 0" startSegment="2 3 9 15 -1 -2"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="3 5 11 18 -2 -3"/>
+    <SelectManifestation point="5 8 13 21 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 12 19 3 5"/>
+    <SelectManifestation point="5 8 13 21 0 0"/>
+    <SelectManifestation point="2 3 13 21 1 2"/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 12 19 3 5"/>
+    <SelectManifestation point="2 3 13 21 1 2"/>
+    <SelectManifestation point="5 8 12 19 -3 -5"/>
+    <SelectManifestation point="2 3 13 21 -1 -2"/>
+    <SelectManifestation point="5 8 13 21 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 12 19 3 5"/>
+    <SelectManifestation point="5 8 13 21 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 13 21 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByOrbitLength length="6 10" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <SelectManifestation point="0 0 -5 -8 -13 -21"/>
+    <SelectManifestation point="0 0 5 8 -13 -21"/>
+    <SelectManifestation point="8 13 8 13 -8 -13"/>
+    <SelectManifestation point="13 21 0 0 -5 -8"/>
+    <SelectManifestation point="8 13 -8 -13 -8 -13"/>
+    <SelectNeighbors/>
+    <InvertSelection/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="-8 -13 3 5 5 8"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 5 8 -13 -21"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <BookmarkTool name="tool-298"/>
+    <InvertSelection/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-297" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-280" selectInputs="true"/>
+    <BookmarkTool name="tool-299"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-281" selectInputs="true"/>
+    <BookmarkTool name="tool-300"/>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectManifestation point="-10 -16 -10 -16 0 0"/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-300" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-301"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-297" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-300" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-302"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-300" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-283" selectInputs="true"/>
+    <BookmarkTool name="tool-303"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-284" selectInputs="true"/>
+    <BookmarkTool name="tool-304"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-288" selectInputs="true"/>
+    <BookmarkTool name="tool-305"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-287" selectInputs="true"/>
+    <BookmarkTool name="tool-306"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-302" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-300" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-300" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-303" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-304" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="7 11 0 0 11 18" startSegment="4 6 0 0 12 20"/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-302" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-300" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="8 13 3 5 11 18" startSegment="6 10 3 5 12 19"/>
+    <DeselectAll/>
+    <SelectManifestation point="4 6 2 4 12 20"/>
+    <SelectManifestation point="8 13 3 5 11 18"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="7 11 0 0 11 18" startSegment="4 6 0 0 12 20"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="3 5 -11 -18 8 13" startSegment="2 3 -10 -16 9 15"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 13 3 5 11 18"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="8 13 3 5 11 18" startSegment="6 10 3 5 12 19"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-2 -3 -13 -21 5 8" startSegment="-3 -5 -12 -19 6 10"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="8 13 3 5 11 18" dir="yellow" index="38" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 5 3 5 13 21"/>
+    <SelectManifestation endSegment="3 5 3 5 13 21" startSegment="8 13 3 5 11 18"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="8 13 3 5 11 18" startSegment="6 10 3 5 12 19"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="3 5 3 5 13 21" startSegment="8 13 3 5 11 18"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="3 5 3 5 13 21"/>
+    <SelectManifestation point="6 10 3 5 12 19"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 3 5 13 21"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="6 10 3 5 12 19" startSegment="3 5 3 5 13 21"/>
+    <SelectManifestation point="6 10 3 5 12 19"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <ApplyTool copyColors="true" name="tool-303" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-304" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 3 -10 -16 9 15" startSegment="0 0 -8 -13 11 18"/>
+    <SelectManifestation endSegment="2 3 -10 -16 9 15" startSegment="0 0 -8 -13 11 18"/>
+    <SelectManifestation endSegment="2 3 -10 -16 9 15" startSegment="0 0 -8 -13 11 18"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-304" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 -10 -16 9 15"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 -10 -16 9 15"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <SelectManifestation point="-3 -5 -12 -19 6 10"/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <setItemColor blue="224" green="224" red="224"/>
+    <SelectManifestation point="2 3 -10 -16 9 15"/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 -10 -16 9 15"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <setItemColor blue="242" green="242" red="242"/>
+    <ApplyTool copyColors="true" name="tool-300" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-302" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-300" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-304" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-303" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-297" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-302" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-304" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-304" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-297" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-289" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-293" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-294" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-295" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-238" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-98" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-109" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-111" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-131" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-220" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-222" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-223" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-224" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-239" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-240" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 6 10 -7 -11"/>
+    <SelectManifestation point="2 3 6 10 -7 -11"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-241" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-297" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 5 8 -8 -13"/>
+    <SelectManifestation endSegment="2 3 5 8 -10 -16" startSegment="0 0 7 11 -8 -13"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-289" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -7 -11 8 13"/>
+    <SelectManifestation point="-1 -2 -8 -13 9 15"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 -2 -8 -13 9 15" startSegment="0 0 -7 -11 8 13"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-289" selectInputs="true"/>
+    <BookmarkTool name="tool-307"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-292" selectInputs="true"/>
+    <BookmarkTool name="tool-308"/>
+    <SelectManifestation endSegment="3 5 8 13 -10 -16" startSegment="2 3 5 8 -10 -16"/>
+    <ApplyTool copyColors="true" name="tool-293" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="3 5 8 13 -10 -16" startSegment="0 0 8 13 -11 -18"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-293" selectInputs="true"/>
+    <BookmarkTool name="tool-309"/>
+    <ApplyTool copyColors="true" name="tool-308" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-294" selectInputs="true"/>
+    <BookmarkTool name="tool-310"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-295" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -8 -12 10 16"/>
+    <SelectManifestation point="-1 -2 -8 -13 9 15"/>
+    <SelectManifestation point="0 0 -8 -14 10 16"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-295" selectInputs="true"/>
+    <BookmarkTool name="tool-311"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 8 13 -8 -13" startSegment="1 1 5 8 -8 -13"/>
+    <SelectManifestation endSegment="2 3 8 13 -8 -13" startSegment="1 1 5 8 -8 -13"/>
+    <SelectManifestation endSegment="5 8 6 10 -8 -13" startSegment="4 6 3 5 -8 -13"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-296" selectInputs="true"/>
+    <BookmarkTool name="tool-312"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-265" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-266" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-267" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-268" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-269" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-270" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-307" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-308" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-309" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-310" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-311" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-310" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 6 10 -7 -11" startSegment="0 0 6 10 -6 -10"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-312" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-312" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-310" selectInputs="true"/>
+    <SelectManifestation endSegment="2 3 6 10 -7 -11" startSegment="0 0 6 10 -6 -10"/>
+    <ApplyTool copyColors="true" name="tool-312" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-310" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-312" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-310" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-313"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-236" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-237" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-238" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-239" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-240" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-241" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-242" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-243" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-244" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-248" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-249" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-256" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-257" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-258" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-264" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-266" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-267" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-268" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-269" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-270" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-307" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-308" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-309" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-310" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-311" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-313" selectInputs="true"/>
+    <BookmarkTool name="tool-314"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-314" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-298" selectInputs="true"/>
+    <BookmarkTool name="tool-315"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-299" selectInputs="true"/>
+    <BookmarkTool name="tool-316"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-300" selectInputs="true"/>
+    <BookmarkTool name="tool-317"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-318"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-307" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-308" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-309" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-308" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-310" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-311" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-11 -18 -4 -7 3 5"/>
+    <SelectManifestation point="-12 -20 -4 -6 2 4"/>
+    <SelectManifestation point="-12 -19 -3 -5 3 4"/>
+    <SelectManifestation point="-13 -21 -3 -4 2 3"/>
+    <SelectNeighbors/>
+    <AdjustSelectionByOrbitLength length="2 2" orbit="blue" panels="IGNORE" struts="DESELECT" symmetry="icosahedral"/>
+    <AdjustSelectionByOrbitLength length="2 4" orbit="blue" panels="IGNORE" struts="DESELECT" symmetry="icosahedral"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-310" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-313" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-311" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-311" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-313" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-315" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-316" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-317" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <InvertSelection/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-303" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-270" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ShowHidden/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-318" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="-13 -21 -7 -12 2 3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <InvertSelection/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-318" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <StrutCreation anchor="-8 -13 -6 -10 -7 -11" dir="yellow" index="6" len="2 3"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-11 -18 0 0 -8 -13" startSegment="-13 -21 -2 -3 -6 -10"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-13 -21 -5 -8 2 3"/>
+    <SelectManifestation endSegment="-11 -18 -8 -13 3 5" startSegment="-13 -21 -5 -8 2 3"/>
+    <DeselectAll/>
+    <SelectManifestation point="-13 -21 -5 -8 2 3"/>
+    <SelectNeighbors/>
+    <InvertSelection/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <AdjustSelectionByOrbitLength length="1 2" orbit="yellow" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <DeselectAll/>
+    <ShowHidden/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-318" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <InvertSelection/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="-13 -21 -7 -12 2 3"/>
+    <SelectNeighbors/>
+    <SelectManifestation endSegment="-11 -18 -8 -13 3 5" startSegment="-13 -21 -5 -8 2 3"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <InvertSelection/>
+    <BookmarkTool name="tool-319"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-320"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 -8 -13 8 13"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-318" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-313" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Branch>
+      <ApplyTool copyColors="true" name="tool-315" selectInputs="true"/>
+      <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="-8 -13 -8 -13 8 13"/>
+      <EndBlock/>
+      <ApplyTool copyColors="false" name="tool-149" selectInputs="true"/>
+      <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+      <ApplyTool copyColors="true" name="tool-138" selectInputs="true"/>
+      <SelectNeighbors/>
+      <Delete/>
+      <SelectAll originLast="true"/>
+      <Branch>
+        <BookmarkTool name="tool-321"/>
+        <BookmarkTool name="tool-322"/>
+      </Branch>
+    </Branch>
+    <ShowHidden/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-322" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-318" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-322" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-316" selectInputs="true"/>
+    <BookmarkTool name="tool-323"/>
+    <BeginBlock/>
+    <InvertSelection/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-323" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-322" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-317" selectInputs="true"/>
+    <BookmarkTool name="tool-324"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-305" selectInputs="true"/>
+    <BookmarkTool name="tool-325"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-306" selectInputs="true"/>
+    <BookmarkTool name="tool-326"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-303" selectInputs="true"/>
+    <BookmarkTool name="tool-327"/>
+    <SelectAll originLast="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-318" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-319" selectInputs="true"/>
+    <BookmarkTool name="tool-328"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-320" selectInputs="true"/>
+    <BookmarkTool name="tool-329"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-327" selectInputs="true"/>
+    <BookmarkTool name="tool-330"/>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-331"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-324" selectInputs="true"/>
+    <InvertSelection/>
+    <Hide/>
   </EditHistory>
   <notes>
     <page snapshot="230" title="Step 0/44 55b0 110b1 5b3">
@@ -68408,36 +69398,242 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="398.96728515625" far="797.9328002929688" near="0.9974173903465271" parallel="false" stereoAngle="0.0" width="179.53553771972656">
+    <ViewModel distance="407.02703857421875" far="814.0519409179688" near="1.017566442489624" parallel="false" stereoAngle="0.0" width="183.1624755859375">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.074690081179142" y="-0.5668330192565918" z="-0.8204172253608704"/>
-      <LookDirection x="0.7187814116477966" y="0.5396614074707031" z="-0.4382801949977875"/>
+      <UpDirection x="0.5279569625854492" y="-0.18997545540332794" z="-0.8277276158332825"/>
+      <LookDirection x="-0.4623025059700012" y="-0.8818744421005249" z="-0.09246303886175156"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
-    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
-    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
-    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="5" orbit="[[11,-6,19],[11,-6,19]]" prototype="-8 5 10 -7 8 -5"/>
+    <Direction color="255,255,255" name="6" orbit="[[31,-19,1],[-16,10,1]]" prototype="-2 1 21 -12 6 -4"/>
+    <Direction color="255,255,255" name="3" orbit="[[-14,9,11],[9,-5,11]]" prototype="-5 4 -2 1 9 -5"/>
+    <Direction color="255,255,255" name="4" orbit="[[2,-1,5],[-1,1,5]]" prototype="0 1 11 -7 1 0"/>
     <Direction color="255,255,255" name="1" orbit="[[6,-1,29],[-1,5,29]]" prototype="-6 4 -8 4 10 -6"/>
-    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
     <Direction color="255,255,255" name="2" orbit="[[0,0,1],[2,-1,3]]" prototype="2 -1 -4 3 0 -1"/>
+    <Direction color="255,255,255" name="141" orbit="[[-8,11,29],[13,-7,29]]" prototype="-5 3 15 -10 -6 3"/>
     <Direction color="255,255,255" name="0" orbit="[[-8,5,2],[-3,2,2]]" prototype="1 -1 -12 8 -7 4"/>
-    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
-    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="255,255,255" name="140" orbit="[[16,-7,19],[5,-1,19]]" prototype="-15 9 -1 0 -4 3"/>
+    <Direction color="255,255,255" name="143" orbit="[[3,-1,3],[0,0,1]]" prototype="-8 5 1 0 -4 2"/>
+    <Direction color="255,255,255" name="142" orbit="[[-3,3,4],[2,-1,4]]" prototype="11 -6 7 -5 0 0"/>
+    <Direction color="255,255,255" name="145" orbit="[[10,-6,1],[-8,5,1]]" prototype="-3 1 -4 3 -6 4"/>
+    <Direction color="255,255,255" name="144" orbit="[[-1,1,5],[0,0,1]]" prototype="0 1 9 -6 4 -2"/>
+    <Direction color="255,255,255" name="147" orbit="[[1,0,2],[5,-3,2]]" prototype="4 -2 5 -3 6 -3"/>
+    <Direction color="255,255,255" name="146" orbit="[[2,-1,4],[1,0,4]]" prototype="-7 5 -4 3 4 -2"/>
+    <Direction color="255,255,255" name="149" orbit="[[-1,1,5],[-2,2,5]]" prototype="-6 4 -10 5 3 -2"/>
+    <Direction color="255,255,255" name="148" orbit="[[-3,2,4],[3,-1,4]]" prototype="-8 4 8 -5 7 -4"/>
+    <Direction color="255,255,255" name="39" orbit="[[1,1,7],[0,0,1]]" prototype="10 -7 6 -3 18 -11"/>
+    <Direction color="255,255,255" name="38" orbit="[[0,0,1],[-3,2,1]]" prototype="5 -3 7 -4 -6 3"/>
+    <Direction color="255,255,255" name="35" orbit="[[0,0,1],[6,-1,29]]" prototype="4 -3 6 -3 -12 7"/>
+    <Direction color="255,255,255" name="34" orbit="[[-20,13,29],[13,-7,29]]" prototype="17 -11 11 -6 2 -1"/>
+    <Direction color="255,255,255" name="37" orbit="[[-7,5,11],[-14,10,11]]" prototype="10 -6 5 -4 -5 3"/>
+    <Direction color="255,255,255" name="36" orbit="[[7,-4,3],[-3,2,3]]" prototype="11 -7 5 -3 -3 3"/>
+    <Direction color="255,255,255" name="31" orbit="[[0,0,1],[-1,1,2]]" prototype="1 -1 -5 4 8 -5"/>
+    <Direction color="255,255,255" name="30" orbit="[[2,-1,1],[-11,7,5]]" prototype="-8 5 -7 5 1 0"/>
+    <Direction color="255,255,255" name="33" orbit="[[12,-7,11],[-7,5,11]]" prototype="2 -1 1 -1 -11 6"/>
+    <Direction color="255,255,255" name="32" orbit="[[-6,4,1],[0,0,1]]" prototype="-7 5 17 -10 -8 5"/>
+    <Direction color="255,255,255" name="9" orbit="[[-2,7,59],[7,5,59]]" prototype="-7 5 -25 16 12 -7"/>
+    <Direction color="255,255,255" name="7" orbit="[[-4,5,29],[5,1,29]]" prototype="-2 2 -12 8 4 -2"/>
+    <Direction color="255,255,255" name="8" orbit="[[-1,1,3],[6,-2,15]]" prototype="-6 3 -20 13 14 -9"/>
+    <Direction color="255,255,255" name="130" orbit="[[-3,2,1],[13,-8,1]]" prototype="0 -1 2 -1 8 -5"/>
+    <Direction color="255,255,255" name="132" orbit="[[1,0,5],[1,0,5]]" prototype="-2 2 9 -6 3 -1"/>
+    <Direction color="255,255,255" name="131" orbit="[[3,1,11],[0,0,1]]" prototype="-2 2 -1 0 5 -3"/>
+    <Direction color="255,255,255" name="134" orbit="[[9,-5,11],[-10,8,11]]" prototype="-6 4 -5 2 -5 3"/>
+    <Direction color="255,255,255" name="133" orbit="[[-7,5,11],[0,0,1]]" prototype="1 -1 2 -2 -7 4"/>
+    <Direction color="255,255,255" name="136" orbit="[[-1,1,4],[2,-1,4]]" prototype="1 0 -7 5 -6 4"/>
+    <Direction color="255,255,255" name="135" orbit="[[-4,3,2],[-3,2,2]]" prototype="-4 2 -3 2 7 -5"/>
+    <Direction color="255,255,255" name="138" orbit="[[4,3,19],[-17,11,19]]" prototype="-4 3 -5 3 -15 10"/>
+    <Direction color="255,255,255" name="137" orbit="[[-1,1,2],[-4,3,10]]" prototype="-2 2 -11 6 5 -3"/>
+    <Direction color="255,255,255" name="49" orbit="[[-6,5,19],[-17,11,19]]" prototype="-15 9 -7 4 6 -3"/>
+    <Direction color="255,255,255" name="139" orbit="[[-4,3,5],[-1,1,5]]" prototype="3 -2 -6 3 13 -9"/>
+    <Direction color="255,255,255" name="46" orbit="[[-1,1,7],[0,0,1]]" prototype="21 -14 -5 3 0 0"/>
+    <Direction color="255,255,255" name="45" orbit="[[-14,12,29],[-20,13,29]]" prototype="-13 9 10 -6 13 -8"/>
+    <Direction color="255,255,255" name="48" orbit="[[12,-7,11],[31,-19,11]]" prototype="-17 11 -15 10 2 -1"/>
+    <Direction color="255,255,255" name="47" orbit="[[6,-1,29],[13,-7,29]]" prototype="11 -6 -12 7 1 -1"/>
+    <Direction color="255,255,255" name="42" orbit="[[-29,18,1],[13,-8,1]]" prototype="8 -5 0 -1 18 -11"/>
+    <Direction color="255,255,255" name="41" orbit="[[11,-6,19],[-23,16,19]]" prototype="-12 7 6 -3 -18 11"/>
+    <Direction color="255,255,255" name="44" orbit="[[-6,7,55],[-19,13,55]]" prototype="-28 17 -1 1 -11 6"/>
+    <Direction color="255,255,255" name="43" orbit="[[-22,14,5],[-4,3,5]]" prototype="14 -8 -9 6 -1 1"/>
+    <Direction color="255,255,255" name="40" orbit="[[-19,12,1],[13,-8,1]]" prototype="-5 4 -9 5 -10 6"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="121" orbit="[[-6,4,3],[-4,3,3]]" prototype="7 -4 3 -3 10 -6"/>
+    <Direction color="255,255,255" name="120" orbit="[[-4,5,29],[-13,9,29]]" prototype="-14 8 2 -2 6 -4"/>
+    <Direction color="255,255,255" name="123" orbit="[[-3,2,2],[5,-3,2]]" prototype="9 -6 -1 0 -3 2"/>
+    <Direction color="255,255,255" name="122" orbit="[[4,-1,11],[-19,13,11]]" prototype="-12 7 3 -1 -1 0"/>
+    <Direction color="255,255,255" name="125" orbit="[[2,-1,2],[7,-4,2]]" prototype="7 -4 -9 5 -4 2"/>
+    <Direction color="255,255,255" name="124" orbit="[[9,-5,11],[0,0,1]]" prototype="-3 1 -6 4 -1 0"/>
+    <Direction color="255,255,255" name="127" orbit="[[-4,3,3],[-1,1,3]]" prototype="-3 3 -7 4 2 -1"/>
+    <Direction color="255,255,255" name="126" orbit="[[18,-11,1],[-21,13,1]]" prototype="-1 1 7 -4 -16 9"/>
+    <Direction color="255,255,255" name="17" orbit="[[-26,17,55],[17,-9,55]]" prototype="13 -8 32 -19 -21 13"/>
+    <Direction color="255,255,255" name="129" orbit="[[3,-1,10],[-4,3,10]]" prototype="-8 6 -3 2 -5 3"/>
+    <Direction color="255,255,255" name="16" orbit="[[-26,17,11],[17,-9,11]]" prototype="-6 4 18 -12 10 -6"/>
+    <Direction color="255,255,255" name="128" orbit="[[11,-6,19],[-1,4,19]]" prototype="4 -3 12 -7 -4 3"/>
+    <Direction color="255,255,255" name="19" orbit="[[-6,5,19],[5,-1,19]]" prototype="-6 3 -5 3 9 -6"/>
+    <Direction color="255,255,255" name="18" orbit="[[32,-19,55],[-19,13,55]]" prototype="-17 11 -15 10 28 -17"/>
+    <Direction color="255,255,255" name="13" orbit="[[-5,4,11],[4,-1,11]]" prototype="9 -5 25 -16 -14 9"/>
+    <Direction color="255,255,255" name="12" orbit="[[24,-13,19],[-13,11,19]]" prototype="-2 1 -23 15 3 -2"/>
+    <Direction color="255,255,255" name="15" orbit="[[18,-11,5],[-11,7,5]]" prototype="-6 3 11 -7 9 -6"/>
+    <Direction color="255,255,255" name="14" orbit="[[-22,19,59],[19,-3,59]]" prototype="11 -7 -31 20 -18 11"/>
+    <Direction color="255,255,255" name="11" orbit="[[-50,31,11],[31,-19,11]]" prototype="21 -13 5 -4 -34 21"/>
+    <Direction color="255,255,255" name="10" orbit="[[-13,10,61],[-13,10,61]]" prototype="-17 10 3 -1 22 -14"/>
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="110" orbit="[[-4,3,10],[-1,2,10]]" prototype="4 -2 -7 5 -6 3"/>
+    <Direction color="255,255,255" name="112" orbit="[[2,-1,5],[3,-1,5]]" prototype="-10 7 7 -5 1 0"/>
+    <Direction color="255,255,255" name="111" orbit="[[-8,6,5],[-4,3,5]]" prototype="-3 1 -6 4 -3 2"/>
+    <Direction color="255,255,255" name="114" orbit="[[-2,3,11],[0,0,1]]" prototype="-10 7 -11 7 11 -6"/>
+    <Direction color="255,255,255" name="113" orbit="[[-12,15,29],[-13,9,29]]" prototype="15 -10 8 -5 -3 1"/>
+    <Direction color="255,255,255" name="116" orbit="[[18,-11,1],[5,-3,1]]" prototype="1 0 -10 7 5 -3"/>
+    <Direction color="255,255,255" name="115" orbit="[[1,0,4],[-1,1,4]]" prototype="6 -3 1 0 6 -4"/>
+    <Direction color="255,255,255" name="28" orbit="[[5,-2,11],[5,-2,11]]" prototype="6 -4 3 -1 2 -1"/>
+    <Direction color="255,255,255" name="118" orbit="[[-1,1,2],[0,0,1]]" prototype="2 -1 -3 1 -9 6"/>
+    <Direction color="255,255,255" name="27" orbit="[[4,-1,11],[9,-5,11]]" prototype="3 -2 6 -3 -3 1"/>
+    <Direction color="255,255,255" name="117" orbit="[[0,0,1],[4,-1,11]]" prototype="-4 2 0 -1 3 -2"/>
+    <Direction color="255,255,255" name="29" orbit="[[-7,9,19],[0,0,1]]" prototype="5 -3 -7 5 -9 5"/>
+    <Direction color="255,255,255" name="119" orbit="[[17,-9,11],[0,0,1]]" prototype="-7 5 10 -6 1 0"/>
+    <Direction color="255,255,255" name="24" orbit="[[0,1,5],[-1,1,5]]" prototype="1 0 12 -7 11 -7"/>
+    <Direction color="255,255,255" name="23" orbit="[[-1,3,11],[0,0,1]]" prototype="3 -2 -3 1 -2 2"/>
+    <Direction color="255,255,255" name="26" orbit="[[5,-1,19],[0,0,1]]" prototype="-6 3 7 -4 6 -4"/>
+    <Direction color="30,144,255" name="25" orbit="[[-6,7,11],[9,-5,11]]" prototype="-5 2 -4 3 -5 3"/>
+    <Direction color="255,255,255" name="20" orbit="[[-16,11,41],[11,-5,41]]" prototype="1 0 28 -17 -1 1"/>
+    <Direction color="255,255,255" name="22" orbit="[[7,-4,5],[7,-4,5]]" prototype="5 -3 5 -3 -3 1"/>
+    <Direction color="255,255,255" name="21" orbit="[[-8,5,3],[5,-3,3]]" prototype="-4 3 -13 9 7 -4"/>
+    <Direction color="255,255,255" name="101" orbit="[[0,1,3],[5,-3,3]]" prototype="7 -5 9 -6 8 -5"/>
     <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="255,255,255" name="100" orbit="[[4,1,19],[7,-3,19]]" prototype="-5 3 -11 6 -2 1"/>
+    <Direction color="255,255,255" name="103" orbit="[[14,-8,5],[-4,3,5]]" prototype="2 -1 -2 1 -10 7"/>
+    <Direction color="255,255,255" name="102" orbit="[[-4,3,5],[0,0,1]]" prototype="-7 5 11 -6 2 -1"/>
+    <Direction color="255,255,255" name="105" orbit="[[7,-4,5],[0,0,1]]" prototype="-9 6 -16 9 -1 1"/>
+    <Direction color="255,255,255" name="104" orbit="[[-14,9,11],[-1,3,11]]" prototype="-1 0 6 -3 7 -5"/>
+    <Direction color="255,255,255" name="107" orbit="[[-12,9,5],[-11,7,5]]" prototype="8 -5 -3 1 -9 6"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="255,255,255" name="106" orbit="[[0,0,1],[-2,3,11]]" prototype="-12 8 14 -8 -2 2"/>
+    <Direction color="255,255,255" name="109" orbit="[[-7,6,29],[-7,6,29]]" prototype="-6 3 -7 4 12 -8"/>
+    <Direction color="255,255,255" name="108" orbit="[[2,-1,1],[-7,5,11]]" prototype="1 -1 3 -2 -16 9"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
     <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
     <Direction color="239,245,61" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
-    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
-    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="255,255,255" name="200" orbit="[[0,0,1],[-1,1,3]]" prototype="-10 6 -18 12 0 0"/>
+    <Direction color="255,255,255" name="202" orbit="[[-16,13,11],[-7,5,11]]" prototype="-5 3 -5 4 -12 7"/>
+    <Direction color="255,255,255" name="201" orbit="[[-8,5,1],[0,0,1]]" prototype="9 -6 22 -13 -11 7"/>
+    <Direction color="255,255,255" name="204" orbit="[[9,-1,71],[0,0,1]]" prototype="-7 5 -32 20 17 -10"/>
+    <Direction color="255,255,255" name="203" orbit="[[-27,17,19],[14,-6,19]]" prototype="15 -10 -5 3 -20 12"/>
+    <Direction color="255,255,255" name="206" orbit="[[-1,3,22],[4,-1,22]]" prototype="15 -9 -2 2 -19 12"/>
+    <Direction color="255,255,255" name="205" orbit="[[-11,12,31],[7,-2,31]]" prototype="-12 8 -8 5 17 -10"/>
+    <Direction color="255,255,255" name="208" orbit="[[-3,2,2],[0,0,1]]" prototype="9 -5 -15 10 2 -1"/>
+    <Direction color="255,255,255" name="207" orbit="[[8,-3,31],[-3,5,31]]" prototype="-9 5 -1 0 14 -9"/>
     <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
     <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
-    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
-    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
-    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
     <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
-    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="255,255,255" name="97" orbit="[[-1,2,5],[0,0,1]]" prototype="3 -2 0 -1 -9 5"/>
+    <Direction color="255,255,255" name="96" orbit="[[-14,9,1],[-21,13,1]]" prototype="-8 5 -13 9 1 0"/>
+    <Direction color="255,255,255" name="99" orbit="[[0,0,1],[3,-1,5]]" prototype="9 -5 -1 0 6 -3"/>
+    <Direction color="255,255,255" name="98" orbit="[[1,0,3],[-3,2,3]]" prototype="2 -1 -5 2 4 -2"/>
+    <Direction color="255,255,255" name="93" orbit="[[4,-2,3],[2,-1,3]]" prototype="-7 4 -3 1 2 -2"/>
+    <Direction color="255,255,255" name="92" orbit="[[-3,2,3],[-3,2,3]]" prototype="-3 1 1 -1 -7 5"/>
+    <Direction color="255,255,255" name="95" orbit="[[-1,2,5],[7,-4,5]]" prototype="-10 6 8 -4 14 -8"/>
+    <Direction color="255,255,255" name="94" orbit="[[7,-4,1],[13,-8,1]]" prototype="8 -4 -1 0 5 -3"/>
+    <Direction color="255,255,255" name="190" orbit="[[-3,2,1],[5,-3,1]]" prototype="-9 5 17 -10 -2 1"/>
+    <Direction color="255,255,255" name="192" orbit="[[2,-1,2],[2,-1,2]]" prototype="2 -1 15 -9 5 -4"/>
+    <Direction color="255,255,255" name="191" orbit="[[2,-1,1],[9,-5,11]]" prototype="6 -3 11 -7 -5 4"/>
+    <Direction color="255,255,255" name="194" orbit="[[-24,17,11],[9,-5,11]]" prototype="9 -6 2 -1 -13 7"/>
+    <Direction color="255,255,255" name="193" orbit="[[18,-11,5],[3,-1,5]]" prototype="-1 1 -11 6 8 -5"/>
+    <Direction color="255,255,255" name="196" orbit="[[4,-1,11],[0,0,1]]" prototype="14 -9 -15 9 15 -10"/>
+    <Direction color="255,255,255" name="195" orbit="[[12,-7,11],[17,-9,11]]" prototype="9 -5 1 0 -12 7"/>
+    <Direction color="255,255,255" name="198" orbit="[[2,-1,3],[0,0,1]]" prototype="14 -9 -19 11 7 -4"/>
+    <Direction color="255,255,255" name="197" orbit="[[-24,15,1],[5,-3,1]]" prototype="7 -4 -10 7 9 -5"/>
+    <Direction color="255,255,255" name="199" orbit="[[24,-13,19],[7,-3,19]]" prototype="18 -11 -5 3 11 -6"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
     <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
     <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+    <Direction color="255,255,255" name="80" orbit="[[-11,7,10],[-4,3,10]]" prototype="-16 9 2 -1 4 -3"/>
+    <Direction color="255,255,255" name="181" orbit="[[17,-10,19],[17,-10,19]]" prototype="-19 12 -9 6 1 0"/>
+    <Direction color="255,255,255" name="180" orbit="[[-3,2,3],[1,0,3]]" prototype="-2 2 6 -3 1 0"/>
+    <Direction color="255,255,255" name="183" orbit="[[7,-4,2],[5,-3,2]]" prototype="-11 7 6 -3 -6 4"/>
+    <Direction color="255,255,255" name="182" orbit="[[-3,4,19],[-3,4,19]]" prototype="4 -2 -7 5 8 -5"/>
+    <Direction color="255,255,255" name="185" orbit="[[0,0,1],[-1,3,11]]" prototype="0 0 -6 4 -24 14"/>
+    <Direction color="255,255,255" name="184" orbit="[[8,-2,11],[-14,9,11]]" prototype="-8 6 -4 3 3 -2"/>
+    <Direction color="255,255,255" name="187" orbit="[[2,-1,1],[5,-3,3]]" prototype="-8 5 3 -3 9 -6"/>
+    <Direction color="255,255,255" name="186" orbit="[[-4,3,3],[5,-3,3]]" prototype="-3 1 3 -2 -10 7"/>
+    <Direction color="255,255,255" name="189" orbit="[[12,1,31],[-9,7,31]]" prototype="-19 11 7 -4 8 -5"/>
+    <Direction color="255,255,255" name="188" orbit="[[-2,5,31],[-9,7,31]]" prototype="1 -1 5 -2 12 -7"/>
+    <Direction color="255,255,255" name="79" orbit="[[-13,14,19],[11,-6,19]]" prototype="2 -2 17 -10 -5 3"/>
+    <Direction color="255,255,255" name="78" orbit="[[-11,7,5],[-8,6,5]]" prototype="12 -8 28 -18 -14 8"/>
+    <Direction color="255,255,255" name="75" orbit="[[3,-1,15],[0,0,1]]" prototype="-10 7 14 -9 12 -7"/>
+    <Direction color="255,255,255" name="74" orbit="[[-26,17,5],[-33,21,5]]" prototype="-15 9 -27 16 4 -3"/>
+    <Direction color="255,255,255" name="77" orbit="[[-3,2,4],[-1,1,4]]" prototype="3 -2 8 -4 -8 5"/>
+    <Direction color="255,255,255" name="76" orbit="[[-8,5,1],[-21,13,1]]" prototype="-7 4 12 -7 -3 1"/>
+    <Direction color="255,255,255" name="71" orbit="[[13,-8,1],[13,-8,1]]" prototype="8 -5 0 -1 8 -5"/>
+    <Direction color="255,255,255" name="70" orbit="[[9,-4,29],[9,-4,29]]" prototype="-3 1 11 -7 -9 5"/>
+    <Direction color="255,255,255" name="73" orbit="[[18,-10,11],[-14,9,11]]" prototype="-12 7 -5 4 -4 2"/>
+    <Direction color="255,255,255" name="72" orbit="[[-13,11,19],[-20,14,19]]" prototype="-14 8 9 -6 -15 9"/>
+    <Direction color="255,255,255" name="91" orbit="[[12,-7,2],[-3,2,2]]" prototype="-13 8 9 -5 -12 8"/>
+    <Direction color="255,255,255" name="170" orbit="[[14,-6,19],[-10,7,19]]" prototype="1 0 16 -10 -4 3"/>
+    <Direction color="255,255,255" name="90" orbit="[[0,0,1],[-4,5,29]]" prototype="-9 5 -2 2 -9 6"/>
+    <Direction color="255,255,255" name="172" orbit="[[13,-8,2],[5,-3,2]]" prototype="-10 6 -1 1 20 -13"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="255,255,255" name="171" orbit="[[-13,11,19],[0,0,1]]" prototype="-11 6 -11 7 0 0"/>
+    <Direction color="255,255,255" name="174" orbit="[[-5,4,4],[5,-3,4]]" prototype="8 -4 14 -9 13 -8"/>
+    <Direction color="255,255,255" name="173" orbit="[[-11,7,5],[0,0,1]]" prototype="-3 1 8 -5 0 0"/>
+    <Direction color="255,255,255" name="176" orbit="[[-10,7,19],[7,-3,19]]" prototype="-1 0 14 -9 1 -1"/>
+    <Direction color="255,255,255" name="175" orbit="[[-2,2,3],[2,-1,3]]" prototype="-1 0 9 -6 3 -2"/>
+    <Direction color="255,255,255" name="178" orbit="[[-11,7,5],[-22,14,5]]" prototype="1 0 -7 4 -17 10"/>
+    <Direction color="255,255,255" name="177" orbit="[[2,-1,4],[-3,2,4]]" prototype="-6 3 -6 4 9 -5"/>
+    <Direction color="255,255,255" name="179" orbit="[[-9,12,19],[17,-10,19]]" prototype="-13 8 -11 6 -9 6"/>
+    <Direction color="176,224,230" name="89" orbit="[[-8,5,1],[-11,7,1]]" prototype="-4 3 7 -5 1 0"/>
+    <Direction color="255,255,255" name="86" orbit="[[0,0,1],[2,-1,2]]" prototype="-9 6 -4 3 -7 5"/>
+    <Direction color="255,255,255" name="85" orbit="[[5,-3,1],[-16,10,1]]" prototype="-7 4 -8 4 -2 1"/>
+    <Direction color="255,255,255" name="88" orbit="[[1,0,3],[2,-1,3]]" prototype="-20 13 7 -5 13 -8"/>
+    <Direction color="255,255,255" name="87" orbit="[[2,-1,2],[0,0,1]]" prototype="-7 4 10 -7 1 -1"/>
+    <Direction color="255,255,255" name="82" orbit="[[21,-8,19],[11,-6,19]]" prototype="-19 11 4 -2 -3 2"/>
+    <Direction color="255,255,255" name="81" orbit="[[-2,3,11],[17,-9,11]]" prototype="-5 4 -2 1 -11 7"/>
+    <Direction color="255,255,255" name="84" orbit="[[22,-13,29],[-13,9,29]]" prototype="-8 5 13 -7 13 -8"/>
+    <Direction color="255,255,255" name="83" orbit="[[-1,4,19],[11,-6,19]]" prototype="-6 3 -12 7 2 -1"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="161" orbit="[[5,-3,1],[-22,14,5]]" prototype="22 -13 6 -4 9 -5"/>
+    <Direction color="255,255,255" name="160" orbit="[[-3,2,4],[5,-3,4]]" prototype="17 -10 -2 2 -2 1"/>
+    <Direction color="255,255,255" name="163" orbit="[[-3,2,1],[7,-4,5]]" prototype="-3 1 11 -7 5 -3"/>
+    <Direction color="255,255,255" name="162" orbit="[[-3,5,31],[0,0,1]]" prototype="7 -5 11 -7 -9 5"/>
+    <Direction color="255,255,255" name="165" orbit="[[-11,7,1],[0,0,1]]" prototype="3 -2 -2 2 6 -3"/>
+    <Direction color="255,255,255" name="164" orbit="[[-11,7,5],[14,-8,5]]" prototype="1 -1 4 -3 12 -8"/>
+    <Direction color="255,255,255" name="167" orbit="[[15,-6,11],[-19,12,11]]" prototype="-13 8 5 -4 9 -6"/>
+    <Direction color="255,255,255" name="166" orbit="[[0,0,1],[2,-1,5]]" prototype="-9 5 0 -1 6 -4"/>
+    <Direction color="255,255,255" name="169" orbit="[[-3,5,31],[16,-6,31]]" prototype="-1 0 12 -8 -14 9"/>
+    <Direction color="255,255,255" name="168" orbit="[[0,1,4],[-3,2,4]]" prototype="-1 1 8 -5 8 -4"/>
+    <Direction color="255,255,255" name="57" orbit="[[0,0,1],[-3,2,3]]" prototype="-7 4 30 -19 -7 5"/>
+    <Direction color="255,255,255" name="56" orbit="[[6,-3,2],[0,0,1]]" prototype="30 -18 0 0 8 -4"/>
+    <Direction color="255,255,255" name="59" orbit="[[-22,14,5],[18,-11,5]]" prototype="-6 4 7 -4 19 -11"/>
+    <Direction color="255,255,255" name="58" orbit="[[0,0,1],[-8,5,1]]" prototype="0 0 -5 3 0 -1"/>
+    <Direction color="184,134,11" name="53" orbit="[[1,0,2],[0,0,1]]" prototype="1 0 8 -5 3 -1"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="255,255,255" name="52" orbit="[[5,-3,4],[-4,3,4]]" prototype="-3 1 -16 10 -9 6"/>
+    <Direction color="255,255,255" name="55" orbit="[[-1,1,2],[-8,5,2]]" prototype="12 -8 -4 3 3 -2"/>
+    <Direction color="255,255,255" name="54" orbit="[[-22,23,29],[13,-7,29]]" prototype="-17 10 -8 5 13 -9"/>
+    <Direction color="255,255,255" name="51" orbit="[[-14,10,11],[12,-7,11]]" prototype="3 -2 12 -8 -6 3"/>
+    <Direction color="255,255,255" name="50" orbit="[[1,5,19],[0,0,1]]" prototype="8 -4 30 -18 -16 10"/>
+    <Direction color="255,255,255" name="150" orbit="[[-4,6,11],[0,0,1]]" prototype="28 -18 20 -12 0 0"/>
+    <Direction color="255,255,255" name="152" orbit="[[-3,3,5],[0,0,1]]" prototype="-15 10 15 -9 0 0"/>
+    <Direction color="255,255,255" name="151" orbit="[[-10,8,11],[4,-1,11]]" prototype="2 -1 -5 2 6 -4"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="154" orbit="[[18,-10,11],[4,-1,11]]" prototype="8 -6 2 -1 7 -4"/>
+    <Direction color="255,255,255" name="153" orbit="[[0,0,1],[0,1,5]]" prototype="-6 3 13 -8 -6 4"/>
+    <Direction color="255,255,255" name="156" orbit="[[14,-8,5],[18,-11,5]]" prototype="-13 8 -3 1 10 -6"/>
+    <Direction color="255,255,255" name="155" orbit="[[7,-2,31],[7,-2,31]]" prototype="3 -2 3 -2 -11 8"/>
+    <Direction color="255,255,255" name="158" orbit="[[-33,21,5],[0,0,1]]" prototype="-14 9 6 -4 19 -11"/>
+    <Direction color="255,255,255" name="157" orbit="[[10,-2,19],[-6,5,19]]" prototype="5 -3 -10 7 -6 4"/>
+    <Direction color="255,255,255" name="159" orbit="[[0,0,1],[-10,7,19]]" prototype="1 -1 7 -5 11 -7"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,255,255" name="68" orbit="[[0,0,1],[14,-3,29]]" prototype="12 -7 0 1 -8 5"/>
+    <Direction color="255,255,255" name="67" orbit="[[17,-9,11],[24,-14,11]]" prototype="-16 10 5 -4 11 -7"/>
+    <Direction color="255,255,255" name="69" orbit="[[-21,15,11],[24,-14,11]]" prototype="-2 1 -6 3 -22 13"/>
+    <Direction color="255,255,255" name="64" orbit="[[10,-4,11],[12,-7,11]]" prototype="-8 5 5 -4 -6 4"/>
+    <Direction color="255,255,255" name="63" orbit="[[1,0,6],[-1,1,6]]" prototype="-6 3 -12 7 14 -9"/>
+    <Direction color="255,255,255" name="66" orbit="[[-3,2,1],[0,0,1]]" prototype="-2 2 10 -6 0 0"/>
+    <Direction color="255,255,255" name="65" orbit="[[5,-3,4],[2,-1,4]]" prototype="-12 7 -10 7 2 -1"/>
+    <Direction color="255,192,203" name="60" orbit="[[-4,3,5],[-11,7,5]]" prototype="7 -5 3 -2 4 -3"/>
+    <Direction color="255,255,255" name="62" orbit="[[-2,10,29],[-20,13,29]]" prototype="-1 0 5 -3 18 -12"/>
+    <Direction color="255,255,255" name="61" orbit="[[7,-4,10],[3,-1,10]]" prototype="4 -2 4 -3 11 -6"/>
   </SymmetrySystem>
   <OtherSymmetries>
     <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
@@ -68647,31 +69843,74 @@
     <Tool copyColors="true" deleteInputs="false" id="tool-269" label="18" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-27" label="11" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-270" label="19" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-271" label="20" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-272" label="21" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-273" label="22" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-274" label="22a" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-271" label="20" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-272" label="21" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-273" label="22" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-274" label="22a" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-275" label="bookmark 275" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-276" label="22b" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-277" label="23" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-276" label="22b" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-277" label="23" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-278" label="23a" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-279" label="24" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-279" label="24" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-28" label="bookmark 28" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-280" label="25" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-281" label="26" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-280" label="25" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-281" label="26" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-282" label="27" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-283" label="28" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-284" label="28a" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-283" label="28" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-284" label="28a" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-285" label="00-22b" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-286" label="00-23" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-287" label="27a" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-288" label="27" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-286" label="00-23" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-287" label="27a" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-288" label="27" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-289" label="20" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-29" label="bookmark 29" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-290" label="22b" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-291" label="00-23" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-292" label="21" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-293" label="22" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-294" label="22a" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-295" label="22b" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-296" label="23" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-297" label="00-23" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-298" label="24" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-299" label="25" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-3" label="02" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-30" label="09" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-300" label="26" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-301" label="00-26" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-302" label="00-25" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-303" label="28" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-304" label="28a" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-305" label="27" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-306" label="27a" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-307" label="20" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-308" label="21" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-309" label="22" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-31" label="bookmark 31" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-310" label="22a" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-311" label="22b" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-312" label="23" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-313" label="23" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-314" label="00-23" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-315" label="24" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-316" label="25" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-317" label="26" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-318" label="00-26" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-319" label="27" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-32" label="bookmark 32" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-320" label="27a" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-321" label="bookmark 321" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-322" label="24" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-323" label="25" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-324" label="26" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-325" label="27" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-326" label="27a" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-327" label="28" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-328" label="27" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-329" label="27a" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-33" label="14" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-330" label="28" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-331" label="00-28" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-34" label="bookmark 34" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-35" label="15" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-36" label="bookmark 36" selectInputs="true"/>
