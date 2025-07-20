@@ -4,6 +4,7 @@ description: A larger selection of the Icosahedral projection of the 10-cube, re
 image: https://joris1724.github.io/vzome-sharing/2025/06/19/13-46-06-Larger-subset-10-cube-projection/Larger-subset-10-cube-projection.png
 published: yes
 layout: vzome
+tags: [polytopes]
 ---
 
 {% comment %}
