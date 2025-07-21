@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
-  <EditHistory editNumber="1036" lastStickyEdit="1034">
+  <EditHistory editNumber="1089" lastStickyEdit="1087">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -10, -16, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -9, -15, 1 ], [ -1, -2, 1 ], [ -2, -3, 1 ] ], [ [ -9, -15, 1 ], [ -1, -2, 1 ], [ 2, 3, 1 ] ], [ [ -9, -15, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ -9, -15, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ -9, -14, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ -9, -14, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ -9, -14, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ -9, -14, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ -8, -13, 1 ], [ -1, -1, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ -1, -1, 1 ], [ 5, 8, 1 ] ], [ [ -8, -13, 1 ], [ 1, 1, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ 1, 1, 1 ], [ 5, 8, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ 5, 8, 1 ] ], [ [ -7, -11, 1 ], [ -5, -8, 1 ], [ -4, -7, 1 ] ], [ [ -7, -11, 1 ], [ -5, -8, 1 ], [ 4, 7, 1 ] ], [ [ -7, -11, 1 ], [ 5, 8, 1 ], [ -4, -7, 1 ] ], [ [ -7, -11, 1 ], [ 5, 8, 1 ], [ 4, 7, 1 ] ], [ [ -6, -10, 1 ], [ -6, -10, 1 ], [ -4, -6, 1 ] ], [ [ -6, -10, 1 ], [ -6, -10, 1 ], [ 4, 6, 1 ] ], [ [ -6, -10, 1 ], [ -4, -6, 1 ], [ -6, -10, 1 ] ], [ [ -6, -10, 1 ], [ -4, -6, 1 ], [ 6, 10, 1 ] ], [ [ -6, -10, 1 ], [ 4, 6, 1 ], [ -6, -10, 1 ] ], [ [ -6, -10, 1 ], [ 4, 6, 1 ], [ 6, 10, 1 ] ], [ [ -6, -10, 1 ], [ 6, 10, 1 ], [ -4, -6, 1 ] ], [ [ -6, -10, 1 ], [ 6, 10, 1 ], [ 4, 6, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ -3, -5, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ -1, -1, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ 1, 1, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ 3, 5, 1 ] ], [ [ -5, -8, 1 ], [ -4, -7, 1 ], [ -7, -11, 1 ] ], [ [ -5, -8, 1 ], [ -4, -7, 1 ], [ 7, 11, 1 ] ], [ [ -5, -8, 1 ], [ 4, 7, 1 ], [ -7, -11, 1 ] ], [ [ -5, -8, 1 ], [ 4, 7, 1 ], [ 7, 11, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ -3, -5, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ -1, -1, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ 1, 1, 1 ] ], [ [ -5, -8, 1 ], [ 8, 13, 1 ], [ 3, 5, 1 ] ], [ [ -4, -7, 1 ], [ -7, -11, 1 ], [ -5, -8, 1 ] ], [ [ -4, -7, 1 ], [ -7, -11, 1 ], [ 5, 8, 1 ] ], [ [ -4, -7, 1 ], [ 7, 11, 1 ], [ -5, -8, 1 ] ], [ [ -4, -7, 1 ], [ 7, 11, 1 ], [ 5, 8, 1 ] ], [ [ -4, -6, 1 ], [ -6, -10, 1 ], [ -6, -10, 1 ] ], [ [ -4, -6, 1 ], [ -6, -10, 1 ], [ 6, 10, 1 ] ], [ [ -4, -6, 1 ], [ 6, 10, 1 ], [ -6, -10, 1 ] ], [ [ -4, -6, 1 ], [ 6, 10, 1 ], [ 6, 10, 1 ] ], [ [ -3, -5, 1 ], [ -9, -14, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ -9, -14, 1 ], [ 2, 3, 1 ] ], [ [ -3, -5, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ -3, -5, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ -3, -5, 1 ], [ 9, 14, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ 9, 14, 1 ], [ 2, 3, 1 ] ], [ [ -2, -3, 1 ], [ -9, -15, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ -9, -15, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ -9, -14, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ 9, 14, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ -9, -14, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ 9, 14, 1 ] ], [ [ -2, -3, 1 ], [ 9, 15, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ 9, 15, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ -2, -3, 1 ], [ -9, -15, 1 ] ], [ [ -1, -2, 1 ], [ -2, -3, 1 ], [ 9, 15, 1 ] ], [ [ -1, -2, 1 ], [ 2, 3, 1 ], [ -9, -15, 1 ] ], [ [ -1, -2, 1 ], [ 2, 3, 1 ], [ 9, 15, 1 ] ], [ [ -1, -1, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ -1, -1, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ -1, -1, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ -1, -1, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ 0, 0, 1 ], [ -10, -16, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -10, -16, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 10, 16, 1 ] ], [ [ 0, 0, 1 ], [ 10, 16, 1 ], [ 0, 0, 1 ] ], [ [ 1, 1, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ 1, 1, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ 1, 1, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ 1, 1, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ -9, -15, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ 9, 15, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ -9, -15, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ 9, 15, 1 ] ], [ [ 2, 3, 1 ], [ -9, -15, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ -9, -15, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ -3, -5, 1 ], [ -9, -14, 1 ] ], [ [ 2, 3, 1 ], [ -3, -5, 1 ], [ 9, 14, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ -9, -14, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ 9, 14, 1 ] ], [ [ 2, 3, 1 ], [ 9, 15, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ 9, 15, 1 ], [ 1, 2, 1 ] ], [ [ 3, 5, 1 ], [ -9, -14, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ -9, -14, 1 ], [ 2, 3, 1 ] ], [ [ 3, 5, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ 3, 5, 1 ], [ -5, -8, 1 ], [ 8, 13, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ 8, 13, 1 ] ], [ [ 3, 5, 1 ], [ 9, 14, 1 ], [ -2, -3, 1 ] ], [ [ 3, 5, 1 ], [ 9, 14, 1 ], [ 2, 3, 1 ] ], [ [ 4, 6, 1 ], [ -6, -10, 1 ], [ -6, -10, 1 ] ], [ [ 4, 6, 1 ], [ -6, -10, 1 ], [ 6, 10, 1 ] ], [ [ 4, 6, 1 ], [ 6, 10, 1 ], [ -6, -10, 1 ] ], [ [ 4, 6, 1 ], [ 6, 10, 1 ], [ 6, 10, 1 ] ], [ [ 4, 7, 1 ], [ -7, -11, 1 ], [ -5, -8, 1 ] ], [ [ 4, 7, 1 ], [ -7, -11, 1 ], [ 5, 8, 1 ] ], [ [ 4, 7, 1 ], [ 7, 11, 1 ], [ -5, -8, 1 ] ], [ [ 4, 7, 1 ], [ 7, 11, 1 ], [ 5, 8, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ -3, -5, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ -1, -1, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ 1, 1, 1 ] ], [ [ 5, 8, 1 ], [ -8, -13, 1 ], [ 3, 5, 1 ] ], [ [ 5, 8, 1 ], [ -4, -7, 1 ], [ -7, -11, 1 ] ], [ [ 5, 8, 1 ], [ -4, -7, 1 ], [ 7, 11, 1 ] ], [ [ 5, 8, 1 ], [ 4, 7, 1 ], [ -7, -11, 1 ] ], [ [ 5, 8, 1 ], [ 4, 7, 1 ], [ 7, 11, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ -3, -5, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ -1, -1, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ 1, 1, 1 ] ], [ [ 5, 8, 1 ], [ 8, 13, 1 ], [ 3, 5, 1 ] ], [ [ 6, 10, 1 ], [ -6, -10, 1 ], [ -4, -6, 1 ] ], [ [ 6, 10, 1 ], [ -6, -10, 1 ], [ 4, 6, 1 ] ], [ [ 6, 10, 1 ], [ -4, -6, 1 ], [ -6, -10, 1 ] ], [ [ 6, 10, 1 ], [ -4, -6, 1 ], [ 6, 10, 1 ] ], [ [ 6, 10, 1 ], [ 4, 6, 1 ], [ -6, -10, 1 ] ], [ [ 6, 10, 1 ], [ 4, 6, 1 ], [ 6, 10, 1 ] ], [ [ 6, 10, 1 ], [ 6, 10, 1 ], [ -4, -6, 1 ] ], [ [ 6, 10, 1 ], [ 6, 10, 1 ], [ 4, 6, 1 ] ], [ [ 7, 11, 1 ], [ -5, -8, 1 ], [ -4, -7, 1 ] ], [ [ 7, 11, 1 ], [ -5, -8, 1 ], [ 4, 7, 1 ] ], [ [ 7, 11, 1 ], [ 5, 8, 1 ], [ -4, -7, 1 ] ], [ [ 7, 11, 1 ], [ 5, 8, 1 ], [ 4, 7, 1 ] ], [ [ 8, 13, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ 8, 13, 1 ], [ -1, -1, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ -1, -1, 1 ], [ 5, 8, 1 ] ], [ [ 8, 13, 1 ], [ 1, 1, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ 1, 1, 1 ], [ 5, 8, 1 ] ], [ [ 8, 13, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ 8, 13, 1 ], [ 3, 5, 1 ], [ 5, 8, 1 ] ], [ [ 9, 14, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ 9, 14, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ 9, 14, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ 9, 14, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ 9, 15, 1 ], [ -1, -2, 1 ], [ -2, -3, 1 ] ], [ [ 9, 15, 1 ], [ -1, -2, 1 ], [ 2, 3, 1 ] ], [ [ 9, 15, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ 9, 15, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ 10, 16, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ] ],
@@ -37758,7 +37758,60 @@
     <Snapshot id="327"/>
     <DeselectAll/>
     <Snapshot id="328"/>
+    <BeginBlock/>
     <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-50" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-3 -5 -11 -18 8 13" startSegment="-3 -5 -13 -21 7 11"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -5 -11 -18 8 13"/>
+    <SelectManifestation point="0 0 -13 -21 8 13"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -5 -11 -18 8 13"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 -13 -21 8 13" startSegment="-3 -5 -11 -18 8 13"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 -13 -21 8 13" startSegment="-3 -5 -11 -18 8 13"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 -13 -21 8 13" startSegment="-3 -5 -11 -18 8 13"/>
+    <SelectManifestation endSegment="0 0 -10 -16 10 16" startSegment="0 0 -13 -21 8 13"/>
+    <SelectManifestation endSegment="8 13 0 0 13 21" startSegment="5 8 -2 -3 13 21"/>
+    <SelectManifestation endSegment="8 13 0 0 13 21" startSegment="5 8 2 3 13 21"/>
+    <SelectManifestation endSegment="-13 -21 -8 -13 0 0" startSegment="-10 -16 -10 -16 0 0"/>
+    <SelectManifestation endSegment="-11 -18 -8 -13 3 5" startSegment="-13 -21 -8 -13 0 0"/>
+    <SelectManifestation endSegment="-13 -21 -8 -13 0 0" startSegment="-10 -16 -10 -16 0 0"/>
+    <SelectManifestation endSegment="-13 -21 -5 -8 2 3" startSegment="-13 -21 -8 -13 0 0"/>
+    <SelectManifestation endSegment="0 0 13 21 8 13" startSegment="-3 -5 11 18 8 13"/>
+    <SelectManifestation endSegment="0 0 13 21 8 13" startSegment="0 0 10 16 10 16"/>
+    <EndBlock/>
+    <Hide/>
+    <SelectManifestation endSegment="-3 -5 -11 -18 8 13" startSegment="-3 -5 -13 -21 7 11"/>
+    <ApplyTool copyColors="false" name="tool-66" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-65" selectInputs="true"/>
+    <SelectManifestation endSegment="0 0 -13 -21 8 13" startSegment="-3 -5 -11 -18 8 13"/>
+    <ApplyTool copyColors="false" name="tool-66" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-65" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-152"/>
+    <ShowHidden/>
     <DeselectAll/>
   </EditHistory>
   <notes>
@@ -38434,7 +38487,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="88" title="21-22 1y1 3y2">
+    <page snapshot="88" title="21-22 1b3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38466,7 +38519,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="92" title="22-23 2y0 2y1">
+    <page snapshot="92" title="22-23 1y1 3y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38498,7 +38551,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="96" title="23-24 5y1">
+    <page snapshot="96" title="23-24 2y0 2y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38530,7 +38583,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="100" title="24-25 4y1 4y2 1y3">
+    <page snapshot="100" title="24-25 5y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38562,7 +38615,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="104" title="25-26 2b1 2r1 6y1 8y2 2y3">
+    <page snapshot="104" title="25-26 4y1 4y2 1y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38594,7 +38647,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="108" title="26-27 2b0 2b1 1r0 2y1 1y2">
+    <page snapshot="108" title="26-27 2b1 2r1 6y1 8y2 2y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38626,7 +38679,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="112" title="27-28 1b1 2r0 2r1">
+    <page snapshot="112" title="27-28 2b0 2b1 1r0 2y1 1y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38658,7 +38711,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="116" title="28-29 6y2 2y3">
+    <page snapshot="116" title="28-29 1b1 2r0 2r1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38690,7 +38743,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="120" title="29-30 4b0 4y1">
+    <page snapshot="120" title="29-30 6y2 2y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38722,7 +38775,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="124" title="30-31 12b0 6y1">
+    <page snapshot="124" title="30-31 4b0 4y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38754,7 +38807,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="128" title="31-32 2y2">
+    <page snapshot="128" title="31-32 12b0 6y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38786,7 +38839,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="132" title="32-33 9y2 1y3">
+    <page snapshot="132" title="32-33 2y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38818,7 +38871,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="136" title="33-34 2y1 2y2">
+    <page snapshot="136" title="33-34 9y2 1y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38850,7 +38903,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="140" title="34-35 3y1 3y2">
+    <page snapshot="140" title="34-35 2y1 2y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38882,7 +38935,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="144" title="35-36 4b0 2b1 2b2 12y1 14y2">
+    <page snapshot="144" title="35-36 3y1 3y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38914,7 +38967,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="148" title="36-37 2b1 1b2">
+    <page snapshot="148" title="36-37 4b0 2b1 2b2 12y1 14y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38946,7 +38999,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="152" title="37-38 255b0 226b1 20b2 5b3 25r0 40r1 610y0 1985y1 2209y2 157y3">
+    <page snapshot="152" title="37-38 2b1 1b2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -38978,7 +39031,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="202" title="38-39 255b0 236b1 90b2 5b3 35r0 60r1 15r2 700y0 2470y1 3140y2 610y3">
+    <page snapshot="202" title="38-39 4y2 2y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39010,7 +39063,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="206" title="39-40 265b0 256b1 110b2 10b3 35r0 60r1 15r2 700y0 2480y1 3160y2 610y3">
+    <page snapshot="206" title="39-40 2y1 4y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39042,7 +39095,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="210" title="40-41 285b0 256b1 110b2 10b3 35r0 60r1 15r2 700y0 2490y1 3160y2 610y3">
+    <page snapshot="210" title="40-41 2b1 8b2 1r2 2y1 2y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39074,7 +39127,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="214" title="41-42 285b0 256b1 110b2 10b3 35r0 60r1 15r2 700y0 2490y1 3250y2 610y3">
+    <page snapshot="214" title="41-42 2y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39106,7 +39159,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="218" title="42-43 285b0 256b1 110b2 10b3 35r0 60r1 25r2 700y0 2490y1 3280y2 610y3">
+    <page snapshot="218" title="42-43 6y0 6y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39138,7 +39191,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="222" title="43-44 3b0 2y1">
+    <page snapshot="222" title="43-44 2y1 2y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39170,7 +39223,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="226" title="44-45 3b3 1r2 6y2 4y3">
+    <page snapshot="226" title="44-45 6b2 2y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39202,7 +39255,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="230" title="45-46 3b3 6y2">
+    <page snapshot="230" title="45-46 2y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39234,7 +39287,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="234" title="46-47 2r2 2y1">
+    <page snapshot="234" title="46-47 2y1 4y2 4y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39266,7 +39319,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="238" title="47-48 2r1 2r2 2y1 4y2 3y3">
+    <page snapshot="238" title="47-48 5y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39298,7 +39351,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="242" title="48-49 319b0 262b1 111b2 55b3 35r0 140r1 120r2 700y0 2690y1 3530y2 750y3">
+    <page snapshot="242" title="48-49 2r1 3y1 2y2 2y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39330,7 +39383,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="246" title="49-50 335b0 286b1 115b2 56b3 35r0 140r1 120r2 700y0 2690y1 3530y2 750y3">
+    <page snapshot="246" title="49-50 2r0 2r1 2y1 10y2 6y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39362,7 +39415,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="250" title="50-51 ">
+    <page snapshot="250" title="50-51 5y2 3y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39394,7 +39447,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="254" title="51-52 ">
+    <page snapshot="254" title="51-52 2b0 4b1 4b2 1b3 2y1 4y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39426,7 +39479,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="258" title="52-53 ">
+    <page snapshot="258" title="52-53 2b0 1y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39458,7 +39511,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="262" title="53-54 ">
+    <page snapshot="262" title="53-54 3y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39490,7 +39543,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="266" title="54-55 ">
+    <page snapshot="266" title="54-55 2r2 6y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39522,7 +39575,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="270" title="55-56 ">
+    <page snapshot="270" title="55-56 2y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39554,7 +39607,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="297" title="56-57 ">
+    <page snapshot="297" title="56-57 3b0 2y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39586,7 +39639,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="301" title="57-58 ">
+    <page snapshot="301" title="57-58 3b3 1r2 6y2 4y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39618,7 +39671,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="305" title="58-59 ">
+    <page snapshot="305" title="58-59 3b3 6y2">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39650,7 +39703,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="309" title="59-60 ">
+    <page snapshot="309" title="59-60 2r2 2y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39682,7 +39735,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="313" title="60-61 ">
+    <page snapshot="313" title="60-61 2r1 2r2 2y1 4y2 3y3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39714,7 +39767,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="321" title="61-62 ">
+    <page snapshot="321" title="61-62 4b0 6b1 1b2 2r2 2y1">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39746,7 +39799,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="325" title="62-63 ">
+    <page snapshot="325" title="62-63 1b3">
       <ViewModel distance="487.29974365234375" far="974.5991821289062" near="1.2182499170303345" parallel="false" stereoAngle="0.0" width="219.28509521484375">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="0.8082494735717773" y="-0.2384806126356125" z="-0.5383860468864441"/>
@@ -39894,6 +39947,7 @@
     <Tool copyColors="true" deleteInputs="false" id="tool-15" label="15" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-150" label="bookmark 150" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-151" label="bookmark 151" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-152" label="49" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-16" label="16" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-17" label="17" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-18" label="18" selectInputs="true"/>
@@ -39932,7 +39986,7 @@
     <Tool copyColors="true" deleteInputs="false" id="tool-48" label="47" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-49" label="48" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-5" label="05" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-50" label="49" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-50" label="49" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-51" label="50" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-52" label="51" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-53" label="52" selectInputs="true"/>
