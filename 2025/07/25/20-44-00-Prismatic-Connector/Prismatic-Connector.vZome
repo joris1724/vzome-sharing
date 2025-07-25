@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
+  <EditHistory editNumber="14" lastStickyEdit="7">
+    <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -8, -13, 2 ], [ 13, 20, 4 ], [ -13, -22, 4 ] ], [ [ -8, -13, 2 ], [ 13, 20, 4 ], [ 1, 2, 4 ] ], [ [ -8, -13, 2 ], [ 7, 11, 2 ], [ -5, -8, 2 ] ], [ [ -8, -13, 2 ], [ 7, 11, 2 ], [ -1, -2, 2 ] ], [ [ -8, -13, 2 ], [ 13, 21, 2 ], [ -5, -8, 2 ] ], [ [ -8, -13, 2 ], [ 13, 21, 2 ], [ -1, -2, 2 ] ], [ [ -8, -13, 2 ], [ 27, 44, 4 ], [ -13, -22, 4 ] ], [ [ -8, -13, 2 ], [ 27, 44, 4 ], [ 1, 2, 4 ] ], [ [ -3, -6, 4 ], [ 0, 0, 1 ], [ -13, -22, 4 ] ], [ [ -3, -6, 4 ], [ 0, 0, 1 ], [ 1, 2, 4 ] ], [ [ -3, -6, 4 ], [ 10, 16, 1 ], [ -13, -22, 4 ] ], [ [ -3, -6, 4 ], [ 10, 16, 1 ], [ 1, 2, 4 ] ], [ [ -1, -2, 2 ], [ 7, 11, 2 ], [ -5, -8, 2 ] ], [ [ -1, -2, 2 ], [ 7, 11, 2 ], [ -1, -2, 2 ] ], [ [ -1, -2, 2 ], [ 8, 13, 2 ], [ -13, -22, 4 ] ], [ [ -1, -2, 2 ], [ 8, 13, 2 ], [ -5, -8, 2 ] ], [ [ -1, -2, 2 ], [ 8, 13, 2 ], [ -1, -2, 2 ] ], [ [ -1, -2, 2 ], [ 8, 13, 2 ], [ 1, 2, 4 ] ], [ [ -1, -2, 2 ], [ 12, 19, 2 ], [ -13, -22, 4 ] ], [ [ -1, -2, 2 ], [ 12, 19, 2 ], [ -5, -8, 2 ] ], [ [ -1, -2, 2 ], [ 12, 19, 2 ], [ -1, -2, 2 ] ], [ [ -1, -2, 2 ], [ 12, 19, 2 ], [ 1, 2, 4 ] ], [ [ -1, -2, 2 ], [ 13, 21, 2 ], [ -5, -8, 2 ] ], [ [ -1, -2, 2 ], [ 13, 21, 2 ], [ -1, -2, 2 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 7, 11, 2 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 7, 11, 2 ], [ -5, -8, 2 ] ], [ [ 0, 0, 1 ], [ 7, 11, 2 ], [ -1, -2, 2 ] ], [ [ 0, 0, 1 ], [ 7, 11, 2 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 8, 13, 2 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 8, 13, 2 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 12, 19, 2 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 12, 19, 2 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 13, 21, 2 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 13, 21, 2 ], [ -5, -8, 2 ] ], [ [ 0, 0, 1 ], [ 13, 21, 2 ], [ -1, -2, 2 ] ], [ [ 0, 0, 1 ], [ 13, 21, 2 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 10, 16, 1 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 10, 16, 1 ], [ 0, 0, 1 ] ], [ [ 2, 3, 2 ], [ 5, 8, 1 ], [ -3, -5, 2 ] ], [ [ 2, 3, 1 ], [ 0, 0, 1 ], [ -3, -5, 1 ] ], [ [ 2, 3, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 2, 3, 1 ], [ 7, 11, 2 ], [ -3, -5, 1 ] ], [ [ 2, 3, 1 ], [ 7, 11, 2 ], [ -5, -8, 2 ] ], [ [ 2, 3, 1 ], [ 7, 11, 2 ], [ -1, -2, 2 ] ], [ [ 2, 3, 1 ], [ 7, 11, 2 ], [ 0, 0, 1 ] ], [ [ 2, 3, 1 ], [ 8, 13, 2 ], [ -3, -5, 1 ] ], [ [ 2, 3, 1 ], [ 8, 13, 2 ], [ 0, 0, 1 ] ], [ [ 2, 3, 1 ], [ 12, 19, 2 ], [ -3, -5, 1 ] ], [ [ 2, 3, 1 ], [ 12, 19, 2 ], [ 0, 0, 1 ] ], [ [ 2, 3, 1 ], [ 13, 21, 2 ], [ -3, -5, 1 ] ], [ [ 2, 3, 1 ], [ 13, 21, 2 ], [ -5, -8, 2 ] ], [ [ 2, 3, 1 ], [ 13, 21, 2 ], [ -1, -2, 2 ] ], [ [ 2, 3, 1 ], [ 13, 21, 2 ], [ 0, 0, 1 ] ], [ [ 2, 3, 1 ], [ 10, 16, 1 ], [ -3, -5, 1 ] ], [ [ 2, 3, 1 ], [ 10, 16, 1 ], [ 0, 0, 1 ] ], [ [ 5, 8, 2 ], [ 7, 11, 2 ], [ -5, -8, 2 ] ], [ [ 5, 8, 2 ], [ 7, 11, 2 ], [ -1, -2, 2 ] ], [ [ 5, 8, 2 ], [ 8, 13, 2 ], [ -13, -22, 4 ] ], [ [ 5, 8, 2 ], [ 8, 13, 2 ], [ -5, -8, 2 ] ], [ [ 5, 8, 2 ], [ 8, 13, 2 ], [ -1, -2, 2 ] ], [ [ 5, 8, 2 ], [ 8, 13, 2 ], [ 1, 2, 4 ] ], [ [ 5, 8, 2 ], [ 12, 19, 2 ], [ -13, -22, 4 ] ], [ [ 5, 8, 2 ], [ 12, 19, 2 ], [ -5, -8, 2 ] ], [ [ 5, 8, 2 ], [ 12, 19, 2 ], [ -1, -2, 2 ] ], [ [ 5, 8, 2 ], [ 12, 19, 2 ], [ 1, 2, 4 ] ], [ [ 5, 8, 2 ], [ 13, 21, 2 ], [ -5, -8, 2 ] ], [ [ 5, 8, 2 ], [ 13, 21, 2 ], [ -1, -2, 2 ] ], [ [ 11, 18, 4 ], [ 0, 0, 1 ], [ -13, -22, 4 ] ], [ [ 11, 18, 4 ], [ 0, 0, 1 ], [ 1, 2, 4 ] ], [ [ 11, 18, 4 ], [ 10, 16, 1 ], [ -13, -22, 4 ] ], [ [ 11, 18, 4 ], [ 10, 16, 1 ], [ 1, 2, 4 ] ], [ [ 12, 19, 2 ], [ 13, 20, 4 ], [ -13, -22, 4 ] ], [ [ 12, 19, 2 ], [ 13, 20, 4 ], [ 1, 2, 4 ] ], [ [ 12, 19, 2 ], [ 7, 11, 2 ], [ -5, -8, 2 ] ], [ [ 12, 19, 2 ], [ 7, 11, 2 ], [ -1, -2, 2 ] ], [ [ 12, 19, 2 ], [ 13, 21, 2 ], [ -5, -8, 2 ] ], [ [ 12, 19, 2 ], [ 13, 21, 2 ], [ -1, -2, 2 ] ], [ [ 12, 19, 2 ], [ 27, 44, 4 ], [ -13, -22, 4 ] ], [ [ 12, 19, 2 ], [ 27, 44, 4 ], [ 1, 2, 4 ] ] ],
+  "balls" : [ {
+    "vertex" : 7,
+    "color" : "#666666"
+  }, {
+    "vertex" : 42,
+    "color" : "#666666"
+  }, {
+    "vertex" : 38,
+    "color" : "#666666"
+  }, {
+    "vertex" : 1,
+    "color" : "#666666"
+  }, {
+    "vertex" : 3,
+    "color" : "#666666"
+  }, {
+    "vertex" : 39,
+    "color" : "#666666"
+  }, {
+    "vertex" : 80,
+    "color" : "#666666"
+  }, {
+    "vertex" : 62,
+    "color" : "#666666"
+  }, {
+    "vertex" : 14,
+    "color" : "#666666"
+  }, {
+    "vertex" : 9,
+    "color" : "#666666"
+  }, {
+    "vertex" : 18,
+    "color" : "#666666"
+  }, {
+    "vertex" : 76,
+    "color" : "#666666"
+  }, {
+    "vertex" : 10,
+    "color" : "#666666"
+  }, {
+    "vertex" : 21,
+    "color" : "#666666"
+  }, {
+    "vertex" : 69,
+    "color" : "#666666"
+  }, {
+    "vertex" : 77,
+    "color" : "#666666"
+  }, {
+    "vertex" : 24,
+    "color" : "#666666"
+  }, {
+    "vertex" : 73,
+    "color" : "#666666"
+  }, {
+    "vertex" : 2,
+    "color" : "#666666"
+  }, {
+    "vertex" : 78,
+    "color" : "#666666"
+  }, {
+    "vertex" : 17,
+    "color" : "#666666"
+  }, {
+    "vertex" : 11,
+    "color" : "#666666"
+  }, {
+    "vertex" : 6,
+    "color" : "#666666"
+  }, {
+    "vertex" : 41,
+    "color" : "#666666"
+  }, {
+    "vertex" : 74,
+    "color" : "#666666"
+  }, {
+    "vertex" : 70,
+    "color" : "#666666"
+  }, {
+    "vertex" : 4,
+    "color" : "#666666"
+  }, {
+    "vertex" : 5,
+    "color" : "#666666"
+  }, {
+    "vertex" : 63,
+    "color" : "#666666"
+  }, {
+    "vertex" : 72,
+    "color" : "#666666"
+  }, {
+    "vertex" : 55,
+    "color" : "#666666"
+  }, {
+    "vertex" : 40,
+    "color" : "#000000"
+  }, {
+    "vertex" : 75,
+    "color" : "#666666"
+  }, {
+    "vertex" : 8,
+    "color" : "#666666"
+  }, {
+    "vertex" : 0,
+    "color" : "#666666"
+  }, {
+    "vertex" : 56,
+    "color" : "#666666"
+  }, {
+    "vertex" : 71,
+    "color" : "#666666"
+  }, {
+    "vertex" : 59,
+    "color" : "#666666"
+  }, {
+    "vertex" : 66,
+    "color" : "#666666"
+  }, {
+    "vertex" : 79,
+    "color" : "#666666"
+  }, {
+    "vertex" : 25,
+    "color" : "#666666"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 80, 78 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 17, 21 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 69, 41 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 73, 75 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 0, 6 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 79, 73 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 71, 10 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 62, 17 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 10, 38 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 74, 80 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 6, 10 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 11, 72 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 6, 4 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 73, 69 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 79, 71 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 79, 77 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 63, 59 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 0, 8 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 9, 25 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 7, 6 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 7, 1 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 78, 76 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 25, 24 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 39, 56 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 74, 70 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 7, 11 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 1, 9 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 21, 66 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 8, 9 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 3, 5 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 70, 42 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 77, 78 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 41, 42 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 74, 73 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 66, 62 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 56, 55 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 59, 14 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 70, 69 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 55, 38 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 18, 63 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 75, 77 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 11, 39 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 7, 5 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 76, 75 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 72, 56 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 80, 72 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 8, 24 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 24, 41 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 74, 76 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 71, 55 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 38, 39 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 79, 80 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 70, 9 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 42, 25 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 8, 69 ],
+    "color" : "#999999"
+  }, {
+    "vertices" : [ 71, 72 ],
+    "color" : "#999999"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 62, 66, 80, 74 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 11, 39, 38, 10 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 26, 27, 44, 43 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 1, 17, 21, 7 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 71, 55, 56, 72 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 74, 76, 78, 80 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 12, 15, 16, 13 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 70, 42, 25, 9 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 62, 70, 74 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 14, 8, 0 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 75, 44, 45, 76 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 79, 63, 71 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 71, 79, 80, 72 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 71, 55, 38, 10 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 5, 23, 13, 3 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 8, 14, 59, 69 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 58, 61, 60, 57 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 76, 58, 68, 78 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 11, 39, 56, 72 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 70, 42, 41, 69 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 37, 36, 53, 54 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 42, 46, 43, 41 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 79, 63, 59, 73 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 25, 31, 48, 42 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 8, 24, 41, 69 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 74, 76, 75, 73 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 7, 5, 4, 6 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 14, 18, 21, 17 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 17, 62, 70, 9 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 59, 69, 73 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 11, 7, 6, 10 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 79, 77, 75, 73 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 3, 28, 27, 2 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 55, 51, 54, 56 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 46, 45, 28, 29 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 1, 17, 9 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 21, 11, 7 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 41, 47, 30, 24 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 18, 10, 6 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 70, 74, 73, 69 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 51, 52, 35, 34 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 63, 18, 10, 71 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 67, 64, 65, 68 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 62, 59, 14, 17 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 4, 35, 36, 5 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 77, 67, 57, 75 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 78, 53, 52, 77 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 23, 20, 19, 22 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 18, 14, 0, 6 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 56, 50, 33, 39 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 39, 37, 34, 38 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 38, 32, 49, 55 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 24, 26, 29, 25 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 66, 62, 59, 63 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 2, 12, 22, 4 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 66, 72, 80 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 0, 2, 4, 6 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 0, 2, 3, 1 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 8, 24, 25, 9 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 18, 21, 66, 63 ],
+    "color" : "#666666"
+  }, {
+    "vertices" : [ 79, 77, 78, 80 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 8, 0, 1, 9 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 72, 66, 21, 11 ],
+    "color" : "#CCCCCC"
+  }, {
+    "vertices" : [ 1, 3, 5, 7 ],
+    "color" : "#CCCCCC"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 3/2 5 8 -3/2 -5/2"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <TranslationTool name="tool-0"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="158.99606323242188" far="317.99212646484375" near="0.3974902331829071" parallel="false" stereoAngle="0.0" width="71.5482406616211">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.373528391122818" y="0.24457384645938873" z="0.8947951197624207"/>
+      <LookDirection x="0.6659227609634399" y="0.6008276343345642" z="-0.4422105848789215"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="tiny connectors">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="255,255,255" name="0" orbit="[[0,0,1],[1,0,3]]" prototype="0 0 0 -1/4 0 -3/4"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="239,245,61" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>
