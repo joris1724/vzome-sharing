@@ -7831,7 +7831,9 @@
     <DeselectAll/>
     <SelectAll originLast="true"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
     <DeselectAll/>
     <ShowHidden/>
@@ -8086,7 +8088,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="75" title="7-8 x 60">">
+    <page snapshot="75" title="7-8 x 60">
       <ViewModel distance="289.709716796875" far="579.4192504882812" near="0.7242745161056519" parallel="false" stereoAngle="0.0" width="130.36940002441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10990428924560547" y="-0.3617875576019287" z="-0.9257606863975525"/>
@@ -8150,7 +8152,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="84" title="9-10 x 20">">
+    <page snapshot="84" title="9-10 x 20">
       <ViewModel distance="289.709716796875" far="579.4192504882812" near="0.7242745161056519" parallel="false" stereoAngle="0.0" width="130.36940002441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10990428924560547" y="-0.3617875576019287" z="-0.9257606863975525"/>
@@ -8166,7 +8168,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="86" title="10-11 5b2 1r2 5y2">">
+    <page snapshot="86" title="10-11 5b2 1r2 5y2">
       <ViewModel distance="289.709716796875" far="579.4192504882812" near="0.7242745161056519" parallel="false" stereoAngle="0.0" width="130.36940002441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10990428924560547" y="-0.3617875576019287" z="-0.9257606863975525"/>
@@ -8174,7 +8176,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="87" title="10-11 x 1">">
+    <page snapshot="87" title="10-11 x 1">
       <ViewModel distance="289.709716796875" far="579.4192504882812" near="0.7242745161056519" parallel="false" stereoAngle="0.0" width="130.36940002441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10990428924560547" y="-0.3617875576019287" z="-0.9257606863975525"/>
@@ -8182,7 +8184,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="88" title="10-11 x 12">">
+    <page snapshot="88" title="10-11 x 12">
       <ViewModel distance="289.709716796875" far="579.4192504882812" near="0.7242745161056519" parallel="false" stereoAngle="0.0" width="130.36940002441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10990428924560547" y="-0.3617875576019287" z="-0.9257606863975525"/>
@@ -8198,7 +8200,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="90" title="11-12 4b2 2r2 2y2">">
+    <page snapshot="90" title="11-12 4b2 2r2 2y2">
       <ViewModel distance="289.709716796875" far="579.4192504882812" near="0.7242745161056519" parallel="false" stereoAngle="0.0" width="130.36940002441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10990428924560547" y="-0.3617875576019287" z="-0.9257606863975525"/>
@@ -8206,7 +8208,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="91" title="11-12 x 1">">
+    <page snapshot="91" title="11-12 x 1">
       <ViewModel distance="289.709716796875" far="579.4192504882812" near="0.7242745161056519" parallel="false" stereoAngle="0.0" width="130.36940002441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10990428924560547" y="-0.3617875576019287" z="-0.9257606863975525"/>
@@ -8214,7 +8216,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="92" title="11-12 x 30">">
+    <page snapshot="92" title="11-12 x 30">
       <ViewModel distance="289.709716796875" far="579.4192504882812" near="0.7242745161056519" parallel="false" stereoAngle="0.0" width="130.36940002441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.10990428924560547" y="-0.3617875576019287" z="-0.9257606863975525"/>
