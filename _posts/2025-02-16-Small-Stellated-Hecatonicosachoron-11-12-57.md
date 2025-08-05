@@ -18,6 +18,13 @@ This polytope is also called the first stellation of the hecatonicosachoron<a hr
 <a href="https://polytopologist.github.io/zome_pages/stellated120cell01.htm">David Richter</a> already described how to make a Zometool model.
 <p>
 In the present vZome model, each teal ball connects two hb1 and two hb2 struts. Replacing these by a b2 bending over a b1 without connector, puts too much strain on these struts and the neighbouring connectors. I built the model at a &phi; larger scale. Although bending a b3 over a b2 is more acceptable, I preferred to use a modified connector: two hb2's are connected to it, while a single regular b3 passes <b>through</b> the connector.
+<figure style="width: 87%; margin: 5%">
+    <img  style="width: 100%"
+        src="https://joris1724.github.io/vzome-sharing/2025/02/09/11-12-57-Small-Stellated-Hecatonicosachoron/Small-Stellated-Hecatonicosachoron-0.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+    A modified connector allows replacing two hb3's by one b3
+  </figcaption>
+</figure>
 <p>
 I one preferres to have a 5-fold axis stand up vertically, one definitely needs a pedestal, such as the one displayed in the last two scenes of the vZome model.
 
