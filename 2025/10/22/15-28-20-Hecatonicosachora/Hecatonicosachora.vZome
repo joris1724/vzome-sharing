@@ -238,7 +238,7 @@
       <DeselectAll/>
       <Snapshot id="16"/>
     </Branch>
-    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
     <AdjustSelectionByClass balls="SELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
@@ -247,6 +247,134 @@
   </EditHistory>
   <notes>
     <page snapshot="0" title="rectified">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="1" title="rectified+regular">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="2" title="regular">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="4" title="regulare+cantellated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="3" title="cantellated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="5" title="cantellated+cantitruncated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="6" title="cantitruncated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="8" title="cantitruncated+truncated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="7" title="truncated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="9" title="truncated+runcitruncated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="10" title="runcitruncated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="12" title="runcitruncated+runcinated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="11" title="runcinated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="13" title="runcinated+omnitruncated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="14" title="omnitruncated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="16" title="omnitruncated+bitruncated">
+      <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
+        <LookDirection x="-0.639492928981781" y="-0.3050044775009155" z="-0.7057058811187744"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="15" title="bitruncated">
       <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
