@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
-  <EditHistory editNumber="66" lastStickyEdit="66">
+  <EditHistory editNumber="57" lastStickyEdit="54">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -342, -546, 31 ], [ -204, -342, 31 ], [ 0, 0, 1 ] ], [ [ -426, -678, 59 ], [ 252, 426, 59 ], [ 0, 0, 1 ] ], [ [ -6, -10, 1 ], [ 0, 0, 1 ], [ 10, 16, 1 ] ], [ [ 0, 0, 1 ], [ -234, -372, 19 ], [ 138, 234, 19 ] ], [ [ 0, 0, 1 ], [ -5, -8, 1 ], [ -3, -5, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 60, 96, 1 ], [ -36, -60, 1 ] ], [ [ 114, 192, 11 ], [ 0, 0, 1 ], [ 192, 306, 11 ] ], [ [ 15, 24, 1 ], [ -9, -15, 1 ], [ 0, 0, 1 ] ], [ [ 18, 30, 1 ], [ 0, 0, 1 ], [ -30, -48, 1 ] ], [ [ 20, 32, 1 ], [ 12, 20, 1 ], [ 0, 0, 1 ] ] ],
@@ -98,71 +98,282 @@
     <EndBlock/>
     <Delete/>
     <Branch>
-      <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0001" wythoff="0001"/>
-      <SelectAll originLast="true"/>
-      <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
-      <SelectAll originLast="true"/>
-      <BookmarkTool name="tool-9"/>
-      <Delete/>
-      <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0010" wythoff="0010"/>
-      <SelectAll originLast="true"/>
-      <ApplyTool copyColors="true" deleteInputs="true" name="tool-1"/>
-      <BookmarkTool name="tool-10"/>
-      <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
-      <Delete/>
-      <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0011" wythoff="0011"/>
-      <SelectAll originLast="true"/>
-      <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
-      <BookmarkTool name="tool-11"/>
-      <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
-      <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
-      <Delete/>
-      <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0101" wythoff="0101"/>
-      <SelectAll originLast="true"/>
-      <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
-      <BookmarkTool name="tool-12"/>
-    </Branch>
-    <Branch>
-      <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="1001" wythoff="1001"/>
-      <SelectAll originLast="true"/>
-      <ApplyTool copyColors="true" deleteInputs="true" name="tool-4"/>
-      <BookmarkTool name="tool-13"/>
-    </Branch>
-    <Branch>
-      <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0110" wythoff="0110"/>
-      <SelectAll originLast="true"/>
-      <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
-      <BookmarkTool name="tool-14"/>
-    </Branch>
-    <Branch>
-      <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0111" wythoff="0111"/>
-      <SelectAll originLast="true"/>
-      <ApplyTool copyColors="true" deleteInputs="true" name="tool-6"/>
-      <BookmarkTool name="tool-15"/>
-    </Branch>
-    <Branch>
-      <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="1011" wythoff="1011"/>
-      <SelectAll originLast="true"/>
-      <ApplyTool copyColors="true" deleteInputs="true" name="tool-7"/>
-      <BookmarkTool name="tool-16"/>
-    </Branch>
-    <Branch>
-      <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" wythoff="1111"/>
-      <SelectAll originLast="true"/>
-      <ApplyTool copyColors="true" deleteInputs="true" name="tool-8"/>
-      <BookmarkTool name="tool-17"/>
-      <BookmarkTool name="tool-18"/>
+      <Branch>
+        <Branch>
+          <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0001" wythoff="0001"/>
+          <SelectAll originLast="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+          <SelectAll originLast="true"/>
+          <BookmarkTool name="tool-9"/>
+          <Delete/>
+          <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0010" wythoff="0010"/>
+          <SelectAll originLast="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-1"/>
+          <BookmarkTool name="tool-10"/>
+          <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+          <Delete/>
+          <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0011" wythoff="0011"/>
+          <SelectAll originLast="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+          <BookmarkTool name="tool-11"/>
+          <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+          <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+          <Delete/>
+          <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0101" wythoff="0101"/>
+          <SelectAll originLast="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+          <BookmarkTool name="tool-12"/>
+        </Branch>
+        <Branch>
+          <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="1001" wythoff="1001"/>
+          <SelectAll originLast="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-4"/>
+          <BookmarkTool name="tool-13"/>
+        </Branch>
+        <Branch>
+          <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0110" wythoff="0110"/>
+          <SelectAll originLast="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
+          <BookmarkTool name="tool-14"/>
+        </Branch>
+        <Branch>
+          <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="0111" wythoff="0111"/>
+          <SelectAll originLast="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-6"/>
+          <BookmarkTool name="tool-15"/>
+        </Branch>
+        <Branch>
+          <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="1011" wythoff="1011"/>
+          <SelectAll originLast="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-7"/>
+          <BookmarkTool name="tool-16"/>
+        </Branch>
+        <Branch>
+          <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" wythoff="1111"/>
+          <SelectAll originLast="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-8"/>
+          <BookmarkTool name="tool-17"/>
+          <BookmarkTool name="tool-18"/>
+        </Branch>
+        <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+        <BeginBlock/>
+        <DeselectAll/>
+        <AdjustSelectionByClass balls="SELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
+        <EndBlock/>
+        <setItemColor blue="0" green="0" red="0"/>
+        <Snapshot id="0"/>
+        <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="1"/>
+      </Branch>
+      <Branch>
+        <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="2"/>
+      </Branch>
+      <Branch>
+        <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+        <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="DESELECT"/>
+        <setItemColor blue="0" green="0" red="0"/>
+        <Snapshot id="3"/>
+        <Branch>
+          <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+          <DeselectAll/>
+          <Snapshot id="4"/>
+        </Branch>
+        <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="5"/>
+      </Branch>
+      <Branch>
+        <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="6"/>
+      </Branch>
+      <Branch>
+        <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+        <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="DESELECT"/>
+        <setItemColor blue="0" green="0" red="0"/>
+        <Snapshot id="8"/>
+        <Branch>
+          <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+          <DeselectAll/>
+          <Snapshot id="7"/>
+        </Branch>
+        <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="9"/>
+      </Branch>
+      <Branch>
+        <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="10"/>
+      </Branch>
+      <Branch>
+        <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+        <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="DESELECT"/>
+        <setItemColor blue="0" green="0" red="0"/>
+        <Snapshot id="12"/>
+        <Branch>
+          <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+          <DeselectAll/>
+          <Snapshot id="11"/>
+        </Branch>
+        <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+        <Branch>
+          <DeselectAll/>
+          <Snapshot id="13"/>
+        </Branch>
+      </Branch>
+      <Branch>
+        <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="14"/>
+      </Branch>
+      <Branch>
+        <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+        <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="DESELECT"/>
+        <setItemColor blue="0" green="0" red="0"/>
+        <Snapshot id="15"/>
+        <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="16"/>
+      </Branch>
     </Branch>
     <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <AdjustSelectionByClass balls="SELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
-    <EndBlock/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="DESELECT"/>
     <setItemColor blue="0" green="0" red="0"/>
-    <Snapshot id="0"/>
   </EditHistory>
   <notes>
-    <page snapshot="0" title="">
+    <page snapshot="0" title="rectified">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="1" title="rectified+regular">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="2" title="regular">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="4" title="regular+cantellated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="3" title="cantellated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="5" title="cantellated+cantitruncated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="6" title="cantitruncated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="7" title="cantitruncated+truncated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="8" title="truncated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="9" title="truncated+runcitruncated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="10" title="runcitruncated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="11" title="runcitruncated+runcinated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="12" title="runcinated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="13" title="runcinated+omnitruncated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="14" title="omnitruncated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="16" title="omnitruncated+bitruncated">
+      <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>
+        <LookDirection x="0.662767231464386" y="0.7434450387954712" z="-0.08962653577327728"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="15" title="bitruncated">
       <ViewModel distance="2183.926025390625" far="4367.84716796875" near="5.459810256958008" parallel="false" stereoAngle="0.0" width="982.766357421875">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.49476417899131775" y="0.3449100852012634" z="-0.797650158405304"/>

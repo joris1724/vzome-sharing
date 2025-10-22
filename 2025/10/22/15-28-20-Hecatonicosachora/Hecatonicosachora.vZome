@@ -270,7 +270,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="4" title="regulare+cantellated">
+    <page snapshot="4" title="regular+cantellated">
       <ViewModel distance="2098.293212890625" far="4196.58056640625" near="5.245734214782715" parallel="false" stereoAngle="0.0" width="944.231689453125">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.3362286388874054" y="0.9364522099494934" z="-0.10005058348178864"/>
