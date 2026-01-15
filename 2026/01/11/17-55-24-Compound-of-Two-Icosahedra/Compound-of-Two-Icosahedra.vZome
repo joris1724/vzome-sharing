@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
-  <EditHistory editNumber="475" lastStickyEdit="475">
+  <EditHistory editNumber="475" lastStickyEdit="531">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -5, -8, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -5, -8, 1 ], [ 0, 0, 1 ], [ -8, -13, 1 ] ], [ [ -5, -8, 1 ], [ 0, 0, 1 ], [ -5, -8, 1 ] ], [ [ -5, -8, 1 ], [ 0, 0, 1 ], [ -2, -3, 1 ] ], [ [ -5, -8, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ -4, -7, 1 ], [ -2, -3, 1 ], [ -7, -11, 1 ] ], [ [ -4, -7, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ -4, -7, 1 ], [ 2, 3, 1 ], [ -7, -11, 1 ] ], [ [ -4, -7, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ -18, -29, 5 ], [ -18, -29, 5 ], [ -29, -47, 5 ] ], [ [ -18, -29, 5 ], [ -18, -29, 5 ], [ -21, -33, 5 ] ], [ [ -18, -29, 5 ], [ -4, -7, 5 ], [ -43, -69, 5 ] ], [ [ -18, -29, 5 ], [ -4, -7, 5 ], [ -7, -11, 5 ] ], [ [ -18, -29, 5 ], [ 4, 7, 5 ], [ -43, -69, 5 ] ], [ [ -18, -29, 5 ], [ 4, 7, 5 ], [ -7, -11, 5 ] ], [ [ -18, -29, 5 ], [ 18, 29, 5 ], [ -29, -47, 5 ] ], [ [ -18, -29, 5 ], [ 18, 29, 5 ], [ -21, -33, 5 ] ], [ [ -3, -5, 1 ], [ -5, -8, 1 ], [ -5, -8, 1 ] ], [ [ -3, -5, 1 ], [ 0, 0, 1 ], [ -10, -16, 1 ] ], [ [ -3, -5, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ -5, -8, 1 ] ], [ [ -2, -3, 1 ], [ -4, -7, 1 ], [ -7, -11, 1 ] ], [ [ -2, -3, 1 ], [ -4, -7, 1 ], [ -3, -5, 1 ] ], [ [ -2, -3, 1 ], [ -2, -3, 1 ], [ -9, -15, 1 ] ], [ [ -2, -3, 1 ], [ -2, -3, 1 ], [ -1, -1, 1 ] ], [ [ -2, -3, 1 ], [ 2, 3, 1 ], [ -9, -15, 1 ] ], [ [ -2, -3, 1 ], [ 2, 3, 1 ], [ -1, -1, 1 ] ], [ [ -2, -3, 1 ], [ 4, 7, 1 ], [ -7, -11, 1 ] ], [ [ -2, -3, 1 ], [ 4, 7, 1 ], [ -3, -5, 1 ] ], [ [ -1, -2, 1 ], [ 1, 2, 1 ], [ -4, -6, 1 ] ], [ [ -4, -7, 5 ], [ -18, -29, 5 ], [ -43, -69, 5 ] ], [ [ -4, -7, 5 ], [ -18, -29, 5 ], [ -7, -11, 5 ] ], [ [ -4, -7, 5 ], [ 18, 29, 5 ], [ -43, -69, 5 ] ], [ [ -4, -7, 5 ], [ 18, 29, 5 ], [ -7, -11, 5 ] ], [ [ 0, 0, 1 ], [ -5, -8, 1 ], [ -8, -13, 1 ] ], [ [ 0, 0, 1 ], [ -5, -8, 1 ], [ -5, -8, 1 ] ], [ [ 0, 0, 1 ], [ -5, -8, 1 ], [ -2, -3, 1 ] ], [ [ 0, 0, 1 ], [ -3, -5, 1 ], [ -10, -16, 1 ] ], [ [ 0, 0, 1 ], [ -3, -5, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -10, -16, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -5, -8, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 3, 5, 1 ], [ -10, -16, 1 ] ], [ [ 0, 0, 1 ], [ 3, 5, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 5, 8, 1 ], [ -8, -13, 1 ] ], [ [ 0, 0, 1 ], [ 5, 8, 1 ], [ -5, -8, 1 ] ], [ [ 0, 0, 1 ], [ 5, 8, 1 ], [ -2, -3, 1 ] ], [ [ 4, 7, 5 ], [ -18, -29, 5 ], [ -43, -69, 5 ] ], [ [ 4, 7, 5 ], [ -18, -29, 5 ], [ -7, -11, 5 ] ], [ [ 4, 7, 5 ], [ 18, 29, 5 ], [ -43, -69, 5 ] ], [ [ 4, 7, 5 ], [ 18, 29, 5 ], [ -7, -11, 5 ] ], [ [ 2, 3, 1 ], [ -4, -7, 1 ], [ -7, -11, 1 ] ], [ [ 2, 3, 1 ], [ -4, -7, 1 ], [ -3, -5, 1 ] ], [ [ 2, 3, 1 ], [ -2, -3, 1 ], [ -9, -15, 1 ] ], [ [ 2, 3, 1 ], [ -2, -3, 1 ], [ -1, -1, 1 ] ], [ [ 2, 3, 1 ], [ 2, 3, 1 ], [ -9, -15, 1 ] ], [ [ 2, 3, 1 ], [ 2, 3, 1 ], [ -1, -1, 1 ] ], [ [ 2, 3, 1 ], [ 4, 7, 1 ], [ -7, -11, 1 ] ], [ [ 2, 3, 1 ], [ 4, 7, 1 ], [ -3, -5, 1 ] ], [ [ 3, 5, 1 ], [ -5, -8, 1 ], [ -5, -8, 1 ] ], [ [ 3, 5, 1 ], [ 0, 0, 1 ], [ -10, -16, 1 ] ], [ [ 3, 5, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 3, 5, 1 ], [ 5, 8, 1 ], [ -5, -8, 1 ] ], [ [ 18, 29, 5 ], [ -18, -29, 5 ], [ -29, -47, 5 ] ], [ [ 18, 29, 5 ], [ -18, -29, 5 ], [ -21, -33, 5 ] ], [ [ 18, 29, 5 ], [ -4, -7, 5 ], [ -43, -69, 5 ] ], [ [ 18, 29, 5 ], [ -4, -7, 5 ], [ -7, -11, 5 ] ], [ [ 18, 29, 5 ], [ 4, 7, 5 ], [ -43, -69, 5 ] ], [ [ 18, 29, 5 ], [ 4, 7, 5 ], [ -7, -11, 5 ] ], [ [ 18, 29, 5 ], [ 18, 29, 5 ], [ -29, -47, 5 ] ], [ [ 18, 29, 5 ], [ 18, 29, 5 ], [ -21, -33, 5 ] ], [ [ 4, 7, 1 ], [ -2, -3, 1 ], [ -7, -11, 1 ] ], [ [ 4, 7, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ 4, 7, 1 ], [ 2, 3, 1 ], [ -7, -11, 1 ] ], [ [ 4, 7, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ 5, 8, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ 5, 8, 1 ], [ 0, 0, 1 ], [ -8, -13, 1 ] ], [ [ 5, 8, 1 ], [ 0, 0, 1 ], [ -5, -8, 1 ] ], [ [ 5, 8, 1 ], [ 0, 0, 1 ], [ -2, -3, 1 ] ], [ [ 5, 8, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ] ],
@@ -2088,6 +2088,75 @@
     <ApplyTool copyColors="true" name="tool-30" selectInputs="true"/>
     <DeselectAll/>
     <Snapshot id="23"/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -5 5 8 0 0"/>
+    <SelectManifestation point="-5 -8 3 5 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-5 -8 3 5 0 0" startSegment="-3 -5 5 8 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 5 8 -3 -5" startSegment="0 0 3 5 -5 -8"/>
+    <SelectManifestation endSegment="0 0 5 8 -3 -5" startSegment="0 0 3 5 -5 -8"/>
+    <SelectManifestation endSegment="-5 -8 3 5 0 0" startSegment="-3 -5 5 8 0 0"/>
+    <SelectManifestation endSegment="-5 -8 3 5 0 0" startSegment="-3 -5 5 8 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 5 8 -3 -5" startSegment="0 0 3 5 -5 -8"/>
+    <SelectManifestation endSegment="-5 -8 3 5 0 0" startSegment="-3 -5 5 8 0 0"/>
+    <EndBlock/>
+    <StrutIntersection/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 8 13 0 0"/>
+    <SelectManifestation point="0 0 8 13 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 8 13 0 0"/>
+    <SelectManifestation point="-8 -13 0 0 0 0"/>
+    <SelectManifestation endSegment="-5 -8 3 5 0 0" startSegment="-3 -5 5 8 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 8 13 0 0"/>
+    <SelectManifestation point="-8 -13 0 0 0 0"/>
+    <EndBlock/>
+    <Branch>
+      <JoinPoints/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation endSegment="-8 -13 0 0 0 0" startSegment="0 0 8 13 0 0"/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 8 13 0 0"/>
+      <EndBlock/>
+      <InversionTool name="tool-31"/>
+    </Branch>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 8 13 0 0"/>
+    <SelectManifestation point="-3 -5 5 8 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 8 13 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 0 0"/>
+      <polygonVertex at="3 5 5 8 0 0"/>
+      <polygonVertex at="2 3 4 7 2 3"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 8 13 0 0"/>
+    <SelectManifestation endSegment="-3 -5 5 8 0 0" startSegment="0 0 8 13 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -8 3 5 0 0"/>
+    <SelectManifestation point="-8 -13 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
+    <Snapshot id="24"/>
   </EditHistory>
   <notes>
     <page snapshot="0" title="1">
@@ -2282,6 +2351,14 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
+    <page snapshot="24" title="enveloping octahedron">
+      <ViewModel distance="301.5329895019531" far="603.065673828125" near="0.7538323402404785" parallel="false" stereoAngle="0.0" width="135.6898651123047">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.2536872923374176" y="-0.47500696778297424" z="0.8426143527030945"/>
+        <LookDirection x="0.6620835065841675" y="-0.7203311920166016" z="-0.2067302018404007"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
   </notes>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
     <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
@@ -2289,11 +2366,11 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="165.4848175048828" far="330.9696044921875" near="0.4137120842933655" parallel="false" stereoAngle="0.0" width="74.46817779541016">
-      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.5378594994544983" y="0.45174792408943176" z="0.7117734551429749"/>
-      <LookDirection x="0.2847171723842621" y="-0.6973361968994141" z="0.6577451825141907"/>
-    </ViewModel>
+      <ViewModel distance="301.5329895019531" far="603.065673828125" near="0.7538323402404785" parallel="false" stereoAngle="0.0" width="135.6898651123047">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.2536872923374176" y="-0.47500696778297424" z="0.8426143527030945"/>
+        <LookDirection x="0.6620835065841675" y="-0.7203311920166016" z="-0.2067302018404007"/>
+      </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
     <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
@@ -2359,6 +2436,7 @@
     <Tool copyColors="true" deleteInputs="false" id="tool-29" label="23" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-3" label="axial symmetry 3" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-30" label="24" selectInputs="true"/>
+    <Tool copyColors="false" deleteInputs="false" id="tool-31" label="point reflection 31" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-4" label="1" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-5" label="2" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-6" label="3" selectInputs="true"/>
