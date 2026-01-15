@@ -2366,11 +2366,11 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-      <ViewModel distance="301.5329895019531" far="603.065673828125" near="0.7538323402404785" parallel="false" stereoAngle="0.0" width="135.6898651123047">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.2536872923374176" y="-0.47500696778297424" z="0.8426143527030945"/>
-        <LookDirection x="0.6620835065841675" y="-0.7203311920166016" z="-0.2067302018404007"/>
-      </ViewModel>
+    <ViewModel distance="301.5329895019531" far="603.065673828125" near="0.7538323402404785" parallel="false" stereoAngle="0.0" width="135.6898651123047">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.2536872923374176" y="-0.47500696778297424" z="0.8426143527030945"/>
+      <LookDirection x="0.6620835065841675" y="-0.7203311920166016" z="-0.2067302018404007"/>
+    </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
     <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
