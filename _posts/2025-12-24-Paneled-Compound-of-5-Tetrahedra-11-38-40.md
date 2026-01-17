@@ -1,5 +1,5 @@
 ---
-title: Paneled Compound of 5 Tetrahedra
+title: Paneled Compound of Five Tetrahedra
 description: One of the 17 fully supported stellations of the icosahedron. The 5 tetrahedra are emphasized by 3D printed panels.
 image: https://joris1724.github.io/vzome-sharing/2025/12/24/11-38-40-Paneled-Compound-of-5-Tetrahedra/Paneled-Compound-of-5-Tetrahedra.png
 published: true
@@ -16,7 +16,7 @@ An <a href="https://joris1724.github.io/vzome-sharing/2025/02/15/Fully-supported
 <br>1) the geometry of the connectors at the vertices of the panel,
 <br>2) the physical aspects of the struts at the edges (in this case, 2 b0's, 2 g0's and one 1 g1),
 <br>3) the dihedral angles of the neighboring panels.
-<p>It is assumed the <a href="https://joris1724.github.io/vzome-sharing/2025/12/24/11-38-40-Paneled-Compound-of-5-Tetrahedra/connector.scad">connector.scad</a> has been made available first. For the present model, the 60 panels, all of the same shape, were printed using translucent PETG in 5 colors. The edges clamping the two b0 struts apparently needed some support during printing. For this, I used PLA. The resulting panels could be inserted into the model, without any need for post-processing.
+<p>It is assumed the <a href="https://joris1724.github.io/vzome-sharing/2025/12/24/11-38-40-Paneled-Compound-of-5-Tetrahedra/connector.scad">connector.scad</a> has been made available first. Don't use the <i>latest official</i> version of openSCAD, which is five years old, but a more recent <i>development snapshot</i>. For the present model, the 60 panels, all of the same shape, were printed using translucent PETG in 5 colors. The edges clamping the two b0 struts apparently needed some support during printing. For this, I used PLA. The resulting panels could be inserted into the skeleton of the model, without any need for post-processing.
 
 <figure style="width: 87%; margin: 5%">
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step'></vzome-viewer-start><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next><vzome-viewer-end label='final step'></vzome-viewer-end></div></div>
