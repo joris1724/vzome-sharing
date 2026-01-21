@@ -4,6 +4,7 @@ description: An interesting uniform compound. The two Icoashedra have edges belo
 image: https://joris1724.github.io/vzome-sharing/2026/01/11/17-55-24-Compound-of-Two-Icosahedra/Compound-of-Two-Icosahedra.jpg
 published: true
 layout: vzome
+tags: [compounds]
 ---
 
 {% comment %}
