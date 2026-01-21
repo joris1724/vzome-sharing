@@ -14,6 +14,8 @@ tags: [compounds]
 {% endcomment %}
 
 In the physical build of this vZome model, the <i>blue</i> and <i>red</i> icosahedra have edge length b3. Six edges of both icosahedra are splitted into two hb3's. The 24 remaining edges of the <i>blue</i> icosahedron belong to the <i>blue</i> orbit, and are split into 3 pieces with ratio's 3-&phi;:2&phi-2;:1. The same ratio's apply to the 3 pieces of the 24 remaining edges of the <i>red</i> icosahedron, but now these belong to the <i>black</i> orbit and are <a href="https://joris1724.github.io/vzome-sharing/2026/01/11/17-55-24-Compound-of-Two-Icosahedra/Compound-of-Two-Icosahedra-Black.scad">3D printed</a>. Don't use the <i>latest official</i> version of openSCAD, which is five years old, but a more recent <i>development snapshot</i>.
+It is assumed the <a href="https://joris1724.github.io/vzome-sharing/2025/12/24/11-38-40-Paneled-Compound-of-5-Tetrahedra/connector.scad">connector.scad</a> file is locally available.
+
 <p>
 Faces of both icosahedra intersect in struts, labeled in vZome as <i>automatic</i>: they have not been assigned a vZome colour code. These alse have been <a href="https://joris1724.github.io/vzome-sharing/2026/01/11/17-55-24-Compound-of-Two-Icosahedra/Compound-of-Two-Icosahedra-Automatic.scad">3D printed</a> in purple coloured PLA, as shown in:
 <figure style="width: 87%; margin: 5%">

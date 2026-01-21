@@ -23,7 +23,9 @@ To help to identify both dodecahedra, the vertices are coloured appropiately.
   </figcaption>
 </figure>
 
-Last but not least, <a href="https://joris1724.github.io/vzome-sharing/2026/01/05/20-19-17-Compound-of-Two-Dodecahedra/Compound-of-Two-Dodecahedra-Panels.scad">panels</a> have 3D been printed in translucent PETG. Don't use the <i>latest official</i> version of openSCAD, which is five years old, but a more recent <i>development snapshot</i>.
+Last but not least, <a href="https://joris1724.github.io/vzome-sharing/2026/01/05/20-19-17-Compound-of-Two-Dodecahedra/Compound-of-Two-Dodecahedra-Panels.scad">panels</a> have 3D been printed in translucent PETG.
+Don't use the <i>latest official</i> version of openSCAD, which is five years old, but a more recent <i>development snapshot</i>. 
+It is assumed the <a href="https://joris1724.github.io/vzome-sharing/2025/12/24/11-38-40-Paneled-Compound-of-5-Tetrahedra/connector.scad">connector.scad</a> file is locally available.
 
 <figure style="width: 87%; margin: 5%">
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step'></vzome-viewer-start><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next><vzome-viewer-end label='final step'></vzome-viewer-end></div></div>
