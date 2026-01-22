@@ -1,9 +1,10 @@
 ---
 title: Eighth Stellation of the Icosahedron
-description: TODO
-image: https://joris1724.github.io/vzome-sharing/2026/01/22/00-02-52-Eighth-Stellation-of-the-Icosahedron/Eighth-Stellation-of-the-Icosahedron.png
-published: false
+description: Some vZome models cannot be realized with Zometool, as the would require the ability to put the pins of multiple struts into the same hole of a connector. This model shows a first technique to bypass this problem: 3D printing of modified struts.
+image: https://joris1724.github.io/vzome-sharing/2026/01/22/00-02-52-Eighth-Stellation-of-the-Icosahedron/Eighth-Stellation-of-the-Icosahedron.jpg
+published: true
 layout: vzome
+tags: [stellations]
 ---
 
 {% comment %}
@@ -12,10 +13,21 @@ layout: vzome
  
 {% endcomment %}
 
-TODO
+Sometimes vZome let you design interesting models, until one realizes that in a real Zometool model, multiple struts cannot be put in the same hole. The left of the pictore shows a pentagonal hole which should be entered by 1 red strut and 5 green struts of different orbits, see left side  of the following figure:
 
 <figure style="width: 87%; margin: 5%">
-  
+       <img src="https://joris1724.github.io/vzome-sharing/2026/01/22/00-02-52-Eighth-Stellation-of-the-Icosahedron/Eighth-Stellation-of-the-Icosahedron.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+    How to put different struts in the same hole ?
+  </figcaption>
+</figure>
+
+To tackle this problem, the right side of the figure shows that a modified green strut foot has been designed: instead of bending towards a pentagonal hole, it bends in the other direction, passing the rectangular holes, into the neighbouring triangular hole. Moreover, the modified strut is excavated, so that it does not interfere with blue or red struts, if present.
+<p>.
+
+This technique is applied here to build a physical model of the Eight Stellation of the Icosahedron. It is a one of the 17 fully supported stellations, but it is not shown in an <a href="https://joris1724.github.io/vzome-sharing/2025/02/15/Fully-supported-Stellations-of-the-Icosahedron-13-22-20.html">earlier post</a>, since, without modification, it cannot be build with Zometool. The model is constructed around a icosadocahedron with edge length hb0. As these are extremely short, it is easier to connect the vertices of the icosahedron to the centre (pink hb1 stuts in the building instructions). The hg0's and b1's in the model are standard Zometool struts. The modified hb2's have been <a "https://joris1724.github.io/vzome-sharing/2026/01/22/00-02-52-Eighth-Stellation-of-the-Icosahedron/Eighth-Stellation-of-the-Icosahedron-Modified-hg2.scad">3D printed<a> in PLA. The small black line on each of the struts is a residu of black PETG which was used as support.
+
+<figure style="width: 87%; margin: 5%">
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
   <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2026/01/22/00-02-52-Eighth-Stellation-of-the-Icosahedron/Eighth-Stellation-of-the-Icosahedron.vZome" >
