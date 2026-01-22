@@ -1,6 +1,6 @@
 ---
 title: Eighth Stellation of the Icosahedron
-description: Some vZome models cannot be realized with Zometool, as the would require the ability to put the pins of multiple struts into the same hole of a connector. This model shows a first technique to bypass this problem: 3D printing of modified struts.
+description: Some vZome models cannot be realized with Zometool, as the would require the ability to put the pins of multiple struts into the same hole of a connector. This model shows a first technique to bypass this problem 3D printing of modified struts.
 image: https://joris1724.github.io/vzome-sharing/2026/01/22/18-08-30-Eighth-Stellation-of-the-Icosahedron/Eighth-Stellation-of-the-Icosahedron.png
 published: true
 layout: vzome
@@ -27,3 +27,4 @@ Some vZome models cannot be realized with Zometool, as the would require the abi
     Eighth Stellation of the Icosahedron
   </figcaption>
 </figure>
+
