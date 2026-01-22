@@ -834,28 +834,36 @@
     <EndBlock/>
     <BookmarkTool name="tool-0"/>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="0 0 3 5 2 3"/>
     <SelectNeighbors/>
     <EndBlock/>
     <BookmarkTool name="tool-1"/>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="1 1 2 3 0 0"/>
     <SelectNeighbors/>
     <EndBlock/>
     <BookmarkTool name="tool-2"/>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation point="-1/2 -1 1 3/2 1/2 1/2"/>
     <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="-1/2 -1 1 3/2 1/2 1/2"/>
     <EndBlock/>
     <BookmarkTool name="tool-3"/>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectAll originLast="true"/>
     <DeselectAll/>
@@ -867,7 +875,9 @@
     <Snapshot id="2"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="1"/>
     </Branch>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
@@ -878,7 +888,9 @@
     <Snapshot id="6"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="5"/>
     </Branch>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
@@ -889,7 +901,9 @@
     <Snapshot id="10"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="9"/>
     </Branch>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
@@ -900,7 +914,9 @@
     <Snapshot id="14"/>
     <Branch>
       <InvertSelection/>
-      <Hide/>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
       <Snapshot id="13"/>
     </Branch>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
