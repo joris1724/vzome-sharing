@@ -36,6 +36,6 @@ This technique is applied here to build a physical model of the Eight Stellation
         src="https://joris1724.github.io/vzome-sharing/2026/01/22/00-02-52-Eighth-Stellation-of-the-Icosahedron/Eighth-Stellation-of-the-Icosahedron.jpg" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Compound of Two Icosahedra, with panels
+    Eighth Stellation of the Icosahedron
   </figcaption>
 </figure>
