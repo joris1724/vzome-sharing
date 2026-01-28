@@ -1,6 +1,6 @@
 ---
 title: Compound of Two Icosahedra
-description: An interesting uniform compound. The two Icoashedra have edges belonging to the blue and black orbits. Eight of their faces have hexagons in common.
+description: An interesting uniform compound. The two Icosahedra have edges belonging to the blue and black orbits. Eight of their faces have hexagons in common.
 image: https://joris1724.github.io/vzome-sharing/2026/01/11/17-55-24-Compound-of-Two-Icosahedra/Compound-of-Two-Icosahedra.jpg
 published: true
 layout: vzome
