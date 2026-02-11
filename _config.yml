@@ -29,6 +29,7 @@ rss-description: My vZome Designs
 navbar-links:
   3D Compounds: "/compounds"
   3D Stellations: "/stellations"
+  Toroids: "/toroids"
   Honeycombs: "/tessalations"
   4D Polychora: "/polychora"
   5D+ Polytopes: "/polytopes"
