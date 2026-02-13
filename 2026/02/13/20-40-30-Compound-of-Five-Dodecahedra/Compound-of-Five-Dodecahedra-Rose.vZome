@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
+  <EditHistory editNumber="125" lastStickyEdit="33">
+    <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -14, -23, 22 ], [ -9, -14, 11 ], [ -23, -37, 22 ] ], [ [ -14, -23, 22 ], [ 257, -193, 22 ], [ -67, -4, 22 ] ], [ [ -14, -23, 22 ], [ -62, 5, 22 ], [ -12, -37, 22 ] ], [ [ -14, -23, 22 ], [ 15, -39, 22 ], [ -23, -26, 22 ] ], [ [ 129, -111, 22 ], [ 244, -168, 11 ], [ -243, 106, 22 ] ], [ [ 41, -56, 22 ], [ -29, -17, 22 ], [ -50, 9, 11 ] ], [ [ -47, -1, 22 ], [ -75, 30, 11 ], [ -67, -4, 22 ] ], [ [ -47, -1, 22 ], [ -20, -3, 11 ], [ -23, -26, 22 ] ], [ [ -139, 71, 11 ], [ 224, -171, 22 ], [ 395, -290, 22 ] ], [ [ -135, 54, 22 ], [ 180, -149, 22 ], [ 131, -125, 22 ] ], [ [ -135, 54, 22 ], [ -62, 5, 22 ], [ -265, 117, 22 ] ], [ [ 4, -17, 11 ], [ -51, -6, 22 ], [ -45, -15, 22 ] ], [ [ 4, -17, 11 ], [ -7, -28, 22 ], [ 21, -59, 22 ] ], [ [ -80, 21, 22 ], [ -51, -6, 22 ], [ -281, 152, 11 ] ], [ [ 63, -67, 22 ], [ 46, -47, 11 ], [ 43, -70, 22 ] ], [ [ -25, -12, 22 ], [ 4, -39, 22 ], [ -1, -37, 22 ] ], [ [ -25, -12, 22 ], [ -29, -17, 22 ], [ 38, -46, 11 ] ], [ [ -25, -12, 22 ], [ -29, -17, 22 ], [ -28, -2, 11 ] ], [ [ -25, -12, 22 ], [ 15, -39, 22 ], [ 5, -24, 11 ] ], [ [ -25, -12, 22 ], [ -18, -17, 22 ], [ -45, -15, 22 ] ], [ [ -256, 131, 22 ], [ -139, 49, 22 ], [ -67, -4, 22 ] ], [ [ -487, 274, 22 ], [ -315, 159, 22 ], [ 38, -46, 11 ] ], [ [ 30, -45, 22 ], [ 4, -39, 22 ], [ -12, -37, 22 ] ], [ [ 316, -221, 22 ], [ 57, -47, 11 ], [ -67, 7, 22 ] ], [ [ -3, -23, 22 ], [ 13, -25, 11 ], [ -23, -26, 22 ] ], [ [ -36, -1, 22 ], [ -29, -17, 22 ], [ -23, -26, 22 ] ], [ [ 74, -67, 22 ], [ -20, -3, 11 ], [ 329, -235, 22 ] ], [ [ 74, -67, 22 ], [ -262, 151, 11 ], [ -463, 249, 22 ] ], [ [ -168, 87, 22 ], [ -339, 195, 11 ], [ -67, 7, 22 ] ], [ [ 7, -5, 1 ], [ 30, -19, 1 ], [ 2, -2, 1 ] ], [ [ -4, 2, 1 ], [ 23, -15, 1 ], [ 20, -13, 1 ] ], [ [ -4, 2, 1 ], [ 1, -1, 1 ], [ -16, 9, 1 ] ], [ [ 1, -1, 1 ], [ 1, -1, 2 ], [ 0, -1, 2 ] ], [ [ -1, 0, 2 ], [ -2, 1, 1 ], [ 0, -1, 2 ] ], [ [ -15, 9, 1 ], [ -6, 3, 1 ], [ 2, -2, 1 ] ], [ [ -2, 1, 1 ], [ -2, 1, 2 ], [ -1, 0, 2 ] ], [ [ -12, 7, 2 ], [ -44, 27, 2 ], [ 20, -13, 2 ] ], [ [ 11, -7, 1 ], [ 11, -7, 2 ], [ 4, -3, 2 ] ], [ [ 1, -1, 2 ], [ 0, -1, 2 ], [ 1, -1, 1 ] ], [ [ 1, -1, 2 ], [ -3, 1, 2 ], [ -3, 1, 2 ] ], [ [ 1, -1, 2 ], [ 1, -1, 2 ], [ 3, -3, 2 ] ], [ [ 1, -1, 2 ], [ -2, 1, 2 ], [ -1, 0, 1 ] ], [ [ 1, -1, 2 ], [ 11, -7, 2 ], [ 7, -5, 2 ] ], [ [ -7, 4, 2 ], [ -2, 1, 1 ], [ 4, -3, 2 ] ], [ [ 3, -2, 1 ], [ 4, -3, 2 ], [ 51, -32, 2 ] ], [ [ -2, 1, 2 ], [ -1, 0, 2 ], [ -2, 1, 1 ] ], [ [ -2, 1, 2 ], [ 3, -2, 2 ], [ 1, -1, 1 ] ], [ [ 11, -7, 2 ], [ 4, -3, 2 ], [ 11, -7, 1 ] ], [ [ 11, -7, 2 ], [ -18, 11, 2 ], [ -7, 4, 1 ] ], [ [ 24, -15, 2 ], [ -23, 14, 2 ], [ -20, 12, 1 ] ], [ [ 3, -2, 2 ], [ 1, -1, 1 ], [ 0, -1, 2 ] ], [ [ 3, -2, 2 ], [ 3, -2, 1 ], [ -6, 3, 2 ] ], [ [ -5, 3, 2 ], [ -9, 5, 2 ], [ -9, 5, 2 ] ], [ [ 21, -13, 1 ], [ 25, -16, 2 ], [ -9, 5, 2 ] ], [ [ 0, 0, 1 ], [ -3, 1, 2 ], [ 0, -1, 2 ] ], [ [ 0, 0, 1 ], [ 4, -3, 2 ], [ -1, 0, 2 ] ], [ [ 0, 0, 1 ], [ -25, 15, 2 ], [ 4, -3, 2 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 0,
+    "color" : "#000000"
+  }, {
+    "vertex" : 57,
+    "color" : "#FF3399"
+  } ],
+  "struts" : [ ],
+  "panels" : [ {
+    "vertices" : [ 16, 24, 22 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 6, 12, 8 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 47, 52, 53 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 49, 48, 56 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 31, 27, 23, 29 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 11, 14, 17 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 1, 2, 6 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 21, 20, 10 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 30, 26, 28, 34 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 5, 2, 4 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 48, 46, 42 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 55, 52, 50 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 42, 40, 33 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 40, 41, 32, 33 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 12, 6, 18 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 9, 11, 5 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 14, 22, 24 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 52, 39, 50 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 23, 3, 15, 26 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 10, 12, 16 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 27, 19, 3, 23 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 28, 25, 19, 27 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 51, 46, 49 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 37, 35, 43 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 47, 53, 56 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 24, 25, 15, 17 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 29, 23, 26, 30 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 39, 38, 54, 50 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 52, 55, 53 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 43, 39, 45 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 1, 6, 8 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 48, 36, 37 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 56, 55, 51 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 56, 51, 49 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 43, 33, 39 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 54, 34, 31, 41 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 21, 22, 20 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 9, 5, 4 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 56, 53, 55 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 1, 8, 10 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 48, 37, 47, 56 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 33, 32, 38, 39 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 6, 7, 18 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 20, 13, 9 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 44, 45, 47 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 47, 45, 52 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 35, 42, 33 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 43, 45, 44 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 12, 18, 16 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 41, 31, 29, 32 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 4, 1, 9 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 37, 43, 44 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 14, 11, 13 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 50, 54, 41, 40 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 42, 35, 36 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 6, 2, 7 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 26, 15, 25, 28 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 48, 42, 36 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 9, 13, 11 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 20, 22, 14 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 44, 47, 37 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 34, 28, 27, 31 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 35, 33, 43 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 51, 40, 46 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 49, 46, 48 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 37, 36, 35 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 5, 17, 7 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 11, 17, 5 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 32, 29, 30, 38 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 55, 50, 51 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 5, 7, 2 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 16, 22, 21 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 4, 2, 1 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 38, 30, 34, 54 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 7, 3, 19, 18 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 17, 15, 3, 7 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 20, 14, 13 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 51, 50, 40 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 14, 24, 17 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 10, 16, 21 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 52, 45, 39 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 42, 46, 40 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 1, 10, 20, 9 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 10, 8, 12 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 18, 19, 25, 24 ],
+    "color" : "#FF3399"
+  }, {
+    "vertices" : [ 16, 18, 24 ],
+    "color" : "#FF3399"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-7/11 -23/22 -9/11 -14/11 -23/22 -37/22"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-0"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <SelectManifestation>
+      <polygonVertex at="25/22 6/11 9/11 17/22 45/22 15/22"/>
+      <polygonVertex at="-37/11 67/22 262/11 -151/11 463/22 -249/22"/>
+      <polygonVertex at="-158/11 221/22 -57/11 47/11 67/22 -7/22"/>
+      <polygonVertex at="7/11 23/22 -15/22 39/22 23/22 13/11"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="7/11 23/22 -15/22 39/22 23/22 13/11"/>
+      <polygonVertex at="-158/11 221/22 -57/11 47/11 67/22 -7/22"/>
+      <polygonVertex at="-37/11 67/22 20/11 3/11 -329/22 235/22"/>
+      <polygonVertex at="25/22 6/11 -2/11 39/22 1/22 37/22"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-158/11 221/22 -57/11 47/11 67/22 -7/22"/>
+      <polygonVertex at="-7 5 -30 19 -2 2"/>
+      <polygonVertex at="4 -2 -23 15 -20 13"/>
+      <polygonVertex at="-37/11 67/22 20/11 3/11 -329/22 235/22"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-37/11 67/22 262/11 -151/11 463/22 -249/22"/>
+      <polygonVertex at="4 -2 -1 1 16 -9"/>
+      <polygonVertex at="-7 5 -30 19 -2 2"/>
+      <polygonVertex at="-158/11 221/22 -57/11 47/11 67/22 -7/22"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="4 -2 -1 1 16 -9"/>
+      <polygonVertex at="-1/2 1/2 1 -1/2 1 0"/>
+      <polygonVertex at="-1 1 -1/2 1/2 0 1/2"/>
+      <polygonVertex at="-7 5 -30 19 -2 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-7 5 -30 19 -2 2"/>
+      <polygonVertex at="-1 1 -1/2 1/2 0 1/2"/>
+      <polygonVertex at="-1/2 1/2 0 1/2 -1 1"/>
+      <polygonVertex at="4 -2 -23 15 -20 13"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="25/22 6/11 -2/11 39/22 1/22 37/22"/>
+      <polygonVertex at="-37/11 67/22 20/11 3/11 -329/22 235/22"/>
+      <polygonVertex at="84/11 -87/22 339/11 -195/11 67/22 -7/22"/>
+      <polygonVertex at="18/11 1/22 29/22 17/22 23/22 13/11"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="18/11 1/22 29/22 17/22 23/22 13/11"/>
+      <polygonVertex at="84/11 -87/22 339/11 -195/11 67/22 -7/22"/>
+      <polygonVertex at="-37/11 67/22 262/11 -151/11 463/22 -249/22"/>
+      <polygonVertex at="25/22 6/11 9/11 17/22 45/22 15/22"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-37/11 67/22 20/11 3/11 -329/22 235/22"/>
+      <polygonVertex at="4 -2 -23 15 -20 13"/>
+      <polygonVertex at="15 -9 6 -3 -2 2"/>
+      <polygonVertex at="84/11 -87/22 339/11 -195/11 67/22 -7/22"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="84/11 -87/22 339/11 -195/11 67/22 -7/22"/>
+      <polygonVertex at="15 -9 6 -3 -2 2"/>
+      <polygonVertex at="4 -2 -1 1 16 -9"/>
+      <polygonVertex at="-37/11 67/22 262/11 -151/11 463/22 -249/22"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="4 -2 -23 15 -20 13"/>
+      <polygonVertex at="-1/2 1/2 0 1/2 -1 1"/>
+      <polygonVertex at="0 0 3/2 -1/2 0 1/2"/>
+      <polygonVertex at="15 -9 6 -3 -2 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="15 -9 6 -3 -2 2"/>
+      <polygonVertex at="0 0 3/2 -1/2 0 1/2"/>
+      <polygonVertex at="-1/2 1/2 1 -1/2 1 0"/>
+      <polygonVertex at="4 -2 -1 1 16 -9"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="7/11 23/22 9/11 14/11 23/22 37/22"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-1"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="18/11 1/22 29/22 17/22 23/22 13/11"/>
+      <polygonVertex at="84/11 -87/22 339/11 -195/11 67/22 -7/22"/>
+      <polygonVertex at="-37/11 67/22 262/11 -151/11 463/22 -249/22"/>
+      <polygonVertex at="25/22 6/11 9/11 17/22 45/22 15/22"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="25/22 6/11 9/11 17/22 45/22 15/22"/>
+      <polygonVertex at="-37/11 67/22 262/11 -151/11 463/22 -249/22"/>
+      <polygonVertex at="-158/11 221/22 -57/11 47/11 67/22 -7/22"/>
+      <polygonVertex at="7/11 23/22 -15/22 39/22 23/22 13/11"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="7/11 23/22 -15/22 39/22 23/22 13/11"/>
+      <polygonVertex at="-158/11 221/22 -57/11 47/11 67/22 -7/22"/>
+      <polygonVertex at="-37/11 67/22 20/11 3/11 -329/22 235/22"/>
+      <polygonVertex at="25/22 6/11 -2/11 39/22 1/22 37/22"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="25/22 6/11 -2/11 39/22 1/22 37/22"/>
+      <polygonVertex at="-37/11 67/22 20/11 3/11 -329/22 235/22"/>
+      <polygonVertex at="84/11 -87/22 339/11 -195/11 67/22 -7/22"/>
+      <polygonVertex at="18/11 1/22 29/22 17/22 23/22 13/11"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-7 5 -30 19 -2 2"/>
+      <polygonVertex at="-1 1 -1/2 1/2 0 1/2"/>
+      <polygonVertex at="-1/2 1/2 0 1/2 -1 1"/>
+      <polygonVertex at="4 -2 -23 15 -20 13"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="18/11 1/22 29/22 17/22 23/22 13/11"/>
+    <SelectManifestation point="25/22 6/11 9/11 17/22 45/22 15/22"/>
+    <SelectManifestation point="7/11 23/22 -15/22 39/22 23/22 13/11"/>
+    <SelectManifestation point="25/22 6/11 -2/11 39/22 1/22 37/22"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 3/2 -1/2 0 1/2"/>
+    <SelectManifestation point="-1/2 1/2 0 1/2 -1 1"/>
+    <SelectManifestation point="-1 1 -1/2 1/2 0 1/2"/>
+    <SelectManifestation point="-1/2 1/2 1 -1/2 1 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <Validate2Manifold/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="84/11 -87/22 339/11 -195/11 67/22 -7/22"/>
+      <polygonVertex at="15 -9 6 -3 -2 2"/>
+      <polygonVertex at="4 -2 -1 1 16 -9"/>
+      <polygonVertex at="-37/11 67/22 262/11 -151/11 463/22 -249/22"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <setItemColor blue="153" green="51" red="255"/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -1/2 -3/2 -1 -3/2"/>
+      <polygonVertex at="1/2 1/2 -1 -3/2 -1 -1"/>
+      <polygonVertex at="1 1 -1/2 -1/2 -1 -3/2"/>
+      <polygonVertex at="1/2 1/2 0 -1/2 -1 -2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -1/2 -3/2 -1 -3/2"/>
+      <polygonVertex at="1/2 1/2 -1 -3/2 -1 -1"/>
+      <polygonVertex at="1 1 -1/2 -1/2 -1 -3/2"/>
+      <polygonVertex at="1/2 1/2 0 -1/2 -1 -2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1/2 1/2 0 -1/2 -1 -2"/>
+    <SelectManifestation point="0 0 -1/2 -3/2 -1 -3/2"/>
+    <SelectManifestation point="1/2 1/2 -1 -3/2 -1 -1"/>
+    <SelectManifestation point="1 1 -1/2 -1/2 -1 -3/2"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1/2 1/2 0 -1/2 -1 -2"/>
+    <DeselectAll/>
+    <SelectManifestation point="1/2 1/2 0 -1/2 -1 -2"/>
+    <SelectManifestation point="1 1 -1/2 -1/2 -1 -3/2"/>
+    <SelectManifestation point="0 0 -1/2 -3/2 -1 -3/2"/>
+    <SelectManifestation point="1/2 1/2 -1 -3/2 -1 -1"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-60/11 -53/11 1/22 15/22 -14/11 119/22"/>
+      <polygonVertex at="0 -4 -5 3 -4 5"/>
+      <polygonVertex at="-4 -1 -2 2 3 1"/>
+      <polygonVertex at="-104/11 -20/11 67/22 -7/22 63/11 31/22"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1/2 1/2 0 -1/2 -1 -2"/>
+      <polygonVertex at="0 0 -1/2 -3/2 -1 -3/2"/>
+      <polygonVertex at="1/2 1/2 -1 -3/2 -1 -1"/>
+      <polygonVertex at="1 1 -1/2 -1/2 -1 -3/2"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="1/2 1/2 0 -1/2 -1 -2"/>
+      <polygonVertex at="0 0 -1/2 -3/2 -1 -3/2"/>
+      <polygonVertex at="1/2 1/2 -1 -3/2 -1 -1"/>
+      <polygonVertex at="1 1 -1/2 -1/2 -1 -3/2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="153" green="51" red="255"/>
+    <SelectManifestation>
+      <polygonVertex at="1/2 1/2 0 -1/2 -1 -2"/>
+      <polygonVertex at="0 0 -1/2 -3/2 -1 -3/2"/>
+      <polygonVertex at="1/2 1/2 -1 -3/2 -1 -1"/>
+      <polygonVertex at="1 1 -1/2 -1/2 -1 -3/2"/>
+    </SelectManifestation>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="46.01095199584961" far="92.02185821533203" near="0.11502732336521149" parallel="false" stereoAngle="0.0" width="20.704910278320312">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.19043828547000885" y="-0.3387669026851654" z="-0.9213958978652954"/>
+      <LookDirection x="0.8891744613647461" y="0.457302987575531" z="0.015644283965229988"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="tiny connectors">
+    <Direction color="255,255,255" name="5" orbit="[[-4,3,2],[0,0,1]]" prototype="-15 39/4 15/4 -9/4 -33/4 9/2"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="6" orbit="[[-6,5,19],[27,-13,19]]" prototype="6 -13/4 -17/4 9/4 13/4 -3/2"/>
+    <Direction color="255,255,255" name="3" orbit="[[4,-1,6],[0,0,1]]" prototype="3/4 -5/4 -17/4 5/2 -1/2 5/4"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="4" orbit="[[0,0,1],[5,-3,6]]" prototype="-7/4 1/2 7/2 -5/4 -17/4 9/4"/>
+    <Direction color="255,255,255" name="1" orbit="[[0,0,1],[-1,1,2]]" prototype="1/4 -3/4 1/4 1/2 -1/2 -1/4"/>
+    <Direction color="255,255,255" name="2" orbit="[[2,-1,2],[0,0,1]]" prototype="-1 -1/4 -1/4 -1/4 -1/4 1/2"/>
+    <Direction color="255,255,255" name="0" orbit="[[-24,15,1],[47,-29,1]]" prototype="5/4 -1/2 -2 1/4 1/4 1/4"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="255,255,255" name="10" orbit="[[6,-1,29],[-27,19,29]]" prototype="1/2 1/2 0 -1/2 3/2 -1/2"/>
+    <Direction color="255,255,255" name="9" orbit="[[16,-7,19],[5,-1,19]]" prototype="3/4 1/4 -3/4 1/2 -1/2 -1/4"/>
+    <Direction color="255,255,255" name="7" orbit="[[-4,3,5],[0,0,1]]" prototype="8871/22 -2751/11 789/11 -981/22 6099/22 -3753/22"/>
+    <Direction color="255,255,255" name="8" orbit="[[-62,43,61],[-3,7,61]]" prototype="11/4 -3/4 1/4 0 1 -5/4"/>
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="239,245,61" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-1" label="bookmark 1" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>
