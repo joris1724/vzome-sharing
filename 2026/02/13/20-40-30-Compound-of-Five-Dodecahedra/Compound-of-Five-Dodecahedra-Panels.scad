@@ -209,7 +209,6 @@ module tubesector(r,x0,y0,z0,frac,rot) {
     }
 }
 
-/*
 translate ([55,10,0])  rotate ([0,0,15]) scale(sc) rotate([99.349704,0,0]) rotate([0,0,-15.450437]) difference () {
 render() {
     panel2(4.8,4.8,9,0.6);
@@ -271,8 +270,6 @@ render() {
         }
     }
 }
-*/
-
 
 scale(sc) rotate([64.828738,0,0]) rotate([0,0,-49.499295]) translate([5.54508497187474,2.47983738762488,5.54508497187474]) difference () {
 render() {

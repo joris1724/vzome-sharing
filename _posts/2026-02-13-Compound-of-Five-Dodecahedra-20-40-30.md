@@ -1,6 +1,6 @@
 ---
 title: Compound of Five Dodecahedra
-description: A compound constructed by rotating five copies of a dodecahedron by 0°, 72°, 144°, 216° and 288° respectively, around an axis through the centre of the dodecahedron. For a specific choice of this axis, the compound has icosahedral symmetry.
+description: A compound constructed by rotating five copies of a dodecahedron by 0°, 72°, 144°, 216° and 288° respectively, around an axis through the centre of the dodecahedron. For one specific choice of this axis, the compound has icosahedral symmetry.
 image: https://joris1724.github.io/vzome-sharing/2026/02/13/20-40-30-Compound-of-Five-Dodecahedra/Compound-of-Five-Dodecahedra.jpg
 published: true
 layout: vzome
