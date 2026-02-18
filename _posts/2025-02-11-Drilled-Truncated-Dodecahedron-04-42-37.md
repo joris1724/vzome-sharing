@@ -13,7 +13,7 @@ tags: [toroids]
  - [data assets and more info](<https://github.com/joris1724/vzome-sharing/tree/main/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/>)
  {% endcomment %}
 
-A first vZome model explains the construction. Consider an inner dodecahedron (magenta), concentric with an outer truncated dodecahedron (teal). A rhombicosidodecahedron (green) intersects the truncated dodecahedron along a decagonal face. The solid intersection is a pentagonal cupola, Johnson solid J5). Its pentagonal face connects to a face of the dodecahedron by a pentagonal antiprism.
+A first vZome model explains the construction. Consider an inner dodecahedron (magenta), concentric with an outer truncated dodecahedron (teal). A rhombicosidodecahedron (green) intersects the truncated dodecahedron along a decagonal face. The solid intersection is a pentagonal cupola, (Johnson solid J5). Its pentagonal face connects to a face of the dodecahedron by a pentagonal antiprism.
 
 <figure style="width: 87%; margin: 5%">
  <vzome-viewer style="width: 100%; height: 60dvh" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/Drilled-Truncated-Dodecahedron-1.vZome" >
@@ -25,7 +25,6 @@ This  model, originally designed by <a href="https://www.flickr.com/photos/karlh
 <ol>
 <li>Square panels are required for stability. These can only be held in place if they are clamped between at least two geomag rods.
 <li>Some edges meet at a sharp angle with a vertex, and that can only be achieved with supermag rods, not with geomag rods.
-</ol>
 
 <p>
 The Zometool model, here with edge length b1, is easier to build than its Geomag counterpart. However, due to the lack of panels, it is aesthetically inferior:
@@ -67,7 +66,7 @@ Next some pictures halfway the construction of the physical model:
   </figcaption>
 </figure>
 
-and finally a view from the inside:
+and finally a view from the inside of the completed model:
 
 <figure style="width: 87%; margin: 5%">
   <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/Drilled-Truncated-Dodecahedron.png" >
