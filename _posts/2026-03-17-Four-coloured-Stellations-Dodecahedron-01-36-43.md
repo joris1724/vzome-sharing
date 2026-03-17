@@ -13,7 +13,7 @@ tags: [stellations]
  
 {% endcomment %}
 
-<a href=https://www.instructables.com/The-Magnetic-59-Icosahedra/>Bob Hearn</a> had the cunning idea to produce a magnetic set of all the cells that compose all the stellations of the Icosahedron. His <i>monochrome</i> components were all designed in Fusion 360. In order to obtain stellations which are consistently face-coloured, I created a workflow to produce pieces which are <i>multicoloured</i> individually. For each piece type, a vZome design is transformed by a perl program into an OpenSCAD file for all multicoloured patterns which are needed. This post presents the multicoured magnetic set for the stellations of the Dodecahedron.
+<a href=https://www.instructables.com/The-Magnetic-59-Icosahedra>Bob Hearn</a> had the cunning idea to produce a magnetic set of all the cells that compose all the stellations of the Icosahedron. His <i>monochrome</i> components were all designed in Fusion 360. In order to obtain stellations which are consistently <b>face-coloured</b>, I created a workflow to produce pieces which are <i>multicoloured</i> individually. For each piece type, a vZome design is transformed by a perl program into an OpenSCAD file for all multicoloured patterns which are needed. This post presents the multicoured magnetic set for the stellations of the Dodecahedron.
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/03/17/01-36-43-Four-coloured-Stellations-Dodecahedron/0.png" >
@@ -45,9 +45,9 @@ A Dodecahedron only has three stellations, better known as the <i>Small Stellate
   </figcaption>
 </figure>
 
-Together with the <i>Great Icosahedron</i>, one of the stellations of the icosahedron, they are the <i>Kepler-Poinsot</i> polyhedra, which together wit the Platonic solids form the complete set of nine regular polyhedra.
+Together with the <i>Great Icosahedron</i>, one of the stellations of the icosahedron, they are the <i>Kepler-Poinsot</i> polyhedra, which together with the Platonic solids form the complete set of nine regular polyhedra.
 <p>
- I implemented the <i>four-coloured</i> version proposed by <a href=https://www.georgehart.com/virtual-polyhedra/colorings.html>George Hart</a>. This colouring is chiral. The OpenSCAD designs for the <a href="https://joris1724.github.io/vzome-sharing/2026/03/17/01-36-43-Four-coloured-Stellations-Dodecahedron/0.scad">kernel<a>, <a href="https://joris1724.github.io/vzome-sharing/2026/03/17/01-36-43-Four-coloured-Stellations-Dodecahedron/1.scad">first layer<a>, <a href="https://joris1724.github.io/vzome-sharing/2026/03/17/01-36-43-Four-coloured-Stellations-Dodecahedron/2.scad">second layer<a> and <a href="https://joris1724.github.io/vzome-sharing/2026/03/17/01-36-43-Four-coloured-Stellations-Dodecahedron/3.scad">third layer<a> are ready to be sliced and 3D printed. Next the three stellations can be built following:
+ I implemented the <i>four-coloured</i> version proposed by <a href="https://www.georgehart.com/virtual-polyhedra/colorings.html">George Hart</a>. This colouring is chiral. The OpenSCAD designs for the <a href="https://joris1724.github.io/vzome-sharing/2026/03/17/01-36-43-Four-coloured-Stellations-Dodecahedron/0.scad">kernel<a>, <a href="https://joris1724.github.io/vzome-sharing/2026/03/17/01-36-43-Four-coloured-Stellations-Dodecahedron/1.scad">first layer<a>, <a href="https://joris1724.github.io/vzome-sharing/2026/03/17/01-36-43-Four-coloured-Stellations-Dodecahedron/2.scad">second layer<a> and <a href="https://joris1724.github.io/vzome-sharing/2026/03/17/01-36-43-Four-coloured-Stellations-Dodecahedron/3.scad">third layer<a> are ready to be sliced and 3D printed. Next the three stellations can be built following:
 
 <figure style="width: 87%; margin: 5%">
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step'></vzome-viewer-start><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next><vzome-viewer-end label='final step'></vzome-viewer-end></div></div>

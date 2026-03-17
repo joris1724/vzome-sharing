@@ -13,7 +13,7 @@ tags: [stellations]
  
 {% endcomment %}
 
-<a href=https://www.instructables.com/The-Magnetic-59-Icosahedra/>Bob Hearn</a> had the cunning idea to produce a magnetic set of all the cells that compose all the stellations of the Icosahedron. His <i>monochrome</i> components were designed in Fusion 360. In order to obtain stellations which are consistently face-coloured, I created a workflow to produce pieces which are <i>multicoloured</i> individually. For each piece type, a vZome design is transformed by a perl program into an OpenSCAD file for all multicoloured patterns which are needed. This post presents the multicoured magnetic set for the stellations of the Rhombic Dodecahedron.
+<a href=https://www.instructables.com/The-Magnetic-59-Icosahedra>Bob Hearn</a> had the cunning idea to produce a magnetic set of all the cells that compose all the stellations of the Icosahedron. His <i>monochrome</i> components were designed in Fusion 360. In order to obtain stellations which are consistently <b>face-coloured</b>, I created a workflow to produce pieces which are <i>multicoloured</i> individually. For each piece type, a vZome design is transformed by a perl program into an OpenSCAD file for all multicoloured patterns which are needed. This post presents the multicoured magnetic set for the stellations of the Rhombic Dodecahedron.
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/03/16/22-56-41-Four-coloured-Stellations-Rhombic-Dodecahedron/0.png" >
@@ -22,7 +22,7 @@ tags: [stellations]
   </figcaption>
 </figure>
 
-A Rhombic Dodecahedron only has three stellations. The <i>monochrome</i> versions of all stellations can be assembled from copies of a single rhombic pyramid. I prefered to implement the <i>four-coloured</i> version proposed by John Ede and <a href=https://www.georgehart.com/virtual-polyhedra/colorings.html>George Hart</a>: every permutation of both three and four colours occurs at one vertex.
+A Rhombic Dodecahedron only has three stellations. The <i>monochrome</i> versions of all stellations can be assembled from copies of a single rhombic pyramid. I prefered to implement the <i>four-coloured</i> version proposed by John Ede and <a href="https://www.georgehart.com/virtual-polyhedra/colorings.html">George Hart</a>: every permutation of both three and four colours occurs at one vertex.
 <p>
 The first stellation is similar to the compound of three octahedra, with reduced altitudes of the square dipyramids:
 
