@@ -13,7 +13,7 @@ tags: [stellations]
  
 {% endcomment %}
 
-<a href="https://www.researchgate.net/publication/265206552_Stellations_of_the_Rhombic_Triacontahedron_and_Beyond">Peter W.Messer</a> identified the names and facial patters of all 226 <i>fully supported</i> stellations of the rhombic triacontahedron. Of these 112 are chiral. The models can best be viewed in full screen mode. Use <i>Select a scene</i> to view another stellation. The first list shows all <i>achiral</i> stellations. For instance the <i>small stellated triacontahedron</i> is the 13th in the list, the <i>great rhombic triacontahedron</i> the 22th, the <i>great stellated triacontahedron</i> is the 33th, the <i>rhombic hexecontahedron</i> is the 92th, and the <i>final stellation</i> is the 114th.
+<a href="https://www.researchgate.net/publication/265206552_Stellations_of_the_Rhombic_Triacontahedron_and_Beyond">Peter W.Messer</a> identified the names and facial patters of all 226 <i>fully supported</i> stellations of the rhombic triacontahedron. Of these 112 are chiral. The models can best be viewed in full screen mode. Use <i>Select a scene</i> to view another stellation. The first list shows all <i>reflexible</i> stellations. For instance the <i>small stellated triacontahedron</i> is the 13th in the list, the <i>great rhombic triacontahedron</i> the 22th, the <i>great stellated triacontahedron</i> is the 33th, the <i>rhombic hexecontahedron</i> is the 92th, and the <i>final stellation</i> is the 114th.
 
 <figure style="width: 87%; margin: 5%">  
   <vzome-viewer style="width: 100%; height: 60dvh" show-scenes='named'
@@ -22,7 +22,7 @@ tags: [stellations]
         src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron/Stellations-of-the-Rhombic-Triacontahedron.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    Achiral stellations (5 colours)
+    Reflexible stellations (5 colours)
   </figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ tags: [stellations]
 </figure>
 
 
-As in the corresponding page in <a href="https://georgehart.com/virtual-polyhedra/srtc-index.html">The Encyclopedia of Polyhedra</a> by George Hart, each face is given a colour based on a colouring scheme of the rhombic triacontahedron being stellated.  This 5-coloured scheme in turn is inspired by one of its stellations, the compound of five cubes (the 9th in the achiral list). Monochrome versions are also available:
+As in the corresponding page in <a href="https://georgehart.com/virtual-polyhedra/srtc-index.html">The Encyclopedia of Polyhedra</a> by George Hart, each face is given a colour based on a colouring scheme of the rhombic triacontahedron being stellated.  This 5-coloured scheme in turn is inspired by one of its stellations, the compound of five cubes (the 9th in the reflexible list). Monochrome versions are also available:
 
 <figure style="width: 87%; margin: 5%">
  <vzome-viewer style="width: 100%; height: 60dvh" show-scenes='named'
@@ -49,7 +49,7 @@ As in the corresponding page in <a href="https://georgehart.com/virtual-polyhedr
        src="https://joris1724.github.io/vzome-sharing/2025/02/15/14-10-16-Stellations-of-the-Rhombic-Triacontahedron/Stellations-of-the-Rhombic-Triacontahedron---Achiral---Monochrome.png" >
  </vzome-viewer>
  <figcaption style="text-align: center; font-style: italic;">
-    Achiral stellations (monochrome)
+    Reflexible stellations (monochrome)
  </figcaption>
 </figure>
 
