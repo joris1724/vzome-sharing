@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="96" field="golden" version="7.1">
-  <EditHistory editNumber="100" lastStickyEdit="89">
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="117" field="golden" version="7.1">
+  <EditHistory editNumber="175" lastStickyEdit="175">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ -12, -19, 1 ], [ -5, -9, 1 ], [ -1, -2, 1 ] ], [ [ -12, -19, 1 ], [ -5, -9, 1 ], [ 1, 2, 1 ] ], [ [ -12, -19, 1 ], [ -3, -5, 1 ], [ -1, -2, 1 ] ], [ [ -12, -19, 1 ], [ -3, -5, 1 ], [ 1, 2, 1 ] ], [ [ -11, -18, 1 ], [ -6, -11, 1 ], [ -3, -5, 1 ] ], [ [ -11, -18, 1 ], [ -6, -11, 1 ], [ 3, 5, 1 ] ], [ [ -11, -18, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ -11, -18, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ -10, -17, 1 ], [ -5, -9, 1 ], [ -5, -8, 1 ] ], [ [ -10, -17, 1 ], [ -5, -9, 1 ], [ 5, 8, 1 ] ], [ [ -10, -17, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -10, -17, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ -10, -16, 1 ], [ -8, -14, 1 ], [ -4, -6, 1 ] ], [ [ -10, -16, 1 ], [ -8, -14, 1 ], [ 4, 6, 1 ] ], [ [ -10, -16, 1 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ -10, -16, 1 ], [ -4, -6, 1 ], [ 0, 0, 1 ] ], [ [ -10, -16, 1 ], [ 0, 0, 1 ], [ -4, -6, 1 ] ], [ [ -10, -16, 1 ], [ 0, 0, 1 ], [ 4, 6, 1 ] ], [ [ -9, -15, 1 ], [ -7, -12, 1 ], [ -6, -9, 1 ] ], [ [ -9, -15, 1 ], [ -7, -12, 1 ], [ 6, 9, 1 ] ], [ [ -9, -15, 1 ], [ -1, -2, 1 ], [ -6, -9, 1 ] ], [ [ -9, -15, 1 ], [ -1, -2, 1 ], [ 6, 9, 1 ] ], [ [ -9, -14, 1 ], [ -10, -17, 1 ], [ -3, -5, 1 ] ], [ [ -9, -14, 1 ], [ -10, -17, 1 ], [ 3, 5, 1 ] ], [ [ -9, -14, 1 ], [ -6, -11, 1 ], [ -3, -5, 1 ] ], [ [ -9, -14, 1 ], [ -6, -11, 1 ], [ 3, 5, 1 ] ], [ [ -9, -14, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ -9, -14, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ -9, -14, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ -9, -14, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ -8, -14, 1 ], [ -6, -10, 1 ], [ -4, -6, 1 ] ], [ [ -8, -14, 1 ], [ -6, -10, 1 ], [ 4, 6, 1 ] ], [ [ -8, -14, 1 ], [ -2, -4, 1 ], [ -4, -6, 1 ] ], [ [ -8, -14, 1 ], [ -2, -4, 1 ], [ 4, 6, 1 ] ], [ [ -8, -13, 1 ], [ -11, -19, 1 ], [ -1, -2, 1 ] ], [ [ -8, -13, 1 ], [ -11, -19, 1 ], [ 1, 2, 1 ] ], [ [ -8, -13, 1 ], [ -5, -9, 1 ], [ -1, -2, 1 ] ], [ [ -8, -13, 1 ], [ -5, -9, 1 ], [ 1, 2, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ -1, -2, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ 1, 2, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ -1, -2, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ -7, -12, 1 ], [ -8, -13, 1 ], [ -7, -11, 1 ] ], [ [ -7, -12, 1 ], [ -8, -13, 1 ], [ 7, 11, 1 ] ], [ [ -7, -12, 1 ], [ -4, -7, 1 ], [ -3, -5, 1 ] ], [ [ -7, -12, 1 ], [ -4, -7, 1 ], [ 3, 5, 1 ] ], [ [ -7, -12, 1 ], [ 0, -1, 1 ], [ -7, -11, 1 ] ], [ [ -7, -12, 1 ], [ 0, -1, 1 ], [ 7, 11, 1 ] ], [ [ -7, -11, 1 ], [ -11, -18, 1 ], [ -4, -7, 1 ] ], [ [ -7, -11, 1 ], [ -11, -18, 1 ], [ 4, 7, 1 ] ], [ [ -7, -11, 1 ], [ -9, -16, 1 ], [ -2, -3, 1 ] ], [ [ -7, -11, 1 ], [ -9, -16, 1 ], [ 2, 3, 1 ] ], [ [ -7, -11, 1 ], [ -7, -12, 1 ], [ -2, -3, 1 ] ], [ [ -7, -11, 1 ], [ -7, -12, 1 ], [ 2, 3, 1 ] ], [ [ -7, -11, 1 ], [ -1, -2, 1 ], [ -2, -3, 1 ] ], [ [ -7, -11, 1 ], [ -1, -2, 1 ], [ 2, 3, 1 ] ], [ [ -7, -11, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ -7, -11, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ -7, -11, 1 ], [ 3, 4, 1 ], [ -4, -7, 1 ] ], [ [ -7, -11, 1 ], [ 3, 4, 1 ], [ 4, 7, 1 ] ], [ [ -6, -10, 1 ], [ -12, -20, 1 ], [ -2, -4, 1 ] ], [ [ -6, -10, 1 ], [ -12, -20, 1 ], [ 2, 4, 1 ] ], [ [ -6, -10, 1 ], [ -10, -16, 1 ], [ -6, -10, 1 ] ], [ [ -6, -10, 1 ], [ -10, -16, 1 ], [ -2, -4, 1 ] ], [ [ -6, -10, 1 ], [ -10, -16, 1 ], [ 2, 4, 1 ] ], [ [ -6, -10, 1 ], [ -10, -16, 1 ], [ 6, 10, 1 ] ], [ [ -6, -10, 1 ], [ -8, -14, 1 ], [ 0, 0, 1 ] ], [ [ -6, -10, 1 ], [ -6, -10, 1 ], [ -4, -6, 1 ] ], [ [ -6, -10, 1 ], [ -6, -10, 1 ], [ 4, 6, 1 ] ], [ [ -6, -10, 1 ], [ -2, -4, 1 ], [ -4, -6, 1 ] ], [ [ -6, -10, 1 ], [ -2, -4, 1 ], [ 4, 6, 1 ] ], [ [ -6, -10, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -6, -10, 1 ], [ 2, 2, 1 ], [ -6, -10, 1 ] ], [ [ -6, -10, 1 ], [ 2, 2, 1 ], [ -2, -4, 1 ] ], [ [ -6, -10, 1 ], [ 2, 2, 1 ], [ 2, 4, 1 ] ], [ [ -6, -10, 1 ], [ 2, 2, 1 ], [ 6, 10, 1 ] ], [ [ -6, -10, 1 ], [ 4, 6, 1 ], [ -2, -4, 1 ] ], [ [ -6, -10, 1 ], [ 4, 6, 1 ], [ 2, 4, 1 ] ], [ [ -5, -9, 1 ], [ -7, -12, 1 ], [ -8, -13, 1 ] ], [ [ -5, -9, 1 ], [ -7, -12, 1 ], [ -6, -9, 1 ] ], [ [ -5, -9, 1 ], [ -7, -12, 1 ], [ 6, 9, 1 ] ], [ [ -5, -9, 1 ], [ -7, -12, 1 ], [ 8, 13, 1 ] ], [ [ -5, -9, 1 ], [ -1, -2, 1 ], [ -8, -13, 1 ] ], [ [ -5, -9, 1 ], [ -1, -2, 1 ], [ -6, -9, 1 ] ], [ [ -5, -9, 1 ], [ -1, -2, 1 ], [ 6, 9, 1 ] ], [ [ -5, -9, 1 ], [ -1, -2, 1 ], [ 8, 13, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ -5, -9, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ -3, -5, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ 3, 5, 1 ] ], [ [ -5, -8, 1 ], [ -8, -13, 1 ], [ 5, 9, 1 ] ], [ [ -5, -8, 1 ], [ 0, -1, 1 ], [ -5, -9, 1 ] ], [ [ -5, -8, 1 ], [ 0, -1, 1 ], [ -3, -5, 1 ] ], [ [ -5, -8, 1 ], [ 0, -1, 1 ], [ 3, 5, 1 ] ], [ [ -5, -8, 1 ], [ 0, -1, 1 ], [ 5, 9, 1 ] ], [ [ -4, -7, 1 ], [ -13, -21, 1 ], [ -1, -2, 1 ] ], [ [ -4, -7, 1 ], [ -13, -21, 1 ], [ 1, 2, 1 ] ], [ [ -4, -7, 1 ], [ -9, -15, 1 ], [ -7, -12, 1 ] ], [ [ -4, -7, 1 ], [ -9, -15, 1 ], [ -1, -2, 1 ] ], [ [ -4, -7, 1 ], [ -9, -15, 1 ], [ 1, 2, 1 ] ], [ [ -4, -7, 1 ], [ -9, -15, 1 ], [ 7, 12, 1 ] ], [ [ -4, -7, 1 ], [ -5, -9, 1 ], [ -9, -14, 1 ] ], [ [ -4, -7, 1 ], [ -5, -9, 1 ], [ -5, -8, 1 ] ], [ [ -4, -7, 1 ], [ -5, -9, 1 ], [ 5, 8, 1 ] ], [ [ -4, -7, 1 ], [ -5, -9, 1 ], [ 9, 14, 1 ] ], [ [ -4, -7, 1 ], [ -3, -5, 1 ], [ -9, -14, 1 ] ], [ [ -4, -7, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -4, -7, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ -4, -7, 1 ], [ -3, -5, 1 ], [ 9, 14, 1 ] ], [ [ -4, -7, 1 ], [ 1, 1, 1 ], [ -7, -12, 1 ] ], [ [ -4, -7, 1 ], [ 1, 1, 1 ], [ -1, -2, 1 ] ], [ [ -4, -7, 1 ], [ 1, 1, 1 ], [ 1, 2, 1 ] ], [ [ -4, -7, 1 ], [ 1, 1, 1 ], [ 7, 12, 1 ] ], [ [ -4, -7, 1 ], [ 5, 7, 1 ], [ -1, -2, 1 ] ], [ [ -4, -7, 1 ], [ 5, 7, 1 ], [ 1, 2, 1 ] ], [ [ -3, -6, 1 ], [ -4, -7, 1 ], [ -7, -11, 1 ] ], [ [ -3, -6, 1 ], [ -4, -7, 1 ], [ 7, 11, 1 ] ], [ [ -3, -5, 1 ], [ -11, -18, 1 ], [ 0, -1, 1 ] ], [ [ -3, -5, 1 ], [ -11, -18, 1 ], [ 0, 1, 1 ] ], [ [ -3, -5, 1 ], [ -7, -12, 1 ], [ -4, -7, 1 ] ], [ [ -3, -5, 1 ], [ -7, -12, 1 ], [ 4, 7, 1 ] ], [ [ -3, -5, 1 ], [ -4, -7, 1 ], [ 0, 0, 1 ] ], [ [ -3, -5, 1 ], [ -1, -2, 1 ], [ -4, -7, 1 ] ], [ [ -3, -5, 1 ], [ -1, -2, 1 ], [ 4, 7, 1 ] ], [ [ -3, -5, 1 ], [ 3, 4, 1 ], [ 0, -1, 1 ] ], [ [ -3, -5, 1 ], [ 3, 4, 1 ], [ 0, 1, 1 ] ], [ [ -3, -4, 1 ], [ -4, -7, 1 ], [ -7, -11, 1 ] ], [ [ -3, -4, 1 ], [ -4, -7, 1 ], [ 7, 11, 1 ] ], [ [ -2, -3, 1 ], [ -13, -21, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ -13, -21, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ -9, -15, 1 ], [ -7, -12, 1 ] ], [ [ -2, -3, 1 ], [ -9, -15, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ -9, -15, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ -9, -15, 1 ], [ 7, 12, 1 ] ], [ [ -2, -3, 1 ], [ -5, -9, 1 ], [ -9, -14, 1 ] ], [ [ -2, -3, 1 ], [ -5, -9, 1 ], [ -5, -8, 1 ] ], [ [ -2, -3, 1 ], [ -5, -9, 1 ], [ 5, 8, 1 ] ], [ [ -2, -3, 1 ], [ -5, -9, 1 ], [ 9, 14, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ -9, -14, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ 9, 14, 1 ] ], [ [ -2, -3, 1 ], [ 1, 1, 1 ], [ -7, -12, 1 ] ], [ [ -2, -3, 1 ], [ 1, 1, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ 1, 1, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 1, 1, 1 ], [ 7, 12, 1 ] ], [ [ -2, -3, 1 ], [ 5, 7, 1 ], [ -1, -2, 1 ] ], [ [ -2, -3, 1 ], [ 5, 7, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ -8, -13, 1 ], [ -5, -9, 1 ] ], [ [ -1, -2, 1 ], [ -8, -13, 1 ], [ -3, -5, 1 ] ], [ [ -1, -2, 1 ], [ -8, -13, 1 ], [ 3, 5, 1 ] ], [ [ -1, -2, 1 ], [ -8, -13, 1 ], [ 5, 9, 1 ] ], [ [ -1, -2, 1 ], [ 0, -1, 1 ], [ -5, -9, 1 ] ], [ [ -1, -2, 1 ], [ 0, -1, 1 ], [ -3, -5, 1 ] ], [ [ -1, -2, 1 ], [ 0, -1, 1 ], [ 3, 5, 1 ] ], [ [ -1, -2, 1 ], [ 0, -1, 1 ], [ 5, 9, 1 ] ], [ [ -1, -1, 1 ], [ -7, -12, 1 ], [ -8, -13, 1 ] ], [ [ -1, -1, 1 ], [ -7, -12, 1 ], [ -6, -9, 1 ] ], [ [ -1, -1, 1 ], [ -7, -12, 1 ], [ 6, 9, 1 ] ], [ [ -1, -1, 1 ], [ -7, -12, 1 ], [ 8, 13, 1 ] ], [ [ -1, -1, 1 ], [ -1, -2, 1 ], [ -8, -13, 1 ] ], [ [ -1, -1, 1 ], [ -1, -2, 1 ], [ -6, -9, 1 ] ], [ [ -1, -1, 1 ], [ -1, -2, 1 ], [ 6, 9, 1 ] ], [ [ -1, -1, 1 ], [ -1, -2, 1 ], [ 8, 13, 1 ] ], [ [ 0, 0, 1 ], [ -12, -20, 1 ], [ -2, -4, 1 ] ], [ [ 0, 0, 1 ], [ -12, -20, 1 ], [ 2, 4, 1 ] ], [ [ 0, 0, 1 ], [ -10, -16, 1 ], [ -6, -10, 1 ] ], [ [ 0, 0, 1 ], [ -10, -16, 1 ], [ -2, -4, 1 ] ], [ [ 0, 0, 1 ], [ -10, -16, 1 ], [ 2, 4, 1 ] ], [ [ 0, 0, 1 ], [ -10, -16, 1 ], [ 6, 10, 1 ] ], [ [ 0, 0, 1 ], [ -8, -14, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -6, -10, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ -6, -10, 1 ], [ 4, 6, 1 ] ], [ [ 0, 0, 1 ], [ -2, -4, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ -2, -4, 1 ], [ 4, 6, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 2, 2, 1 ], [ -6, -10, 1 ] ], [ [ 0, 0, 1 ], [ 2, 2, 1 ], [ -2, -4, 1 ] ], [ [ 0, 0, 1 ], [ 2, 2, 1 ], [ 2, 4, 1 ] ], [ [ 0, 0, 1 ], [ 2, 2, 1 ], [ 6, 10, 1 ] ], [ [ 0, 0, 1 ], [ 4, 6, 1 ], [ -2, -4, 1 ] ], [ [ 0, 0, 1 ], [ 4, 6, 1 ], [ 2, 4, 1 ] ], [ [ 1, 1, 1 ], [ -11, -18, 1 ], [ -4, -7, 1 ] ], [ [ 1, 1, 1 ], [ -11, -18, 1 ], [ 4, 7, 1 ] ], [ [ 1, 1, 1 ], [ -9, -16, 1 ], [ -2, -3, 1 ] ], [ [ 1, 1, 1 ], [ -9, -16, 1 ], [ 2, 3, 1 ] ], [ [ 1, 1, 1 ], [ -7, -12, 1 ], [ -2, -3, 1 ] ], [ [ 1, 1, 1 ], [ -7, -12, 1 ], [ 2, 3, 1 ] ], [ [ 1, 1, 1 ], [ -1, -2, 1 ], [ -2, -3, 1 ] ], [ [ 1, 1, 1 ], [ -1, -2, 1 ], [ 2, 3, 1 ] ], [ [ 1, 1, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ 1, 1, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ 1, 1, 1 ], [ 3, 4, 1 ], [ -4, -7, 1 ] ], [ [ 1, 1, 1 ], [ 3, 4, 1 ], [ 4, 7, 1 ] ], [ [ 1, 2, 1 ], [ -8, -13, 1 ], [ -7, -11, 1 ] ], [ [ 1, 2, 1 ], [ -8, -13, 1 ], [ 7, 11, 1 ] ], [ [ 1, 2, 1 ], [ -4, -7, 1 ], [ -3, -5, 1 ] ], [ [ 1, 2, 1 ], [ -4, -7, 1 ], [ 3, 5, 1 ] ], [ [ 1, 2, 1 ], [ 0, -1, 1 ], [ -7, -11, 1 ] ], [ [ 1, 2, 1 ], [ 0, -1, 1 ], [ 7, 11, 1 ] ], [ [ 2, 3, 1 ], [ -11, -19, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ -11, -19, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ -5, -9, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ -5, -9, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ -3, -5, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ -3, -5, 1 ], [ 1, 2, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ -1, -2, 1 ] ], [ [ 2, 3, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ 2, 4, 1 ], [ -6, -10, 1 ], [ -4, -6, 1 ] ], [ [ 2, 4, 1 ], [ -6, -10, 1 ], [ 4, 6, 1 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ -4, -6, 1 ] ], [ [ 2, 4, 1 ], [ -2, -4, 1 ], [ 4, 6, 1 ] ], [ [ 3, 4, 1 ], [ -10, -17, 1 ], [ -3, -5, 1 ] ], [ [ 3, 4, 1 ], [ -10, -17, 1 ], [ 3, 5, 1 ] ], [ [ 3, 4, 1 ], [ -6, -11, 1 ], [ -3, -5, 1 ] ], [ [ 3, 4, 1 ], [ -6, -11, 1 ], [ 3, 5, 1 ] ], [ [ 3, 4, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ 3, 4, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ 3, 4, 1 ], [ 2, 3, 1 ], [ -3, -5, 1 ] ], [ [ 3, 4, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ 3, 5, 1 ], [ -7, -12, 1 ], [ -6, -9, 1 ] ], [ [ 3, 5, 1 ], [ -7, -12, 1 ], [ 6, 9, 1 ] ], [ [ 3, 5, 1 ], [ -1, -2, 1 ], [ -6, -9, 1 ] ], [ [ 3, 5, 1 ], [ -1, -2, 1 ], [ 6, 9, 1 ] ], [ [ 4, 6, 1 ], [ -8, -14, 1 ], [ -4, -6, 1 ] ], [ [ 4, 6, 1 ], [ -8, -14, 1 ], [ 4, 6, 1 ] ], [ [ 4, 6, 1 ], [ -4, -8, 1 ], [ 0, 0, 1 ] ], [ [ 4, 6, 1 ], [ -4, -6, 1 ], [ 0, 0, 1 ] ], [ [ 4, 6, 1 ], [ 0, 0, 1 ], [ -4, -6, 1 ] ], [ [ 4, 6, 1 ], [ 0, 0, 1 ], [ 4, 6, 1 ] ], [ [ 4, 7, 1 ], [ -5, -9, 1 ], [ -5, -8, 1 ] ], [ [ 4, 7, 1 ], [ -5, -9, 1 ], [ 5, 8, 1 ] ], [ [ 4, 7, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ 4, 7, 1 ], [ -3, -5, 1 ], [ 5, 8, 1 ] ], [ [ 5, 8, 1 ], [ -6, -11, 1 ], [ -3, -5, 1 ] ], [ [ 5, 8, 1 ], [ -6, -11, 1 ], [ 3, 5, 1 ] ], [ [ 5, 8, 1 ], [ -2, -3, 1 ], [ -3, -5, 1 ] ], [ [ 5, 8, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ 6, 9, 1 ], [ -5, -9, 1 ], [ -1, -2, 1 ] ], [ [ 6, 9, 1 ], [ -5, -9, 1 ], [ 1, 2, 1 ] ], [ [ 6, 9, 1 ], [ -3, -5, 1 ], [ -1, -2, 1 ] ], [ [ 6, 9, 1 ], [ -3, -5, 1 ], [ 1, 2, 1 ] ] ],
@@ -3458,9 +3458,90 @@
     <DeselectAll/>
     <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
     <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="DESELECT" struts="IGNORE"/>
+    <BookmarkTool name="tool-7"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="DESELECT" struts="IGNORE"/>
+    <BookmarkTool name="tool-8"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="DESELECT" struts="IGNORE"/>
+    <BookmarkTool name="tool-9"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <InvertSelection/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Snapshot id="9"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 6 5 9 -2 -3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <InvertSelection/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Snapshot id="10"/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="11"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <Snapshot id="12"/>
+    <DeselectAll/>
+    <Snapshot id="13"/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="7 11 4 7 -4 -6" startSegment="6 9 6 10 -3 -5"/>
+    <SelectManifestation endSegment="4 6 7 11 -4 -7" startSegment="6 9 6 10 -3 -5"/>
+    <SelectManifestation endSegment="4 6 7 11 -4 -7" startSegment="3 5 6 9 -6 -10"/>
+    <SelectManifestation endSegment="2 3 4 6 -5 -9" startSegment="3 5 6 9 -6 -10"/>
+    <SelectManifestation endSegment="2 3 4 6 -5 -9" startSegment="3 5 6 9 -6 -10"/>
+    <SelectManifestation endSegment="3 5 6 9 -6 -10" startSegment="4 7 4 6 -7 -11"/>
+    <SelectManifestation endSegment="6 10 3 5 -6 -9" startSegment="4 7 4 6 -7 -11"/>
+    <SelectManifestation endSegment="6 10 3 5 -6 -9" startSegment="7 11 4 7 -4 -6"/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="9 14 1 2 -1 -2" startSegment="9 14 -1 -2 -1 -2"/>
+    <SelectManifestation endSegment="9 14 1 2 -1 -2" startSegment="8 13 2 4 -3 -5"/>
+    <SelectManifestation endSegment="8 13 2 4 -3 -5" startSegment="7 12 1 2 -5 -8"/>
+    <SelectManifestation endSegment="7 12 -1 -2 -5 -8" startSegment="7 12 1 2 -5 -8"/>
+    <SelectManifestation endSegment="7 12 -1 -2 -5 -8" startSegment="8 13 -2 -4 -3 -5"/>
+    <SelectManifestation endSegment="8 13 -2 -4 -3 -5" startSegment="9 14 -1 -2 -1 -2"/>
+    <InvertSelection/>
+    <EndBlock/>
+    <Hide/>
+    <Snapshot id="14"/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="15"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <Snapshot id="16"/>
+    <DeselectAll/>
+    <Snapshot id="17"/>
   </EditHistory>
   <notes>
-    <page snapshot="8" title="Step 0/2 120b1">
+    <page snapshot="9" title="Step 0/2 120b1">
       <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423736214637756" parallel="false" stereoAngle="0.0" width="115.62722778320312">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.396915078163147" y="0.9077624082565308" z="0.13575692474842072"/>
@@ -3468,7 +3549,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="7" title="0-1 5b1">
+    <page snapshot="10" title="0-1 5b1">
       <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423736214637756" parallel="false" stereoAngle="0.0" width="115.62722778320312">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.396915078163147" y="0.9077624082565308" z="0.13575692474842072"/>
@@ -3476,7 +3557,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="6" title="0-1 x 1">
+    <page snapshot="11" title="0-1 x 1">
       <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423736214637756" parallel="false" stereoAngle="0.0" width="115.62722778320312">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.396915078163147" y="0.9077624082565308" z="0.13575692474842072"/>
@@ -3484,7 +3565,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="5" title="0-1 x 60">
+    <page snapshot="12" title="0-1 x 60">
       <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423736214637756" parallel="false" stereoAngle="0.0" width="115.62722778320312">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.396915078163147" y="0.9077624082565308" z="0.13575692474842072"/>
@@ -3492,7 +3573,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="4" title="Step 1/2">
+    <page snapshot="13" title="Step 1/2">
       <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423736214637756" parallel="false" stereoAngle="0.0" width="115.62722778320312">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.396915078163147" y="0.9077624082565308" z="0.13575692474842072"/>
@@ -3500,35 +3581,35 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="3" title="1-2 6b1">
-      <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423736214637756" parallel="false" stereoAngle="0.0" width="115.62722778320312">
+    <page snapshot="14" title="1-2 6b1">
+      <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423735618591309" parallel="false" stereoAngle="0.0" width="115.62721252441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.396915078163147" y="0.9077624082565308" z="0.13575692474842072"/>
-        <LookDirection x="-0.8651060461997986" y="-0.32057076692581177" z="-0.3857794404029846"/>
+        <UpDirection x="-0.04241947829723358" y="0.9755291938781738" z="0.21574896574020386"/>
+        <LookDirection x="-0.9829006791114807" y="-0.07947657257318497" z="0.1661044806241989"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="2" title="1-2 x 1">
-      <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423736214637756" parallel="false" stereoAngle="0.0" width="115.62722778320312">
+    <page snapshot="15" title="1-2 x 1">
+      <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423735618591309" parallel="false" stereoAngle="0.0" width="115.62721252441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.396915078163147" y="0.9077624082565308" z="0.13575692474842072"/>
-        <LookDirection x="-0.8651060461997986" y="-0.32057076692581177" z="-0.3857794404029846"/>
+        <UpDirection x="-0.04241947829723358" y="0.9755291938781738" z="0.21574896574020386"/>
+        <LookDirection x="-0.9829006791114807" y="-0.07947657257318497" z="0.1661044806241989"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="1" title="1-2 x 20">
-      <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423736214637756" parallel="false" stereoAngle="0.0" width="115.62722778320312">
+    <page snapshot="16" title="1-2 x 20">
+      <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423735618591309" parallel="false" stereoAngle="0.0" width="115.62721252441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.396915078163147" y="0.9077624082565308" z="0.13575692474842072"/>
-        <LookDirection x="-0.8651060461997986" y="-0.32057076692581177" z="-0.3857794404029846"/>
+        <UpDirection x="-0.04241947829723358" y="0.9755291938781738" z="0.21574896574020386"/>
+        <LookDirection x="-0.9829006791114807" y="-0.07947657257318497" z="0.1661044806241989"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="0" title="Step 2/2">
-      <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423736214637756" parallel="false" stereoAngle="0.0" width="115.62722778320312">
+    <page snapshot="17" title="Step 2/2">
+      <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423735618591309" parallel="false" stereoAngle="0.0" width="115.62721252441406">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.396915078163147" y="0.9077624082565308" z="0.13575692474842072"/>
-        <LookDirection x="-0.8651060461997986" y="-0.32057076692581177" z="-0.3857794404029846"/>
+        <UpDirection x="-0.04241947829723358" y="0.9755291938781738" z="0.21574896574020386"/>
+        <LookDirection x="-0.9829006791114807" y="-0.07947657257318497" z="0.1661044806241989"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
@@ -3541,8 +3622,8 @@
   <Viewing>
     <ViewModel distance="256.949462890625" far="513.8988037109375" near="0.6423735618591309" parallel="false" stereoAngle="0.0" width="115.62721252441406">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.396915078163147" y="0.9077624082565308" z="0.13575692474842072"/>
-      <LookDirection x="-0.8651060461997986" y="-0.32057076692581177" z="-0.3857794404029846"/>
+      <UpDirection x="-0.04241947829723358" y="0.9755291938781738" z="0.21574896574020386"/>
+      <LookDirection x="-0.9829006791114807" y="-0.07947657257318497" z="0.1661044806241989"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
@@ -3585,10 +3666,13 @@
   <Tools>
     <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-1" label="bookmark 1" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-2" label="bookmark 2" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-2" label="bookmark 2" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-3" label="bookmark 3" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-4" label="bookmark 4" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-4" label="bookmark 4" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-5" label="bookmark 5" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="bookmark 6" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-6" label="bookmark 6" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-7" label="bookmark 7" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-8" label="bookmark 8" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-9" label="bookmark 9" selectInputs="true"/>
   </Tools>
 </vzome:vZome>
