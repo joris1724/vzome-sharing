@@ -38,6 +38,7 @@ The second vZome model presents the Zometool building instructions, using standa
 This Zometool model is easier to build than its Geomag counterpart. However, due to the lack of panels, it is aesthetically inferior.
 
 <figure style="width: 87%; margin: 5%">
+    <img  style="width: 100%"
         src="https://joris1724.github.io/vzome-sharing/2025/05/01/05-00-22-Rotunda-Drilled-Truncated-Icosahedron/Rotunda-Drilled-Truncated-Icosahedron-Geomag.png" >
   <figcaption style="text-align: center; font-style: italic;">
     Geomag model
@@ -50,6 +51,7 @@ Therefore <a href="https://joris1724.github.io/vzome-sharing/2025/05/01/05-00-22
 <a href="https://joris1724.github.io/vzome-sharing/2025/05/01/05-00-22-Rotunda-Drilled-Truncated-Icosahedron/6.scad">hexagonal<a> panels have been designed and 3D printed. These panels could easily be inserted after the completion of the skeleton.
 
 <figure style="width: 87%; margin: 5%">
+    <img  style="width: 100%"
         src="https://joris1724.github.io/vzome-sharing/2025/05/01/05-00-22-Rotunda-Drilled-Truncated-Icosahedron/Rotunda-Drilled-Truncated-Icosahedron-Inside.png" >
   <figcaption style="text-align: center; font-style: italic;">
     With Panels, viewed from the Inside
@@ -57,6 +59,7 @@ Therefore <a href="https://joris1724.github.io/vzome-sharing/2025/05/01/05-00-22
 </figure>
 
 <figure style="width: 87%; margin: 5%">
+    <img  style="width: 100%"
         src="https://joris1724.github.io/vzome-sharing/2025/05/01/05-00-22-Rotunda-Drilled-Truncated-Icosahedron/Rotunda-Drilled-Truncated-Icosahedron-Outside.png" >
   <figcaption style="text-align: center; font-style: italic;">
     With Panels, viewed from the Outside
