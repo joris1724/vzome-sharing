@@ -22,7 +22,7 @@ This post presents a multicoloured magnetic building set for the stellations of 
   </figcaption>
 </figure>
 
-As the Cuboctahedron is an Archimedean solid, determing the stellations involve two stellation diagrams, in this case resulting in twelve stellations. All are fully supported and reflexible. The first two stellations are two platonic solids:
+As the Cuboctahedron is an Archimedean solid, determining the stellations involve two stellation diagrams, in this case resulting in twelve stellations. All are fully supported and reflexible. The first two stellations are both platonic solids:
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/03/28/21-18-38-Seven-Coloured-Stellations-Cuboctahedron/Cube.png" >
