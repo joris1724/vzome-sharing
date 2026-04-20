@@ -1,6 +1,6 @@
 ---
 title: Stellations of the Pyritohedron
-description: Vladimir Bulatov showed VRML animations for stellations of the Pyritohedron. Here a magnetic set is presented to build all 35 fully supported ones.
+description: Vladimir Bulatov showed VRML animations for stellations of the Pyritohedron. Here a magnetic set is presented to build all 34 fully supported ones.
 image: https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/21.png
 published: true
 layout: vzome
@@ -33,7 +33,7 @@ All these stellations can be constructed with standard Zometool blue struts and 
 Starting with the kernel:
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/0.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/0.png" >
   <figcaption style="text-align: center; font-style: italic;">
    Pyritohedron
   </figcaption>
@@ -42,7 +42,7 @@ Starting with the kernel:
 Introducing reflexible cell type 1 (red):
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/1.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/1.png" >
   <figcaption style="text-align: center; font-style: italic;">
    1th Fully Supported Stellation
   </figcaption>
@@ -51,7 +51,7 @@ Introducing reflexible cell type 1 (red):
 Introducing chiral cells type 2/3 (orange):
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/2.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/2.png" >
   <figcaption style="text-align: center; font-style: italic;">
    2nd Fully Supported Stellation
   </figcaption>
@@ -59,16 +59,16 @@ Introducing chiral cells type 2/3 (orange):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/4.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/4.png" >
   <figcaption style="text-align: center; font-style: italic;">
    4th Fully Supported Stellation
   </figcaption>
 </figure>
 
-Introducing reflexible cell type 1 (yellow):
+Introducing reflexible cell type 4 (yellow):
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/7.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/7.png" >
   <figcaption style="text-align: center; font-style: italic;">
    7th Fully Supported Stellation
   </figcaption>
@@ -76,7 +76,7 @@ Introducing reflexible cell type 1 (yellow):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/12.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/12.png" >
   <figcaption style="text-align: center; font-style: italic;">
    12th Fully Supported Stellation
   </figcaption>
@@ -85,7 +85,7 @@ Introducing reflexible cell type 1 (yellow):
 Introducing chiral cells type 5/6 (turquoise):
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/9.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/9.png" >
   <figcaption style="text-align: center; font-style: italic;">
    9th Fully Supported Stellation
   </figcaption>
@@ -93,7 +93,7 @@ Introducing chiral cells type 5/6 (turquoise):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/15.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/15.png" >
   <figcaption style="text-align: center; font-style: italic;">
    15th Fully Supported Stellation
   </figcaption>
@@ -101,7 +101,7 @@ Introducing chiral cells type 5/6 (turquoise):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/19.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/19.png" >
   <figcaption style="text-align: center; font-style: italic;">
    19th Fully Supported Stellation
   </figcaption>
@@ -110,7 +110,7 @@ Introducing chiral cells type 5/6 (turquoise):
 Introducing chiral cells type 7/8 (green):
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/3.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/3.png" >
   <figcaption style="text-align: center; font-style: italic;">
    3th Fully Supported Stellation
   </figcaption>
@@ -118,7 +118,7 @@ Introducing chiral cells type 7/8 (green):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/11.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/11.png" >
   <figcaption style="text-align: center; font-style: italic;">
    11th Fully Supported Stellation
   </figcaption>
@@ -126,7 +126,7 @@ Introducing chiral cells type 7/8 (green):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/20.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/20.png" >
   <figcaption style="text-align: center; font-style: italic;">
    20th Fully Supported Stellation
   </figcaption>
@@ -134,7 +134,7 @@ Introducing chiral cells type 7/8 (green):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/6.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/6.png" >
   <figcaption style="text-align: center; font-style: italic;">
    6th Fully Supported Stellation
   </figcaption>
@@ -142,7 +142,7 @@ Introducing chiral cells type 7/8 (green):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/14.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/14.png" >
   <figcaption style="text-align: center; font-style: italic;">
    14th Fully Supported Stellation
   </figcaption>
@@ -150,7 +150,7 @@ Introducing chiral cells type 7/8 (green):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/16.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/16.png" >
   <figcaption style="text-align: center; font-style: italic;">
    16th Fully Supported Stellation
   </figcaption>
@@ -158,7 +158,7 @@ Introducing chiral cells type 7/8 (green):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/18.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/18.png" >
   <figcaption style="text-align: center; font-style: italic;">
    18th Fully Supported Stellation
   </figcaption>
@@ -166,7 +166,7 @@ Introducing chiral cells type 7/8 (green):
 
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/21.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/21.png" >
   <figcaption style="text-align: center; font-style: italic;">
    21th Fully Supported Stellation
   </figcaption>
@@ -176,14 +176,14 @@ Introducing chiral cells type 7/8 (green):
 The set of cells of types 9 cover almost the whole visible surface. Therefore it is difficult to distinguish the difference between stellations which involve cell type 9 (blue). The last two stellations differ from each other in using cell type 10 (blue), or not:
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/33.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/33.png" >
   <figcaption style="text-align: center; font-style: italic;">
    33th Fully Supported Stellation
   </figcaption>
 </figure>
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/34.png
+       <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/34.png" >
   <figcaption style="text-align: center; font-style: italic;">
    Final Stellation
   </figcaption>
