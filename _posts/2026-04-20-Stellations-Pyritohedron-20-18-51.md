@@ -13,7 +13,7 @@ tags: [stellations]
  
 {% endcomment %}
 
-A regular Dodecahedron only has three stellations.When deforming the faces, reducing full icosahedral symmetry to pyritohedral symmetry, hundreds of stellations emerge, including 34 fully supported (14 reflexible and 20 pairs of chiral twins). The  vZome model shows how each of these fully supported stellations can be build:
+A regular Dodecahedron only has three stellations. When deforming the faces, reducing full icosahedral symmetry to pyritohedral symmetry, hundreds of stellations emerge, including 34 fully supported (14 reflexible and 20 pairs of chiral twins). The  vZome model shows how each of these fully supported stellations can be build:
   
 <figure style="width: 87%; margin: 5%">
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step'></vzome-viewer-start><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next><vzome-viewer-end label='final step'></vzome-viewer-end></div></div>
@@ -173,7 +173,7 @@ Introducing chiral cells type 7/8 (green):
 </figure>
 
 
-The set of cells of types 9 cover almost the whole visible surface. Therefore it is difficult to distinguish the difference between stellations which involve cell type 9 (blue). The last two stellations differ from each other in using cell type 10 (blue), or not:
+The set of cells of types 9 cover almost the whole visible surface. Therefore it is difficult to distinguish the difference between stellations which involve cell type 9 (purple). The last two stellations differ from each other in using cell type 10 (blue), or not:
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/04/20/20-18-51-Stellations-Pyritohedron/33.png" >
