@@ -4,6 +4,7 @@ description: Another one of the 17 fully supported stellations of the icosahedro
 image: https://joris1724.github.io/vzome-sharing/2026/01/21/21-41-20-Compound-of-Five-Octahedra/Compound-of-Five-Octahedra.jpg
 published: true
 layout: vzome
+last-updated: May 8, 2026
 tags: [compounds]
 ---
 
@@ -37,3 +38,14 @@ When panels are introduced, for esthetical reasons, an altenative becomes availa
 </figure>
 
 Don't use the <i>latest official</i> version of openSCAD, which is five years old, but a more recent <i>development snapshot</i>. For the present model, the 60 <a href="https://joris1724.github.io/vzome-sharing/2026/01/21/21-41-20-Compound-of-Five-Octahedra/Compound-of-Five-Octahedra.scad">objects</a> of a single type were printed using PLA in 5 colors. It is assumed the <a href="https://joris1724.github.io/vzome-sharing/2025/12/24/11-38-40-Paneled-Compound-of-5-Tetrahedra/connector.scad">connector.scad</a> file is locally available. The slicer decided only one edge (of a panel lying on the printer plate) needed some support during printing. For this, I used PETG. The internal icosahedron is not stricly needed in the construction. However it guarantees that the green struts I used (first generation, with short pins) did not disconnect during the build.
+<p>
+To conclude, a picture of the model made with a five-coloured magnetic set of the stellations of the icosahedron:
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Octahedra.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Magnetic Set Model
+  </figcaption>
+</figure>
+
+

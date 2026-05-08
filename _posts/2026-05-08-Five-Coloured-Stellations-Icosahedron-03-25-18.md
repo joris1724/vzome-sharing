@@ -4,6 +4,7 @@ description: TODO
 image: https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Coloured-Stellations-Icosahedron.png
 published: false
 layout: vzome
+tags: [stellations]
 ---
 
 {% comment %}
@@ -27,3 +28,130 @@ TODO
     Five-Coloured Stellations of the Icosahedron
   </figcaption>
 </figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Icosahedron.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Icosahedron
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Triakis-Icosahedron.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Triakis Icosahedron
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Octahedra.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Compound of Five Octahedra
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/D.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   D Stellation
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/De1.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   De1 Stellation
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/De2.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   De2 Stellation
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/E.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   E Stellation
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Tetrahedra.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Compound of Five Tetrahedra
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Ten-Tetrahedra.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Compound of Ten Tetrahedra
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Medial-Triambic-Icosahedron.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Great Triambic Icosahedron
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Ef2.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Ef2 Stellation
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Ef1f2.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Ef1f2 Stellation
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/F.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   F Stellation
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Excavated-Dodecahedron.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Excavated Dodecahedron
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Fg1.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Fg1 Stellation
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Fg2.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Fg2 Stellation
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Great-Icosahedron.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Great Icosahedron
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Echidnahedron.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Echidnahedron
+  </figcaption>
+</figure>
+

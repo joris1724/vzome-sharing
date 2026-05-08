@@ -4,6 +4,7 @@ description: Another one of the 17 fully supported stellations of the icosahedro
 image: https://joris1724.github.io/vzome-sharing/2026/01/26/21-16-17-Compound-of-Ten-Tetrahedra/Compound-of-Ten-Tetrahedra.jpg
 published: true
 layout: vzome
+last-updated: May 8, 2026
 tags: [compounds]
 ---
 
@@ -36,7 +37,7 @@ This technique is applied here to build a complete physical model of the Compoun
   </figcaption>
 </figure>
 
-Only now, with the physical model in hand, I can fully grasp the ingenuity of this colour scheme. The panel object can easily be printed with the larger triangle laying on the printer bed. To prevent support structures for the smaller triangle, its surface is thickened. The model is quite difficult to assemble. The result however is very solid and beautiful. To conclude a picture taken just before finishing the model, clearly showing the Icosahedron of which this compound is a stellation:
+Only now, with the physical model in hand, I can fully grasp the ingenuity of this colour scheme. The panel object can easily be printed with the larger triangle laying on the printer bed. To prevent support structures for the smaller triangle, its surface is thickened. The model is quite difficult to assemble. The result however is very solid and beautiful. Next, a picture taken just before finishing the model, clearly showing the Icosahedron of which this compound is a stellation:
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/01/26/21-16-17-Compound-of-Ten-Tetrahedra/Compound-of-Ten-Tetrahedra-From-Inside.jpg" >
@@ -44,3 +45,13 @@ Only now, with the physical model in hand, I can fully grasp the ingenuity of th
     View from Inside
   </figcaption>
 </figure>
+
+To conclude, a picture of the model made with a five-coloured magnetic set of the stellations of the icosahedron:
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Ten-Tetrahedra.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   As a stellation of the icosahedron
+  </figcaption>
+</figure>
+

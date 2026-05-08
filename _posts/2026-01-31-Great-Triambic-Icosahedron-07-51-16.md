@@ -4,6 +4,7 @@ description: The physical construction of this Stellation of the Icosahedron ill
 image: https://joris1724.github.io/vzome-sharing/2026/01/31/07-51-16-Great-Triambic-Icosahedron/Great-Triambic-Icosahedron.jpg
 published: true
 layout: vzome
+last-updated: May 8, 2026
 tags: [stellations]
 ---
 
@@ -33,5 +34,14 @@ First, the troublesome struts are shortened somewhat. In this model, the hg4 str
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
     Great Triambic Icosahedron
+  </figcaption>
+</figure>
+
+To conclude, a picture of the model made with a five-coloured magnetic set:
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Medial-Triambic-Icosahedron.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   Magnetic Set Model
   </figcaption>
 </figure>

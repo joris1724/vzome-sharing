@@ -4,6 +4,7 @@ description: One of the 17 fully supported stellations of the icosahedron. The 5
 image: https://joris1724.github.io/vzome-sharing/2025/12/24/11-38-40-Paneled-Compound-of-5-Tetrahedra/Paneled-Compound-of-5-Tetrahedra.png
 published: true
 layout: vzome
+last-updated: May 8, 2026
 tags: [compounds]
 ---
 
@@ -28,6 +29,15 @@ An <a href="https://joris1724.github.io/vzome-sharing/2025/02/15/Fully-supported
 
   <figcaption style="text-align: center; font-style: italic;">
     Compound of 5 Tetrahedra
+  </figcaption>
+</figure>
+
+To conclude, a picture of the model made with a five-coloured magnetic set of the stellations of the icosahedron:
+
+<figure style="width: 87%; margin: 5%">
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Tetrahedra.png" >
+  <figcaption style="text-align: center; font-style: italic;">
+   As a stellation of the icosahedron
   </figcaption>
 </figure>
 
