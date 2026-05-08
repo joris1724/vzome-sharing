@@ -68,27 +68,6 @@ To conclude, pictures of all the models made with a five-coloured magnetic set:
 </figure>
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Octahedra.png" >
-  <figcaption style="text-align: center; font-style: italic;">
-   Compound of Five Octahedra
-  </figcaption>
-</figure>
-
-<figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/D.png" >
-  <figcaption style="text-align: center; font-style: italic;">
-   D Stellation
-  </figcaption>
-</figure>
-
-<figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/De1.png" >
-  <figcaption style="text-align: center; font-style: italic;">
-   De1 Stellation
-  </figcaption>
-</figure>
-
-<figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/De1.png" >
   <figcaption style="text-align: center; font-style: italic;">
    De1 Stellation
@@ -110,7 +89,7 @@ To conclude, pictures of all the models made with a five-coloured magnetic set:
 </figure>
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five Tetrahedra.png" >
+       <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Tetrahedra.png" >
   <figcaption style="text-align: center; font-style: italic;">
    Compound of Five Tetrahedra
   </figcaption>

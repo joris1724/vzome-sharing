@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="117" field="golden" version="7.1">
-  <EditHistory editNumber="996" lastStickyEdit="996">
+  <EditHistory editNumber="1049" lastStickyEdit="1034">
     <SelectAll originLast="true"/>
     <Delete/>
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
@@ -15062,6 +15062,72 @@
     <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
     <InvertSelection/>
     <Snapshot id="92"/>
+    <SelectAll originLast="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+    <Branch>
+      <DeselectAll/>
+      <ApplyTool copyColors="true" name="tool-18" selectInputs="true"/>
+      <InvertSelection/>
+      <Snapshot id="93"/>
+    </Branch>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="94"/>
+    <DeselectAll/>
+    <Snapshot id="95"/>
+    <Branch>
+      <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+      <InvertSelection/>
+      <Snapshot id="96"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="97"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <DeselectAll/>
+    <Branch>
+      <ApplyTool copyColors="true" name="tool-19" selectInputs="true"/>
+      <InvertSelection/>
+      <Snapshot id="98"/>
+    </Branch>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="99"/>
+    <DeselectAll/>
+    <Snapshot id="100"/>
+    <SelectAll originLast="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <DeselectAll/>
   </EditHistory>
   <notes>
     <page snapshot="0" title="Icosahedron">
@@ -15232,7 +15298,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="44" title="6">
+    <page snapshot="48" title="6">
       <ViewModel distance="146.77186584472656" far="293.5437316894531" near="0.3669297695159912" parallel="false" stereoAngle="0.0" width="66.04735565185547">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.03762310743331909" y="0.6909552216529846" z="-0.7219161987304688"/>
@@ -15240,7 +15306,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="45" title="E + 6">
+    <page snapshot="93" title="E + 6">
       <ViewModel distance="146.77186584472656" far="293.5437316894531" near="0.3669297695159912" parallel="false" stereoAngle="0.0" width="66.04735565185547">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.03762310743331909" y="0.6909552216529846" z="-0.7219161987304688"/>
@@ -15248,7 +15314,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="46" title="E + 60x6">
+    <page snapshot="94" title="E + 60x6">
       <ViewModel distance="146.77186584472656" far="293.5437316894531" near="0.3669297695159912" parallel="false" stereoAngle="0.0" width="66.04735565185547">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.03762310743331909" y="0.6909552216529846" z="-0.7219161987304688"/>
@@ -15256,7 +15322,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="47" title="Five Tetrahedra">
+    <page snapshot="95" title="Five Tetrahedra">
       <ViewModel distance="146.77186584472656" far="293.5437316894531" near="0.3669297695159912" parallel="false" stereoAngle="0.0" width="66.04735565185547">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.03762310743331909" y="0.6909552216529846" z="-0.7219161987304688"/>
@@ -15264,7 +15330,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="48" title="7">
+    <page snapshot="44" title="7">
       <ViewModel distance="146.77186584472656" far="293.5437316894531" near="0.3669297695159912" parallel="false" stereoAngle="0.0" width="66.04735565185547">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.03762310743331909" y="0.6909552216529846" z="-0.7219161987304688"/>
@@ -15272,7 +15338,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="49" title="Five Tetrahedra + 7">
+    <page snapshot="96" title="Five Tetrahedra + 7">
       <ViewModel distance="146.77186584472656" far="293.5437316894531" near="0.3669297695159912" parallel="false" stereoAngle="0.0" width="66.04735565185547">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.03762310743331909" y="0.6909552216529846" z="-0.7219161987304688"/>
@@ -15280,7 +15346,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="50" title="Five Tetrahedra + 60x7">
+    <page snapshot="97" title="Five Tetrahedra + 60x7">
       <ViewModel distance="146.77186584472656" far="293.5437316894531" near="0.3669297695159912" parallel="false" stereoAngle="0.0" width="66.04735565185547">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.03762310743331909" y="0.6909552216529846" z="-0.7219161987304688"/>
@@ -15352,7 +15418,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="62" title="Five Tetrahedra + 8">
+    <page snapshot="98" title="Five Tetrahedra + 8">
       <ViewModel distance="146.77186584472656" far="293.5437316894531" near="0.3669297695159912" parallel="false" stereoAngle="0.0" width="66.04735565185547">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.03762310743331909" y="0.6909552216529846" z="-0.7219161987304688"/>
@@ -15360,7 +15426,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="63" title="Five Tetrahedra + 12x8">
+    <page snapshot="99" title="Five Tetrahedra + 12x8">
       <ViewModel distance="146.77186584472656" far="293.5437316894531" near="0.3669297695159912" parallel="false" stereoAngle="0.0" width="66.04735565185547">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.03762310743331909" y="0.6909552216529846" z="-0.7219161987304688"/>
@@ -15368,7 +15434,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="64" title="Ef1f2">
+    <page snapshot="100" title="Ef1f2">
       <ViewModel distance="146.77186584472656" far="293.5437316894531" near="0.3669297695159912" parallel="false" stereoAngle="0.0" width="66.04735565185547">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.03762310743331909" y="0.6909552216529846" z="-0.7219161987304688"/>
@@ -15596,8 +15662,8 @@
     <Tool copyColors="true" deleteInputs="false" id="tool-14" label="cell 3" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-15" label="cell 4" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-16" label="cell 5" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-17" label="cell 6" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-18" label="cell 7" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-17" label="cell 7" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-18" label="cell 6" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-19" label="cell 8" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-2" label="layer 2" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-20" label="cell 9" selectInputs="true"/>
@@ -15606,8 +15672,8 @@
     <Tool copyColors="true" deleteInputs="false" id="tool-3" label="layer 3" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-4" label="layer 4" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-5" label="layer 5" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="layer 6" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-7" label="layer 7" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="layer 7" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-7" label="layer 6" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-8" label="layer 8" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" id="tool-9" label="layer 9" selectInputs="true"/>
   </Tools>

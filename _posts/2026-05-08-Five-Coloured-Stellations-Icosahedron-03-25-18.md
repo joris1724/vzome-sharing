@@ -1,8 +1,8 @@
 ---
 title: Five-Coloured Stellations of the Icosahedron
-description: TODO
-image: https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Coloured-Stellations-Icosahedron.png
-published: false
+description: A multicoloured clone of Bob Hearn's magnetic set for building the stellations of the Icosahedron, redesigned with vZome and OpenSCAD.
+image: https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Great-Icosahedron.png
+published: true
 layout: vzome
 tags: [stellations]
 ---
@@ -13,7 +13,7 @@ tags: [stellations]
  
 {% endcomment %}
 
-TODO
+An Icosahedron has 17 fully supported stellations: 15 reflexible and 2 pairs of chiral twins. The vZome model shows how each of these can be build:
 
 <figure style="width: 87%; margin: 5%">
   
@@ -21,13 +21,15 @@ TODO
   <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Coloured-Stellations-Icosahedron.vZome" >
     <img  style="width: 100%"
-        src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Coloured-Stellations-Icosahedron.png" >
+        src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Great-Icosahedron.png" >
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
-    Five-Coloured Stellations of the Icosahedron
+    Building Instructions
   </figcaption>
 </figure>
+
+A magnetic set of building blocks, able to construct all stellations, requires eleven different types of cells: 9 reflexible and 1 pair of chiral twins. The colouring scheme has been chosen in such a way that the compound of five tetrahedra (probably the best known stellation), has a dedicated colour for each component. By this, even the reflexible stellations look chiral after colouring. All fully supported stellations have actually been built, as shown in the following pictures:
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Icosahedron.png" >
