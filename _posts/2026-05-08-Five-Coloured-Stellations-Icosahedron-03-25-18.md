@@ -16,8 +16,7 @@ tags: [stellations]
 An Icosahedron has 17 fully supported stellations: 15 reflexible and 2 pairs of chiral twins. The vZome model shows how each of these can be build:
 
 <figure style="width: 87%; margin: 5%">
-  
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step'></vzome-viewer-start><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next><vzome-viewer-end label='final step'></vzome-viewer-end></div></div>
   <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2026/05/08/03-25-18-Five-Coloured-Stellations-Icosahedron/Five-Coloured-Stellations-Icosahedron.vZome" >
     <img  style="width: 100%"
