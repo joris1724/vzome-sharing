@@ -17,7 +17,7 @@ The <a href="https://joris1724.github.io/vzome-sharing/2025/02/11/Cupola-Drilled
 <p>
 genus&nbsp;=&nbsp;1&nbsp;+&nbsp;(#<sub>edges</sub>-#<sub>vertices</sub>-#<sub>faces</sub>)/2&nbsp;&#8594;&nbsp;1+(600-240-340)/2&nbsp;=&nbsp;11
 <p>
-The first vZome model shows how <a href="https://www.software3d.com/WebbToroid.php">Robert Webb</a> replaces each object around a 3-fold axe (coloured in green) by an object (coloured in red) composed out of a tridiminished icosahedron (J63) extended with 3 pentagonal <b>antiprisms</b>.
+The first vZome model shows how <a href="https://www.software3d.com/WebbToroid.php">Robert Webb</a> replaces each object around a 3-fold axis (coloured in green) by an object (coloured in red) composed out of a tridiminished icosahedron (<b>J63</b>) extended with 3 pentagonal <b>antiprisms</b>.
 
 <figure style="width: 87%; margin: 5%">
   <vzome-viewer style="width: 100%; height: 60dvh" 
@@ -30,7 +30,7 @@ The first vZome model shows how <a href="https://www.software3d.com/WebbToroid.p
   </figcaption>
 </figure>
 
-This construction creates a new hole around each 2-fold axe (coloured in black), thus increasing the genus by 30 to 41. This can be verified by:
+This construction creates a new hole around each 2-fold axis (coloured in black), thus increasing the genus by 30 to 41. This can be verified by:
 <p>
 genus&nbsp;=&nbsp;1&nbsp;+&nbsp;(#<sub>edges</sub>-#<sub>vertices</sub>-#<sub>faces</sub>)/2&nbsp;&#8594;&nbsp;1+(1620-480-1060)/2&nbsp;=&nbsp;41
 <p>
