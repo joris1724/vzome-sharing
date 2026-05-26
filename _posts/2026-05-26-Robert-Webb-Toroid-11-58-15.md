@@ -73,3 +73,4 @@ Robert Webb proposes to extend each pentagonal antiprism connected to a J63 furt
 </figure>
 
 Such additional extentions intrinsically do not increase the genus of the stewart toroid. However, due to its larger size, such a modelµ can encompass another stewart toroid. Connecting both in some way, it artifically adds up the genus of both.
+
