@@ -3452,7 +3452,7 @@
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="51" title="12 + 30 M">
+    <page snapshot="51" title="12 + 60 M">
       <ViewModel distance="295.562255859375" far="591.1243286132812" near="0.738905668258667" parallel="false" stereoAngle="0.0" width="133.0030059814453">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
         <UpDirection x="-0.06572225689888" y="0.6855971217155457" z="-0.72501140832901"/>
