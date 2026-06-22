@@ -78,21 +78,21 @@ and a view from the inside of the completed model:
 The model can be considered as twenty solid tridiminished icosahedra (J63) connected by tetrahedra. To conclude some endoscopic pictures from within a J63,
 
 <figure style="width: 87%; margin: 5%">
-  <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/1.png" >
+  <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/1.jpg" >
   <figcaption style="text-align: center; font-style: italic;">
     Towards the inner shell
   </figcaption>
 </figure>
 
 <figure style="width: 87%; margin: 5%">
-  <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/2.png" >
+  <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/2.jpg" >
   <figcaption style="text-align: center; font-style: italic;">
     Towards the outer shell
   </figcaption>
 </figure>
 
 <figure style="width: 87%; margin: 5%">
-  <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/3.png" >
+  <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/3.jpg" >
   <figcaption style="text-align: center; font-style: italic;">
     Towards a neighbouring J63
   </figcaption>
@@ -101,14 +101,14 @@ The model can be considered as twenty solid tridiminished icosahedra (J63) conne
 and finally from within a tetrahedron in between two J63's:
 
 <figure style="width: 87%; margin: 5%">
-  <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/4.png" >
+  <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/4.jpg" >
   <figcaption style="text-align: center; font-style: italic;">
     Towards the inner shell
   </figcaption>
 </figure>
 
 <figure style="width: 87%; margin: 5%">
-  <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/5.png" >
+  <img  style="width: 100%" src="https://joris1724.github.io/vzome-sharing/2025/05/01/04-42-37-Drilled-Truncated-Dodecahedron/5.jpg" >
   <figcaption style="text-align: center; font-style: italic;">
     Towards a neighbouring J63
   </figcaption>
