@@ -64,6 +64,8 @@ Instead of 3D printing ten custom-made struts and ten triangular panels for each
   </figcaption>
 </figure>
 
+Some <a href="https://joris1724.github.io/vzome-sharing/2026/05/26/11-58-15-Robert-Webb-Toroid/endoscopic.mp4">endoscopic pictures</a> are also available.
+<p>
 Robert Webb proposes to extend each pentagonal antiprism connected to a J63 further by an additional pentagonal <b>prism</b>. Each of these require five custom-made blue-length red-orbit struts and five square panels. Instead of printing these individually, I designed a reinforced <a href="https://joris1724.github.io/vzome-sharing/2026/05/26/11-58-15-Robert-Webb-Toroid/Pentagonal-Prism.scad">monolithical object</a>, to be 3D-printed in two colours:
 
 <figure style="width: 87%; margin: 5%">
