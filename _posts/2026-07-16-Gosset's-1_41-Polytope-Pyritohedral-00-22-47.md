@@ -13,16 +13,16 @@ tags: [polytopes]
  
 {% endcomment %}
 
-<a href="https://www.nan.ma/zomeable-4polytopes/docs/CATEGORY_GOSSET_PROJECTIONS.html">Nan Ma</a> also produced a vZome model for pyritohedral <i>zomeable</i> projections of  7-demicube. Like its <a href="https://joris1724.github.io/vzome-sharing/2026/06/11/Gosset's-1_41-Polytope-00-00-04.html">icosahedral projection</a) it has <b>64 distinct 3D ball positions</b> after projection. These are represented in the forthcoming building instructions by <b>red</b> connectors. Due to the projection from 7D to 3D, 668 pairs of crossing blue, green or yellow struts must be dealt with. Only 194 of these intersections can been replaced by <b>false vertices</b>, represented by <b>white</b> connectors. Several reasons cause this rather low ratio:
+<a href="https://www.nan.ma/zomeable-4polytopes/docs/CATEGORY_GOSSET_PROJECTIONS.html">Nan Ma</a> also produced a vZome model for the pyritohedral projection of the 7-demicube. Like its <a href="https://joris1724.github.io/vzome-sharing/2026/06/11/Gosset's-1_41-Polytope-00-00-04.html">icosahedral projection</a> it has <b>64 distinct 3D ball positions</b> after projection. These are represented in the forthcoming building instructions by <b>red</b> connectors. Due to the projection from 7D to 3D, 668 pairs of crossing blue, green or yellow struts must be dealt with. Only 194 of these intersections can been replaced by <b>false vertices</b>, represented by <b>white</b> connectors. Several reasons cause this rather low ratio:
 
-<p>1)&nbsp;No blue-orbit Zometool struts have been produced with length 1-&frac12;&fi;, -&frac12;+&frac12;&fi;, 2-&fi;, &frac12; or &frac12;+&fi;.
-No yellow-orbit Zometool struts have been produced with length (3-&fi;)/5, (-8+6&fi;)/5, 2-&fi;, (-1+2&fi;)/5, (6-2&fi;)/5, (2+&fi;)/5, 2 or (2+6&fi;).
-No green-orbit Zometool struts have been produced with length (-4+6&fi;)/10, (3-&fi;)/10, (-1+2&fi;)/10, (3-&fi;)/5, (-1+&fi;)/2, (2+&fi;)/10, (-1+2&fi;)/5 , (1+3&fi;)/10 or (2+&fi;)/5.
+<p>1)&nbsp;No blue-orbit Zometool struts have been produced with length 1-&frac12;&phi;, -&frac12;+&frac12;&phi;, 2-&phi;, &frac12; or &frac12;+&phi;.
+No yellow-orbit Zometool struts have been produced with length (3-&phi;)/5, (-8+6&phi;)/5, 2-&phi;, (-1+2&phi;)/5, (6-2&phi;)/5, (2+&phi;)/5, 2 or (2+6&phi;).
+No green-orbit Zometool struts have been produced with length (-4+6&phi;)/10, (3-&phi;)/10, (-1+2&phi;)/10, (3-&phi;)/5, (-1+&phi;)/2, (2+&phi;)/10, (-1+2&phi;)/5 , (1+3&phi;)/10 or (2+&phi;)/5.
 <br>2)&nbsp;Zometool only produced green-orbit struts with pentagonal pins. Using these, multiple green struts would have to be put in the same hole.
 <br>3)Due to the thickness of the Zometool struts and the diameter of the Zometool balls, some stsuts and/or connectors interfere, although they are not collinear and do no cross mathematically.
 <br>4) Sometimes, a configuration of struts and connectors is correct, but cannot be built sequentially.
 
-A physical model of the pyritohedral projection of the 7-demicube needs a lot of 3D printed supplements to the standard Zometool kit. Most of these are refered to on photo's taken during the actual built:
+<p>A physical model of the pyritohedral projection of the 7-demicube needs a lot of 3D printed supplements to the standard Zometool kit. Most of these are refered to on photo's taken during the actual built:
 
 <p>a) hb1-strut
 <br>b) monolithical cross of 2 hg1's
@@ -30,8 +30,8 @@ A physical model of the pyritohedral projection of the 7-demicube needs a lot of
 <br>d) monolithical cross of 2 y-struts with length 2, each with 2 rectangular holes
 <br>e) monolithical extended triangle of 3 hg3's, each with a triangular hole, and indentations to avoid interference
 <br>f) monolithical cross of 2 hb3's, with a rectangular hole through their intersection
-<br>g) b-strut length (1/2+&fi;) with a triangular hole
-<br>h) monolithical cross of 2 hg3's, each with 3 rectangular holes and indentations to avoid interference, and a triangular hole through their intersection
+<br>g) b-strut length (1/2+&phi;) with a triangular hole
+<br>h) monolithical cross of 2 hg3's, each with 3 rectangular holes and indentations to avoid interference, and a triangular hole through their intersection &hellip;
 <br>i) &hellip; and with redirected tips 
 <br>j) hg3 with triangular hole, redirected tip &hellip;
 <br>k) &hellip; and indentations to avoid interference 
@@ -131,10 +131,10 @@ The model exhibits six type of vertices. Four of these require redirected tips f
   </figcaption>
 </figure>
 
-Next a <a href="https://joris1724.github.io/vzome-sharing/2026/07/16/00-22-47-Gosset's-1_41-Polytope-Pyritohedral/1_41.mp4">short flight through</a> and a final picture of the model.
+Next a <a href="https://joris1724.github.io/vzome-sharing/2026/07/16/00-22-47-Gosset's-1_41-Polytope-Pyritohedral/Flight.mp4">short flight through</a> and a final picture of the model.
 
 <figure style="width: 87%; margin: 5%">
-       <img src="https://joris1724.github.io/vzome-sharing/2026/07/16/00-22-47-Gosset's-1_41-Polytope-Pyritohedral/Gosset's-1_41-Polytope-Pyritohedral.jpg
+       <img src="https://joris1724.github.io/vzome-sharing/2026/07/16/00-22-47-Gosset's-1_41-Polytope-Pyritohedral/Gosset's-1_41-Polytope-Pyritohedral.jpg" >
   <figcaption style="text-align: center; font-style: italic;">
    Completed Zometool model
   </figcaption>
