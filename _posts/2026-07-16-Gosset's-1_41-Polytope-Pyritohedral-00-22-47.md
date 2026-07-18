@@ -19,7 +19,7 @@ tags: [polytopes]
 No yellow-orbit Zometool struts have been produced with length (3-&phi;)/5, (-8+6&phi;)/5, 2-&phi;, (-1+2&phi;)/5, (6-2&phi;)/5, (2+&phi;)/5, 2 or (2+6&phi;).
 No green-orbit Zometool struts have been produced with length (-4+6&phi;)/10, (3-&phi;)/10, (-1+2&phi;)/10, (3-&phi;)/5, (-1+&phi;)/2, (2+&phi;)/10, (-1+2&phi;)/5 , (1+3&phi;)/10 or (2+&phi;)/5.
 <br>2)&nbsp;Zometool only produced green-orbit struts with pentagonal pins. Using these, multiple green struts would have to be put in the same hole.
-<br>3)Due to the thickness of the Zometool struts and the diameter of the Zometool balls, some stsuts and/or connectors interfere, although they are not collinear and do no cross mathematically.
+<br>3)&nbsp;Due to the thickness of the Zometool struts and the diameter of the Zometool balls, some struts and/or connectors interfere, although they are not collinear and do not cross mathematically.
 <br>4) Sometimes, a configuration of struts and connectors is correct, but cannot be built sequentially.
 
 <p>A physical model of the pyritohedral projection of the 7-demicube needs a lot of 3D printed supplements to the standard Zometool kit. Most of these are refered to on photo's taken during the actual built:
