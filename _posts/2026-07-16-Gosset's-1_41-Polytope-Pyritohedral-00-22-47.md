@@ -22,7 +22,7 @@ No green-orbit Zometool struts have been produced with length (-4+6&phi;)/10, (3
 <br>3)&nbsp;Due to the thickness of the Zometool struts and the diameter of the Zometool balls, some struts and/or connectors interfere, although they are not collinear and do not cross mathematically.
 <br>4) Sometimes, a configuration of struts and connectors is correct, but cannot be built sequentially.
 
-<p>A physical model of the pyritohedral projection of the 7-demicube needs a lot of 3D printed supplements to the standard Zometool kit. Most of these are refered to on photo's taken during the actual built:
+<p>A physical model of the pyritohedral projection of the 7-demicube requires some standard Zometool struts: 24 b0's, 120 b1's, 66 b2's, 24 b3's, 120 hb3's, 24 y0's, 12 y1's, 144 y3's, 24 g2's, 24 hg0's, 48 hg1's and 96 hg3's. Nevertheless, it needs a lot of 3D printed supplements to the standard Zometool kit. Most of these are refered to on photo's taken during the actual built:
 
 <p>a) hb1-strut
 <br>b) monolithical cross of 2 hg1's
