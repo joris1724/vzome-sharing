@@ -1,6 +1,6 @@
 ---
 title: Genus-5 Drilled Rhombicosidodecahedron 
-description: Connecting a rhombicosidodecahedronan to an internal cube using X-polyhedra (related to bilunabirotundas).
+description: Connecting a rhombicosidodecahedron to an internal cube using X-polyhedra (related to bilunabirotundas).
 image: https://joris1724.github.io/vzome-sharing/2026/08/10/07-05-14-Drilled-Rhombicosidodecahedron/7.jpg
 published: true
 layout: vzome
