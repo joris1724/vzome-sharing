@@ -1,7 +1,7 @@
 ---
 title: Genus-5 Drilled Rhombicosidodecahedron 
 description: Connecting a rhombicosidodecahedronan to an internal cube andn using X-polyhedra (related to bilunabirotundas).
-image: https://joris1724.github.io/vzome-sharing/2026/08/10/07-05-14-Drilled-Rhombicosidodecahedron/7.png
+image: https://joris1724.github.io/vzome-sharing/2026/08/10/07-05-14-Drilled-Rhombicosidodecahedron/7.jpg
 published: true
 layout: vzome
 ---
@@ -35,7 +35,7 @@ These extra struts can be interpreted as the edges of six Bilunabirotundas aroun
   </figcaption>
 </figure>
 
-If each of the faces of the central cube could be connected  by a individual tunnel to a face of the Rhombicosidodecahedron, bounded by a sequence of regular polygons with the same edge length, one would obtain a Stewart toroid of genus 5. Like drilling a Bilunabirotunda, this is not an obvious task. Again quoting <a href="https://doctroid.wordpress.com/2008/01/23/insane-hole/">Richard B. Holmes</a>: "<i>For even bigger laughs you can notice &hellip; can be subtracted from a rhombicosidodecahedron to make a, a, a, oh god make it stop&hellip;</i>". Of course, Bonnie Stewart made it sound easy, introducing another non-convex polyhedron, the X-polyhedron. One of its square faces and one of its triangular faces exactly correspond to a face of the central cube and a triangulare face of the Rhombicosidodecahedron. Removing these, one obtains the required tunnel, including a direct  line of sight through it (see left views on the following figure).
+If each of the faces of the central cube could be connected  by a individual tunnel to a face of the Rhombicosidodecahedron, bounded by a sequence of regular polygons with the same edge length, one would obtain a Stewart toroid of genus 5. Like drilling a Bilunabirotunda, this is not an obvious task. Again quoting <a href="https://doctroid.wordpress.com/2008/01/23/insane-hole/">Richard B. Holmes</a>: "<i>For even bigger laughs you can notice &hellip; can be subtracted from a rhombicosidodecahedron to make a, a, a, oh god make it stop&hellip;</i>". Of course, Bonnie Stewart made it sound easy, introducing another non-convex polyhedron, the X-polyhedron. One of its square faces and one of its triangular faces exactly correspond to a face of the central cube and a triangular face of the Rhombicosidodecahedron. Removing these, one obtains the required tunnel, including a direct  line of sight through it (see left views on the following figure).
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/08/10/07-05-14-Drilled-Rhombicosidodecahedron/1.jpg" >
@@ -53,7 +53,7 @@ A X-polyhedron has 13 vertices, 14 faces and 25 edges. The edges not belonging t
   </figcaption>
 </figure>
 
-Using these parts and 3D printed panels, a Zometool model can be build using the following steps:
+Using these parts and 3D printed panels (rhombicosidodecahedron panels in orange, tunnel pannels in olive green), a Zometool model can be build using the following steps:
 
 
 <figure style="width: 87%; margin: 5%">
