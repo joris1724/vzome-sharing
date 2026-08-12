@@ -13,8 +13,9 @@ tags: [toroids]
  
 {% endcomment %}
 
-
-Drilling a hole in between the square faces of a Bilunabirotunda is not obvious. Obeing Stewart's conditions, the tunnel must be bounded by a sequence of regular polygons with the same edge length. Moreover no adjacent faces may be coplanar. Bonnie Stewart solved the problem by carving out a non-convex polyhedron,  the Z<sub>4</sub>, featuring triangular and square faces arranged in a zig-zag shape. Although not containing a straight line (see left part of the figure), the Z<sub>4</sub> tunnel indeed creates a path in between the square faces, as shown in the middle of the figure.
+Quoting <a href="https://doctroid.wordpress.com/2008/01/23/insane-hole/">Richard B. Holmes</a>: "<i>Try making one of these things. If you do not value your sanity. &hellip;  Figuring out the shape of the damn thing and coercing the pieces into place was quite enough.</i>"
+<p>
+Seriously, drilling a hole in between the square faces of a Bilunabirotunda is not obvious. Obeing Stewart's conditions, the tunnel must be bounded by a sequence of regular polygons with the same edge length. Moreover no adjacent faces may be coplanar. Bonnie Stewart solved the problem by carving out a non-convex polyhedron,  the Z<sub>4</sub>, featuring triangular and square faces arranged in a zig-zag shape. Although there’s no line of sight through it, (see left part of the figure), the Z<sub>4</sub> tunnel indeed creates a path in between the square faces, as shown in the middle of the figure.
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/08/09/14-24-41-Drilled-Bilunabirotunda/Z4.jpg" >
@@ -25,11 +26,10 @@ Drilling a hole in between the square faces of a Bilunabirotunda is not obvious.
 The right part of the figure should remove all remaining doubts.
 
 <p>A Drilled Bilunabirotunda has 20 vertices, 32 faces and 52 edges. This results in a Stewart Toroid with genus 1, which can be verified by:
-<p>
-genus&nbsp;=&nbsp;1&nbsp;+&nbsp;(#<sub>edges</sub>-#<sub>vertices</sub>-#<sub>faces</sub>)/2&nbsp;&#8594;&nbsp;1+(52-20-32)/2&nbsp;=&nbsp;1
+<p>genus&nbsp;=&nbsp;1&nbsp;+&nbsp;(#<sub>edges</sub>-#<sub>vertices</sub>-#<sub>faces</sub>)/2&nbsp;&#8594;&nbsp;1+(52-20-32)/2&nbsp;=&nbsp;1
 
 <figure style="width: 87%; margin: 5%">
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step'></vzome-viewer-start><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next><vzome-viewer-end label='final step'></vzome-viewer-end></div></div>
   <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2026/08/09/14-24-41-Drilled-Bilunabirotunda/Drilled-Bilunabirotunda.vZome" >
     <img  style="width: 100%"
