@@ -4,6 +4,7 @@ description: Connecting a rhombicosidodecahedron to an internal cube using X-pol
 image: https://joris1724.github.io/vzome-sharing/2026/08/10/07-05-14-Drilled-Rhombicosidodecahedron/7.jpg
 published: true
 layout: vzome
+tags: [toroids]
 ---
 
 {% comment %}
