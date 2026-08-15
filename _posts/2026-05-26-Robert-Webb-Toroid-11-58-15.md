@@ -69,7 +69,8 @@ Some <a href="https://joris1724.github.io/vzome-sharing/2026/05/26/11-58-15-Robe
 Robert Webb proposes to extend each pentagonal antiprism connected to a J63 further by an additional pentagonal <b>prism</b>. 
 
 <figure style="width: 87%; margin: 5%">
-  <vzome-viewer style="width: 100%; height: 60dvh" 
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='v0'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='v0'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v0'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='v0'></vzome-viewer-end></div></div>
+  <vzome-viewer id='v0' style="width: 100%; height: 60dvh" indexed='true'
         src="https://joris1724.github.io/vzome-sharing/2026/05/26/11-58-15-Robert-Webb-Toroid/Robert-Webb-Toroid-41.vZome" >
     <img  style="width: 100%"
         src="https://joris1724.github.io/vzome-sharing/2026/05/26/11-58-15-Robert-Webb-Toroid/Robert-Webb-Toroid-41.jpg" >
