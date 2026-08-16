@@ -69,8 +69,8 @@ Using these parts and 3D printed panels (rhombicosidodecahedron panels in orange
   </figcaption>
 </figure>
 
-<p>This Drilled Rhombicosidodecahedron has 98 vertices, 122 faces and 228 edges, which indeed confirms a genus 5:
-<p>genus&nbsp;=&nbsp;1&nbsp;+&nbsp;(#<sub>edges</sub>-#<sub>vertices</sub>-#<sub>faces</sub>)/2&nbsp;&#8594;&nbsp;1+(228-98-122)/2&nbsp;=&nbsp;5
+<p>This Drilled Rhombicosidodecahedron has 98 vertices, 116 faces and 222 edges, which indeed confirms a genus 5:
+<p>genus&nbsp;=&nbsp;1&nbsp;+&nbsp;(#<sub>edges</sub>-#<sub>vertices</sub>-#<sub>faces</sub>)/2&nbsp;&#8594;&nbsp;1+(222-98-116)/2&nbsp;=&nbsp;5
 <p>The next photographs illustrate some steps during the building process:
 
 <figure style="width: 87%; margin: 5%">

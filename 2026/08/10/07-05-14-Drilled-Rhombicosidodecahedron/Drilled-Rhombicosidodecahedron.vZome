@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="117" field="golden" version="7.1">
-  <EditHistory editNumber="198" lastStickyEdit="196">
+  <EditHistory editNumber="375" lastStickyEdit="373">
     <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
   "field" : "golden",
   "vertices" : [ [ [ "0", "-1", "1" ], [ "1", "1", "1" ], [ "-1", "-2", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "0", "1" ], [ "2", "3", "1" ], [ "-1", "-1", "1" ] ], [ [ "1", "1", "1" ], [ "1", "0", "1" ], [ "-2", "-3", "1" ] ], [ [ "1", "1", "1" ], [ "1", "1", "1" ], [ "-1", "-1", "1" ] ], [ [ "1", "1", "1" ], [ "1", "2", "1" ], [ "0", "1", "1" ] ], [ [ "1", "2", "1" ], [ "0", "-1", "1" ], [ "-1", "-1", "1" ] ], [ [ "2", "2", "1" ], [ "2", "2", "1" ], [ "-2", "-2", "1" ] ], [ [ "2", "3", "1" ], [ "1", "1", "1" ], [ "-1", "0", "1" ] ] ],
@@ -2255,109 +2255,440 @@
     <Snapshot id="12"/>
     <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
     <Delete/>
+    <SelectAll originLast="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <DeselectAll/>
+    <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -2, -3, 1 ], [ 1, 2, 1 ], [ 0, 0, 1 ] ], [ [ -1, -2, 1 ], [ 0, 0, 1 ], [ 0, -1, 1 ] ], [ [ -1, -1, 1 ], [ -1, -1, 1 ], [ 1, 1, 1 ] ], [ [ 0, -1, 1 ], [ 1, 2, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -2, -3, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ -2, -3, 1 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ 0, -1, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ 2, 3, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ 2, 3, 1 ], [ 1, 2, 1 ] ], [ [ 0, 1, 1 ], [ -1, -2, 1 ], [ 0, 0, 1 ] ], [ [ 1, 1, 1 ], [ 1, 1, 1 ], [ -1, -1, 1 ] ], [ [ 1, 2, 1 ], [ 0, 0, 1 ], [ 0, 1, 1 ] ], [ [ 2, 3, 1 ], [ -1, -2, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 10, 8, 3 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 11, 13, 14 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 3, 1, 0 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 4, 6, 11 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 3, 9, 12 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 11, 5, 2 ],
+    "color" : "#FFD98C"
+  } ]
+}
+</ImportColoredMeshJson>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-10"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 1 -1 -2 0 0"/>
+    <SelectManifestation point="0 -1 1 2 0 0"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-11"/>
+    <SelectAll originLast="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <DeselectAll/>
+    <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -2, -3, 1 ], [ 1, 2, 1 ], [ 0, 0, 1 ] ], [ [ -1, -2, 1 ], [ 0, 0, 1 ], [ 0, -1, 1 ] ], [ [ -1, -1, 1 ], [ -1, -1, 1 ], [ 1, 1, 1 ] ], [ [ 0, -1, 1 ], [ 1, 2, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -2, -3, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ -2, -3, 1 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ 0, -1, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ 2, 3, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ 2, 3, 1 ], [ 1, 2, 1 ] ], [ [ 0, 1, 1 ], [ -1, -2, 1 ], [ 0, 0, 1 ] ], [ [ 1, 1, 1 ], [ 1, 1, 1 ], [ -1, -1, 1 ] ], [ [ 1, 2, 1 ], [ 0, 0, 1 ], [ 0, 1, 1 ] ], [ [ 2, 3, 1 ], [ -1, -2, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 10, 8, 3 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 11, 13, 14 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 3, 1, 0 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 4, 6, 11 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 3, 9, 12 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 11, 5, 2 ],
+    "color" : "#FFD98C"
+  } ]
+}
+</ImportColoredMeshJson>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-12"/>
+    <Hide/>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-13"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <PanelPerimeters/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <SelectManifestation point="0 -1 1 2 0 0"/>
+    <SelectByRadius/>
+    <InvertSelection/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -1 1 2 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 1 -1 -2 0 0"/>
+    <EndBlock/>
+    <GroupSelection/>
+    <Hide/>
+    <StrutCreation anchor="0 0 0 1 1 2" index="55" len="2 2"/>
+    <StrutCreation anchor="0 0 0 -1 -1 -2" index="37" len="2 2"/>
+    <SelectAll originLast="true"/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ConvexHull3d mode=""/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <Hide/>
+    <ImportColoredMeshJson projection="Quaternion" quaternion="1 0 0 0 0 0 0 0" scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -2, -3, 1 ], [ 1, 2, 1 ], [ 0, 0, 1 ] ], [ [ -1, -2, 1 ], [ 0, 0, 1 ], [ 0, -1, 1 ] ], [ [ -1, -1, 1 ], [ -1, -1, 1 ], [ 1, 1, 1 ] ], [ [ 0, -1, 1 ], [ 1, 2, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ -2, -3, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ -2, -3, 1 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ 0, -1, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 2, 1 ] ], [ [ 0, 0, 1 ], [ 2, 3, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ 2, 3, 1 ], [ 1, 2, 1 ] ], [ [ 0, 1, 1 ], [ -1, -2, 1 ], [ 0, 0, 1 ] ], [ [ 1, 1, 1 ], [ 1, 1, 1 ], [ -1, -1, 1 ] ], [ [ 1, 2, 1 ], [ 0, 0, 1 ], [ 0, 1, 1 ] ], [ [ 2, 3, 1 ], [ -1, -2, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 10, 8, 3 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 11, 13, 14 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 3, 1, 0 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 4, 6, 11 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 3, 9, 12 ],
+    "color" : "#FFD98C"
+  }, {
+    "vertices" : [ 11, 5, 2 ],
+    "color" : "#FFD98C"
+  } ]
+}
+</ImportColoredMeshJson>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-14"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <DeselectAll/>
+    <Snapshot id="13"/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="14"/>
+    <DeselectAll/>
+    <Snapshot id="15"/>
+    <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="16"/>
+    <DeselectAll/>
+    <Snapshot id="17"/>
+    <ApplyTool copyColors="true" name="tool-4" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="18"/>
+    <DeselectAll/>
+    <Snapshot id="19"/>
+    <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="20"/>
+    <DeselectAll/>
+    <Snapshot id="21"/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="22"/>
+    <DeselectAll/>
+    <Snapshot id="23"/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="24"/>
+    <DeselectAll/>
+    <Snapshot id="25"/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <InvertSelection/>
+    <Snapshot id="26"/>
+    <DeselectAll/>
+    <Snapshot id="27"/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <Delete/>
   </EditHistory>
   <notes>
-    <page snapshot="0" title="0">
+    <page snapshot="13" title="0">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="1" title="0-1">
+    <page snapshot="14" title="0-1">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="2" title="1">
+    <page snapshot="15" title="1">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="3" title="1-2">
+    <page snapshot="16" title="1-2">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="4" title="2">
+    <page snapshot="17" title="2">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="5" title="2-3">
+    <page snapshot="18" title="2-3">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="6" title="3">
+    <page snapshot="19" title="3">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="7" title="3-4">
+    <page snapshot="20" title="3-4">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="8" title="4">
+    <page snapshot="21" title="4">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="9" title="4-5">
+    <page snapshot="22" title="4-5">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="10" title="5">
+    <page snapshot="23" title="5">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="11" title="5-6">
+    <page snapshot="24" title="5-6">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
-    <page snapshot="12" title="6">
+    <page snapshot="25" title="6">
       <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-        <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="26" title="6-7">
+      <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="27" title="7">
+      <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.03618992492556572" y="0.3688121438026428" z="-0.9288011193275452"/>
+        <LookDirection x="0.6663140654563904" y="-0.7015795111656189" z="-0.2526152431964874"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
@@ -2370,8 +2701,8 @@
   <Viewing>
     <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.7225204110145569" y="0.6913514733314514" z="-0.0010460063349455595"/>
-      <LookDirection x="-0.5173025131225586" y="-0.5396237969398499" z="0.6642358899116516"/>
+      <UpDirection x="-0.4827622175216675" y="0.42687368392944336" z="0.7646716833114624"/>
+      <LookDirection x="0.14873537421226501" y="-0.8205140829086304" z="0.5519474148750305"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
@@ -2416,14 +2747,19 @@
   </OtherSymmetries>
   <Tools>
     <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-1" label="0" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-2" label="1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-1" label="0" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-10" label="bookmark 10" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-11" label="0" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-12" label="1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-13" label="2" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-14" label="0" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-2" label="1" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-3" label="2" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-4" label="2" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-5" label="3" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="4" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-7" label="5" selectInputs="true"/>
-    <Tool copyColors="true" deleteInputs="false" id="tool-8" label="6" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-4" label="3" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-5" label="4" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="5" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-7" label="6" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-8" label="7" selectInputs="true"/>
     <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-9" label="bookmark 9" selectInputs="true"/>
   </Tools>
 </vzome:vZome>
