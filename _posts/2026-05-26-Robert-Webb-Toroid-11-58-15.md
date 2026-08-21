@@ -94,5 +94,5 @@ Such an extention does not increase the genus of the toroid intrinsically:
 <p>
 genus&nbsp;=&nbsp;1&nbsp;+&nbsp;(#<sub>edges</sub>-#<sub>vertices</sub>-#<sub>faces</sub>)/2&nbsp;&#8594;&nbsp;1+(2220-780-1360)/2&nbsp;=&nbsp;41
 
-<p>However, due to its larger size, the extended toroid can now easier encompass another stewart toroid. Connecting both in some way artifically adds up the genus of both.
+<p>However, due to its larger size, the extended toroid can now easier encompass another stewart toroid. Connecting both in some way artifically adds up the genus of both. See for instance the construction of a <a href="https://joris1724.github.io/vzome-sharing/2026/08/21/Genus-87-Toroid-19-59-51.html">Genus-87 Toroid</a>.
 

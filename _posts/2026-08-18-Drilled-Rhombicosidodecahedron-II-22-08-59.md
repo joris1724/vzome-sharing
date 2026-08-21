@@ -1,5 +1,5 @@
 ---
-title: Another Genus-5 Drilled Rhombicosidodecahedron
+title: Lunar-holed Rhombicosidodecahedron
 description: TODO
 image: https://joris1724.github.io/vzome-sharing/2026/08/18/22-08-59-Drilled-Rhombicosidodecahedron-II/Drilled-Rhombicosidodecahedron-II.png
 published: false
@@ -24,6 +24,6 @@ TODO
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
-    Another Genus-5 Drilled Rhombicosidodecahedron
+    Lunar-holed Rhombicosidodecahedron
   </figcaption>
 </figure>

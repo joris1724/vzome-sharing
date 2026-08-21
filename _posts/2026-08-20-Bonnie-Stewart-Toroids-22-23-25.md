@@ -50,12 +50,12 @@ This Stewart Toroid has genus 41, which can be verified by:
 <p>The Z<sub>4</sub> tunnels not only provide for 30 additional holes: they also guarantee that the solid body of the toroid stays connected. The tunnel object may be rotated by 180°, but not by 90°, otherwise the passage inside the solid body around the tunnels would be blocked. A <i>flight through</i> tries to illustrate this: in the <a href="https://joris1724.github.io/vzome-sharing/2026/08/20/22-23-25-Bonnie-Stewart-Toroids/41a.mp4">first part</a> of the video, the camera stays in the body under a hexagonal panel, and peeks into the pathways towards a neighbouring similar part. In the <a href="https://joris1724.github.io/vzome-sharing/2026/08/20/22-23-25-Bonnie-Stewart-Toroids/41b.mp4">second part</a> of the video, the camera makes a complete roundtrip around a pentagonal hole, slalomming around the five Z<sub>4</sub> tunnels between the square faces. 
 
 <p>
-The solid body of the Genus-41 Toroid is bounded by an external Rhombitruncated Icosidodecahedron and an internal Rhombicosidodecahedron. The following photo, illuminated by a LED strip put into the solid body, emphasises this.
+The solid body of the Genus-41 Toroid is bounded by an outer Rhombitruncated Icosidodecahedron and an inner Rhombicosidodecahedron. The following photo, illuminated by a LED strip put into the solid body, emphasises this.
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/08/20/22-23-25-Bonnie-Stewart-Toroids/41.jpg" >
   <figcaption style="text-align: center; font-style: italic;">
-   External view 
+   Outer view 
   </figcaption>
 </figure>
 
@@ -65,18 +65,18 @@ The solid body of the Genus-41 Toroid is bounded by an external Rhombitruncated 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/08/20/22-23-25-Bonnie-Stewart-Toroids/41noon.jpg" >
   <figcaption style="text-align: center; font-style: italic;">
-   Internal view, taken by noon
+   Inner view, taken by noon
   </figcaption>
 </figure>
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/08/20/22-23-25-Bonnie-Stewart-Toroids/41midnight.jpg" >
   <figcaption style="text-align: center; font-style: italic;">
-   Internal view, taken at midnight
+   Inner view, taken at midnight
   </figcaption>
 </figure>
 
-As the internal bound of the Genus-41 toroid is a Rhombicosidodecahedron, and a <a href="https://joris1724.github.io/vzome-sharing/2026/08/10/Drilled-Rhombicosidodecahedron-07-05-14.html">Genus-5 Drilled Rhombicosidodecahedron</a> exists, it is possible to combine both toroids. To construct Bonnie Stewart's <i>Holey Monster</i>, six of the twenty triangular faces of the rhombicosidodecahedral boundary are replaced by the complete tunneling infrastructure of the Drilled-Rhombicosidodecahedron:
+As the inner bound of the Genus-41 toroid is a Rhombicosidodecahedron, and a <a href="https://joris1724.github.io/vzome-sharing/2026/08/10/Drilled-Rhombicosidodecahedron-07-05-14.html">Genus-5 Drilled Rhombicosidodecahedron</a> exists, it is possible to combine both toroids. To construct Bonnie Stewart's <i>Holey Monster</i>, six of the twenty triangular faces of the rhombicosidodecahedral boundary are replaced by the complete tunneling infrastructure of the Drilled-Rhombicosidodecahedron:
 
 <figure style="width: 87%; margin: 5%">
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='v46'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='v46'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v46'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='v46'></vzome-viewer-end></div></div>
