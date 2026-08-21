@@ -21,7 +21,7 @@ tags: [toroids]
 </vzome-viewer>
 </figure>
 
-A pair of squares in a Cupola Drilled Truncated Icosahedron exactly matches a pair of squares in a Bilunabitorunda. Therefore the hole can exactly be drilled as in a <a href="https://joris1724.github.io/vzome-sharing/2026/08/09/Drilled-Bilunabirotunda-14-24-41.html">Drilled-Bilunabirotunda</a>, using Z<sub>4</sub>'s. This object is coloured green in the vZome model. Many of the edges of such a construction do not belong to the blue Zome orbit. Therefore, for the most part it is 3D printed, monolitically with its panels. Actually, it is printed in two halves, held together with four Zometool balls, to reduce the need for elaborate supports.
+A pair of squares in a Cupola Drilled Truncated Icosahedron exactly matches a pair of squares in a Bilunabitorunda. Therefore the hole can exactly be drilled as in a <a href="https://joris1724.github.io/vzome-sharing/2026/08/09/Drilled-Bilunabirotunda-14-24-41.html">Drilled-Bilunabirotunda</a>, using Z<sub>4</sub>'s. This object is coloured green in the vZome model. Many of the edges of such a construction do not belong to the blue Zome orbit. Hence, for the most part it is 3D printed, monolitically with its panels. Actually, it is printed in two halves, held together with four Zometool balls, to reduce the need for elaborate supports.
 
 <figure style="width: 87%; margin: 5%">
        <img src="https://joris1724.github.io/vzome-sharing/2026/08/20/22-23-25-Bonnie-Stewart-Toroids/Z4.jpg" >
@@ -86,7 +86,7 @@ As the internal bound of the Genus-41 toroid is a Rhombicosidodecahedron, and a 
         src="https://joris1724.github.io/vzome-sharing/2026/08/20/22-23-25-Bonnie-Stewart-Toroids/46.jpg" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-   Building Instructions of the Hole Monster
+   Building Instructions of the Holey Monster
   </figcaption>
 </figure>
 
