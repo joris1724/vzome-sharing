@@ -1,5 +1,5 @@
 ---
-title: Bonnie Stewart Genus-41 and Genus-46 Toroids
+title: Bonnie Stewart's Genus-41 and Genus-46 Toroids
 description: Culminating in a toroid, described by Bonnie Stewart as "With pardonable pride we call it our Holey Monster".
 image: https://joris1724.github.io/vzome-sharing/2026/08/20/22-23-25-Bonnie-Stewart-Toroids/46.jpg
 published: true
@@ -76,7 +76,7 @@ The solid body of the Genus-41 Toroid is bounded by an outer Rhombitruncated Ico
   </figcaption>
 </figure>
 
-As the inner bound of the Genus-41 toroid is a Rhombicosidodecahedron, and a <a href="https://joris1724.github.io/vzome-sharing/2026/08/10/Drilled-Rhombicosidodecahedron-07-05-14.html">Genus-5 Drilled Rhombicosidodecahedron</a> exists, it is possible to combine both toroids. To construct Bonnie Stewart's <i>Holey Monster</i>, six of the twenty triangular faces of the rhombicosidodecahedral boundary are replaced by the complete tunneling infrastructure of the Drilled-Rhombicosidodecahedron:
+As the inner bound of the Genus-41 toroid is a Rhombicosidodecahedron, and a <a href="https://joris1724.github.io/vzome-sharing/2026/08/10/Drilled-Rhombicosidodecahedron-07-05-14.html">Genus-5 Drilled Rhombicosidodecahedron</a> exists, it is possible to combine both toroids. To construct Bonnie Stewart's <i>Holey Monster</i>, six of the twenty triangular faces of the rhombicosidodecahedral boundary are replaced by the complete tunneling infrastructure of the Drilled Rhombicosidodecahedron:
 
 <figure style="width: 87%; margin: 5%">
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-start label='first step' viewer='v46'></vzome-viewer-start><vzome-viewer-previous label='prev step' viewer='v46'></vzome-viewer-previous><vzome-viewer-next label='next step' viewer='v46'></vzome-viewer-next><vzome-viewer-end label='final step' viewer='v46'></vzome-viewer-end></div></div>
@@ -90,7 +90,9 @@ As the inner bound of the Genus-41 toroid is a Rhombicosidodecahedron, and a <a 
   </figcaption>
 </figure>
 
-
+<p>
+To make is easier to distinguish both composing parts, the panels and vertices of the Genus-41 toroid are coloured clear and green, whereas for the tunnels of the Drilled Rhombicosidodecahedron these are coloured olive green and black.
+<p>
 The <i>Holey Monster</i> has genus 46, which can be verified by:
 <p>genus&nbsp;=&nbsp;1&nbsp;+&nbsp;(#<sub>edges</sub>-#<sub>vertices</sub>-#<sub>faces</sub>)/2&nbsp;&#8594;&nbsp;1+(1482-458-934)/2&nbsp;=&nbsp;46
 	
