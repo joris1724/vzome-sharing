@@ -1,6 +1,6 @@
 ---
-title: Gosset's 1_41 Polytope (Pyritohedral)
-description: A physical model of the projection with pyritohedral symmetry of the 7-demicube, much more difficult to build than its model with icosahedral symmetry.
+title: 7-demicube (Pyritohedral)
+description: A physical model of the projection with pyritohedral symmetry of Gosset's 1_41 Polytope, much more difficult to build than its model with icosahedral symmetry.
 image: https://joris1724.github.io/vzome-sharing/2026/07/16/00-22-47-Gosset's-1_41-Polytope-Pyritohedral/Gosset's-1_41-Polytope-Pyritohedral.jpg
 published: yes
 layout: vzome
@@ -13,7 +13,7 @@ tags: [polytopes]
  
 {% endcomment %}
 
-<a href="https://www.nan.ma/zomeable-4polytopes/docs/CATEGORY_GOSSET_PROJECTIONS.html">Nan Ma</a> also produced a vZome model for the pyritohedral projection of the 7-demicube. Like its <a href="https://joris1724.github.io/vzome-sharing/2026/06/11/Gosset's-1_41-Polytope-00-00-04.html">icosahedral projection</a> it has <b>64 distinct 3D ball positions</b> after projection. These are represented in the forthcoming building instructions by <b>red</b> connectors. Due to the projection from 7D to 3D, 668 pairs of crossing blue, green or yellow struts must be dealt with. Only 194 of these intersections can been replaced by <b>false vertices</b>, represented by <b>white</b> connectors. Several reasons cause this rather low ratio:
+<a href="https://www.nan.ma/zomeable-4polytopes/docs/CATEGORY_GOSSET_PROJECTIONS.html">Nan Ma</a> also produced a vZome model for the pyritohedral projection of Gosset's 1_41 Polytope. Like its <a href="https://joris1724.github.io/vzome-sharing/2026/06/11/Gosset's-1_41-Polytope-00-00-04.html">icosahedral projection</a> it has <b>64 distinct 3D ball positions</b> after projection. These are represented in the forthcoming building instructions by <b>red</b> connectors. Due to the projection from 7D to 3D, 668 pairs of crossing blue, green or yellow struts must be dealt with. Only 194 of these intersections can been replaced by <b>false vertices</b>, represented by <b>white</b> connectors. Several reasons cause this rather low ratio:
 
 <p>1)&nbsp;No blue-orbit Zometool struts have been produced with length 1-&frac12;&phi;, -&frac12;+&frac12;&phi;, 2-&phi;, &frac12; or &frac12;+&phi;.
 No yellow-orbit Zometool struts have been produced with length (3-&phi;)/5, (-8+6&phi;)/5, 2-&phi;, (-1+2&phi;)/5, (6-2&phi;)/5, (2+&phi;)/5, 2 or (2+6&phi;).
